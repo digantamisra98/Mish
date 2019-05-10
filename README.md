@@ -23,7 +23,7 @@ Other notable ones being: <br>
 
 
 
-## Dependencies
+## Dependencies:
 - TensorFlow = 1.12.x or higher
 - Keras = 2.2.x or higher
 - Python = 3x
@@ -49,6 +49,9 @@ Based on mathematical analysis, it is also confirmed that the function has a par
 
 ## Results:
 
+During the research of Mish Activation Function, comparative study of the Mish against Swish and ReLU was performed on datasets including MNIST, Fashion-MNIST, CIFAR10, CIFAR100, Caravan Challenge Dataset, ASL (American Sign Language), IRIS and some custom datasets including Malaria Cells Image Dataset using architectures including ResNet (v2-50), WRN (Wide Residual Networks, 10-2, 16-8, 28-10, 40-4), Mini VGG Net, LeNeT, Custom Deep CNN, ANN, SimpleNet, U-Net, DenseNet, etc.
+
+### MNIST:
 
 ## Contact: 
 -[LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
