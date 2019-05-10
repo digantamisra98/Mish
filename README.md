@@ -2,7 +2,7 @@
   <img width="200" src="Observations/logo.PNG">
 </p>
 
-# Mish: A Self Regularized Non-Monotonic Activation Function
+# Mish: Self Regularized Non-Monotonic Activation Function
 
 <div style="text-align:center"><img src ="Observations/imgtemp_ugysxo-1.png"  width="270"/></div>
 <br>
