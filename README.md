@@ -40,6 +40,5 @@ Where:<br>
 <div style="text-align:center"><img src ="Observations/imgtemp_3rbfba-1.png"  width="270"/></div>
 <br>
 <div style="text-align:center"><img src ="Observations/2b.png"  width="800"/></div>
-<br>
 <div style="text-align:center"><img src ="Observations/imgtemp_kyk9k1-1.png"  width="30"/></div>
 <br>
