@@ -45,4 +45,5 @@ When visualized, Mish Activation Function closely resembles the function path of
 <div style="text-align:center"><img src ="Observations/2b.png"  width="800"/></div>
 Based on mathematical analysis, it is also confirmed that the function has a parametric order of continuity of:<div style="text-align:center"><img src ="Observations/imgtemp_kyk9k1-1.png"  width="30"/></div><br>
 
-<div style="text-align:center"><img src ="Observations/mish.PNG"  width="800"/></div>
+**Mish** has a very sharp global minima similar to Swish, which might account to gradients updates of the model being stuck in the region of sharp decay which may lead to bad performance levels as compared to ReLU. 
+<div style="text-align:center"><img src ="Observations/mish.PNG"  width="500"/></div>
