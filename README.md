@@ -31,12 +31,10 @@ Other notable ones being: <br>
 
 Mish Activation Function can be mathematically represented by the following formula: 
 <div style="text-align:center"><img src ="Observations/imgtemp_ugysxo-1.png"  width="250"/></div>
-<br>
 And it's 1<sup>st</sup> and 2<sup>nd</sup> derivatives are given below:
 <div style="text-align:center"><img src ="Observations/imgtemp_8ipqjq-1.png"  width="220"/></div>
 <br>
 <div style="text-align:center"><img src ="Observations/imgtemp_qph7sj-1.png"  width="350"/></div>
-<br>
 Where:
 <div style="text-align:center"><img src ="Observations/imgtemp_lz642a-1.png"  width="220"/></div>
 <br>
