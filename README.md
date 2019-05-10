@@ -9,9 +9,13 @@ Inspired by Swish Activation Function ([Paper](https://arxiv.org/abs/1710.05941)
 ## Dependencies
 > TensorFlow = 1.12.x
 <br>
+
 > Keras = 2.2.x
+
 <br>
+
 > Python = 3x
+
 <br>
 <div style="text-align:center"><img src ="Observations/imgtemp_ugysxo-1.png"  width="270"/></div>
 <br>
