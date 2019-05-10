@@ -45,4 +45,4 @@ When visualized, Mish Activation Function closely resembles the function path of
 <div style="text-align:center"><img src ="Observations/2b.png"  width="800"/></div>
 Based on mathematical analysis, it is also confirmed that the function has a parametric order of continuity of:<div style="text-align:center"><img src ="Observations/imgtemp_kyk9k1-1.png"  width="30"/></div><br>
 
-<div style="text-align:center"><img src ="Observations/mish.PNG"  width="200"/></div>
+<div style="text-align:center"><img src ="Observations/mish.PNG"  width="800"/></div>
