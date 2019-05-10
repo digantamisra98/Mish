@@ -16,5 +16,5 @@
 <br>
 <div style="text-align:center"><img src ="Observations/2b.png"  width="800"/></div>
 <br>
-<div style="text-align:center"><img src ="Observations/imgtemp_kyk9k1-1.png"  width="35"/></div>
+<div style="text-align:center"><img src ="Observations/imgtemp_kyk9k1-1.png"  width="30"/></div>
 <br>
