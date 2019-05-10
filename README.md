@@ -8,9 +8,11 @@ Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.0594
 <div style="text-align:center"><img src ="Observations/act.png"  width="370"/></div>
 <br>
 An Activation Function is generally used to introduce non-linearity and over the years of theoretical machine learning research, many activation functions have been constructed with the 2 most popular amongst them being: 
+
 -ReLU (Rectified Linear Unit; f(x)=max(0,x))
 -TanH
 Other notable ones being: 
+
 -Softmax (Used for Multi-class Classification in the output layer) 
 -Sigmoid (f(x)=(1+e<sup>-x</sup>)<sup>-1</sup>;Used for Binary Classification and Logistic Regression)
 -Leaky ReLU (f(x)=0.001x (x<0) or x (x>0))
