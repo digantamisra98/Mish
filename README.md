@@ -4,14 +4,12 @@
 
 # Mish: Self Regularized Non-Monotonic Activation Function
 
-Inspired by Swish Activation Function ([Paper](https://arxiv.org/abs/1710.05941))
+Inspired by Swish Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), Mish is a Self Regularized Non-Monotnic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture
 
 ## Dependencies
-> TensorFlow = 1.12.x or higher
-
-> Keras = 2.2.x or higher
-
-> Python = 3x
+- TensorFlow = 1.12.x or higher
+- Keras = 2.2.x or higher
+- Python = 3x
 
 <div style="text-align:center"><img src ="Observations/imgtemp_ugysxo-1.png"  width="270"/></div>
 <br>
