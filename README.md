@@ -4,6 +4,7 @@
 
 # Mish: Self Regularized Non-Monotonic Activation Function
 
+Inspired by Swish Activation Function ([Paper](https://arxiv.org/abs/1710.05941))
 <div style="text-align:center"><img src ="Observations/imgtemp_ugysxo-1.png"  width="270"/></div>
 <br>
 <div style="text-align:center"><img src ="Observations/imgtemp_8ipqjq-1.png"  width="220"/></div>
