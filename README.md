@@ -20,6 +20,8 @@ Other notable ones being: <br>
 -Sigmoid (f(x)=(1+e<sup>-x</sup>)<sup>-1</sup>;Used for Binary Classification and Logistic Regression) <br>
 -Leaky ReLU (f(x)=0.001x (x<0) or x (x>0)) <br>
 
+
+
 ## Dependencies
 - TensorFlow = 1.12.x or higher
 - Keras = 2.2.x or higher
