@@ -27,6 +27,7 @@ Other notable ones being: <br>
 - Keras = 2.2.x or higher
 - Python = 3x
 
+## Mathematics under the hood:
 <div style="text-align:center"><img src ="Observations/imgtemp_ugysxo-1.png"  width="250"/></div>
 <br>
 <div style="text-align:center"><img src ="Observations/imgtemp_8ipqjq-1.png"  width="220"/></div>
