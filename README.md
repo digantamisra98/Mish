@@ -49,3 +49,4 @@ Based on mathematical analysis, it is also confirmed that the function has a par
 
 ## Contact: 
 -[LinkedIn](https://www.linkedin.com/in/misradiganta/)
+-[Email](mishradiganta91@gmail.com)
