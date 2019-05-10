@@ -7,6 +7,12 @@
 Inspired by Swish Activation Function ([Paper](https://arxiv.org/abs/1710.05941))
 
 ## Dependencies
+Markup : ```javascript
+         ```
+Markup : * TensorFlow = 1.12.x
+         * Keras = 2.2.x
+         * Python = 3x
+         
 > TensorFlow = 1.12.x
 
 > Keras = 2.2.x
