@@ -1,9 +1,9 @@
 <p align="center">
   <img width="200" src="Observations/logo.PNG">
 </p>
-<p align="center">
-  <b><font size="+30"> Mish : A Self Regularized Non-Monotonic Neural Activation Function </font></b><br>
-</p>
+
+# Mish : A Self Regularized Non-Monotonic Neural Activation Function
+
 <div style="text-align:center"><img src ="Observations/imgtemp_ugysxo-1.png"  width="270"/></div>
 <br>
 <div style="text-align:center"><img src ="Observations/imgtemp_8ipqjq-1.png"  width="220"/></div>
