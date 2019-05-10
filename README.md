@@ -12,7 +12,7 @@ An Activation Function is generally used to introduce non-linearity and over the
 -ReLU (Rectified Linear Unit; f(x)=max(0,x)) <br>
 -TanH <br>
 
-Other notable ones being: 
+Other notable ones being: <br> 
 -Softmax (Used for Multi-class Classification in the output layer) <br> 
 -Sigmoid (f(x)=(1+e<sup>-x</sup>)<sup>-1</sup>;Used for Binary Classification and Logistic Regression) <br>
 -Leaky ReLU (f(x)=0.001x (x<0) or x (x>0)) <br>
