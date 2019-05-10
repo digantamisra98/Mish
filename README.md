@@ -48,5 +48,5 @@ Based on mathematical analysis, it is also confirmed that the function has a par
 **Mish** has a very sharp global minima similar to Swish, which might account to gradients updates of the model being stuck in the region of sharp decay thus may lead to bad performance levels as compared to ReLU. 
 
 ## Contact: 
--[LinkedIn](https://www.linkedin.com/in/misradiganta/)
--[Email](mishradiganta91@gmail.com)
+-[LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
+-Email: mishradiganta91@gmail.com
