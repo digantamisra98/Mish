@@ -4,6 +4,7 @@
 
 [![HitCount](http://hits.dwyl.io/digantamisra98/Mish.svg)](http://hits.dwyl.io/digantamisra98/Mish)
 [![Dependencies](https://david-dm.org/digantamisra98/Mish.svg)](http://david-dm.org/digantamisra98/Mish)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](mishradiganta91@gmail.com)
 
 # Mish: Self Regularized Non-Monotonic Activation Function
 
