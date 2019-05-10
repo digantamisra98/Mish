@@ -36,9 +36,8 @@ And it's 1<sup>st</sup> and 2<sup>nd</sup> derivatives are given below:<br>
 <div style="text-align:center"><img src ="Observations/imgtemp_qph7sj-1.png"  width="320"/></div><br>
 Where:<br>
 <div style="text-align:center"><img src ="Observations/imgtemp_lz642a-1.png"  width="200"/></div>
-<br>
 <div style="text-align:center"><img src ="Observations/imgtemp_3rbfba-1.png"  width="270"/></div>
 <br>
-<div style="text-align:center"><img src ="Observations/2b.png"  width="800"/></div>
+<div style="text-align:center"><img src ="Observations/2b.png"  width="800"/></div><br>
 <div style="text-align:center"><img src ="Observations/imgtemp_kyk9k1-1.png"  width="30"/></div>
 <br>
