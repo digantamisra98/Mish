@@ -7,9 +7,9 @@
 Inspired by Swish Activation Function ([Paper](https://arxiv.org/abs/1710.05941))
 
 ## Dependencies
-> TensorFlow = 1.12.x
+> TensorFlow = 1.12.x or higher
 
-> Keras = 2.2.x
+> Keras = 2.2.x or higher
 
 > Python = 3x
 
