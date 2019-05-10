@@ -1,6 +1,5 @@
 <div style="text-align:center"><img src ="Observations/logo.PNG"  width="270"/></div>
 <br>
-
 ## Mish : A Self Regularized Non-Monotonic Neural Activation Function
 <div style="text-align:center"><img src ="Observations/imgtemp_ugysxo-1.png"  width="270"/></div>
 <br>
