@@ -121,6 +121,18 @@ Test Samples obtained from the network:
 
 #### ASL (American Sign Language):
 
+Custom CNN (Convolutional Neural Network) was used for classification ASL ([American Sign Language Dataset](https://www.kaggle.com/datamunge/sign-language-mnist)). The Evaluation Metrics table is given below:
+
+| Activation Function  | Accuracy (10*) |  Loss (10*) |
+| ------------- | ------------- | ---|
+| ReLU  | 74.42%  |7.965%|
+| Swish  | 68.84%  |10.464%|
+| Mish  | **77.38%**|**7.078%**|
+
+<em> *The number indicates the Number of Epochs
+</em><br>
+
+
 ## Contact: 
 -[LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
 -Email: mishradiganta91@gmail.com
