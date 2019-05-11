@@ -55,7 +55,7 @@ During the research of Mish Activation Function, comparative study of Mish again
 
 | Activation Function  | Accuracy |
 | ------------- | ------------- |
-| ReLU  | 98.65%  |
+| ReLU  | **98.65%**  |
 | Swish  | 98.42%  |
 | Mish  | 98.64%  |
 
