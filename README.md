@@ -60,7 +60,7 @@ All Experiments were performed on [Google Colab](https://colab.research.google.c
 During the research of Mish Activation Function, comparative study of Mish against Swish and ReLU was performed on datasets including MNIST, Fashion-MNIST, CIFAR10, CIFAR100, Caravan Challenge Dataset, ASL (American Sign Language), IRIS and some custom datasets including Malaria Cells Image Dataset using architectures including ResNet (v2-50), WRN (Wide Residual Networks, 10-2, 16-8, 28-10, 40-4), Mini VGG Net, LeNeT, Custom Deep CNN, ANN, SimpleNet, U-Net, DenseNet, etc.
 
 ### MNIST:
-Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was used for MNIST - A database of Hand-written digits ([Dataset](http://yann.lecun.com/exdb/mnist/)) classification. The Accuracies table along with the inference time and computational analysis is provided below. The reason why LeNet was deployed for this task is because of the network being extremely small (Here, while referring to LeNet, it means LeNet-4 having a pair of Conv+Pool layers) and is extremely robust in MNIST classification, it also takes very less time to train due to the size of the network. 
+Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was used for MNIST - A database of Hand-written digits ([Dataset](http://yann.lecun.com/exdb/mnist/)) classification. The Accuracies table along with the inference time and computational cost analysis is provided below. The reason why LeNet was deployed for this task is because of the network being extremely small (Here, while referring to LeNet, it means LeNet-4 having a pair of Conv+Pool layers) and is extremely robust in MNIST classification, it also takes very less time to train due to the size of the network. 
 
 | Activation Function  | Accuracy (20*) |  Loss (20*) | GPU-Utilization (5*) |CPU-RAM Utilization** (5*)| Training Time (5*) | Inference Time (5*)|
 | ------------- | ------------- | ---|---|---|---|---|
@@ -78,7 +78,7 @@ The activation maps of the hidden layers were also visualized to understand the 
 
 ### Fashion-MNIST:
 
-Mini VGG-Net ([Paper](https://arxiv.org/pdf/1409.1556.pdf)) was used for classification problem of Fashion MNIST/ F-MNIST ([Dataset](https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/)) which contains 28x28 sized images of fashion apparel.  The Accuracies table along with the inference time and computational analysis is provided below.
+Mini VGG-Net ([Paper](https://arxiv.org/pdf/1409.1556.pdf)) was used for classification problem of Fashion MNIST/ F-MNIST ([Dataset](https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/)) which contains 28x28 sized images of fashion apparel.  The Accuracies table along with the inference time and computational cost analysis is provided below.
 
 | Activation Function  | Accuracy (25*) |  Loss (25*) | GPU-Utilization (5*) |CPU-RAM Utilization** (5*)| Training Time (5*) | Inference Time (5*)|
 | ------------- | ------------- | ---|---|---|---|---|
@@ -90,6 +90,26 @@ Mini VGG-Net ([Paper](https://arxiv.org/pdf/1409.1556.pdf)) was used for classif
 </em><br>
 <em> **This shows the amount of RAM Free.
 </em><br>
+
+The evaluation metrics for the Mini-VGG Network with Mish Activation Function is given below: 
+
+| Class Labels  | Precision |  Recall | F1-Score |
+| ------------- | ------------- | ---|---|
+| top  | 0.90  |0.87|0.88|
+| trouser  | 0.99 |0.98|0.99|
+| pullover  | 0.93|0.89|0.91|
+| dress  | 0.93 |0.94|0.93|
+| coat | 0.88  |0.93|0.90|
+| sandal | 0.99|0.99|0.99|
+| shirt  | 0.79 |0.80|0.80|
+| sneaker  | 0.96 |0.98|0.97|
+| bag  | 0.99  |0.99|0.99|
+| ankle-boot  | 0.98  |0.97|0.97|
+| ------------- | ------------- | ---|---|
+| micro average  | 0.93  |0.93|0.93|
+| macro average  | 0.93  |0.93|0.93|
+| weighted average  | 0.93  |0.93|0.93|
+
 
 Test Samples obtained from the network:
 
