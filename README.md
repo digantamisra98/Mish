@@ -171,7 +171,7 @@ U-Net ([Paper](https://arxiv.org/abs/1505.04597)) was deployed for the Caravan I
 <em> *The number indicates the Number of Epochs
 </em><br>
 
-The following graph shows the Loss Plotting for U-Net with Mish:
+The following graph shows the Loss Plotting for U-Net with Mish: (Values Scaled to loss value/10)
 
 <div style="text-align:center"><img src ="Observations/loss.PNG"  width="700"/></div>
 <br>
