@@ -160,7 +160,7 @@ Deep Conv Net was used for classifying microscopic cellular images of healthy ce
 
 #### Caravan Image Masking Challenge Dataset:
 
-U-Net ([Paper](https://arxiv.org/abs/1505.04597)) was deployed for the Caravan Image Masking Challenge ([Challenge/Dataset](https://www.kaggle.com/c/carvana-image-masking-challenge)) on [Kaggle](https://www.kaggle.com/). The evluation metrics are given below in the table where the Loss and Dice Losses are being compared: 
+U-Net ([Paper](https://arxiv.org/abs/1505.04597)) was deployed for the Caravan Image Masking Challenge ([Challenge/Dataset](https://www.kaggle.com/c/carvana-image-masking-challenge)) on [Kaggle](https://www.kaggle.com/). The evaluation metrics are given below in the table where the Loss and Dice Losses are being compared: 
 
 | Activation Function  | Training Loss (5*) |  Training Dice-Loss (5*) | Validation Loss(5*)| Validation Dice-Loss(5*)| Average Epoch Time | Average Step Time|
 | ------------- | ------------- | ---|---|---|---|---|
@@ -171,6 +171,15 @@ U-Net ([Paper](https://arxiv.org/abs/1505.04597)) was deployed for the Caravan I
 <em> *The number indicates the Number of Epochs
 </em><br>
 
+The following graph shows the Loss Plotting for U-Net with Mish:
+
+<div style="text-align:center"><img src ="Observations/loss.PNG"  width="400"/></div>
+<br>
+
+Some Test Samples obtained from the network:
+
+<div style="text-align:center"><img src ="Observations/tests.PNG"  width="400"/></div>
+<br>
 
 ## Contact: 
 -[LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
