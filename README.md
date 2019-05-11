@@ -9,9 +9,8 @@
 # Mish: Self Regularized Non-Monotonic Activation Function
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
-<div style="text-align:center"><img src ="Observations/act.png"  width="370"/>
-  <em>[Image Credits](https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions)</em>
-</div>
+<div style="text-align:center"><img src ="Observations/act.png"  width="370"/></div>
+<em>[Image Credits](https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions)</em>
 <br>
 An Activation Function is generally used to introduce non-linearity and over the years of theoretical machine learning research, many activation functions have been constructed with the 2 most popular amongst them being: 
 
