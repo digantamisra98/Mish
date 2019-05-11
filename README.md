@@ -60,7 +60,7 @@ Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was 
 | Activation Function  | Accuracy (20*) |  Loss (20*) | GPU-Utilization (5*) |CPU-RAM Utilization** (5*)| Training Time (5*) | Inference Time (5*)|
 | ------------- | ------------- | ---|---|---|---|---|
 | ReLU  | **98.65%**  |**0.368%**|||||
-| Swish  | 98.42%  |0.385%|||||
+| Swish  | 98.42%  |0.385%|33%|10153MB / 15079MB|57.06 seconds|0.86 seconds|
 | Mish  | 98.64%  |**0.368%**|33%|10153MB / 15079MB|63.82 seconds|0.91 seconds|
 
 <em> *The number indicates the Number of Epochs
