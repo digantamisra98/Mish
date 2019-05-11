@@ -105,7 +105,7 @@ The evaluation metrics for the Mini-VGG Network with Mish Activation Function is
 | sneaker  | 0.96 |0.98|0.97|
 | bag  | 0.99  |0.99|0.99|
 | ankle-boot  | 0.98  |0.97|0.97|
-| **Average** | ------------- | ---|---|
+| **Average** | **Precision** |**Recall** |**F1-Score**|
 | micro average  | 0.93  |0.93|0.93|
 | macro average  | 0.93  |0.93|0.93|
 | weighted average  | 0.93  |0.93|0.93|
