@@ -130,6 +130,20 @@ A 3-layered Feed Forward Neural Network was used for IRIS ([Dataset](https://arc
 <em> *The number indicates the Number of Epochs
 </em><br>
 
+### CIFAR-10:
+
+#### ResNet v2:
+
+#### Wide Residual Networks (WRN):
+
+#### SimpleNet:
+
+### CIFAR-100:
+
+#### ResNet-50:
+
+#### Wide Residual Networks (WRN):
+
 ### Custom Data-Sets:
 
 #### ASL (American Sign Language):
