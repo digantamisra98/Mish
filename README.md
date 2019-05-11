@@ -117,6 +117,19 @@ Test Samples obtained from the network:
 <div style="text-align:center"><img src ="Observations/test.PNG"  width="300"/></div>
 <br>
 
+### Iris
+
+A 3-layered Feed Forward Neural Network was used for IRIS ([Dataset](https://archive.ics.uci.edu/ml/datasets/iris)) classification. The metrics scores are provided in the table below. Here, in place of ReLU, Mish was tested against Swish and Sigmoid. 
+
+| Activation Function  | Accuracy (4000*) |  Loss (4000*) |
+| ------------- | ------------- | ---|
+| ReLU  | 96.67%  |2.84%|
+| Swish  | 97.33%  |**2.32%**|
+| Mish  | **98%**|2.66%|
+
+<em> *The number indicates the Number of Epochs
+</em><br>
+
 ### Custom Data-Sets:
 
 #### ASL (American Sign Language):
