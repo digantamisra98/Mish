@@ -132,6 +132,18 @@ Custom CNN (Convolutional Neural Network) was used for classification ASL ([Amer
 <em> *The number indicates the Number of Epochs
 </em><br>
 
+#### Malaria Cells Dataset:
+
+Deep Conv Net was used for classifying microscopic cellular images of healthy cells and malaria paracitized cells present in the Malaria Cells Dataset ([Dataset](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)). The comparative analysis of the metrics scores obtained from the network using Mish against ReLU and Swish is given in the table below:
+
+| Activation Function  | Accuracy (10*) |  Loss (10*) |
+| ------------- | ------------- | ---|
+| ReLU  | 94.21%  |**1.45%**|
+| Swish  | **95.97%**  |**1.45%**|
+| Mish  | 95.12%|1.56%|
+
+<em> *The number indicates the Number of Epochs
+</em><br>
 
 ## Contact: 
 -[LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
