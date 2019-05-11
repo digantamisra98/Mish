@@ -136,6 +136,14 @@ A 3-layered Feed Forward Neural Network was used for IRIS ([Dataset](https://arc
 
 #### Wide Residual Networks (WRN):
 
+##### WRN 10-2:
+
+##### WRN 16-4:
+
+##### WRN 22-10:
+
+##### WRN 40-4:
+
 #### SimpleNet:
 
 ### CIFAR-100:
@@ -143,6 +151,14 @@ A 3-layered Feed Forward Neural Network was used for IRIS ([Dataset](https://arc
 #### ResNet-50:
 
 #### Wide Residual Networks (WRN):
+
+##### WRN 10-2:
+
+##### WRN 16-4:
+
+##### WRN 22-10:
+
+##### WRN 40-4:
 
 ### Custom Data-Sets:
 
