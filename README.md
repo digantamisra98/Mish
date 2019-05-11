@@ -54,7 +54,7 @@ Based on mathematical analysis, it is also confirmed that the function has a par
 During the research of Mish Activation Function, comparative study of Mish against Swish and ReLU was performed on datasets including MNIST, Fashion-MNIST, CIFAR10, CIFAR100, Caravan Challenge Dataset, ASL (American Sign Language), IRIS and some custom datasets including Malaria Cells Image Dataset using architectures including ResNet (v2-50), WRN (Wide Residual Networks, 10-2, 16-8, 28-10, 40-4), Mini VGG Net, LeNeT, Custom Deep CNN, ANN, SimpleNet, U-Net, DenseNet, etc.
 
 ### MNIST:
-
+Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf))
 | Activation Function  | Accuracy |
 | ------------- | ------------- |
 | ReLU  | **98.65%**  |
@@ -62,6 +62,7 @@ During the research of Mish Activation Function, comparative study of Mish again
 | Mish  | 98.64%  |
 <div style="text-align:center"><img src ="Observations/blackbox.PNG"  width="500"/></div>
 <br>
+
 ### Fashion-MNIST:
 
 ## Contact: 
