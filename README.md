@@ -81,7 +81,7 @@ The activation maps of the hidden layers were also visualized to understand the 
 | ------------- | ------------- | ---|---|---|---|---|
 | ReLU  | 93.19%  |1.895%|33%|**10.1GB**|**261.88 seconds**|**3.51 seconds**|
 | Swish  | 93.09%  |1.935%|33%|**10.1GB**|271.13 seconds|3.53 seconds|
-| Mish  | **93.31%**|**1.859%**|33%|9.9GB|294.85 seconds|3.78 seconds|
+| Mish  | **93.31%**|**1.859%**|33%|10GB|294.85 seconds|3.78 seconds|
 
 <em> *The number indicates the Number of Epochs
 </em><br>
