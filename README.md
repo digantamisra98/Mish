@@ -88,7 +88,7 @@ The activation maps of the hidden layers were also visualized to understand the 
 <em> **This shows the amount of RAM Free.
 </em><br>
 
-<div style="text-align:center"><img src ="Observations/test.PNG"  width="500"/></div>
+<div style="text-align:center"><img src ="Observations/test.PNG"  width="300"/></div>
 <br>
 
 ## Contact: 
