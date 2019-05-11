@@ -61,7 +61,7 @@ Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was 
 | ------------- | ------------- | ---|---|---|---|
 | ReLU  | **98.65%**  |**0.368%**||||
 | Swish  | 98.42%  |0.385%||||
-| Mish  | 98.64%  |**0.368%**||||
+| Mish  | 98.64%  |**0.368%**|33%|||
 
 <em> *The number indicates the Number of Epochs
 </em><br>
