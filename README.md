@@ -52,7 +52,7 @@ Based on mathematical analysis, it is also confirmed that the function has a par
 
 ## Set-Up:
 
-All Experiments were performed on [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true)
+All Experiments were performed on [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) with NVIDIA Tesla T4 GPU.
 
 ## Results:
 
