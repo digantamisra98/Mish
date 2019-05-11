@@ -61,6 +61,7 @@ Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was 
 | ReLU  | **98.65%**  |
 | Swish  | 98.42%  |
 | Mish  | 98.64%  |
+
 The activation maps of the hidden layers were also visualized to understand the generalization the network was adopting to.
 <div style="text-align:center"><img src ="Observations/blackbox.PNG"  width="500"/></div>
 <br>
