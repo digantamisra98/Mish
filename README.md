@@ -69,7 +69,7 @@ Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was 
 
 <em> *The number indicates the Number of Epochs
 </em><br>
-<em> **The format for CPU Utilization: (Memory Free/Total Memory)
+<em> **This shows the amount of RAM Free.
 </em><br>
 The activation maps of the hidden layers were also visualized to understand the generalization the network was adopting to.
 <div style="text-align:center"><img src ="Observations/blackbox.PNG"  width="500"/></div>
@@ -83,6 +83,10 @@ The activation maps of the hidden layers were also visualized to understand the 
 | Swish  | 93.09%  |1.935%|33%|10153MB / 15079MB|57.06 seconds|0.86 seconds|
 | Mish  | **93.31%**|**1.859%**|33%|9.9GB|294.85 seconds|3.41 seconds|
 
+<em> *The number indicates the Number of Epochs
+</em><br>
+<em> **This shows the amount of RAM Free.
+</em><br>
 
 ## Contact: 
 -[LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
