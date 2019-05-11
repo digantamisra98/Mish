@@ -173,7 +173,7 @@ U-Net ([Paper](https://arxiv.org/abs/1505.04597)) was deployed for the Caravan I
 
 The following graph shows the Loss Plotting for U-Net with Mish:
 
-<div style="text-align:center"><img src ="Observations/loss.PNG"  width="400"/></div>
+<div style="text-align:center"><img src ="Observations/loss.PNG"  width="700"/></div>
 <br>
 
 Some Test Samples obtained from the network:
