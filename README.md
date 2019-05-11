@@ -78,6 +78,8 @@ The activation maps of the hidden layers were also visualized to understand the 
 
 ### Fashion-MNIST:
 
+Mini VGG-Net ([Paper](https://arxiv.org/pdf/1409.1556.pdf)) was used for classification problem of Fashion MNIST/ F-MNIST ([Dataset](https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/)) which contains 28x28 sized images of fashion apparel.  The Accuracies table along with the inference time and computational analysis is provided below.
+
 | Activation Function  | Accuracy (25*) |  Loss (25*) | GPU-Utilization (5*) |CPU-RAM Utilization** (5*)| Training Time (5*) | Inference Time (5*)|
 | ------------- | ------------- | ---|---|---|---|---|
 | ReLU  | 93.19%  |1.895%|33%|**10.1GB**|**261.88 seconds**|**3.51 seconds**|
@@ -88,6 +90,8 @@ The activation maps of the hidden layers were also visualized to understand the 
 </em><br>
 <em> **This shows the amount of RAM Free.
 </em><br>
+
+Test Samples obtained from the network:
 
 <div style="text-align:center"><img src ="Observations/test.PNG"  width="300"/></div>
 <br>
