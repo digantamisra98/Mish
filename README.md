@@ -63,9 +63,9 @@ Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was 
 
 | Activation Function  | Accuracy (20*) |  Loss (20*) | GPU-Utilization (5*) |CPU-RAM Utilization** (5*)| Training Time (5*) | Inference Time (5*)|
 | ------------- | ------------- | ---|---|---|---|---|
-| ReLU  | **98.65%**  |**0.368%**|33%|10153MB / 15079MB|**54.47 seconds**|**0.85 seconds**|
-| Swish  | 98.42%  |0.385%|33%|10153MB / 15079MB|57.06 seconds|0.86 seconds|
-| Mish  | 98.64%  |**0.368%**|33%|10153MB / 15079MB|63.82 seconds|0.91 seconds|
+| ReLU  | **98.65%**  |**0.368%**|33%|**10.2GB**|**54.47 seconds**|**0.85 seconds**|
+| Swish  | 98.42%  |0.385%|33%|10.1GB|57.06 seconds|0.86 seconds|
+| Mish  | 98.64%  |**0.368%**|33%|10.1GB|63.82 seconds|0.91 seconds|
 
 <em> *The number indicates the Number of Epochs
 </em><br>
@@ -76,6 +76,13 @@ The activation maps of the hidden layers were also visualized to understand the 
 <br>
 
 ### Fashion-MNIST:
+
+| Activation Function  | Accuracy (25*) |  Loss (25*) | GPU-Utilization (5*) |CPU-RAM Utilization** (5*)| Training Time (5*) | Inference Time (5*)|
+| ------------- | ------------- | ---|---|---|---|---|
+| ReLU  | 93.19%  |1.895%|33%|10153MB / 15079MB|**54.47 seconds**|**0.85 seconds**|
+| Swish  | 93.09%  |1.935%|33%|10153MB / 15079MB|57.06 seconds|0.86 seconds|
+| Mish  | **93.31%**|**1.859%**|33%|9.9GB|294.85 seconds|3.41 seconds|
+
 
 ## Contact: 
 -[LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
