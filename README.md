@@ -61,6 +61,11 @@ During the research of Mish Activation Function, comparative study of Mish again
 | Swish  | 98.42%  |
 | Mish  | 98.64%  |
 
+<div style="text-align:center"><img src ="Observations/blackbox.png"  width="270"/></div>
+<br>
+
+### Fashion-MNIST:
+
 ## Contact: 
 -[LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
 -Email: mishradiganta91@gmail.com
