@@ -55,6 +55,7 @@ During the research of Mish Activation Function, comparative study of Mish again
 
 ### MNIST:
 Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf))
+
 | Activation Function  | Accuracy |
 | ------------- | ------------- |
 | ReLU  | **98.65%**  |
