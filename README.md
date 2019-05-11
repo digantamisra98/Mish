@@ -158,6 +158,20 @@ Deep Conv Net was used for classifying microscopic cellular images of healthy ce
 <em> *The number indicates the Number of Epochs
 </em><br>
 
+#### Caravan Image Masking Challenge Dataset:
+
+U-Net ([Paper](https://arxiv.org/abs/1505.04597)) was deployed for the Caravan Image Masking Challenge ([Challenge/Dataset](https://www.kaggle.com/c/carvana-image-masking-challenge)) on [Kaggle](https://www.kaggle.com/). The evluation metrics are given below in the table where the Loss and Dice Losses are being compared: 
+
+| Activation Function  | Training Loss (5*) |  Training Dice-Loss (5*) | Validation Loss(5*)| Validation Dice-Loss(5*)| Average Epoch Time | Average Step Time|
+| ------------- | ------------- | ---|---|---|---|---|
+| ReLU  |  0.724% |0.119%|0.578%|0.096%|**343.2 seconds**|**253 milli-seconds**|
+| Swish  | 0.665%|0.111%|0.639%|0.108%|379 seconds|279.2 milli-seconds|
+| Mish  |**0.574%**|**0.097%**|**0.554%**|**0.092%**|411.2 seconds|303 milli-seconds|
+
+<em> *The number indicates the Number of Epochs
+</em><br>
+
+
 ## Contact: 
 -[LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
 -Email: mishradiganta91@gmail.com
