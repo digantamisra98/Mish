@@ -168,6 +168,21 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 <div style="text-align:center"><img src ="Observations/confusion_100.PNG"  width="500"/></div>
 <br>
 
+The classification accuracies for the individual class labels are: 
+
+|Class Labels| Classification Accuracy|
+|---|---|
+|Aeroplane|73.167%|
+|Automobile|80.33%|
+|Bird|70.33%|
+|Cat|69.33%|
+|Deer|74.33%|
+|Dog|66.83%|
+|Frog|75%|
+|Horse|76.16%|
+|Ship|77.667%|
+|Truck|80.83%|
+
 #### Wide Residual Networks (WRN):
 
 ##### WRN 10-2:
