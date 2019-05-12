@@ -2,6 +2,7 @@
   <img width="200" src="Observations/logo.PNG">
 </p>
 
+[![Donate](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 [![HitCount](http://hits.dwyl.io/digantamisra98/Mish.svg)](http://hits.dwyl.io/digantamisra98/Mish)
 [![Dependencies](https://david-dm.org/digantamisra98/Mish.svg)](http://david-dm.org/digantamisra98/Mish)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/DigantaMisra?locale.x=en_GB)
