@@ -162,6 +162,11 @@ Additionally, ResNet v2 with Mish was also used for training on 100 epochs to co
 |---|---|---|---|---|---|---|---|---|---|
 |97.41%|3.99%|89.16%|7.337%|89.28%|7.61%|157.7 seconds|3 seconds (612 micro-seconds)|100.9 milli-seconds|4.01 seconds|
 
+The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on CIFAR-10 is shown below:
+
+<div style="text-align:center"><img src ="Observations/confusion_100.PNG"  width="500"/></div>
+<br>
+
 #### Wide Residual Networks (WRN):
 
 ##### WRN 10-2:
