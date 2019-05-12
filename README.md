@@ -192,7 +192,18 @@ ResNet v2-50 was used for CIFAR-100 as similar to the CIFAR-10 classification. H
 
 #### Wide Residual Networks (WRN):
 
+Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 4 variants were used for classification of CIFAR-100 similar to the classification task of CIFAR-10 dataset. The variants used and their corresponding evaluation metrics are observed below:
+
 ##### WRN 10-2:
+
+|Activation Function |Accuracy|
+|---|---|
+|ReLU|62.5567%|
+|Swish|66.98%|
+|Mish|**67.157%**|
+
+<em> *Number of Epochs=125, Batch Size= 128.
+</em><br>
 
 ##### WRN 16-4:
 
