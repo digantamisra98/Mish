@@ -138,11 +138,11 @@ CIFAR-10 ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is an extensiv
 
 ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used for CIFAR-10 classification task. Number of Epochs and Batch Size were varied to observe the computational cost and training time of the networks. The table below provides all the information regarding the same. 
 
-- For Batch Size = 32, Number of Steps= 1563:
+- For Batch Size = 32, Number of Steps= 1563, Number of Epochs= 10:
 
-|Activation Function <td colspan=9>Epochs=10  <td colspan=9>Epochs=50  <td colspan=9>Epochs=100|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Training Accuracy|Training Loss|Validation Accuracy|Validation Loss|Testing Accuracy|Testing Loss|Average Epoch Time|Inference Time (Per Sample)|Average Step Time|Training Accuracy|Training Loss|Validation Accuracy|Validation Loss|Testing Accuracy|Testing Loss|Average Epoch Time|Inference Time (Per Sample)|Average Step Time|Training Accuracy|Training Loss|Validation Accuracy|Validation Loss|Testing Accuracy|Testing Loss|Average Epoch Time|Inference Time (Per Sample)|Average Step Time|
+|Activation Function |Training Accuracy|Training Loss|Validation Accuracy|Validation Loss|Testing Accuracy|Testing Loss|Average Epoch Time|Inference Time (Per Sample)|Average Step Time|
+|---|---|---|---|---|---|---|---|---|---|
+
 
 #### Wide Residual Networks (WRN):
 
