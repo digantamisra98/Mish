@@ -239,7 +239,7 @@ Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 4 vari
 |Swish|%|
 |Mish|**72.32%**|
 
-<em> *Number of Epochs=125, Batch Size= 128.
+<em> *Number of Epochs=50, Batch Size= 128.
 </em><br>
 
 ##### WRN 40-4:
