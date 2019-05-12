@@ -140,7 +140,9 @@ ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used fo
 
 - For Batch Size = 32, Number of Steps= 1563:
 
-
+|Activation Function <td colspan=9>Epochs=10  <td colspan=9>Epochs=50  <td colspan=9>Epochs=100|
+||Training Accuracy|Training Loss|Validation Accuracy|Validation Loss|Testing Accuracy|Testing Loss|Average Epoch Time|Inference Time (Per Sample)|Average Step Time|Training Accuracy|Training Loss|Validation Accuracy|Validation Loss|Testing Accuracy|Testing Loss|Average Epoch Time|Inference Time (Per Sample)|Average Step Time|Training Accuracy|Training Loss|Validation Accuracy|Validation Loss|Testing Accuracy|Testing Loss|Average Epoch Time|Inference Time (Per Sample)|Average Step Time|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 #### Wide Residual Networks (WRN):
 
