@@ -64,11 +64,11 @@ During the research of Mish Activation Function, comparative study of Mish again
 ### MNIST:
 Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was used for MNIST - A database of Hand-written digits ([Dataset](http://yann.lecun.com/exdb/mnist/)) classification. The Accuracies table along with the inference time and computational cost analysis is provided below. The reason why LeNet was deployed for this task is because of the network being extremely small (Here, while referring to LeNet, it means LeNet-4 having a pair of Conv+Pool layers) and is extremely robust in MNIST classification, it also takes very less time to train due to the size of the network. 
 
-| Activation Function  | Accuracy (20*) |  Loss (20*) | GPU-Utilization (5*) |CPU-RAM Utilization** (5*)| Training Time (5*) | Inference Time (5*)|
-| ------------- | ------------- | ---|---|---|---|---|
-| ReLU  | **98.65%**  |**0.368%**|33%|**10.2GB**|**54.47 seconds**|**0.85 seconds**|
-| Swish  | 98.42%  |0.385%|33%|10.1GB|57.06 seconds|0.86 seconds|
-| Mish  | 98.64%  |**0.368%**|33%|10.1GB|63.82 seconds|0.91 seconds|
+| Activation Function  | Accuracy (20*) |  Loss (20*) | GPU-Utilization (20*) |CPU-RAM Utilization** (20*)| Training Time (20*) | Inference Time (20*)| Top 5 Accuracy (20*) | Top 3 Accuracy (20*)|
+| ------------- | ------------- | ---|---|---|---|---|---|---|
+| ReLU  | **98.65%**  |**0.368%**|5%|**11.4GB**|**51.67 seconds**|**0.197 seconds**|**100%**|**99.94%**|
+| Swish  | 98.42%  |0.385%|5%|**11.4GB**|65.11 seconds|0.2157 seconds|99.99%|99.9%|
+| Mish  | 98.64%  |**0.368%**|5%|11.2GB|81.12 seconds|0.2967 seconds|**100%**|**99.94%**|
 
 <em> *The number indicates the Number of Epochs
 </em><br>
