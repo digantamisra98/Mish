@@ -142,7 +142,9 @@ ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used fo
 
 |Activation Function |Training Accuracy|Training Loss|Validation Accuracy|Validation Loss|Testing Accuracy|Testing Loss|Average Epoch Time|Inference Time (Per Sample)|Average Step Time|
 |---|---|---|---|---|---|---|---|---|---|
-
+|ReLU||||||||||
+|Swish||||||||||
+|Mish|76.93%|14.08%|76.58%|14%|76.14%|14.27%|158.5 seconds|3 seconds (590 micro-seconds)|101.4 milli-seconds|
 
 #### Wide Residual Networks (WRN):
 
