@@ -146,6 +146,14 @@ ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used fo
 |Swish|**77.65%**|**14.04%**|75.58%|14.77|75.88%|14.68%|155.1 seconds|3 seconds (550 micro-seconds)|99.3 milli-seconds|4.2 seconds|
 |Mish|76.93%|14.08%|**76.58%**|**14%**|**76.14%**|**14.27%**|158.5 seconds|3 seconds (590 micro-seconds)|101.4 milli-seconds|4.3 seconds|
 
+- For Batch Size = 32, Number of Steps= 1563, Number of Epochs= 50:
+
+|Activation Function |Testing Accuracy|Testing Loss|Inference Time (Per Sample)|
+|---|---|---|---|
+|ReLU||||
+|Swish|87.4%|8.81%|3 seconds (552 micro-seconds)|
+|Mish|**93.75%**|**6.185%**|3 seconds (595 micro-seconds)|
+
 #### Wide Residual Networks (WRN):
 
 ##### WRN 10-2:
