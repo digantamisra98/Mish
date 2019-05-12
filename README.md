@@ -140,11 +140,11 @@ ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used fo
 
 - For Batch Size = 32, Number of Steps= 1563, Number of Epochs= 10:
 
-|Activation Function |Training Accuracy|Training Loss|Validation Accuracy|Validation Loss|Testing Accuracy|Testing Loss|Average Per Epoch Time|Inference Time (Per Sample)|Average Per Step Time|Average Forward Pass Time|
-|---|---|---|---|---|---|---|---|---|---|---|
-|ReLU|73.10%|15.1%|71.9%|15.35%|73.34%|15.34%|**130.8 seconds**|**2 seconds (487 micro seconds)**|**83.8 milli seconds**|**669.9 micro- seconds**|
-|Swish|**77.65%**|**14.04%**|75.58%|14.77|75.88%|14.68%|155.1 seconds|3 seconds (550 micro-seconds)|99.3 milli-seconds|775.2 micro-seconds|
-|Mish|76.93%|14.08%|**76.58%**|**14%**|**76.14%**|**14.27%**|158.5 seconds|3 seconds (590 micro-seconds)|101.4 milli-seconds|830.4 micro-seconds|
+|Activation Function |Training Accuracy|Training Loss|Validation Accuracy|Validation Loss|Testing Accuracy|Testing Loss|Average Per Epoch Time|Inference Time (Per Sample)|Average Per Step Time|Average Forward Pass Time|Top-1 accuracy|Top-5 accuracy|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|ReLU|73.10%|15.1%|71.9%|15.35%|73.34%|15.34%|**130.8 seconds**|**2 seconds (487 micro seconds)**|**83.8 milli seconds**|**669.9 micro- seconds**|||
+|Swish|**77.65%**|**14.04%**|75.58%|14.77|75.88%|14.68%|155.1 seconds|3 seconds (550 micro-seconds)|99.3 milli-seconds|775.2 micro-seconds|||
+|Mish|76.93%|14.08%|**76.58%**|**14%**|**76.14%**|**14.27%**|158.5 seconds|3 seconds (590 micro-seconds)|101.4 milli-seconds|830.4 micro-seconds|||
 
 - For Batch Size = 32, Number of Steps= 1563, Number of Epochs= 50:
 
@@ -181,7 +181,13 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 ### CIFAR-100:
 
+CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another subset of the Tiny Image Dataset similar to CIFAR-10, however containing 60000 images belonging to 100 classes with 600 images per class. All these images are 32x32 RGB images. These 100 classes are then grouped into 20 super-classes. The images are annotated with 2 labels- Fine Label (The class it belongs to) and Coarse Label (The super-class it belongs to). CIFAR-100 is also used extensively for Image Classification benchmarks, and here ResNet and WRN (Wide Residual Network) of various variants were used to benchmark Mish Activation Function against the likes of ReLU and Swish.
+
 #### ResNet-50:
+
+ResNet v2-50 was used for CIFAR-100 as similar to the CIFAR-10 classification. Here, however, Batch Size and Epochs were varied. Batch Size was varied to accelerate training and Epochs were varied to observe the changes in the evaluation metrics. All details have been provided subsequently. 
+
+
 
 #### Wide Residual Networks (WRN):
 
