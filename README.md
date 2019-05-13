@@ -212,7 +212,7 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used similarly for CIF
 |Activation Function |Accuracy|Loss| Top 3 Accuracy| Top 5 Accuracy|
 |---|---|---|---|---|
 |ReLU|91.16%|2.897%|98.62%|99.65%|
-|Swish|%|%|%|%|
+|Swish|91.44%|2.944%|98.87%|99.77%|
 |Mish|||||
 
 <em> *Number of Epochs=50, Batch Size=128, Network Parameters= 5.59 M
