@@ -198,6 +198,8 @@ The classification accuracies for the individual class labels are:
 
 #### Wide Residual Networks (WRN):
 
+Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 4 variants were used for classification of CIFAR-10 dataset. The variants used and their corresponding evaluation metrics are observed below:
+
 ##### WRN 10-2:
 
 |Activation Function |Accuracy|Loss|
@@ -249,7 +251,7 @@ ResNet v2-50 was used for CIFAR-100 as similar to the CIFAR-10 classification. H
 
 #### Wide Residual Networks (WRN):
 
-Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 4 variants were used for classification of CIFAR-100 similar to the classification task of CIFAR-10 dataset. The variants used and their corresponding evaluation metrics are observed below:
+Wide Residual Networks(WRN) of 4 variants were used for classification of CIFAR-100 similar to the classification task of CIFAR-10 dataset. The variants used and their corresponding evaluation metrics are observed below:
 
 ##### WRN 10-2:
 
