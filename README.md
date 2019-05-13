@@ -341,5 +341,5 @@ Some Test Samples obtained from the network:
 <br>
 
 ## Contact: 
--[LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
--Email: mishradiganta91@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
+- Email: mishradiganta91@gmail.com
