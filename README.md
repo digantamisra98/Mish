@@ -213,7 +213,7 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |---|---|---|---|---|
 |ReLU|91.16%|2.897%|98.62%|99.65%|
 |Swish|91.44%|2.944%|**98.87%**|**99.77%**|
-|Mish|**91.70%**|**2.759**|98.85|99.75|
+|Mish|**91.70%**|**2.759**|98.85%|99.75%|
 
 <em> *Number of Epochs=50, Batch Size=128, Network Parameters= 5.59 M
 </em><br>
