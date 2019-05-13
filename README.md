@@ -59,10 +59,14 @@ All Experiments were performed on [Google Colab](https://colab.research.google.c
 
 <table>
   <tr><th colspan=2>GPU Specification Sheet</th></tr>
-  <tr><td>&&</td><td>Logical and</td></tr>
-  <tr><td>||</td><td>Logical or</td></tr>
-  <tr><td>!</td><td>Logical not</td></tr>
-  <tr><td>? :</td><td>Logical ternary</td></tr>
+  <tr><td>Driver Version</td><td>418.81</td></tr>
+  <tr><td>Driver Type</td><td>Standard</td></tr>
+  <tr><td>CUDA Cores</td><td>1280</td></tr>
+  <tr><td>Graphics Clock</td><td>1455 MHz</td></tr>
+  <tr><td>Memory Data Rate</td><td>8.01 Gbps</td></tr>
+  <tr><td>Memory Interface</td><td>192-bit</td></tr>
+  <tr><td>Memory Bandwidth</td><td>192.19 GB/s</td></tr>
+  <tr><td>Available Graphic Memory</td><td>14258 MB</td></tr>
 </table>
 
 ## Results:
