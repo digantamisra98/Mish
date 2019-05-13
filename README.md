@@ -267,6 +267,15 @@ Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 4 vari
 
 ##### WRN 40-4:
 
+|Activation Function |Accuracy|
+|---|---|
+|ReLU|69.35|
+|Swish|**69.59%**|
+|Mish|69.52%|
+
+<em> *Number of Epochs=50, Batch Size= 128.
+</em><br>
+
 ### Custom Data-Sets:
 
 #### ASL (American Sign Language):
