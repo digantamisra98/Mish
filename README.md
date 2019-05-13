@@ -224,6 +224,15 @@ Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 4 vari
 
 ##### WRN 22-10:
 
+|Activation Function |Accuracy|Loss|
+|---|---|---|
+|ReLU|%|
+|Swish|90.17%|5.136%|
+|Mish|||
+
+<em> *Number of Epochs=50, Batch Size= 128.
+</em><br>
+
 ##### WRN 40-4:
 
 #### SimpleNet:
