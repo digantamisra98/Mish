@@ -210,6 +210,15 @@ The classification accuracies for the individual class labels are:
 
 ##### WRN 16-4:
 
+|Activation Function |Accuracy|Loss|
+|---|---|---|
+|ReLU|90.74%|5.644%|
+|Swish|%|%|
+|Mish|%|%|
+
+<em> *Number of Epochs=50, Batch Size= 128.
+</em><br>
+
 ##### WRN 22-10:
 
 ##### WRN 40-4:
