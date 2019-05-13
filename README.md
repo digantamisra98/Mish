@@ -340,6 +340,14 @@ Some Test Samples obtained from the network:
 <div style="text-align:center"><img src ="Observations/tests.PNG"  width="400"/></div>
 <br>
 
+## Try It!
+
+## Conclusion:
+
+## Future Work (Coming Soon):
+
+## Support Me
+
 ## Contact: 
 - [LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
 - Email: mishradiganta91@gmail.com
