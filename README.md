@@ -213,9 +213,9 @@ The classification accuracies for the individual class labels are:
 
 |Activation Function |Accuracy|Loss|
 |---|---|---|
-|ReLU|90.74%|5.644%|
-|Swish|%|%|
-|Mish|%|%|
+|ReLU|**90.74%**|5.644%|
+|Swish|90.07%|**5.014%**|
+|Mish|90.54%|5.104%|
 
 <em> *Number of Epochs=50, Batch Size= 128.
 </em><br>
