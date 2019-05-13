@@ -223,7 +223,7 @@ Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 4 vari
 
 ##### WRN 10-2:
 
-|Activation Function |Accuracy|
+|Activation Function |Accuracy (Mean of 3 Runs)|
 |---|---|
 |ReLU|62.5567%|
 |Swish|66.98%|
