@@ -236,7 +236,7 @@ Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 4 vari
 |Activation Function |Accuracy|
 |---|---|
 |ReLU|72.2%|
-|Swish|71.89%%|
+|Swish|71.89%|
 |Mish|**72.32%**|
 
 <em> *Number of Epochs=50, Batch Size= 128.
