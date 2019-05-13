@@ -57,7 +57,7 @@ Based on mathematical analysis, it is also confirmed that the function has a par
 
 All Experiments were performed on [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) with NVIDIA Tesla T4 GPU. Initial Results were ran on a local machine equipped with an 64-bit, Intel i7-8750H CPU clocked at 2.2GHz, 16GB RAM with a NVIDIA GTX-1060 having the following specifications: 
 
-|GPU Specification Sheet <td>colspan=2<td>|
+|GPU Specification Sheet <td>colspan=2<\td>|
 |---|---|
 
 ## Results:
