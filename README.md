@@ -164,8 +164,8 @@ ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used fo
 |Activation Function |Testing Accuracy|Testing Loss|Inference Time (Per Sample)| Top 3 Accuracy| Top 5 Accuracy|
 |---|---|---|---|---|---|
 |ReLU|83.86%|9.945%|3 seconds (618 micro-seconds)|49.94%|30.99%|
-|Swish|**87.4%**|8.81%|3 seconds (552 micro-seconds)|||
-|Mish|87.18%|**8.62%**|3 seconds (595 micro-seconds)|||
+|Swish|86.36%|8.81%|3 seconds (559 micro-seconds)|51.59%|31.29%|
+|Mish|**87.18%**|**8.62%**|3 seconds (595 micro-seconds)|||
 
 - For Batch Size = 32, Number of Steps= 1563, Number of Epochs= 100: (Only *Mish*)
 
