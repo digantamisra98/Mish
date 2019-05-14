@@ -233,8 +233,6 @@ Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 4 vari
 <em> *Number of Epochs=50, Batch Size= 128.
 </em><br>
 
-##### WRN 40-4:
-
 #### SimpleNet:
 
 SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 classification. The findings are provided in the table below:
