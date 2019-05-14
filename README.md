@@ -356,6 +356,10 @@ Some Test Samples obtained from the network:
 
 ## Try It!
 
+### Install Dependencies
+
+>pip install -r requirements.txt
+
 ## Conclusion:
 
 ## Future Work (Coming Soon):
