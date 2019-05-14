@@ -7,5 +7,5 @@ def swish_layer(x):
   return tf.keras.layers.Lambda(lambda x: x*K.sigmoid(x))(x)
 
 ## For Mish activation function
-def mish(x):
+def swish(x):
     return K.sigmoid(x)
