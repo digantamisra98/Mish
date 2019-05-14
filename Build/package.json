@@ -1,3 +1,0 @@
-"dependencies": {
-  "tensorflow": "1.12.x", "keras":"2.2.x", "python":"3.x" 
-}
