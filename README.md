@@ -9,6 +9,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/digantamisra98/Mish/issues)
 [![codecov](https://codecov.io/gh/digantamisra98/Mish/branch/master/graph/badge.svg?token=wrRQ8RM3R1)](https://codecov.io/gh/digantamisra98/Mish)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 [![Known Vulnerabilities](https://snyk.io/test/github/digantamisra98/Mish/badge.svg)](https://snyk.io/test/github/digantamisra98/Mish)
 
 
