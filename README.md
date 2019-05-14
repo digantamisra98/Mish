@@ -358,7 +358,7 @@ Some Test Samples obtained from the network:
 
 ### Install Dependencies
 
->pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ## Conclusion:
 
