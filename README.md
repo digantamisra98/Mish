@@ -5,9 +5,9 @@
 [![Donate](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 [![HitCount](http://hits.dwyl.io/digantamisra98/Mish.svg)](http://hits.dwyl.io/digantamisra98/Mish)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/digantamisra98/Mish/issues)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/DigantaMisra?locale.x=en_GB)
 [![codecov](https://codecov.io/gh/digantamisra98/Mish/branch/master/graph/badge.svg?token=wrRQ8RM3R1)](https://codecov.io/gh/digantamisra98/Mish)
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/DigantaMisra?locale.x=en_GB)
 
 # Mish: Self Regularized Non-Monotonic Activation Function
 
