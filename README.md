@@ -355,7 +355,6 @@ Some Test Samples obtained from the network:
 <br>
 
 ## Try It! 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/digantamisra98/Mish/master)
 
 ### Install Dependencies
 
