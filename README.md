@@ -253,8 +253,16 @@ CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another s
 
 ResNet v2-50 was used for CIFAR-100 as similar to the CIFAR-10 classification. Here, however, Batch Size and Epochs were varied. Batch Size was varied to accelerate training and Epochs were varied to observe the changes in the evaluation metrics. All details have been provided subsequently. 
 
-|Activation Function |Accuracy|Loss|
-|---|---|---|
+- For Batch Size=32:
+
+|Activation Function |Accuracy (5*)|Loss (5*)|Accuracy (10*)|Loss (10*)|Accuracy (50*)|Loss(50*)
+|---|---|---|---|---|---|---|
+|ReLU|28.40%|36.91%|35.60%|32.99%|||
+|Swish|**31.28%**|**35.61%**|40.30%|30.93%|||
+|Mish|30.55%|36%|**41.11%**|**30.40%**|60.67%|21.54%|
+
+<em> *This indicates the number of epochs
+</em><br>
 
 #### Wide Residual Networks (WRN):
 
