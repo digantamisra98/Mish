@@ -267,7 +267,7 @@ ResNet v2-50 was used for CIFAR-100 as similar to the CIFAR-10 classification. H
 - For Batch Size=128:
 
 |Activation Function |Accuracy (50*)|Loss (50*)|Accuracy (100*)|Loss (100*)|
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|
 |ReLU|%|%|%|%|
 |Swish|53.78%|25.31%|54.76%|27.51%|
 |Mish|%|%|54.69%|27.47%|
@@ -285,7 +285,7 @@ ResNet v2-50 was used for CIFAR-100 as similar to the CIFAR-10 classification. H
 
 The Confusion Matrix obtained after 50 epoch training of ResNet v2 with Mish on CIFAR-100 is shown below:
 
-<div style="text-align:center"><img src ="Observations/confusion.PNG"  width="500"/></div>
+<div style="text-align:center"><img src ="Observations/Confusion_50.png"  width="500"/></div>
 <br>
 
 #### Wide Residual Networks (WRN):
