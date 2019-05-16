@@ -393,6 +393,10 @@ Some Test Samples obtained from the network:
 
 ```pip install -r requirements.txt```
 
+- For LeNet with Mish on MNIST Google Colab Testing: 
+
+> Run the [LeNet_Mish.ipynb](https://github.com/digantamisra98/Mish/blob/master/Notebooks/LeNet_Mish.ipynb) file on your Google Colaboratory
+
 ## Conclusion:
 
 ## Future Work (Coming Soon):
