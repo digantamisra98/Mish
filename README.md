@@ -387,6 +387,17 @@ Some Test Samples obtained from the network:
 <div style="text-align:center"><img src ="Observations/tests.PNG"  width="400"/></div>
 <br>
 
+### Generative Models
+
+<div style="text-align:center"><img src ="Observations/TEST.PNG"  width="400"/></div>
+<br>
+
+<div style="text-align:center"><img src ="Observations/MNIST_GAN.PNG"  width="400"/></div>
+<br>
+
+<div style="text-align:center"><img src ="Observations/loss.png"  width="400"/></div>
+<br>
+
 ## Try It! 
 
 ### Install Dependencies
