@@ -389,13 +389,13 @@ Some Test Samples obtained from the network:
 
 ### Generative Models
 
-<div style="text-align:center"><img src ="Observations/TEST.PNG"  width="400"/></div>
+<div style="text-align:center"><img src ="Observations/Test.PNG"  width="400"/></div>
 <br>
 
-<div style="text-align:center"><img src ="Observations/MNIST_GAN.PNG"  width="400"/></div>
+<div style="text-align:center"><img src ="Observations/MNIST-GAN.PNG"  width="400"/></div>
 <br>
 
-<div style="text-align:center"><img src ="Observations/loss.png"  width="400"/></div>
+<div style="text-align:center"><img src ="Observations/Loss.png"  width="400"/></div>
 <br>
 
 ## Try It! 
