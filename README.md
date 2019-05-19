@@ -409,9 +409,21 @@ Some samples obtained:
 
 ### GAN:
 
+Generative Adversarial Networks ([GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)) was used on MNIST dataset and the efficiency of Mish was compared to ReLU and Swish. 
+
+|Activation Function| Generator Loss| Discriminator Loss|
+|---|---|---|
+|ReLU|5.1214063%|**11.78977**|
+|Swish|**4.8570448**|12.737954|
+|Mish|5.02091%|13.451806%|
+
+Some samples generated over 100 epochs: 
+
 <div style="text-align:center"><img src ="Observations/MNIST-GAN.PNG"  width="400"/></div>
 <br>
 
+ Discriminator and Generator Loss Curves: 
+ 
 <div style="text-align:center"><img src ="Observations/Loss.png"  width="400"/></div>
 <br>
 
