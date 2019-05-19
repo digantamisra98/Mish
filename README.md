@@ -413,8 +413,8 @@ Generative Adversarial Networks ([GAN](https://papers.nips.cc/paper/5423-generat
 
 |Activation Function| Generator Loss| Discriminator Loss|
 |---|---|---|
-|ReLU|5.1214063%|**11.78977**|
-|Swish|**4.8570448**|12.737954|
+|ReLU|5.1214063%|**11.78977%**|
+|Swish|**4.8570448%**|12.737954%|
 |Mish|5.02091%|13.451806%|
 
 Some samples generated over 100 epochs: 
