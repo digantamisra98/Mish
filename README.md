@@ -394,9 +394,20 @@ Some Test Samples obtained from the network:
 
 #### Auto-Encoders: 
 
+A simple Auto-Encoder model was used on Fashion MNIST data to observe the characteristic MSE loss trends of Mish as compared to ReLU and Swish. The Mean Squared Error (MSE) values recorded for 50 iterations are recorded in the table provided below: 
+
+|Activation Function|MSE|
+|---|---|
+|ReLU|0.0053245881572|
+|Swish|0.00525206327438|
+|Mish|**0.005139515735**|
+
+Some samples obtained:
 
 <div style="text-align:center"><img src ="Observations/Test.PNG"  width="400"/></div>
 <br>
+
+### GAN:
 
 <div style="text-align:center"><img src ="Observations/MNIST-GAN.PNG"  width="400"/></div>
 <br>
