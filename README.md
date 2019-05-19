@@ -443,6 +443,8 @@ Some samples generated over 100 epochs:
 
 ## Support Me
 
+## References
+
 ## Contact: 
 - [LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
 - Email: mishradiganta91@gmail.com
