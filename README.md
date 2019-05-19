@@ -159,7 +159,7 @@ ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used fo
 |Swish|**77.65%**|**14.04%**|75.58%|14.77|75.88%|14.68%|155.1 seconds|3 seconds (550 micro-seconds)|99.3 milli-seconds|775.2 micro-seconds|33.04%|49.32%|
 |Mish|76.93%|14.08%|**76.58%**|**14%**|**76.46%**|**13.98%**|158.5 seconds|3 seconds (590 micro-seconds)|101.4 milli-seconds|830.4 micro-seconds|38.02%|**62.82%**|
 
-- For Batch Size = 32, Number of Steps= 1563, Number of Epochs= 50:
+- For Batch Size = 32, Number of Steps= 1563, Number of Epochs= 50: (Best of 2 runs)
 
 |Activation Function |Testing Accuracy|Testing Loss|Inference Time (Per Sample)| Top 5 Accuracy| Top 3 Accuracy|
 |---|---|---|---|---|---|
