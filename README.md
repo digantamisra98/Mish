@@ -153,21 +153,21 @@ ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used fo
 
 - For Batch Size = 32, Number of Steps= 1563, Number of Epochs= 10:
 
-|Activation Function |Training Accuracy|Training Loss|Validation Accuracy|Validation Loss|Testing Accuracy|Testing Loss|Average Per Epoch Time|Inference Time (Per Sample)|Average Per Step Time|Average Forward Pass Time|Top-3 accuracy|Top-5 accuracy|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|ReLU|73.10%|15.1%|71.9%|15.35%|73.34%|15.34%|**130.8 seconds**|**2 seconds (487 micro seconds)**|**83.8 milli seconds**|**669.9 micro- seconds**|**42.18%**|60.51%|
-|Swish|**77.65%**|**14.04%**|75.58%|14.77|75.88%|14.68%|155.1 seconds|3 seconds (550 micro-seconds)|99.3 milli-seconds|775.2 micro-seconds|33.04%|49.32%|
-|Mish|76.93%|14.08%|**76.58%**|**14%**|**76.46%**|**13.98%**|158.5 seconds|3 seconds (590 micro-seconds)|101.4 milli-seconds|830.4 micro-seconds|38.02%|**62.82%**|
+|Activation Function |Training Accuracy|Training Loss|Validation Accuracy|Validation Loss|Testing Accuracy|Testing Loss|Average Per Epoch Time|Inference Time (Per Sample)|Average Per Step Time|Average Forward Pass Time|
+|---|---|---|---|---|---|---|---|---|---|---|
+|ReLU|73.10%|15.1%|71.9%|15.35%|73.34%|15.34%|**130.8 seconds**|**2 seconds (487 micro seconds)**|**83.8 milli seconds**|**669.9 micro- seconds**|
+|Swish|**77.65%**|**14.04%**|75.58%|14.77|75.88%|14.68%|155.1 seconds|3 seconds (550 micro-seconds)|99.3 milli-seconds|775.2 micro-seconds|
+|Mish|76.93%|14.08%|**76.58%**|**14%**|**76.46%**|**13.98%**|158.5 seconds|3 seconds (590 micro-seconds)|101.4 milli-seconds|830.4 micro-seconds|
 
 - For Batch Size = 32, Number of Steps= 1563, Number of Epochs= 50: (Best of 2 runs)
 
-|Activation Function |Testing Accuracy|Testing Loss|Inference Time (Per Sample)| Top 5 Accuracy| Top 3 Accuracy|
-|---|---|---|---|---|---|
-|ReLU|83.86%|9.945%|3 seconds (559 micro-seconds)|49.94%|30.99%|
-|Swish|86.36%|8.81%|3 seconds (618 micro-seconds)|54.42%|34.08%|
-|Mish|**87.18%**|**8.62%**|3 seconds (653 micro-seconds)|**59.81%**|**37.68%**|
+|Activation Function |Testing Accuracy|Testing Loss|Inference Time (Per Sample)| 
+|---|---|---|---|
+|ReLU|83.86%|9.945%|3 seconds (559 micro-seconds)|
+|Swish|86.36%|8.81%|3 seconds (618 micro-seconds)|
+|Mish|**87.18%**|**8.62%**|3 seconds (653 micro-seconds)|
 
-<div style="text-align:center"><img src ="Observations/all_50.png"  width="1000"/></div>
+<div style="text-align:center"><img src ="Observations/All_50.png"  width="1000"/></div>
 <br>
 
 - For Batch Size = 32, Number of Steps= 1563, Number of Epochs= 100: (Only *Mish*)
