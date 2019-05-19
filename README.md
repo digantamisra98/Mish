@@ -167,7 +167,7 @@ ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used fo
 |Swish|86.36%|8.81%|3 seconds (618 micro-seconds)|54.42%|34.08%|
 |Mish|**87.18%**|**8.62%**|3 seconds (653 micro-seconds)|**59.81%**|**37.68%**|
 
-<div style="text-align:center"><img src ="Observations/all_50.png"  width="500"/></div>
+<div style="text-align:center"><img src ="Observations/all_50.png"  width="800"/></div>
 <br>
 
 - For Batch Size = 32, Number of Steps= 1563, Number of Epochs= 100: (Only *Mish*)
