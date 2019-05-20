@@ -313,7 +313,7 @@ Wide Residual Networks(WRN) of 4 variants were used for classification of CIFAR-
 
 |Activation Function |Accuracy|
 |---|---|
-|ReLU|69.35|
+|ReLU|69.35%|
 |Swish|**69.59%**|
 |Mish|69.52%|
 
