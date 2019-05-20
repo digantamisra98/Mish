@@ -260,7 +260,7 @@ ResNet v2-56 was used for CIFAR-100 as similar to the CIFAR-10 classification. H
 
 |Activation Function |Accuracy (5*)|Loss (5*)|Accuracy (10*)|Loss (10*)|Accuracy (50*)|Loss(50*)
 |---|---|---|---|---|---|---|
-|ReLU|28.40%|36.91%|35.60%|32.99%|||
+|ReLU|28.40%|36.91%|35.60%|32.99%|57.25%|22.9%|
 |Swish|**31.28%**|**35.61%**|40.30%|30.93%|60.28%|22.06%|
 |Mish|30.55%|36%|**41.11%**|**30.40%**|**60.67%**|**21.54%**|
 
