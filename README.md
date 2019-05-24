@@ -274,7 +274,7 @@ The Confusion Matrix obtained after 50 epoch training of ResNet v2 with Mish on 
 
 #### NASNet:
 
-<div style="text-align:center"><img src ="Observations/Nasnet_100.png"  width="500"/></div>
+<div style="text-align:center"><img src ="Observations/Nasnet_100.png"  width="1000"/></div>
 <br>
 
 #### Wide Residual Networks (WRN):
