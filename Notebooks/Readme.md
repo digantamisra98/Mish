@@ -17,7 +17,7 @@ Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was 
 </em><br>
 The activation maps of the hidden layers were also visualized to understand the generalization the network was adopting to.
 
-<div style="text-align:center"><img src ="Observations/blackbox.PNG"  width="300"/></div>
+<div style="text-align:center"><img src ="Observations/blackbox.PNG"  width="700"/></div>
 <br>
 
 ### Fashion-MNIST:
