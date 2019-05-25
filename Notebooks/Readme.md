@@ -16,7 +16,7 @@ Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was 
 <em> **This shows the amount of RAM Free.
 </em><br>
 The activation maps of the hidden layers were also visualized to understand the generalization the network was adopting to.
-<div style="text-align:center"><img src ="Observations/blackbox.PNG"  width="500"/></div>
+<div style="text-align:center"><img src ="Mish/tree/master/Observations/blackbox.PNG"  width="500"/></div>
 <br>
 
 ### Fashion-MNIST:
