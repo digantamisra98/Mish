@@ -17,7 +17,7 @@ Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was 
 </em><br>
 The activation maps of the hidden layers were also visualized to understand the generalization the network was adopting to.
 
-<div style="text-align:center"><img src ="Mish/tree/master/Observations/blackbox.PNG"  width="300"/></div>
+<div style="text-align:center"><img src ="Observations/blackbox.PNG"  width="300"/></div>
 <br>
 
 ### Fashion-MNIST:
@@ -340,5 +340,5 @@ Some samples generated over 100 epochs:
 
  Discriminator and Generator Loss Curves: 
  
-<div style="text-align:center"><img src ="Observations/Loss.png"  width="400"/></div>
+<div style="text-align:center"><img src ="Observations/Loss.PNG"  width="400"/></div>
 <br>
