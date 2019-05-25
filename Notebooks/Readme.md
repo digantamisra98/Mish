@@ -340,5 +340,5 @@ Some samples generated over 100 epochs:
 
  Discriminator and Generator Loss Curves: 
  
-<div style="text-align:center"><img src ="Observations/Loss.PNG"  width="400"/></div>
+<div style="text-align:center"><img src ="Observations/Loss.png"  width="400"/></div>
 <br>
