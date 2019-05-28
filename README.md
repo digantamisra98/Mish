@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" src="Observations/logo_transparent.png">
+  <img width="600" src="Observations/logo_transparent.png">
 </p>
 
 [![Donate](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
