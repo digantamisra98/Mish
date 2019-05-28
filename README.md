@@ -3,7 +3,6 @@
 </p>
 
 [![Donate](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
-![xyz](https://img.shields.io/badge/Release-7.0.0-informational.svg)
 [![HitCount](http://hits.dwyl.io/digantamisra98/Mish.svg)](http://hits.dwyl.io/digantamisra98/Mish)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/digantamisra98/Mish/issues)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/DigantaMisra?locale.x=en_GB)
