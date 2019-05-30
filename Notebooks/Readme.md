@@ -77,6 +77,13 @@ A 3-layered Feed Forward Neural Network was used for IRIS ([Dataset](https://arc
 
 CIFAR-10 ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is an extensive labelled dataset of 60000, 32x32 Images belonging to 10 classes which have 6000 images per class. A comprehensive labelled subset of [TinyImages Dataset](http://groups.csail.mit.edu/vision/TinyImages/), the CIFAR-10 has been expansively used for benchmarking different architectures, frameworks and novel approaches mainly in the field of Image Classification. In this research, 3 primary kinds of Neural Networks have been used with varying parameters to test how Mish fares against Swish and ReLU. All of these details has been provided subsequently.
 
+#### ResNet v1:
+
+##### ResNet-20:
+
+<div style="text-align:center"><img src ="Observations/c10_r1_20.png"  width="1000"/></div>
+<br>
+
 #### ResNet v2:
 
 ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used for CIFAR-10 classification task. Number of Epochs were varied to observe the computational cost and training time of the networks. The table below provides all the information regarding the same. 
