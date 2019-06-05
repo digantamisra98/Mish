@@ -185,13 +185,33 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 
 CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another subset of the Tiny Image Dataset similar to CIFAR-10, however containing 60000 images belonging to 100 classes with 600 images per class. All these images are 32x32 RGB images. These 100 classes are then grouped into 20 super-classes. The images are annotated with 2 labels- Fine Label (The class it belongs to) and Coarse Label (The super-class it belongs to). CIFAR-100 is also used extensively for Image Classification benchmarks, and here ResNet and WRN (Wide Residual Network) of various variants were used to benchmark Mish Activation Function against the likes of ReLU and Swish.
 
-#### ResNet-56:
+#### ResNet-v1:
+
+##### ResNet-20:
+
+|Activation Function|Top-1 Accuracy|Top-3 Accuracy|Top-5 Accuracy|Loss|
+|---|---|---|---|---|
+|Mish|**67.26%**|84.77%|90.08%|16.10206%|
+|Swish|67.1%|84.68%|90.24%|16.11301634%|
+|ReLU|67%|**85.08%**|**90.28%**|**15.653861%**|
+
+##### ResNet-30:
+
+|Activation Function|Top-1 Accuracy|Top-3 Accuracy|Top-5 Accuracy|Loss|
+|---|---|---|---|---|
+|Mish|**69.44%**|**86.25%**|**91.27%**|16.9508%|
+|Swish|68.84%|85.89%|90.96%|17.09074%|
+|ReLU|68.45%|85.94%|91.05%|**16.64781%**|
+
+#### ResNet-v2:
+
+##### ResNet-56:
 
 ResNet v2-56 was used for CIFAR-100 as similar to the CIFAR-10 classification. Here, however, Batch Size and Epochs were varied. Batch Size was varied to accelerate training and Epochs were varied to observe the changes in the evaluation metrics. All details have been provided subsequently. 
 
 - For Batch Size=32:
 
-|Activation Function |Accuracy (5*)|Loss (5*)|Accuracy (10*)|Loss (10*)|Accuracy (50*)|Loss(50*)
+|Activation Function |Accuracy (5*)|Loss (5*)|Accuracy (10*)|Loss (10*)|Accuracy (50*)|Loss(50*)|
 |---|---|---|---|---|---|---|
 |ReLU|28.40%|36.91%|35.60%|32.99%|57.25%|22.9%|
 |Swish|**31.28%**|**35.61%**|40.30%|30.93%|60.28%|22.06%|
