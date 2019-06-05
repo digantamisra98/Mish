@@ -81,15 +81,29 @@ CIFAR-10 ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is an extensiv
 
 ##### ResNet-20:
 
+|Activation Function| Top-1 Accuracy| Loss|
+|---|---|---|
+|Mish|91.81%|4.47284%|
+|Swish|**91.95%**|**4.440651%**|
+|ReLU|91.5%|4.94356%|
+
 <div style="text-align:center"><img src ="Observations/c10_r1_20.png"  width="1000"/></div>
 <br>
 
 ##### ResNet-32: 
 
+|Activation Function| Top-1 Accuracy| Loss|
+|---|---|---|
+|Mish|92.29%|4.3543639%|
+|Swish|**92.3%**|**4.31110565%**|
+|ReLU|91.78%|4.51267568%|
+
 <div style="text-align:center"><img src ="Observations/c10_r1_32.png"  width="1000"/></div>
 <br>
 
 #### ResNet v2:
+
+##### ResNet-56:
 
 ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used for CIFAR-10 classification task. Number of Epochs were varied to observe the computational cost and training time of the networks. The table below provides all the information regarding the same. 
 
@@ -112,33 +126,10 @@ ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used fo
 <div style="text-align:center"><img src ="Observations/All_50.png"  width="1000"/></div>
 <br>
 
-- For Batch Size = 32, Number of Steps= 1563, Number of Epochs= 100: (Only *Mish*)
-
-Additionally, ResNet v2 with Mish was also used for training on 100 epochs to confirm that the network doesn't face Gradient Death problem when epochs increases. The observations are provided in the table below:
-
-|Training Accuracy|Training Loss|Validation Accuracy|Validation Loss|Testing Accuracy|Testing Loss|Average Per Epoch Time|Inference Time (Per Sample)|Average Per Step Time|Average Forward Pass Time|
-|---|---|---|---|---|---|---|---|---|---|
-|97.41%|3.99%|89.16%|7.337%|89.28%|7.61%|157.7 seconds|3 seconds (612 micro-seconds)|100.9 milli-seconds|797.64 micro-seconds|
-
 The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on CIFAR-10 is shown below:
 
 <div style="text-align:center"><img src ="Observations/confusion_100.PNG"  width="500"/></div>
 <br>
-
-The classification accuracies for the individual class labels are: 
-
-|Class Labels| Classification Accuracy|
-|---|---|
-|Aeroplane|73.167%|
-|Automobile|80.33%|
-|Bird|70.33%|
-|Cat|69.33%|
-|Deer|74.33%|
-|Dog|66.83%|
-|Frog|75%|
-|Horse|76.16%|
-|Ship|77.667%|
-|Truck|80.83%|
 
 #### Wide Residual Networks (WRN):
 
