@@ -225,7 +225,7 @@ The Confusion Matrix obtained after 50 epoch training of ResNet v2 with Mish on 
 <div style="text-align:center"><img src ="Observations/Confusion_50.png"  width="500"/></div>
 <br>
 
-#### NASNet:
+#### M-NASNet:
 
 <div style="text-align:center"><img src ="Observations/Nasnet_100.png"  width="1000"/></div>
 <br>
