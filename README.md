@@ -85,8 +85,6 @@ All Experiments were performed on [Google Colab](https://colab.research.google.c
 
 ## Support Me
 
-## References
-
 ## Contact: 
 - [LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
 - Email: mishradiganta91@gmail.com
