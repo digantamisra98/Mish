@@ -54,7 +54,7 @@ The Taylor Series Expansion of *f(x)* at *x=0* is given by: <br>
 <div style="text-align:center"><img src ="Observations/series.png"  width="700"/></div><br>
 
 The Taylor Series Expansion of *f(x)* at *x=∞* is given by: <br>
-<div style="text-align:center"><img src ="Observations/series2.png"  width="700"/></div><br>
+<div style="text-align:center"><img src ="Observations/series2.png"  width="500"/></div><br>
 
 The Numerical root of the 1<sup>st</sup> derivative is calculated to be <br>
 
