@@ -67,7 +67,7 @@ When visualized, Mish Activation Function closely resembles the function path of
 **Mish** ranges between ≈-0.31 to ∞.<br>
 <div style="text-align:center"><img src ="Observations/Mish3.png"  width="800"/></div>
 <div style="text-align:center"><img src ="Observations/Derivatives.png"  width="800"/></div>
-Based on mathematical analysis, it is also confirmed that the function has a parametric order of continuity of: C<sup>∞</sup><div style="text-align:center"><img src ="Observations/imgtemp_kyk9k1-1.png"  width="30"/></div>
+Based on mathematical analysis, it is also confirmed that the function has a parametric order of continuity of: C<sup>∞</sup>
 
 **Mish** has a very sharp global minima similar to Swish, which might account to gradients updates of the model being stuck in the region of sharp decay thus may lead to bad performance levels as compared to ReLU. Mish, also being mathematically heavy, is more computationally expensive as compared to the time complexity of Swish Activation Function. 
 
