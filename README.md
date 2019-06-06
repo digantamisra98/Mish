@@ -37,7 +37,7 @@ Other notable ones being: <br>
 ## Mathematics under the hood:
 
 Mish Activation Function can be mathematically represented by the following formula:<br> 
-<div style="text-align:center"><img src ="Observations/imgtemp_ugysxo-1.png"  width="220"/></div>
+<div style="text-align:center"><img src ="Observations/imgtemp_ugysxo-1.png"  width="250"/></div>
 It can also be represented by using the SoftPlus Activation Function as shown:<br><br>
 <div style="text-align:center"><img src ="Observations/imgtemp_x5rglu-1.png"  width="185"/></div>
 <div style="text-align:center"><img src ="Observations/imgtemp_utahjs-1.png"  width="320"/></div><br>
@@ -51,7 +51,7 @@ Where:<br>
 <br>
 
 The Taylor Series Expansion of *f(x)* at *x=0* is given by: <br>
-<div style="text-align:center"><img src ="Observations/series.png"  width="900"/></div><br>
+<div style="text-align:center"><img src ="Observations/series.png"  width="700"/></div><br>
 
 The Numerical root of the 1<sup>st</sup> derivative is calculated to be <br>
 
