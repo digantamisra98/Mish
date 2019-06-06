@@ -49,6 +49,10 @@ Where:<br>
 <div style="text-align:center"><img src ="Observations/omega.png"  width="170"/></div>
 <div style="text-align:center"><img src ="Observations/lambda.png"  width="200"/></div>
 <br>
+
+The Taylor Series Expansion of *f(x)* at *x=0* is given by: <br>
+<div style="text-align:center"><img src ="Observations/series.png"  width="200"/></div><br>
+
 The Numerical root of the 1<sup>st</sup> derivative is calculated to be <br>
 
 *x* ≈ **-1.192431214515495212137588340420739405600686409322** <br>
