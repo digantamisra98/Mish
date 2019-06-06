@@ -51,7 +51,8 @@ Where:<br>
 When visualized, Mish Activation Function closely resembles the function path of Swish having a small decay (preserve) in the negative side while being near linear on the positive side. It is a Monotonic Function and as observed from it's derivatives functions shown above and graph shown below, it can be noted that it has a Monotonic 1<sup>st</sup> derivative while it's 2<sup>nd</sup> derivative is non-monotonic in nature. <br>
 
 **Mish** ranges between ≈-0.31 to ∞.<br>
-<div style="text-align:center"><img src ="Observations/2b.png"  width="800"/></div>
+<div style="text-align:center"><img src ="Observations/Mish3.png"  width="800"/></div>
+<div style="text-align:center"><img src ="Observations/Derivatives.png"  width="800"/></div>
 Based on mathematical analysis, it is also confirmed that the function has a parametric order of continuity of:<div style="text-align:center"><img src ="Observations/imgtemp_kyk9k1-1.png"  width="30"/></div>
 
 **Mish** has a very sharp global minima similar to Swish, which might account to gradients updates of the model being stuck in the region of sharp decay thus may lead to bad performance levels as compared to ReLU. Mish, also being mathematically heavy, is more computationally expensive as compared to the time complexity of Swish Activation Function. 
