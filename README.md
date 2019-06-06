@@ -43,7 +43,7 @@ It can also be represented by using the SoftPlus Activation Function as shown:<b
 <div style="text-align:center"><img src ="Observations/imgtemp_utahjs-1.png"  width="320"/></div><br>
 And it's 1<sup>st</sup> and 2<sup>nd</sup> derivatives are given below:<br>
 <div style="text-align:center"><img src ="Observations/d1.png"  width="1000"/></div>
-<div style="text-align:center"><img src ="Observations/d2.png"  width="320"/></div><br>
+<div style="text-align:center"><img src ="Observations/d2.png"  width="700"/></div><br>
 Where:<br>
 <div style="text-align:center"><img src ="Observations/delta.png"  width="200"/></div>
 <div style="text-align:center"><img src ="Observations/omega.png"  width="170"/></div>
