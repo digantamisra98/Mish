@@ -49,6 +49,8 @@ Where:<br>
 <div style="text-align:center"><img src ="Observations/omega.png"  width="170"/></div>
 <div style="text-align:center"><img src ="Observations/lambda.png"  width="200"/></div>
 <br>
+The Numerical root of the 1<sup>st</sup> derivative is calculated to be 
+*x* ≈ -1.19243121451549521213758834042073940560068640932252931455165826078029213829081713102011028642967763772300482938333410039533 <br>
 When visualized, Mish Activation Function closely resembles the function path of Swish having a small decay (preserve) in the negative side while being near linear on the positive side. It is a Monotonic Function and as observed from it's derivatives functions shown above and graph shown below, it can be noted that it has a Non-Monotonic 1<sup>st</sup> derivative and 2<sup>nd</sup> derivative. <br>
 
 **Mish** ranges between ≈-0.31 to ∞.<br>
