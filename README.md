@@ -56,6 +56,8 @@ The Taylor Series Expansion of *f(x)* at *x=0* is given by: <br>
 The Taylor Series Expansion of *f(x)* at *x=∞* is given by: <br>
 <div style="text-align:center"><img src ="Observations/series2.png"  width="500"/></div><br>
 
+Minimum of *f(x)* is observed to be ≈-0.30884 at *x*≈-1.1924<br>
+
 The Numerical root of the 1<sup>st</sup> derivative is calculated to be <br>
 
 *x* ≈ **-1.192431214515495212137588340420739405600686409322** <br>
