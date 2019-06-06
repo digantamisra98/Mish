@@ -46,7 +46,7 @@ And it's 1<sup>st</sup> and 2<sup>nd</sup> derivatives are given below:<br>
 <div style="text-align:center"><img src ="Observations/imgtemp_qph7sj-1.png"  width="320"/></div><br>
 Where:<br>
 <div style="text-align:center"><img src ="Observations/delta.png"  width="200"/></div>
-<div style="text-align:center"><img src ="Observations/imgtemp_3rbfba-1.png"  width="270"/></div>
+<div style="text-align:center"><img src ="Observations/omega.png"  width="270"/></div>
 <br>
 When visualized, Mish Activation Function closely resembles the function path of Swish having a small decay (preserve) in the negative side while being near linear on the positive side. It is a Monotonic Function and as observed from it's derivatives functions shown above and graph shown below, it can be noted that it has a Non-Monotonic 1<sup>st</sup> derivative and 2<sup>nd</sup> derivative. <br>
 
