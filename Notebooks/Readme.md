@@ -105,23 +105,23 @@ CIFAR-10 ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is an extensiv
 
 ##### ResNet-20:
 
-|Activation Function|Testing Top-1 Accuracy|Loss|
+|Activation Function|Testing Top-1 Accuracy|Testing Loss|
 |---|---|---|
-|Aria-2(β = 1, α=1.5)|||
-|Bent's Identity|||
-|ELU(α=1.0)|||
-|Hard Sigmoid|||
-|Leaky ReLU(α=0.3)|||
-|Mish|||
-|PReLU(Default Parameters)|||
-|ReLU|||
-|SELU|||
-|Sigmoid|||
-|SoftPlus|||
-|SoftSign|||
-|Swish|||
-|TanH|||
-|Thresholded ReLU(θ=1.0)|||
+|Aria-2(β = 1, α=1.5)|91.73%|4.25074%|
+|Bent's Identity|89.1%|4.52398%|
+|ELU(α=1.0)|91.58%|**4.05194%**|
+|Hard Sigmoid|87.42%|4.86469%|
+|Leaky ReLU(α=0.3)|90.57%|4.093131%|
+|Mish|**92.02%**|4.19176%|
+|PReLU(Default Parameters)|91.25%|4.403224%|
+|ReLU|91.71%|4.08291%|
+|SELU|90.59%|4.36311%|
+|Sigmoid|89.27%|4.474636%|
+|SoftPlus|91.39%|4.2238%|
+|SoftSign|90.45%|4.402751%|
+|Swish|91.61%|4.295542%|
+|TanH||90.99%|4.3992%|
+|Thresholded ReLU(θ=1.0)|76.22%|7.37498%|
 
 
 ##### ResNet-56:
