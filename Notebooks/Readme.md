@@ -120,7 +120,7 @@ CIFAR-10 ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is an extensiv
 |SoftPlus|91.39%|4.2238%|
 |SoftSign|90.45%|4.402751%|
 |Swish|91.61%|4.295542%|
-|TanH||90.99%|4.3992%|
+|TanH|90.99%|4.3992%|
 |Thresholded ReLU(θ=1.0)|76.22%|7.37498%|
 
 
