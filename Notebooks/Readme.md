@@ -107,13 +107,13 @@ CIFAR-10 ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is an extensiv
 
 |Activation Function|Testing Top-1 Accuracy|Loss|
 |---|---|---|
-|Aria-2($\beta$ = 1, $\alpha$=1.5)|||
+|Aria-2(\beta = 1, \alpha=1.5)|||
 |Bent's Identity|||
-|ELU($\alpha$=1.0)|||
+|ELU(\alpha=1.0)|||
 |Hard Sigmoid|||
-|Leaky ReLU($\alpha$=0.3)|||
+|Leaky ReLU(\alpha=0.3)|||
 |Mish|||
-|PReLU(alpha_initializer='zeros', alpha_regularizer=None, alpha_constraint=None, shared_axes=None)|||
+|PReLU(Default Parameters)|||
 |ReLU|||
 |SELU|||
 |Sigmoid|||
@@ -121,7 +121,7 @@ CIFAR-10 ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is an extensiv
 |SoftSign|||
 |Swish|||
 |TanH|||
-|Thresholded ReLU($\theta$=1.0)|||
+|Thresholded ReLU(\theta=1.0)|||
 
 
 ##### ResNet-56:
