@@ -210,6 +210,31 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |Swish|88.56%|5.410996%|
 |ReLU|88.38%|**5.400312%**|
 
+#### Capsule Network:
+
+|Activation Function |Testing Top-1 Accuracy|Testing Top-3 Accuracy|Testing Top-5 Accuracy|Testing Loss (Margin Loss)|
+|---|---|---|---|---|
+|ELU(α=1.0)|71.7%|90.72%|95.85%|2.3819%|
+|Mish|||||
+|Swish|82.48%|94.7%|97.11%|1.5232%|
+|ReLU|||||
+|SELU|80.24%|94.3%|97.56%|1.9122%|
+|Leaky ReLU(α=0.3)|83.42%|95.48%|97.96%|1.5393%|
+
+#### Inception-ResNet-v2:
+
+|Activation Function |Testing Top-1 Accuracy|Testing Top-3 Accuracy|Testing Top-5 Accuracy|Testing Loss|
+|---|---|---|---|---|
+|Mish|**85.21%**|97.13%|99.22%|4.6409%|
+|Swish|84.96%|97.29%|99.29%|4.8955%|
+|ELU(α=1.0)|83.93%|96.96%|99.11%|4.884%|
+|ReLU|82.22%|95.87%|98.65%|5.3729%|
+|Leaky ReLU(α=0.3)|84.67%|**97.35%**|**99.42%**|**4.5577%**|
+|TanH|76.29%|94.65%|98.42%|6.7464%|
+|PReLU(Default Parameters)|81.99%|96.01%|99.04%|5.50853%|
+|SELU|83.27%|96.61%|99.04%|5.1101%|
+|Softsign|79.76%|95.15%|98.61%|6.0377%|
+
 ### CIFAR-100:
 
 CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another subset of the Tiny Image Dataset similar to CIFAR-10, however containing 60000 images belonging to 100 classes with 600 images per class. All these images are 32x32 RGB images. These 100 classes are then grouped into 20 super-classes. The images are annotated with 2 labels- Fine Label (The class it belongs to) and Coarse Label (The super-class it belongs to). CIFAR-100 is also used extensively for Image Classification benchmarks, and here ResNet and WRN (Wide Residual Network) of various variants were used to benchmark Mish Activation Function against the likes of ReLU and Swish.
