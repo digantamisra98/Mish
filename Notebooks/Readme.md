@@ -215,7 +215,7 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |Activation Function |Testing Top-1 Accuracy|Testing Top-3 Accuracy|Testing Top-5 Accuracy|Testing Loss (Margin Loss)|
 |---|---|---|---|---|
 |ELU(α=1.0)|71.7%|90.72%|95.85%|2.3819%|
-|Mish|||||
+|Mish|83.15%|94.62%|97.2%|1.51671%|
 |Swish|82.48%|94.7%|97.11%|1.5232%|
 |ReLU|||||
 |SELU|80.24%|94.3%|97.56%|1.9122%|
