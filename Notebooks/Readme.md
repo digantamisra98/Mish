@@ -8,7 +8,7 @@ Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was 
 | Activation Function  | Accuracy (20*) |  Loss (20*) | GPU-Utilization (20*) |CPU-RAM Utilization** (20*)| Training Time (20*) | Inference Time (20*)| Top 5 Accuracy (20*) | Top 3 Accuracy (20*)|
 | ------------- | ------------- | ---|---|---|---|---|---|---|
 | ReLU  | **98.65%**  |**0.368%**|5%|**11.4GB**|**51.67 seconds**|**0.197 seconds**|**100%**|**99.94%**|
-| Swish  | 98.42%  |0.385%|5%|**11.4GB**|65.11 seconds|0.2157 seconds|99.99%|99.9%|
+| Swish-1  | 98.42%  |0.385%|5%|**11.4GB**|65.11 seconds|0.2157 seconds|99.99%|99.9%|
 | Mish  | 98.64%  |**0.368%**|5%|11.2GB|81.12 seconds|0.2967 seconds|**100%**|**99.94%**|
 
 <em> *The number indicates the Number of Epochs
@@ -27,7 +27,7 @@ Mini VGG-Net ([Paper](https://arxiv.org/pdf/1409.1556.pdf)) was used for classif
 | Activation Function  | Accuracy (25*) |  Loss (25*) | GPU-Utilization (5*) |CPU-RAM Utilization** (5*)| Training Time (5*) | Inference Time (5*)|
 | ------------- | ------------- | ---|---|---|---|---|
 | ReLU  | 93.19%  |1.895%|33%|**10.1GB**|**261.88 seconds**|**3.51 seconds**|
-| Swish  | 93.09%  |1.935%|33%|**10.1GB**|271.13 seconds|3.53 seconds|
+| Swish-1  | 93.09%  |1.935%|33%|**10.1GB**|271.13 seconds|3.53 seconds|
 | Mish  | **93.31%**|**1.859%**|33%|10GB|294.85 seconds|3.78 seconds|
 
 <em> *The number indicates the Number of Epochs
@@ -67,7 +67,7 @@ A 3-layered Feed Forward Neural Network was used for IRIS ([Dataset](https://arc
 | Activation Function  | Accuracy (4000*) |  Loss (4000*) |
 | ------------- | ------------- | ---|
 | ReLU  | 96.67%  |2.84%|
-| Swish  | 97.33%  |**2.32%**|
+| Swish-1  | 97.33%  |**2.32%**|
 | Mish  | **98%**|2.66%|
 
 <em> *The number indicates the Number of Epochs
@@ -84,7 +84,7 @@ CIFAR-10 ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is an extensiv
 |Activation Function| Top-1 Accuracy| Loss|
 |---|---|---|
 |Mish|91.81%|4.47284%|
-|Swish|**91.95%**|**4.440651%**|
+|Swish-1|**91.95%**|**4.440651%**|
 |ReLU|91.5%|4.94356%|
 
 <div style="text-align:center"><img src ="Observations/c10_r1_20.png"  width="1000"/></div>
@@ -95,7 +95,7 @@ CIFAR-10 ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is an extensiv
 |Activation Function| Top-1 Accuracy| Loss|
 |---|---|---|
 |Mish|92.29%|4.3543639%|
-|Swish|**92.3%**|**4.31110565%**|
+|Swish-1|**92.3%**|**4.31110565%**|
 |ReLU|91.78%|4.51267568%|
 
 <div style="text-align:center"><img src ="Observations/c10_r1_32.png"  width="1000"/></div>
@@ -119,7 +119,7 @@ CIFAR-10 ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is an extensiv
 |Sigmoid|89.27%|4.474636%|
 |SoftPlus|91.39%|4.2238%|
 |SoftSign|90.45%|4.402751%|
-|Swish|91.61%|4.295542%|
+|Swish-1|91.61%|4.295542%|
 |TanH|90.99%|4.3992%|
 |Thresholded ReLU(θ=1.0)|76.22%|7.37498%|
 
@@ -133,7 +133,7 @@ ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used fo
 |Activation Function |Training Accuracy|Training Loss|Validation Accuracy|Validation Loss|Testing Accuracy|Testing Loss|Average Per Epoch Time|Inference Time (Per Sample)|Average Per Step Time|Average Forward Pass Time|
 |---|---|---|---|---|---|---|---|---|---|---|
 |ReLU|73.10%|15.1%|71.9%|15.35%|73.34%|15.34%|**130.8 seconds**|**2 seconds (487 micro seconds)**|**83.8 milli seconds**|**669.9 micro- seconds**|
-|Swish|**77.65%**|**14.04%**|75.58%|14.77%|75.88%|14.68%|155.1 seconds|3 seconds (550 micro-seconds)|99.3 milli-seconds|775.2 micro-seconds|
+|Swish-1|**77.65%**|**14.04%**|75.58%|14.77%|75.88%|14.68%|155.1 seconds|3 seconds (550 micro-seconds)|99.3 milli-seconds|775.2 micro-seconds|
 |Mish|76.93%|14.08%|**76.58%**|**14%**|**76.46%**|**13.98%**|158.5 seconds|3 seconds (590 micro-seconds)|101.4 milli-seconds|830.4 micro-seconds|
 
 - For Batch Size = 32, Number of Steps= 1563, Number of Epochs= 50: (Best of 2 runs)
@@ -141,7 +141,7 @@ ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used fo
 |Activation Function |Testing Accuracy|Testing Loss|Inference Time (Per Sample)| 
 |---|---|---|---|
 |ReLU|83.86%|9.945%|3 seconds (559 micro-seconds)|
-|Swish|86.36%|8.81%|3 seconds (618 micro-seconds)|
+|Swish-1|86.36%|8.81%|3 seconds (618 micro-seconds)|
 |Mish|**87.18%**|**8.62%**|3 seconds (653 micro-seconds)|
 
 <div style="text-align:center"><img src ="Observations/All_50.png"  width="1000"/></div>
@@ -161,7 +161,7 @@ Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 3 vari
 |Activation Function |Accuracy|Loss|
 |---|---|---|
 |ReLU|84.52%|6.298%|
-|Swish|86.56%|5.726%|
+|Swish-1|86.56%|5.726%|
 |Mish|**86.83%**|**5.712%**|
 
 <em> *Number of Epochs=50, Batch Size= 128.
@@ -172,7 +172,7 @@ Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 3 vari
 |Activation Function |Accuracy|Loss|
 |---|---|---|
 |ReLU|**90.74%**|5.644%|
-|Swish|90.07%|**5.014%**|
+|Swish-1|90.07%|**5.014%**|
 |Mish|90.54%|5.104%|
 
 <em> *Number of Epochs=50, Batch Size= 128.
@@ -183,7 +183,7 @@ Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 3 vari
 |Activation Function |Accuracy|Loss|
 |---|---|---|
 |ReLU|**91.28%**|5.588%|
-|Swish|90.17%|5.136%|
+|Swish-1|90.17%|5.136%|
 |Mish|90.38%|**4.961%**|
 
 <em> *Number of Epochs=50, Batch Size= 128.
@@ -196,7 +196,7 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |Activation Function |Accuracy|Loss| Top 3 Accuracy| Top 5 Accuracy|
 |---|---|---|---|---|
 |ReLU|91.16%|2.897%|98.62%|99.65%|
-|Swish|91.44%|2.944%|**98.87%**|**99.77%**|
+|Swish-1|91.44%|2.944%|**98.87%**|**99.77%**|
 |Mish|**91.70%**|**2.759**|98.85%|99.75%|
 
 <em> *Number of Epochs=50, Batch Size=128, Network Parameters= 5.59 M
@@ -207,7 +207,7 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |Activation Function |Testing Top-1 Accuracy|Testing Loss|
 |---|---|---|
 |Mish|**88.73%**|5.44975%|
-|Swish|88.56%|5.410996%|
+|Swish-1|88.56%|5.410996%|
 |ReLU|88.38%|**5.400312%**|
 
 #### Capsule Network:
@@ -216,7 +216,7 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |---|---|---|---|---|
 |ELU(α=1.0)|71.7%|90.72%|95.85%|2.3819%|
 |Mish|83.15%|94.62%|97.2%|1.51671%|
-|Swish|82.48%|94.7%|97.11%|1.5232%|
+|Swish-1|82.48%|94.7%|97.11%|1.5232%|
 |ReLU|82.19%|94.88%|97.48%|**1.51009%**|
 |SELU|80.24%|94.3%|97.56%|1.9122%|
 |Leaky ReLU(α=0.3)|**83.42%**|**95.48%**|**97.96%**|1.5393%|
@@ -226,7 +226,7 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |Activation Function |Testing Top-1 Accuracy|Testing Top-3 Accuracy|Testing Top-5 Accuracy|Testing Loss|
 |---|---|---|---|---|
 |Mish|**85.21%**|97.13%|99.22%|4.6409%|
-|Swish|84.96%|97.29%|99.29%|4.8955%|
+|Swish-1|84.96%|97.29%|99.29%|4.8955%|
 |ELU(α=1.0)|83.93%|96.96%|99.11%|4.884%|
 |ReLU|82.22%|95.87%|98.65%|5.3729%|
 |Leaky ReLU(α=0.3)|84.67%|**97.35%**|**99.42%**|**4.5577%**|
@@ -246,7 +246,7 @@ CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another s
 |Activation Function|Top-1 Accuracy|Top-3 Accuracy|Top-5 Accuracy|Loss|
 |---|---|---|---|---|
 |Mish|**67.26%**|84.77%|90.08%|16.10206%|
-|Swish|67.1%|84.68%|90.24%|16.11301634%|
+|Swish-1|67.1%|84.68%|90.24%|16.11301634%|
 |ReLU|67%|**85.08%**|**90.28%**|**15.653861%**|
 
 ##### ResNet-30:
@@ -254,7 +254,7 @@ CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another s
 |Activation Function|Top-1 Accuracy|Top-3 Accuracy|Top-5 Accuracy|Loss|
 |---|---|---|---|---|
 |Mish|**69.44%**|**86.25%**|**91.27%**|16.9508%|
-|Swish|68.84%|85.89%|90.96%|17.09074%|
+|Swish-1|68.84%|85.89%|90.96%|17.09074%|
 |ReLU|68.45%|85.94%|91.05%|**16.64781%**|
 
 #### ResNet-v2:
@@ -268,7 +268,7 @@ ResNet v2-56 was used for CIFAR-100 as similar to the CIFAR-10 classification. H
 |Activation Function |Accuracy (5*)|Loss (5*)|Accuracy (10*)|Loss (10*)|Accuracy (50*)|Loss(50*)|
 |---|---|---|---|---|---|---|
 |ReLU|28.40%|36.91%|35.60%|32.99%|57.25%|22.9%|
-|Swish|**31.28%**|**35.61%**|40.30%|30.93%|60.28%|22.06%|
+|Swish-1|**31.28%**|**35.61%**|40.30%|30.93%|60.28%|22.06%|
 |Mish|30.55%|36%|**41.11%**|**30.40%**|**60.67%**|**21.54%**|
 
 <em> *This indicates the number of epochs
@@ -288,7 +288,7 @@ Wide Residual Networks(WRN) of 4 variants were used for classification of CIFAR-
 |Activation Function |Accuracy (Mean of 3 Runs)|
 |---|---|
 |ReLU|62.5567%|
-|Swish|66.98%|
+|Swish-1|66.98%|
 |Mish|**67.157%**|
 
 <em> *Number of Epochs=125, Batch Size= 128.
@@ -299,7 +299,7 @@ Wide Residual Networks(WRN) of 4 variants were used for classification of CIFAR-
 |Activation Function |Accuracy|
 |---|---|
 |ReLU|74.60%|
-|Swish|74.60%|
+|Swish-1|74.60%|
 |Mish|**74.92%**|
 
 <em> *Number of Epochs=125, Batch Size= 128.
@@ -310,7 +310,7 @@ Wide Residual Networks(WRN) of 4 variants were used for classification of CIFAR-
 |Activation Function |Accuracy|
 |---|---|
 |ReLU|72.2%|
-|Swish|71.89%|
+|Swish-1|71.89%|
 |Mish|**72.32%**|
 
 <em> *Number of Epochs=50, Batch Size= 128.
@@ -321,7 +321,7 @@ Wide Residual Networks(WRN) of 4 variants were used for classification of CIFAR-
 |Activation Function |Accuracy|
 |---|---|
 |ReLU|69.35%|
-|Swish|**69.59%**|
+|Swish-1|**69.59%**|
 |Mish|69.52%|
 
 <em> *Number of Epochs=50, Batch Size= 128.
@@ -336,7 +336,7 @@ Custom CNN (Convolutional Neural Network) was used for classification ASL ([Amer
 | Activation Function  | Accuracy (10*) |  Loss (10*) |
 | ------------- | ------------- | ---|
 | ReLU  | 74.42%  |7.965%|
-| Swish  | 68.84%  |10.464%|
+| Swish-1  | 68.84%  |10.464%|
 | Mish  | **77.38%**|**7.078%**|
 
 <em> *The number indicates the Number of Epochs
@@ -349,7 +349,7 @@ Deep Conv Net was used for classifying microscopic cellular images of healthy ce
 | Activation Function  | Accuracy (10*) |  Loss (10*) |
 | ------------- | ------------- | ---|
 | ReLU  | 94.21%  |**1.45%**|
-| Swish  | **95.97%**  |**1.45%**|
+| Swish-1  | **95.97%**  |**1.45%**|
 | Mish  | 95.12%|1.56%|
 
 <em> *The number indicates the Number of Epochs
@@ -362,7 +362,7 @@ U-Net ([Paper](https://arxiv.org/abs/1505.04597)) was deployed for the Caravan I
 | Activation Function  | Training Loss (5*) |  Training Dice-Loss (5*) | Validation Loss(5*)| Validation Dice-Loss(5*)| Average Epoch Time | Average Step Time|
 | ------------- | ------------- | ---|---|---|---|---|
 | ReLU  |  0.724% |0.119%|0.578%|0.096%|**343.2 seconds**|**253 milli-seconds**|
-| Swish  | 0.665%|0.111%|0.639%|0.108%|379 seconds|279.2 milli-seconds|
+| Swish-1  | 0.665%|0.111%|0.639%|0.108%|379 seconds|279.2 milli-seconds|
 | Mish  |**0.574%**|**0.097%**|**0.554%**|**0.092%**|411.2 seconds|303 milli-seconds|
 
 <em> *The number indicates the Number of Epochs
@@ -387,7 +387,7 @@ A simple Auto-Encoder model was used on Fashion MNIST data to observe the charac
 |Activation Function|MSE|
 |---|---|
 |ReLU|0.0053245881572|
-|Swish|0.00525206327438|
+|Swish-1|0.00525206327438|
 |Mish|**0.005139515735**|
 
 Some samples obtained:
@@ -402,7 +402,7 @@ Generative Adversarial Networks ([GAN](https://papers.nips.cc/paper/5423-generat
 |Activation Function| Generator Loss| Discriminator Loss|
 |---|---|---|
 |ReLU|5.1214063%|**11.78977%**|
-|Swish|**4.8570448%**|12.737954%|
+|Swish-1|**4.8570448%**|12.737954%|
 |Mish|5.02091%|13.451806%|
 
 Some samples generated over 100 epochs: 
