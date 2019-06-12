@@ -235,6 +235,24 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |SELU|83.27%|96.61%|99.04%|5.1101%|
 |Softsign|79.76%|95.15%|98.61%|6.0377%|
 
+#### DenseNet
+
+##### DenseNet-121:
+
+|Activation Function |Accuracy|Loss|Top-3 Accuracy|
+|---|---|---|---|
+|ReLU|91.0997%|**4.40764%**|98.6946%|
+|Swish-1|90.9217%|4.54128%|**98.7144%**|
+|Mish|**91.2678%**|4.60893%|98.665%|
+
+##### DenseNet-169:
+
+|Activation Function |Accuracy|Loss| Top 3 Accuracy|
+|---|---|---|---|
+|ReLU|**91.6535%**|**4.30486%**|**98.8726%**|
+|Swish-1|90.6744%|4.8451%|98.5562%|
+|Mish|90.5063%|4.74986|98.6353%|
+
 ### CIFAR-100:
 
 CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another subset of the Tiny Image Dataset similar to CIFAR-10, however containing 60000 images belonging to 100 classes with 600 images per class. All these images are 32x32 RGB images. These 100 classes are then grouped into 20 super-classes. The images are annotated with 2 labels- Fine Label (The class it belongs to) and Coarse Label (The super-class it belongs to). CIFAR-100 is also used extensively for Image Classification benchmarks, and here ResNet and WRN (Wide Residual Network) of various variants were used to benchmark Mish Activation Function against the likes of ReLU and Swish.
