@@ -79,6 +79,8 @@ CIFAR-10 ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is an extensiv
 
 #### ResNet v1:
 
+ResNet v1 paper can be found here: [Paper](https://arxiv.org/pdf/1512.03385.pdf)
+
 ##### ResNet-20:
 
 |Activation Function| Top-1 Accuracy| Loss|
@@ -103,6 +105,8 @@ CIFAR-10 ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is an extensiv
 
 #### ResNet v2:
 
+ResNet v2 paper can be found here: [Paper](https://arxiv.org/pdf/1603.05027.pdf)
+
 ##### ResNet-20:
 
 |Activation Function|Testing Top-1 Accuracy|Testing Loss|
@@ -126,7 +130,7 @@ CIFAR-10 ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is an extensiv
 
 ##### ResNet-56:
 
-ResNet ([Paper](https://arxiv.org/abs/1512.03385)) v2 with 56 layers was used for CIFAR-10 classification task. Number of Epochs were varied to observe the computational cost and training time of the networks. The table below provides all the information regarding the same. 
+Number of Epochs were varied to observe the computational cost and training time of the networks. The table below provides all the information regarding the same. 
 
 - For Batch Size = 32, Number of Steps= 1563, Number of Epochs= 10:
 
