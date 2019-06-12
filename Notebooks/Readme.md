@@ -245,6 +245,9 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |Swish-1|90.9217%|4.54128%|**98.7144%**|
 |Mish|**91.2678%**|4.60893%|98.665%|
 
+<div style="text-align:center"><img src ="Observations/dense121.png"  width="300"/></div>
+<br>
+
 ##### DenseNet-169:
 
 |Activation Function |Accuracy|Loss| Top 3 Accuracy|
@@ -252,6 +255,9 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |ReLU|**91.6535%**|**4.30486%**|**98.8726%**|
 |Swish-1|90.6744%|4.8451%|98.5562%|
 |Mish|90.5063%|4.74986|98.6353%|
+
+<div style="text-align:center"><img src ="Observations/dense169.png"  width="300"/></div>
+<br>
 
 ### CIFAR-100:
 
