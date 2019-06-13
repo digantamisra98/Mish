@@ -119,7 +119,7 @@ ResNet v1 paper can be found here: [Paper](https://arxiv.org/pdf/1512.03385.pdf)
 |Activation Function| Top-1 Accuracy|Loss| Top-3 Accuracy| Top-5 Accuracy| 
 |---|---|---|---|---|
 |Mish|92.21%|4.3387%|99.09%|99.85%|
-|Swish-1|||||
+|Swish-1|91.85%|4.33817%|98.92%|99.85%|
 |ReLU|||||
 
 ##### ResNet-110:
