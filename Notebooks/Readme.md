@@ -121,6 +121,7 @@ ResNet v1 paper can be found here: [Paper](https://arxiv.org/pdf/1512.03385.pdf)
 |Mish|92.21%|4.3387%|99.09%|99.85%|
 |Swish-1|91.85%|4.33817%|98.92%|99.85%|
 |ReLU|||||
+|ELU(α=1.0)|91.48%|4.39%|98.88%|99.78%|
 
 ##### ResNet-110:
 
