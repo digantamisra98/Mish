@@ -103,6 +103,30 @@ ResNet v1 paper can be found here: [Paper](https://arxiv.org/pdf/1512.03385.pdf)
 <div style="text-align:center"><img src ="Observations/c10_r1_32.png"  width="1000"/></div>
 <br>
 
+##### ResNet-44:
+
+|Activation Function| Top-1 Accuracy| Top-3 Accuracy| Top-5 Accuracy| Loss|
+|---|---|---|---|---|
+|Mish|92.46%|4.4195%|99%|99.82%|
+|Swish-1|||||
+|ReLU|||||
+
+##### ResNet-56:
+
+|Activation Function| Top-1 Accuracy| Top-3 Accuracy| Top-5 Accuracy| Loss|
+|---|---|---|---|---|
+|Mish|92.21%|4.3387%|99.09%|99.85%|
+|Swish-1|||||
+|ReLU|||||
+
+##### ResNet-110:
+
+|Activation Function| Top-1 Accuracy| Top-3 Accuracy| Top-5 Accuracy| Loss|
+|---|---|---|---|---|
+|Mish|||||
+|Swish-1|||||
+|ReLU|||||
+
 #### ResNet v2:
 
 ResNet v2 paper can be found here: [Paper](https://arxiv.org/pdf/1603.05027.pdf)
