@@ -105,7 +105,7 @@ ResNet v1 paper can be found here: [Paper](https://arxiv.org/pdf/1512.03385.pdf)
 
 ##### ResNet-44:
 
-|Activation Function| Top-1 Accuracy| Top-3 Accuracy| Top-5 Accuracy| Loss|
+|Activation Function| Top-1 Accuracy|Loss| Top-3 Accuracy| Top-5 Accuracy| 
 |---|---|---|---|---|
 |Mish|92.46%|4.4195%|99%|99.82%|
 |Swish-1|||||
@@ -113,7 +113,7 @@ ResNet v1 paper can be found here: [Paper](https://arxiv.org/pdf/1512.03385.pdf)
 
 ##### ResNet-56:
 
-|Activation Function| Top-1 Accuracy| Top-3 Accuracy| Top-5 Accuracy| Loss|
+|Activation Function| Top-1 Accuracy|Loss| Top-3 Accuracy| Top-5 Accuracy| 
 |---|---|---|---|---|
 |Mish|92.21%|4.3387%|99.09%|99.85%|
 |Swish-1|||||
@@ -121,7 +121,7 @@ ResNet v1 paper can be found here: [Paper](https://arxiv.org/pdf/1512.03385.pdf)
 
 ##### ResNet-110:
 
-|Activation Function| Top-1 Accuracy| Top-3 Accuracy| Top-5 Accuracy| Loss|
+|Activation Function| Top-1 Accuracy| Loss|Top-3 Accuracy| Top-5 Accuracy| 
 |---|---|---|---|---|
 |Mish|||||
 |Swish-1|||||
