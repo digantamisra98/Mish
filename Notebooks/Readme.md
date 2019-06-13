@@ -63,7 +63,7 @@ Test Samples obtained from the network:
 <div style="text-align:center"><img src ="Observations/test.PNG"  width="300"/></div>
 <br>
 
-### Iris
+### Iris:
 
 A 3-layered Feed Forward Neural Network was used for IRIS ([Dataset](https://archive.ics.uci.edu/ml/datasets/iris)) classification. The metrics scores are provided in the table below. Here, in place of ReLU, Mish was tested against Swish and Sigmoid. 
 
