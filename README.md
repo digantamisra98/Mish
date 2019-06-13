@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img width="300" src="Observations/Activation Function.png">
 </p>
 
