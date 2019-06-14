@@ -11,3 +11,4 @@ os
 sys
 timeit
 functools
+torch
