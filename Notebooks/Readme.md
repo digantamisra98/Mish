@@ -456,7 +456,7 @@ A simple Auto-Encoder model was used on Fashion MNIST data to observe the charac
 
 Some samples obtained:
 
-<div style="text-align:center"><img src ="Observations/Test.PNG"  width="400"/></div>
+<div style="text-align:center"><img src ="Observations/Test1.PNG"  width="400"/></div>
 <br>
 
 ### GAN:
@@ -476,5 +476,5 @@ Some samples generated over 100 epochs:
 
  Discriminator and Generator Loss Curves: 
  
-<div style="text-align:center"><img src ="Observations/Loss.png"  width="400"/></div>
+<div style="text-align:center"><img src ="Observations/Loss1.png"  width="400"/></div>
 <br>
