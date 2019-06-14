@@ -309,6 +309,8 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |Swish-1|**91.6238%**|**4.18871%**|**98.665%**|
 |Mish|90.8327%|4.61261%|98.5364%|
 
+<div style="text-align:center"><img src ="Observations/resnext50.png"  width="1000"/></div>
+
 ### CIFAR-100:
 
 CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another subset of the Tiny Image Dataset similar to CIFAR-10, however containing 60000 images belonging to 100 classes with 600 images per class. All these images are 32x32 RGB images. These 100 classes are then grouped into 20 super-classes. The images are annotated with 2 labels- Fine Label (The class it belongs to) and Coarse Label (The super-class it belongs to). CIFAR-100 is also used extensively for Image Classification benchmarks, and here ResNet and WRN (Wide Residual Network) of various variants were used to benchmark Mish Activation Function against the likes of ReLU and Swish.
