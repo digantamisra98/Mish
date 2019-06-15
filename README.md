@@ -96,10 +96,6 @@ All Experiments were performed on [Google Colab](https://colab.research.google.c
 
 > Run the [LeNet_Mish.ipynb](https://github.com/digantamisra98/Mish/blob/master/Notebooks/LeNet_Mish.ipynb) file on your Google Colaboratory
 
-- For the easiest way to define Mish in your custom CNN:
-
-<div style="text-align:center"><img src ="Observations/carbon.png"  width="600"/></div>
-
 ## Conclusion:
 
 ## Future Work (Coming Soon):
