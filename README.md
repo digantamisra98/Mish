@@ -98,7 +98,7 @@ All Experiments were performed on [Google Colab](https://colab.research.google.c
 
 - For the easiest way to define Mish in your custom CNN:
 
-<div style="text-align:center"><img src ="Observations/carbon.png"  width="200"/></div>
+<div style="text-align:center"><img src ="Observations/carbon.png"  width="500"/></div>
 
 ## Conclusion:
 
