@@ -133,6 +133,8 @@ ResNet v1 paper can be found here: [Paper](https://arxiv.org/pdf/1512.03385.pdf)
 |Swish-1|82.19%|9.046%|96.43%|**99.18%**|
 |ReLU|82.37%|8.09783%|95.48%|98.48%|
 
+<div style="text-align:center"><img src ="Observations/res164.png"  width="1000"/></div>
+
 #### ResNet v2:
 
 ResNet v2 paper can be found here: [Paper](https://arxiv.org/pdf/1603.05027.pdf)
