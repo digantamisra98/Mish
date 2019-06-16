@@ -16,10 +16,6 @@ Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was 
 </em><br>
 <em> **This shows the amount of RAM Free.
 </em><br>
-The activation maps of the hidden layers were also visualized to understand the generalization the network was adopting to.
-
-<div style="text-align:center"><img src ="Observations/blackbox.PNG"  width="700"/></div>
-<br>
 
 ### Fashion-MNIST:
 
@@ -56,12 +52,6 @@ The evaluation metrics for the Mini-VGG Network with Mish Activation Function is
 | micro average  | 0.93  |0.93|0.93|
 | macro average  | 0.93  |0.93|0.93|
 | weighted average  | 0.93  |0.93|0.93|
-
-
-Test Samples obtained from the network:
-
-<div style="text-align:center"><img src ="Observations/test.PNG"  width="300"/></div>
-<br>
 
 ### Iris:
 
@@ -460,11 +450,6 @@ U-Net ([Paper](https://arxiv.org/abs/1505.04597)) was deployed for the Caravan I
 The following graph shows the Loss Plotting for U-Net with Mish: (Values Scaled to loss value/10)
 
 <div style="text-align:center"><img src ="Observations/loss.PNG"  width="700"/></div>
-<br>
-
-Some Test Samples obtained from the network:
-
-<div style="text-align:center"><img src ="Observations/tests.PNG"  width="400"/></div>
 <br>
 
 ### Generative Models
