@@ -263,6 +263,8 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |SELU|80.24%|94.3%|97.56%|1.9122%|
 |Leaky ReLU(α=0.3)|**83.42%**|**95.48%**|**97.96%**|1.5393%|
 
+<div style="text-align:center"><img src ="Observations/capsule.png"  width="1000"/></div>
+
 #### Inception-ResNet-v2:
 
 |Activation Function |Testing Top-1 Accuracy|Testing Top-3 Accuracy|Testing Top-5 Accuracy|Testing Loss|
