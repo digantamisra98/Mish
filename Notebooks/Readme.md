@@ -133,6 +133,8 @@ ResNet v1 paper can be found here: [Paper](https://arxiv.org/pdf/1512.03385.pdf)
 |ReLU|**91.69%**|4.4194%|98.9%|**99.77%**|
 |ELU(α=1.0)|91.66%|**4.171%**|**98.92%**|99.67%|
 
+<div style="text-align:center"><img src ="Observations/res110.png"  width="1000"/></div>
+
 ##### ResNet-164:
 
 |Activation Function| Top-1 Accuracy| Loss|Top-3 Accuracy| Top-5 Accuracy| 
