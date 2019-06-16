@@ -353,11 +353,6 @@ ResNet v2-56 was used for CIFAR-100 as similar to the CIFAR-10 classification. H
 <em> *This indicates the number of epochs
 </em><br>
 
-The Confusion Matrix obtained after 50 epoch training of ResNet v2 with Mish on CIFAR-100 is shown below:
-
-<div style="text-align:center"><img src ="Observations/Confusion_50.png"  width="500"/></div>
-<br>
-
 #### Wide Residual Networks (WRN):
 
 Wide Residual Networks(WRN) of 4 variants were used for classification of CIFAR-100 similar to the classification task of CIFAR-10 dataset. The variants used and their corresponding evaluation metrics are observed below:
