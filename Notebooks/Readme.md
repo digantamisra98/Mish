@@ -277,7 +277,7 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 
 ##### DenseNet-121:
 
-|Activation Function |Accuracy|Loss|Top-3 Accuracy|
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
 |ReLU|91.0997%|**4.40764%**|98.6946%|
 |Swish-1|90.9217%|4.54128%|**98.7144%**|
@@ -287,16 +287,16 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 
 ##### DenseNet-161:
 
-|Activation Function |Accuracy|Loss|Top-3 Accuracy|
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
 |ReLU||||
-|Swish-1||||
+|Swish-1|90.1602%|4.85416%|98.665%|
 |Mish|90.8228%|4.95727%|98.8034%|
 
 
 ##### DenseNet-169:
 
-|Activation Function |Accuracy|Loss| Top 3 Accuracy|
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
 |ReLU|**91.6535%**|**4.30486%**|**98.8726%**|
 |Swish-1|90.6744%|4.8451%|98.5562%|
@@ -308,7 +308,7 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 
 ##### ResNext-50:
 
-|Activation Function |Accuracy|Loss| Top 3 Accuracy|
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
 |ReLU|89.3592%|5.55392%|98.4771%|
 |Swish-1|**91.6238%**|**4.18871%**|**98.665%**|
