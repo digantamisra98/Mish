@@ -335,7 +335,7 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 
 #### MobileNet:
 
-##### MobileNet V2:
+##### MobileNet V1:
 
 |Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
