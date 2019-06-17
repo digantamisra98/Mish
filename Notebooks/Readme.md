@@ -193,7 +193,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Activation Function| Top-1 Accuracy| Loss|Top-3 Accuracy| Top-5 Accuracy| 
 |---|---|---|---|---|
 |Mish|92.58%|4.16525%|98.97%|99.72%|
-|Swish-1|||||
+|Swish-1|92.22%|4.16021%|98.99%|99.75%|
 |ReLU|||||
 
 #### Wide Residual Networks (WRN):
