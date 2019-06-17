@@ -368,9 +368,7 @@ CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another s
 
 #### ResNet-v2:
 
-##### ResNet-56:
-
-ResNet v2-56 was used for CIFAR-100 as similar to the CIFAR-10 classification. All details have been provided subsequently. 
+##### ResNet-56: 
 
 |Activation Function |Accuracy (50*)|Loss(50*)|
 |---|---|---|
