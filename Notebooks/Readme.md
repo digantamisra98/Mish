@@ -347,6 +347,16 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 
 <div style="text-align:center"><img src ="Observations/mobile2.png"  width="1000"/></div>
 
+##### MobileNet V2:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|ReLU|86.0463%|**5.06381%**|**97.5574%**|
+|Swish-1|86.0759%|5.43845%|97.4684%|
+|Mish|**86.254%**|5.26875%|97.5376%|
+
+<div style="text-align:center"><img src ="Observations/mobile.png"  width="1000"/></div>
+
 ### CIFAR-100:
 
 CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another subset of the Tiny Image Dataset similar to CIFAR-10, however containing 60000 images belonging to 100 classes with 600 images per class. All these images are 32x32 RGB images. These 100 classes are then grouped into 20 super-classes. The images are annotated with 2 labels- Fine Label (The class it belongs to) and Coarse Label (The super-class it belongs to). CIFAR-100 is also used extensively for Image Classification benchmarks.
