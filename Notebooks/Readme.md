@@ -329,6 +329,8 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |Swish-1|**91.0107%**|**4.76944%**|98.665%|
 |Mish|90.7338%|4.81563%|98.5364%|
 
+<div style="text-align:center"><img src ="Observations/dense201.png"  width="1000"/></div>
+
 #### ResNext
 
 ##### ResNext-50:
