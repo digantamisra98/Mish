@@ -204,6 +204,12 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |---|---|---|---|---|
 |Mish|87.74%|5.7284%|98.07|99.61%|
 
+##### ResNet-245:
+
+|Activation Function| Top-1 Accuracy| Loss|Top-3 Accuracy| Top-5 Accuracy| 
+|---|---|---|---|---|
+|Swish|85.41%|6.6752%|97.56%|99.38%|
+
 #### Wide Residual Networks (WRN):
 
 Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 3 variants were used for classification of CIFAR-10 dataset. The variants used and their corresponding evaluation metrics are observed below:
