@@ -12,3 +12,4 @@ sys
 timeit
 functools
 torch
+torchvision
