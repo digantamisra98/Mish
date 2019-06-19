@@ -400,6 +400,8 @@ CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another s
 |Swish-1|68.84%|85.89%|90.96%|17.09074%|
 |ReLU|68.45%|85.94%|91.05%|**16.64781%**|
 
+##### ResNet-44:
+
 #### ResNet-v2:
 
 ##### ResNet-56: 
