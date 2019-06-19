@@ -6,7 +6,6 @@ tensorflow-gpu
 matplotlib
 numpy
 opencv-python
-timeit
 functools
 torch
 torchvision
