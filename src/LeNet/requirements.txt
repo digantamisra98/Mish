@@ -5,5 +5,3 @@ tensorflow
 tensorflow-gpu
 matplotlib
 numpy
-opencv-python
-functools
