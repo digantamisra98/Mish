@@ -214,6 +214,9 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |---|---|---|---|---|
 |Swish|85.41%|6.6752%|97.56%|99.38%|
 |Mish|86.87%|6.07021%|97.88%|99.53%|
+|ReLU|86.32%|6.11834%|97.64%|99.45%|
+
+<div style="text-align:center"><img src ="Observations/res2452.png"  width="1000"/></div>
 
 #### Wide Residual Networks (WRN):
 
