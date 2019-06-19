@@ -1,6 +1,5 @@
 import Mnist
 import Mish
-import Swish
 import lenet
 
 ##Obtaining the Data(if using MNIST):

@@ -4,7 +4,6 @@ Script provides functional interface for Mish activation function.
 
 # import pytorch
 import torch
-from torch import nn
 import torch.nn.functional as F
 
 def mish(input):

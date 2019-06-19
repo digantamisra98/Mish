@@ -1,5 +1,4 @@
 #Import necessary packages
-from keras.datasets import mnist
 from keras.utils import np_utils
 from keras import backend as K
 from keras.datasets import mnist
