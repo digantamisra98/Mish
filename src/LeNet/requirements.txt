@@ -6,8 +6,5 @@ tensorflow-gpu
 matplotlib
 numpy
 opencv-python
-subprocess
-os
-sys
 timeit
 functools
