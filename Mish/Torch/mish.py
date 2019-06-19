@@ -7,7 +7,7 @@ mish(x) = x * tanh(softplus(x)) = x * tanh(ln(1 + exp(x)))
 from torch import nn
 
 # import activation functions
-import Echo.Activation.Torch.functional as Func
+import Mish.Torch.functional as Func
 
 class mish(nn.Module):
     '''
