@@ -43,23 +43,6 @@ jobs:
             . venv/bin/activate
             pip install -r requirements.txt
             python3 demo.py --activation mish --model_initialization class
-            
-  test_lenet:
-    docker:
-      - image: circleci/python:3.6.1
-
-    working_directory: ~/repo/src/LeNet
-
-    steps:
-      - checkout
-
-      - run:
-          name: test_lenet
-          command: |
-            python3 -m venv venv
-            . venv/bin/activate
-            pip install -r requirements.txt
-            python3 Test.py
 
 workflows:
   version: 2
@@ -67,4 +50,3 @@ workflows:
     jobs:
       - build
       - test_function_demo
-      - test_lenet

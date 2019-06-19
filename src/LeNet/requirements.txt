@@ -1,7 +1,0 @@
-gputil==1.4.0
-psutil==5.4.8
-humanize==0.5.1
-tensorflow
-tensorflow-gpu
-matplotlib
-numpy
