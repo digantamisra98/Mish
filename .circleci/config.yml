@@ -42,7 +42,7 @@ jobs:
             python3 -m venv venv
             . venv/bin/activate
             pip install -r requirements.txt
-            python3 demo.py --activation mila --model_initialization class
+            python3 demo.py --activation mish --model_initialization class
             
   test_lenet:
     docker:
@@ -60,6 +60,7 @@ jobs:
             . venv/bin/activate
             pip install -r requirements.txt
             python3 Test.py
+
 workflows:
   version: 2
   build_and_test:
