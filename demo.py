@@ -17,7 +17,7 @@ import torch.nn.functional as F
 from torchvision import datasets, transforms
 
 # import Mila activation function
-from Mish.Torch.mila import mish
+from Mish.Torch.mish import mish
 import Mish.Torch.functional as Func
 
 # activation names constant
