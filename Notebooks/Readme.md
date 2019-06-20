@@ -389,7 +389,7 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |ReLU|**90.1602%**|**4.75929%**|**98.5562%**|
 |Swish|89.4284%|5.47937%|98.3485%|
 
-###### SE-Net 34:
+##### SE-Net 34:
 
 |Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
