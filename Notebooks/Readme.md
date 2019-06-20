@@ -389,6 +389,8 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |ReLU|**90.1602%**|**4.75929%**|**98.5562%**|
 |Swish|89.4284%|5.47937%|98.3485%|
 
+<div style="text-align:center"><img src ="Observations/se18.png"  width="1000"/></div>
+
 ##### SE-Net 34:
 
 |Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
@@ -396,6 +398,8 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 |Mish|90.5162%|5.1516%|98.6056%|
 |ReLU|**91.6733%**|**4.22846%**|**98.825%**|
 |Swish|89.9624%|5.39445%|98.4177%|
+
+<div style="text-align:center"><img src ="Observations/se34.png"  width="1000"/></div>
 
 ### CIFAR-100:
 
