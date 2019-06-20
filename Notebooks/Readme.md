@@ -436,7 +436,7 @@ CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another s
 |---|---|---|---|---|
 |Mish|67.64%|85.02%|90.65%|17.18773%|
 |ReLU|||||
-|Swish|||||
+|Swish|67.76%|85.48%|90.74%|17.1041962%|
 
 #### ResNet-v2:
 
