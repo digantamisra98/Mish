@@ -420,6 +420,20 @@ CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another s
 
 ##### ResNet-44:
 
+|Activation Function|Top-1 Accuracy|Top-3 Accuracy|Top-5 Accuracy|Loss|
+|---|---|---|---|---|
+|Mish|69.37%|85.87%|90.97%|18.04521%|
+|ReLU|||||
+|Swish|||||
+
+##### ResNet-110:
+
+|Activation Function|Top-1 Accuracy|Top-3 Accuracy|Top-5 Accuracy|Loss|
+|---|---|---|---|---|
+|Mish|67.64%|85.02%|90.65%|17.18773%|
+|ReLU|||||
+|Swish|||||
+
 #### ResNet-v2:
 
 ##### ResNet-56: 
