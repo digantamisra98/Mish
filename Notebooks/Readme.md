@@ -379,6 +379,24 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 
 <div style="text-align:center"><img src ="Observations/mobile.png"  width="1000"/></div>
 
+#### SE-Net (Squeeze Excite Network):
+
+##### SE-Net 18: 
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|Mish|89.913%|5.4431%|98.4078%|
+|ReLU|**90.1602%**|**4.75929%**|**98.5562%**|
+|Swish|89.4284%|5.47937%|98.3485%|
+
+###### SE-Net 34:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|Mish|90.5162%|5.1516%|98.6056%|
+|ReLU|**91.6733%**|**4.22846%**|**98.825%**|
+|Swish|89.9624%|5.39445%|98.4177%|
+
 ### CIFAR-100:
 
 CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another subset of the Tiny Image Dataset similar to CIFAR-10, however containing 60000 images belonging to 100 classes with 600 images per class. All these images are 32x32 RGB images. These 100 classes are then grouped into 20 super-classes. The images are annotated with 2 labels- Fine Label (The class it belongs to) and Coarse Label (The super-class it belongs to). CIFAR-100 is also used extensively for Image Classification benchmarks.
