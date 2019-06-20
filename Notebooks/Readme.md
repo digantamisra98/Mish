@@ -104,6 +104,9 @@ ResNet v1 paper can be found here: [Paper](https://arxiv.org/pdf/1512.03385.pdf)
 |Swish-1|**92.84%**|**4.1272%**|98.96%|**99.82%**|
 |ReLU|92.33%|4.30961%|98.89%|99.73%|
 
+<div style="text-align:center"><img src ="Observations/res44c10v1.png"  width="1000"/></div>
+<br>
+
 ##### ResNet-56:
 
 |Activation Function| Top-1 Accuracy|Loss| Top-3 Accuracy| Top-5 Accuracy| 
@@ -427,8 +430,11 @@ CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another s
 |Activation Function|Top-1 Accuracy|Top-3 Accuracy|Top-5 Accuracy|Loss|
 |---|---|---|---|---|
 |Mish|69.37%|85.87%|90.97%|18.04521%|
-|ReLU|||||
-|Swish|||||
+|ReLU|**69.73%**|86%|**91.13%**|**16.77497%**|
+|Swish|69.62%|**86.22%**|91.08%|18.04978%|
+
+<div style="text-align:center"><img src ="Observations/res442c100.png"  width="1000"/></div>
+<br>
 
 ##### ResNet-110:
 
