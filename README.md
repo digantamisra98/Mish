@@ -26,13 +26,6 @@ Other notable ones being: <br>
 - Sigmoid (f(x)=(1+e<sup>-x</sup>)<sup>-1</sup>;Used for Binary Classification and Logistic Regression) <br>
 - Leaky ReLU (f(x)=0.001x (x<0) or x (x>0)) <br>
 
-
-
-## Dependencies:
-- TensorFlow = 1.12.x or higher
-- Keras = 2.2.x or higher
-- Python = 3x
-
 ## Mathematics under the hood:
 
 Mish Activation Function can be mathematically represented by the following formula:<br> 
@@ -65,11 +58,15 @@ Based on mathematical analysis, it is also confirmed that the function has a par
 
 **Mish** has a very sharp global minima similar to Swish, which might account to gradients updates of the model being stuck in the region of sharp decay thus may lead to bad performance levels as compared to ReLU. Mish, also being mathematically heavy, is more computationally expensive as compared to the time complexity of Swish Activation Function. 
 
+## Results:
+
+All results and comparative analysis are present in the [Readme](https://github.com/digantamisra98/Mish/blob/master/Notebooks/Readme.md) file present in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks).
+
 ## Try It! 
 
 ### Demo Jupyter Notebooks:
 
-All demo jupyter notebooks are present in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks)
+All demo jupyter notebooks are present in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks).
 
 ### For Source Code Implementation: 
 
