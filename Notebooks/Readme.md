@@ -194,7 +194,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Activation Function| Top-1 Accuracy| Loss|Top-3 Accuracy| Top-5 Accuracy| 
 |---|---|---|---|---|
 |Mish|**87.74%**|**5.7284%**|**98.07%**|**99.61%**|
-|Swish|86.13%|6.4354%|97.55%|99.4%|
+|Swish-1|86.13%|6.4354%|97.55%|99.4%|
 |ReLU| 83.59%| 7.3899%|96.86%|99.41%|
 
 <div style="text-align:center"><img src ="Observations/res1642.png"  width="1000"/></div>
@@ -203,7 +203,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 |Activation Function| Top-1 Accuracy| Loss|Top-3 Accuracy| Top-5 Accuracy| 
 |---|---|---|---|---|
-|Swish|85.41%|6.6752%|97.56%|99.38%|
+|Swish-1|85.41%|6.6752%|97.56%|99.38%|
 |Mish|**86.87%**|**6.07021%**|**97.88%**|**99.53%**|
 |ReLU|86.32%|6.11834%|97.64%|99.45%|
 
@@ -374,7 +374,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |---|---|---|---|
 |Mish|89.913%|5.4431%|98.4078%|
 |ReLU|**90.1602%**|**4.75929%**|**98.5562%**|
-|Swish|89.4284%|5.47937%|98.3485%|
+|Swish-1|89.4284%|5.47937%|98.3485%|
 
 <div style="text-align:center"><img src ="Observations/se18.png"  width="1000"/></div>
 
@@ -384,7 +384,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |---|---|---|---|
 |Mish|90.5162%|5.1516%|98.6056%|
 |ReLU|**91.6733%**|**4.22846%**|**98.825%**|
-|Swish|89.9624%|5.39445%|98.4177%|
+|Swish-1|89.9624%|5.39445%|98.4177%|
 
 <div style="text-align:center"><img src ="Observations/se34.png"  width="1000"/></div>
 
@@ -414,7 +414,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |---|---|---|---|---|
 |Mish|69.37%|85.87%|90.97%|18.04521%|
 |ReLU|**69.73%**|86%|**91.13%**|**16.77497%**|
-|Swish|69.62%|**86.22%**|91.08%|18.04978%|
+|Swish-1|69.62%|**86.22%**|91.08%|18.04978%|
 
 <div style="text-align:center"><img src ="Observations/res442c100.png"  width="1000"/></div>
 <br>
@@ -425,7 +425,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |---|---|---|---|---|
 |Mish|67.64%|85.02%|90.65%|17.18773%|
 |ReLU|**68.43%**|**86.43%**|**91.2%**|**16.68934%**|
-|Swish|67.76%|85.48%|90.74%|17.1041962%|
+|Swish-1|67.76%|85.48%|90.74%|17.1041962%|
 
 <div style="text-align:center"><img src ="Observations/res110c100.png"  width="1000"/></div>
 <br>
