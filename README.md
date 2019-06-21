@@ -69,7 +69,7 @@ Based on mathematical analysis, it is also confirmed that the function has a par
 
 ### Demo Jupyter Notebooks:
 
-All demo jupyter notebooks are presemt in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks)
+All demo jupyter notebooks are present in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks)
 
 ### For Source Code Implementation: 
 
