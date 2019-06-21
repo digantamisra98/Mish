@@ -552,15 +552,7 @@ Some samples obtained:
 |Swish-1|**4.8570448%**|12.737954%|
 |Mish|5.02091%|13.451806%|
 
-Some samples generated over 100 epochs: 
-
-<div style="text-align:center"><img src ="Observations/MNIST-GAN.PNG"  width="400"/></div>
-<br>
-
- Discriminator and Generator Loss Curves: 
- 
-<div style="text-align:center"><img src ="Observations/Loss1.png"  width="400"/></div>
-<br>
+Some samples generated over 100 epochs and the Discriminator and Generator Loss Curves: 
 
 <p float="left">
   <img src="Observations/MNIST-GAN.PNG"  width="400"/>
