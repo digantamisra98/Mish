@@ -562,6 +562,7 @@ Some samples generated over 100 epochs:
 <div style="text-align:center"><img src ="Observations/Loss1.png"  width="400"/></div>
 <br>
 
-Samples Generated over 100 Epochs         |  Discriminator and Generator Loss Graphs
-:-------------------------:|:-------------------------:
-![](https://github.com/digantamisra98/Mish/tree/master/Notebooks/Observations/MNIST-GAN.PNG)  |  ![](https://github.com/digantamisra98/Mish/tree/master/Notebooks/Observations/Loss1.png)
+<p float="left">
+  <img src="Observations/MNIST-GAN.PNG"  width="400"/>
+  <img src="Observations/Loss1.png"  width="400"/> 
+</p
