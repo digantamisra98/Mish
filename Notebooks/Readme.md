@@ -4,8 +4,6 @@
 
 #### LeNet-4:
 
-Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was used for MNIST - A database of Hand-written digits ([Dataset](http://yann.lecun.com/exdb/mnist/)) classification. The Accuracies table along with the inference time and computational cost analysis is provided below. The reason why LeNet was deployed for this task is because of the network being extremely small (Here, while referring to LeNet, it means LeNet-4 having a pair of Conv+Pool layers) and is extremely robust in MNIST classification, it also takes very less time to train due to the size of the network. 
-
 | Activation Function  | Accuracy (20*) |  Loss (20*) | GPU-Utilization (20*) |CPU-RAM Utilization** (20*)| Training Time (20*) | Inference Time (20*)| Top 5 Accuracy (20*) | Top 3 Accuracy (20*)|
 | ------------- | ------------- | ---|---|---|---|---|---|---|
 | ReLU  | **98.65%**  |**0.368%**|5%|**11.4GB**|**51.67 seconds**|**0.197 seconds**|**100%**|**99.94%**|
@@ -20,8 +18,6 @@ Google LeNet ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)) was 
 ### Fashion-MNIST:
 
 #### Mini VGG-Net:
-
-Mini VGG-Net ([Paper](https://arxiv.org/pdf/1409.1556.pdf)) was used for classification problem of Fashion MNIST/ F-MNIST ([Dataset](https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/)) which contains 28x28 sized images of fashion apparel.  The Accuracies table along with the inference time and computational cost analysis is provided below.
 
 | Activation Function  | Accuracy (25*) |  Loss (25*) | GPU-Utilization (5*) |CPU-RAM Utilization** (5*)| Training Time (5*) | Inference Time (5*)|
 | ------------- | ------------- | ---|---|---|---|---|
@@ -55,8 +51,6 @@ The evaluation metrics for the Mini-VGG Network with Mish Activation Function is
 
 ### Iris:
 
-A 3-layered Feed Forward Neural Network was used for IRIS ([Dataset](https://archive.ics.uci.edu/ml/datasets/iris)) classification. The metrics scores are provided in the table below. Here, in place of ReLU, Mish was tested against Swish and Sigmoid. 
-
 | Activation Function  | Accuracy (4000*) |  Loss (4000*) |
 | ------------- | ------------- | ---|
 | ReLU  | 96.67%  |2.84%|
@@ -68,11 +62,7 @@ A 3-layered Feed Forward Neural Network was used for IRIS ([Dataset](https://arc
 
 ### CIFAR-10:
 
-CIFAR-10 ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is an extensive labelled dataset of 60000, 32x32 Images belonging to 10 classes which have 6000 images per class. A comprehensive labelled subset of [TinyImages Dataset](http://groups.csail.mit.edu/vision/TinyImages/), the CIFAR-10 has been expansively used for benchmarking different architectures, frameworks and novel approaches mainly in the field of Image Classification. 
-
 #### ResNet v1:
-
-ResNet v1 paper can be found here: [Paper](https://arxiv.org/pdf/1512.03385.pdf)
 
 ##### ResNet-20:
 
@@ -139,8 +129,6 @@ ResNet v1 paper can be found here: [Paper](https://arxiv.org/pdf/1512.03385.pdf)
 <div style="text-align:center"><img src ="Observations/res164.png"  width="1000"/></div>
 
 #### ResNet v2:
-
-ResNet v2 paper can be found here: [Paper](https://arxiv.org/pdf/1603.05027.pdf)
 
 ##### ResNet-20:
 
@@ -223,8 +211,6 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 #### Wide Residual Networks (WRN):
 
-Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 3 variants were used for classification of CIFAR-10 dataset. The variants used and their corresponding evaluation metrics are observed below:
-
 ##### WRN 10-2:
 
 |Activation Function |Accuracy|Loss|
@@ -259,8 +245,6 @@ Wide Residual Networks(WRN)([Paper](https://arxiv.org/abs/1605.07146)) of 3 vari
 </em><br>
 
 #### SimpleNet:
-
-SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 classification. The findings are provided in the table below:
 
 |Activation Function |Accuracy|Loss| Top 3 Accuracy| Top 5 Accuracy|
 |---|---|---|---|---|
@@ -406,7 +390,6 @@ SimpleNet ([Paper](https://arxiv.org/abs/1608.06037)) was used for CIFAR-10 clas
 
 ### CIFAR-100:
 
-CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another subset of the Tiny Image Dataset similar to CIFAR-10, however containing 60000 images belonging to 100 classes with 600 images per class. All these images are 32x32 RGB images. These 100 classes are then grouped into 20 super-classes. The images are annotated with 2 labels- Fine Label (The class it belongs to) and Coarse Label (The super-class it belongs to). CIFAR-100 is also used extensively for Image Classification benchmarks.
 #### ResNet-v1:
 
 ##### ResNet-20:
@@ -462,8 +445,6 @@ CIFAR-100  ([Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) is another s
 
 #### Wide Residual Networks (WRN):
 
-Wide Residual Networks(WRN) of 4 variants were used for classification of CIFAR-100 similar to the classification task of CIFAR-10 dataset. The variants used and their corresponding evaluation metrics are observed below:
-
 ##### WRN 10-2:
 
 |Activation Function |Accuracy (Mean of 3 Runs)|
@@ -512,8 +493,6 @@ Wide Residual Networks(WRN) of 4 variants were used for classification of CIFAR-
 
 #### ASL (American Sign Language):
 
-Custom CNN (Convolutional Neural Network) was used for classification ASL ([American Sign Language Dataset](https://www.kaggle.com/datamunge/sign-language-mnist)). The Evaluation Metrics table is given below:
-
 | Activation Function  | Accuracy (10*) |  Loss (10*) |
 | ------------- | ------------- | ---|
 | ReLU  | 74.42%  |7.965%|
@@ -525,8 +504,6 @@ Custom CNN (Convolutional Neural Network) was used for classification ASL ([Amer
 
 #### Malaria Cells Dataset:
 
-Deep Conv Net was used for classifying microscopic cellular images of healthy cells and malaria paracitized cells present in the Malaria Cells Dataset ([Dataset](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)). The comparative analysis of the metrics scores obtained from the network using Mish against ReLU and Swish is given in the table below:
-
 | Activation Function  | Accuracy (10*) |  Loss (10*) |
 | ------------- | ------------- | ---|
 | ReLU  | 94.21%  |**1.45%**|
@@ -537,8 +514,6 @@ Deep Conv Net was used for classifying microscopic cellular images of healthy ce
 </em><br>
 
 #### Caravan Image Masking Challenge Dataset:
-
-U-Net ([Paper](https://arxiv.org/abs/1505.04597)) was deployed for the Caravan Image Masking Challenge ([Challenge/Dataset](https://www.kaggle.com/c/carvana-image-masking-challenge)) on [Kaggle](https://www.kaggle.com/). The evaluation metrics are given below in the table where the Loss and Dice Losses are being compared: 
 
 | Activation Function  | Training Loss (5*) |  Training Dice-Loss (5*) | Validation Loss(5*)| Validation Dice-Loss(5*)| Average Epoch Time | Average Step Time|
 | ------------- | ------------- | ---|---|---|---|---|
@@ -558,8 +533,6 @@ The following graph shows the Loss Plotting for U-Net with Mish: (Values Scaled 
 
 #### Auto-Encoders: 
 
-A simple Auto-Encoder model was used on Fashion MNIST data to observe the characteristic MSE loss trends of Mish as compared to ReLU and Swish. The Mean Squared Error (MSE) values recorded for 50 iterations are recorded in the table provided below: 
-
 |Activation Function|MSE|
 |---|---|
 |ReLU|0.0053245881572|
@@ -572,8 +545,6 @@ Some samples obtained:
 <br>
 
 ### GAN:
-
-Generative Adversarial Networks ([GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)) was used on MNIST dataset and the efficiency of Mish was compared to ReLU and Swish. 
 
 |Activation Function| Generator Loss| Discriminator Loss|
 |---|---|---|
@@ -590,3 +561,7 @@ Some samples generated over 100 epochs:
  
 <div style="text-align:center"><img src ="Observations/Loss1.png"  width="400"/></div>
 <br>
+
+Samples Generated over 100 Epochs         |  Discriminator and Generator Loss Graphs
+:-------------------------:|:-------------------------:
+![](https://github.com/digantamisra98/Mish/tree/master/Notebooks/Observations/MNIST-GAN.PNG)  |  ![](https://github.com/digantamisra98/Mish/tree/master/Notebooks/Observations/Loss1.png)
