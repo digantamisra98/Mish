@@ -56,10 +56,6 @@ The Taylor Series Expansion of *f(x)* at *x=∞* is given by: <br>
 
 Minimum of *f(x)* is observed to be ≈-0.30884 at *x*≈-1.1924<br>
 
-The Numerical root of the 1<sup>st</sup> derivative is calculated to be <br>
-
-*x* ≈ **-1.19243121451550** <br>
-
 When visualized, Mish Activation Function closely resembles the function path of Swish having a small decay (preserve) in the negative side while being near linear on the positive side. It is a Monotonic Function and as observed from it's derivatives functions shown above and graph shown below, it can be noted that it has a Non-Monotonic 1<sup>st</sup> derivative and 2<sup>nd</sup> derivative. <br>
 
 **Mish** ranges between ≈-0.31 to ∞.<br>
@@ -69,33 +65,19 @@ Based on mathematical analysis, it is also confirmed that the function has a par
 
 **Mish** has a very sharp global minima similar to Swish, which might account to gradients updates of the model being stuck in the region of sharp decay thus may lead to bad performance levels as compared to ReLU. Mish, also being mathematically heavy, is more computationally expensive as compared to the time complexity of Swish Activation Function. 
 
-## Set-Up:
-
-All Experiments were performed on [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) with NVIDIA Tesla T4 GPU. Initial Results were ran on a local machine equipped with an 64-bit, Intel i7-8750H CPU clocked at 2.2GHz, 16GB RAM with a NVIDIA GTX-1060 having the following specifications: 
-
-<table>
-  <tr><th colspan=2>GPU Specification Sheet</th></tr>
-  <tr><td>Driver Version</td><td>418.81</td></tr>
-  <tr><td>Driver Type</td><td>Standard</td></tr>
-  <tr><td>CUDA Cores</td><td>1280</td></tr>
-  <tr><td>Graphics Clock</td><td>1455 MHz</td></tr>
-  <tr><td>Memory Data Rate</td><td>8.01 Gbps</td></tr>
-  <tr><td>Memory Interface</td><td>192-bit</td></tr>
-  <tr><td>Memory Bandwidth</td><td>192.19 GB/s</td></tr>
-  <tr><td>Available Graphic Memory</td><td>14258 MB</td></tr>
-</table>
-
 ## Try It! 
 
-### Install Dependencies
+### Demo Jupyter Notebooks:
 
-```pip install -r requirements.txt```
+All demo jupyter notebooks are presemt in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks)
 
-- For LeNet with Mish on MNIST Google Colab Testing: 
+### For Source Code Implementation: 
 
-> Run the [LeNet_Mish.ipynb](https://github.com/digantamisra98/Mish/blob/master/Notebooks/LeNet_Mish.ipynb) file on your Google Colaboratory
+#### Torch:
 
-- For the Source Code Implementation:
+#### Keras:
+
+#### Tensorflow:
 
 ## Conclusion:
 
