@@ -396,6 +396,8 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Swish-1|86.9462%|6.05925%|97.6859%|
 |ReLU|87.0451%|**5.81928%**|97.5277%|
 
+<div style="text-align:center"><img src ="Observations/shuffle.png"  width="1000"/></div>
+
 ### CIFAR-100:
 
 #### ResNet-v1:
@@ -445,6 +447,8 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Mish|52.7%|73.56%|81.25%|24.75166%|
 |Swish-1|**55.96%**|**77.2%**|**84.3%**|**21.59843%**|
 |ReLU|52.6%|73.58%|81.63%|23.473348%|
+
+<div style="text-align:center"><img src ="Observations/res164c100.png"  width="1000"/></div>
 
 #### ResNet-v2:
 
