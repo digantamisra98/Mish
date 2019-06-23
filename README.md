@@ -62,6 +62,27 @@ Based on mathematical analysis, it is also confirmed that the function has a par
 
 All results and comparative analysis are present in the [Readme](https://github.com/digantamisra98/Mish/blob/master/Notebooks/Readme.md) file present in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks).
 
+### Summary of Results: 
+
+*Comparison is done based on the high priority metric, for image classification the Top-1 Accuracy while for Generative Networks and Image Segmentation the Loss Metric. Therefore, for the latter, Mish > Baseline is indicative of better loss and vice versa.*
+
+|Activation Function| Mish > Baseline Model | Mish < Baseline Model |
+|---|---|---|
+|ReLU|38|10|
+|Swish-1|34|13|
+|ELU(α=1.0)|4|1|
+|Aria-2(β = 1, α=1.5)|1|0|
+|Bent's Identity|1|0|
+|Hard Sigmoid|1|0|
+|Leaky ReLU(α=0.3)|2|1|
+|PReLU(Default Parameters)	|2|0|
+|SELU|4|0|
+|sigmoid|2|0|
+|SoftPlus|1|0|
+|Softsign|2|0|
+|TanH|2|0|
+|Thresholded ReLU(θ=1.0)|1|0|
+
 ## Try It! 
 
 ### Demo Jupyter Notebooks:
