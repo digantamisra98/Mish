@@ -68,8 +68,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 
 |Activation Function| Mish > Baseline Model | Mish < Baseline Model |
 |---|---|---|
-|ReLU|38|10|
-|Swish-1|34|13|
+|ReLU|37|13|
+|Swish-1|36|14|
 |ELU(α=1.0)|4|1|
 |Aria-2(β = 1, α=1.5)|1|0|
 |Bent's Identity|1|0|
