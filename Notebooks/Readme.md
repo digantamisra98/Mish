@@ -23,6 +23,9 @@
 |Swish-1|90.56%|4.2518%|97.257%|98.759%|
 |ReLU|**91.913%**|**4.21139%**|**97.6989%**|**98.935%**|
 
+<div style="text-align:center"><img src ="Observations/svhn.png"  width="1000"/></div>
+<br>
+
 ### Fashion-MNIST:
 
 #### Mini VGG-Net:
