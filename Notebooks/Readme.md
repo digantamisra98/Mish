@@ -15,6 +15,14 @@
 <em> **This shows the amount of RAM Free.
 </em><br>
 
+### SVHN: 
+
+|Activation Function| Top-1 Accuracy|Loss| Top-3 Accuracy| Top-5 Accuracy| 
+|---|---|---|---|---|
+|Mish|89.639%|4.77854%|97.0497%|98.686%|
+|Swish-1|90.56%|4.2518%|97.257%|98.759%|
+|ReLU|**91.913%**|**4.21139%**|**97.6989%**|**98.935%**|
+
 ### Fashion-MNIST:
 
 #### Mini VGG-Net:
