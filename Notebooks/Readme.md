@@ -401,6 +401,8 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 #### Shuffle Net:
 
+##### Shuffle Net v1:
+
 |Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
 |Mish|**87.3121%**|5.89664%|**97.7354%**|
@@ -409,7 +411,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 <div style="text-align:center"><img src ="Observations/shuffle.png"  width="1000"/></div>
 
-#### Shuffle Net v2:
+##### Shuffle Net v2:
 
 |Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
@@ -418,6 +420,14 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |ReLU|**87.0055%**|**5.35336%**|**97.854%**|
 
 <div style="text-align:center"><img src ="Observations/shufflev2.png"  width="1000"/></div>
+
+#### Squeeze Net:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|Mish|87.767%|5.15197%|97.9529%|
+|ReLU|87.8461%|4.94529%|98.2002%|
+|Swish-1|**88.3703%**|**4.66536%**|**98.2793%**|
 
 ### CIFAR-100:
 
