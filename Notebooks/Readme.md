@@ -26,6 +26,19 @@
 <div style="text-align:center"><img src ="Observations/svhn.png"  width="1000"/></div>
 <br>
 
+### K-MNIST:
+
+|Activation Function| Top-1 Accuracy|
+|---|---|
+|Mish|95.41%
+|Swish-1|
+|ReLU|
+
+Samples obtained during inference of a Custom CNN using Mish:
+
+<div style="text-align:center"><img src ="Observations/KMNIST.png"  width="1000"/></div>
+<br>
+
 ### Fashion-MNIST:
 
 #### Mini VGG-Net:
