@@ -30,9 +30,9 @@
 
 |Activation Function| Top-1 Accuracy|
 |---|---|
-|Mish|95.41%
-|Swish-1|
-|ReLU|
+|Mish|95.41%|
+|Swish-1|95.78%|
+|ReLU||
 
 Samples obtained during inference of a Custom CNN using Mish:
 
