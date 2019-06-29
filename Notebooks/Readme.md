@@ -39,6 +39,9 @@ Samples obtained during inference of a Custom CNN using Mish:
 <div style="text-align:center"><img src ="Observations/KMNIST.png"  width="1000"/></div>
 <br>
 
+<div style="text-align:center"><img src ="Observations/kmnist_graph.png"  width="1000"/></div>
+<br>
+
 ### Fashion-MNIST:
 
 #### Mini VGG-Net:
