@@ -473,6 +473,16 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 <div style="text-align:center"><img src ="Observations/effb0.png"  width="1000"/></div>
 
+##### EfficientNet B1:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|Mish|81.25%|23.00122%|95.4114%|
+|ReLU|**82.4367%**|**6.01114%**|96.1926%|
+|Swish-1|81.9818%|6.49295%|**96.2718%**|
+
+<div style="text-align:center"><img src ="Observations/effb1.png"  width="1000"/></div>
+
 ### CIFAR-100:
 
 #### ResNet-v1:
