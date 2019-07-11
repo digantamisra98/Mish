@@ -71,6 +71,10 @@ The output landscape of 5 layer randomly initialized neural network was compared
 
 <div style="text-align:center"><img src ="Observations/Mish_Landscape_1.png"  width="800"/></div>
 
+The Pre-Activations (ωx + b) distribution was observed for the final convolution layer in a ResNet v1-20 with Mish activation function before and after training for 20 epochs on CIFAR-10. As shown below, units are being preserved in the negative side which improves the network capacity to generalize well due to less loss of information. 
+
+<div style="text-align:center"><img src ="Observations/Distribution.png"  width="800"/></div>
+
 ## Results:
 
 All results and comparative analysis are present in the [Readme](https://github.com/digantamisra98/Mish/blob/master/Notebooks/Readme.md) file present in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks).
