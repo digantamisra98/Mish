@@ -55,8 +55,11 @@ When visualized, Mish Activation Function closely resembles the function path of
 <div style="text-align:center"><img src ="Observations/Mish3.png"  width="800"/></div>
 <div style="text-align:center"><img src ="Observations/Derivatives.png"  width="800"/></div>
 
-Following image shows the effect of Mish being applied on random noise (The right subplot is the Mish applied output).
+Following image shows the effect of Mish being applied on random noise. This is a replication of the effect of the activtion function on the image tensor inputs in CNN models. 
+
 <div style="text-align:center"><img src ="Observations/Mish_noise.png"  width="800"/></div>
+
+Here, Mish activation function was applied on a standard normal distribution. The output distribution shows Mish to be preserving information of the original distribution in the negative axis. 
 
 <div style="text-align:center"><img src ="Observations/Mish_bar.png"  width="800"/></div>
 
