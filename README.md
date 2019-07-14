@@ -75,6 +75,11 @@ The Pre-Activations (ωx + b) distribution was observed for the final convolutio
 
 <div style="text-align:center"><img src ="Observations/Distribution.png"  width="800"/></div>
 
+A 9 layer Network was trained for 50 epochs on CIFAR-10 to visualize the Loss Contour and Weights Distribution Histograms by following Filter Normalization process: 
+
+<div style="text-align:center"><img src ="Observations/Histogram_Mish.png"  width="800"/></div>
+<div style="text-align:center"><img src ="Observations/Mish_loss_2d.png"  width="800"/></div>
+
 ## Results:
 
 All results and comparative analysis are present in the [Readme](https://github.com/digantamisra98/Mish/blob/master/Notebooks/Readme.md) file present in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks).
