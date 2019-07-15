@@ -80,6 +80,12 @@ A 9 layer Network was trained for 50 epochs on CIFAR-10 to visualize the Loss Co
 <div style="text-align:center"><img src ="Observations/Histogram_Mish.png"  width="800"/></div>
 <div style="text-align:center"><img src ="Observations/Mish_loss_2d.png"  width="800"/></div>
 
+## Properties Summary:
+
+|Activation Function Name| Function Graph | Equation | Range | Order of Continuity | Monotonic | Monotonic Derivative | Approximates Identity Near Origin|
+|---|---|---|---|---|---|---|---|
+|Mish||| ≈-0.31 to ∞| C<sup>∞</sup> | No | No | Yes
+
 ## Results:
 
 All results and comparative analysis are present in the [Readme](https://github.com/digantamisra98/Mish/blob/master/Notebooks/Readme.md) file present in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks).
