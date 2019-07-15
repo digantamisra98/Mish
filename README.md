@@ -84,7 +84,7 @@ A 9 layer Network was trained for 50 epochs on CIFAR-10 to visualize the Loss Co
 
 |Activation Function Name| Function Graph | Equation | Range | Order of Continuity | Monotonic | Monotonic Derivative | Approximates Identity Near Origin|
 |---|---|---|---|---|---|---|---|
-|Mish||| ≈-0.31 to ∞| C<sup>∞</sup> | No | No | Yes
+|Mish||| ≈-0.31 to ∞| C<sup>∞</sup> | No :negative_squared_cross_mark:| No :negative_squared_cross_mark: | Yes :heavy_check_mark:|
 
 ## Results:
 
