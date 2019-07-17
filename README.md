@@ -80,6 +80,10 @@ A 9 layer Network was trained for 50 epochs on CIFAR-10 to visualize the Loss Co
 <div style="text-align:center"><img src ="Observations/Histogram_Mish.png"  width="800"/></div>
 <div style="text-align:center"><img src ="Observations/Mish_loss_2d.png"  width="800"/></div>
 
+Being a mathematical function, the complex analysis of Mish Function was also visualized: 
+
+<div style="text-align:center"><img src ="Observations/complex.png"  width="800"/></div>
+
 ## Properties Summary:
 
 |Activation Function Name| Function Graph | Equation | Range | Order of Continuity | Monotonic | Monotonic Derivative | Approximates Identity Near Origin|
