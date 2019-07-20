@@ -84,6 +84,10 @@ Being a mathematical function, the complex analysis of Mish Function was also vi
 
 <div style="text-align:center"><img src ="Observations/complex.png"  width="800"/></div>
 
+Edge of Chaos and Rate of Convergence (EOC & ROC): 
+
+
+
 ## Properties Summary:
 
 |Activation Function Name| Function Graph | Equation | Range | Order of Continuity | Monotonic | Monotonic Derivative | Approximates Identity Near Origin| Dead Neurons | Saturated |
