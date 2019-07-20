@@ -84,7 +84,7 @@ Being a mathematical function, the complex analysis of Mish Function was also vi
 
 <div style="text-align:center"><img src ="Observations/complex.png"  width="800"/></div>
 
-Edge of Chaos and Rate of Convergence (EOC & ROC): 
+## Edge of Chaos and Rate of Convergence (EOC & ROC): 
 
 
 
