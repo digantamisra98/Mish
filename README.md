@@ -86,7 +86,7 @@ Being a mathematical function, the complex analysis of Mish Function was also vi
 
 ## Edge of Chaos and Rate of Convergence (EOC & ROC): 
 
-
+**Coming Soon**
 
 ## Properties Summary:
 
@@ -129,17 +129,23 @@ All demo jupyter notebooks are present in the [Notebooks Folder](https://github.
 
 #### Torch:
 
+Torch Implementation of Mish Activation Function can be found [here](https://github.com/digantamisra98/Mish/tree/master/Mish/Torch)
+
 #### Keras:
+
+Keras Implementation of Mish activation function can be found [here](https://github.com/digantamisra98/Mish/blob/master/Mish/Keras/mish.py)
 
 #### Tensorflow:
 
-## Conclusion:
+*Coming Soon*
 
 ## Future Work (Coming Soon):
 
-## Support Me
-
-## Acknowledgements:
+- Image Net Benchmarks
+- GANs Benchmarks
+- Transformer Model Benchmarks
+- Fix ResNext Benchmarks
+- Comparison of Convergence Rates
 
 ## Contact: 
 - [LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
