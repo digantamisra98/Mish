@@ -140,6 +140,7 @@ Keras Implementation of Mish activation function can be found [here](https://git
 
 ## Future Work (Coming Soon):
 
+- Additional CIFAR-100, STL-10, CalTech-101 Benchmarks
 - Image Net Benchmarks
 - GANs Benchmarks
 - Transformer Model Benchmarks
