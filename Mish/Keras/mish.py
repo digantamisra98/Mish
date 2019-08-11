@@ -9,7 +9,7 @@ from __future__ import print_function
 from keras.engine.base_layer import Layer
 from keras import backend as K
 
-class mish(Layer):
+class Mish(Layer):
     '''
     Mish Activation Function.
 
@@ -26,19 +26,19 @@ class mish(Layer):
 
     Examples:
         >>> X_input = Input(input_shape)
-        >>> X = mish()(X_input)
+        >>> X = Mish()(X_input)
 
     '''
 
     def __init__(self, **kwargs):
-        super(mish, self).__init__(**kwargs)
+        super(Mish, self).__init__(**kwargs)
         self.supports_masking = True
 
     def call(self, inputs):
         return inputs * K.tanh(K.softplus(inputs))
 
     def get_config(self):
-        base_config = super(mish, self).get_config()
+        base_config = super(Mish, self).get_config()
         return dict(list(base_config.items()) + list(config.items()))
 
     def compute_output_shape(self, input_shape):

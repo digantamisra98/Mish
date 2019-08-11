@@ -9,7 +9,7 @@ from torch import nn
 # import activation functions
 import Mish.Torch.functional as Func
 
-class mish(nn.Module):
+class Mish(nn.Module):
     '''
     Applies the mish function element-wise:
     mish(x) = x * tanh(softplus(x)) = x * tanh(ln(1 + exp(x)))
@@ -20,7 +20,7 @@ class mish(nn.Module):
         - Output: (N, *), same shape as the input
 
     Examples:
-        >>> m = mish()
+        >>> m = Mish()
         >>> input = torch.randn(2)
         >>> output = m(input)
 
