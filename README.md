@@ -137,7 +137,7 @@ Keras Implementation of Mish activation function can be found [here](https://git
 
 #### Tensorflow:
 
-*Coming Soon*
+TensorFlow - Keras Implementation of Mish Activation function can be found [here](https://github.com/digantamisra98/Mish/blob/master/Mish/TF-Keras/mish.py)
 
 ## Future Work (Coming Soon):
 
@@ -147,6 +147,17 @@ Keras Implementation of Mish activation function can be found [here](https://git
 - Transformer Model Benchmarks
 - Fix ResNext Benchmarks
 - Comparison of Convergence Rates
+
+## Cite this work:
+
+```
+@misc{Mish: A Self Regularized Non-Monotonic Neural Activation Function},
+  author = {Diganta Misra},
+  title = {Mish: A Self Regularized Non-Monotonic Neural Activation Function},
+  year = {2019},
+  url = {https://github.com/digantamisra98/Mish},
+}
+```
 
 ## Contact: 
 - [LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
