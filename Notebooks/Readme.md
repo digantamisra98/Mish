@@ -727,5 +727,10 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 
 ### DCGAN (MNIST):
 
+|Activation Function| Generator Loss| Discriminator Loss|
+|---|---|---|
+|Leaky ReLU|5.2213|**0.1261**|
+|Mish|**2.2687**|0.3796|
+
 <div style="text-align:center"><img src ="Observations/dcgan1.png"  width="600"/></div>
 <br>
