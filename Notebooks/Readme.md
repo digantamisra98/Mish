@@ -727,5 +727,5 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 
 ### DCGAN (MNIST):
 
-<div style="text-align:center"><img src ="Observations/dcgan.PNG"  width="600"/></div>
+<div style="text-align:center"><img src ="Observations/dcgan.png"  width="600"/></div>
 <br>
