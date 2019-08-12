@@ -723,4 +723,9 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 <p float="left">
   <img src="Observations/MNIST-GAN.PNG"  width="400"/>
   <img src="Observations/Loss1.png"  width="400"/> 
-</p
+</p>
+
+### DCGAN (MNIST):
+
+<div style="text-align:center"><img src ="Observations/dcgan.PNG"  width="600"/></div>
+<br>
