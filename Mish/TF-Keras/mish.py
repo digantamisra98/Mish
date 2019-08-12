@@ -3,7 +3,6 @@
 ## Import Necessary Modules
 import tensorflow as tf
 from tensorflow.keras.layers import Layer
-from tensorflow.keras import backend as K
 
 class Mish(Layer):
     '''
