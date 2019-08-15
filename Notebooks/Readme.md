@@ -669,6 +669,16 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 *Note: DenseNet 121 for Mish was run on Google Colab while for Swish and ReLU was run on Kaggle Kernel which accounts for the huge difference in epoch run time"
 
+##### DenseNet-169:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|ReLU|64.9921%|25.74587%|81.8631%|
+|Swish-1|**65.6942%**|**24.94666%**|**82.9114%**|
+|Mish|65.3877%|25.30009%|81.9521%|
+
+<div style="text-align:center"><img src ="Observations/dense169c100.png"  width="1000"/></div>
+
 #### Shake-Shake Net: 
 
 |Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
