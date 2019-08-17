@@ -763,6 +763,29 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 <div style="text-align:center"><img src ="Observations/squeezec100.png"  width="1000"/></div>
 
+#### ResNext
+
+##### ResNext-50:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|ReLU|67.5237%|22.82231%|**84.3058%**|
+|Swish-1|66.7227%|22.97197%|83.4751%|
+|Mish|**67.5831%**|**22.67923%**|84.2069%|
+
+<div style="text-align:center"><img src ="Observations/resnext50c100.png"  width="1000"/></div>
+
+#### SE-Net (Squeeze Excite Network):
+
+##### SE-Net 18: 
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|Mish|**64.3888%**|**25.08049%**|**81.4775%**|
+|ReLU|62.7176%|27.25935%|80.3995%|
+|Swish-1|63.8944%|26.09737%|80.3995%|
+
+<div style="text-align:center"><img src ="Observations/se18c100.png"  width="1000"/></div>
 
 ### Custom Data-Sets:
 
