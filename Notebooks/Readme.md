@@ -709,6 +709,28 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 <div style="text-align:center"><img src ="Observations/shakec100.png"  width="1000"/></div>
 
+#### MobileNet:
+
+##### MobileNet V1:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|ReLU|49.2089%|**36.70942%**|68.0578%|
+|Swish-1|49.9506%|37.62909%|68.2358%|
+|Mish|**50.0989%**|36.86589%|**69.2642%**|
+
+<div style="text-align:center"><img src ="Observations/mobilec100.png"  width="1000"/></div>
+
+##### MobileNet V2:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|ReLU|56.1907%|**24.01577%**|75.8604%|
+|Swish-1|55.6764%|27.90889%|74.7528%|
+|Mish|**57.0609%**|25.96031%|**76.2757%**|
+
+<div style="text-align:center"><img src ="Observations/mobilev2c100.png"  width="1000"/></div>
+
 ### Custom Data-Sets:
 
 #### ASL (American Sign Language):
