@@ -775,6 +775,18 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 <div style="text-align:center"><img src ="Observations/resnext50c100.png"  width="1000"/></div>
 
+#### Inception Net:
+
+##### Inception v3:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|Mish|68.3347%|20.8839%|84.7409%|
+|ReLU|**68.7797%**|**20.4812%**|**85.1365%**|
+|Swish-1|67.0095%|21.22539%|83.9201%|
+
+<div style="text-align:center"><img src ="Observations/inceptionc100.png"  width="1000"/></div>
+
 #### SE-Net (Squeeze Excite Network):
 
 ##### SE-Net 18: 
