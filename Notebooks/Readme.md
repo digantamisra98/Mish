@@ -799,6 +799,16 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 <div style="text-align:center"><img src ="Observations/se18c100.png"  width="1000"/></div>
 
+##### SE-Net 34:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|Mish|64.4778%|**24.05231%**|81.7741%|
+|ReLU|64.5669%|25.20289%|81.3093%|
+|Swish-1|**64.8734%**|24.13571%|**81.9225%**|
+
+<div style="text-align:center"><img src ="Observations/se34c100.png"  width="1000"/></div>
+
 ### Custom Data-Sets:
 
 #### ASL (American Sign Language):
