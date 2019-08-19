@@ -141,7 +141,7 @@ TensorFlow - Keras Implementation of Mish Activation function can be found [here
 
 ## Future Work (Coming Soon):
 
-- Additional CIFAR-100, STL-10, CalTech-101 Benchmarks
+- Additional STL-10, CalTech-101 & 256 Benchmarks
 - Image Net Benchmarks
 - GANs Benchmarks
 - Transformer Model Benchmarks
