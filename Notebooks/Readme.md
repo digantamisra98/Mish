@@ -645,6 +645,16 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 <em> *Number of Epochs=50, Batch Size= 128.
 </em><br>
 
+#### VGG-16:
+
+|Activation Function |Testing Top-1 Accuracy|Testing Top-3 Accuracy|Testing Top-5 Accuracy|Testing Loss|
+|---|---|---|---|---|
+|Mish|68.64%|84.15%|88.75%|22.62576%|
+|Swish-1|**69.7%**|**84.98%**|**89.34%**|22.03713%|
+|ReLU|69.36%|84.57%|89.25%|**21.14352%**|
+
+<div style="text-align:center"><img src ="Observations/vgg.png"  width="1000"/></div>
+
 #### DenseNet
 
 ##### DenseNet-121:
