@@ -493,16 +493,6 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 <div style="text-align:center"><img src ="Observations/effb2.png"  width="1000"/></div>
 
-#### Shake-Shake Net: 
-
-|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
-|---|---|---|---|
-|Mish|90.9909%|3.05388%|98.7836%|
-|ReLU|90.9217%|2.98038%|98.6254%|
-|Swish-1|**91.0601%**|**2.93223%**|**98.8331%**|
-
-<div style="text-align:center"><img src ="Observations/shake_shake.png"  width="1000"/></div>
-
 ### CIFAR-100:
 
 #### ResNet-v1:
@@ -698,16 +688,6 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Mish|**64.4383%**|26.35366%|**81.8335%**|
 
 <div style="text-align:center"><img src ="Observations/dense201c100.png"  width="1000"/></div>
-
-#### Shake-Shake Net: 
-
-|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
-|---|---|---|---|
-|Mish|68.1764%|14.1969%|85.6013%|
-|ReLU|68.4533%|14.14212%|85.7199%|
-|Swish-1|**68.6808%**|**13.76375%**|**86.2737%**|
-
-<div style="text-align:center"><img src ="Observations/shakec100.png"  width="1000"/></div>
 
 #### MobileNet:
 
