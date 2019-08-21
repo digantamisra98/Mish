@@ -127,11 +127,46 @@ All results and comparative analysis are present in the [Readme](https://github.
 |TanH|2|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 
+#### CIFAR Results:
 
 |Models|Mish|Swish|ReLU|
 |:---:|---|---|---|
-|ResNet v1-20| <p>CIFAR 10: 91.81%<br>CIFAR 100: 67.26%</p> | <p>CIFAR 10: 91.95%<br>CIFAR 100: 67.1%</p> | <p>CIFAR 10: 91.5%<br>CIFAR 100: 67%</p> |
-|ResNet v1-32| <p>CIFAR 10: 92.29%<br>CIFAR 100: 69.44%</p> | <p>CIFAR 10: 92.3%%<br>CIFAR 100: 68.84%</p> | <p>CIFAR 10: 91.78%<br>CIFAR 100: 68.45%</p> |
+|ResNet v1-20| <p>CIFAR 10: 91.81%<br>CIFAR 100: <b>67.26%</b></p> | <p>CIFAR 10: <b>91.95%</b><br>CIFAR 100: 67.1%</p> | <p>CIFAR 10: 91.5%<br>CIFAR 100: 67%</p> |
+|ResNet v1-32| <p>CIFAR 10: 92.29%<br>CIFAR 100: 69.44%</p> | <p>CIFAR 10: 92.3%<br>CIFAR 100: 68.84%</p> | <p>CIFAR 10: 91.78%<br>CIFAR 100: 68.45%</p> |
+|ResNet v1-44|<p>CIFAR 10: 92.46%<br>CIFAR 100: 69.34%</p> | <p>CIFAR 10: 92.84%<br>CIFAR 100: 69.62%</p> | <p>CIFAR 10: 92.33%<br>CIFAR 100: 69.73%</p> |
+|ResNet v1-56|<p>CIFAR 10: 92.21%<br>CIFAR 100: 70.13%</p> | <p>CIFAR 10: 91.85%<br>CIFAR 100: 70.02%</p> | <p>CIFAR 10: 91.97%<br>CIFAR 100: 69.6%</p> |
+|ResNet v1-110|<p>CIFAR 10: 91.44%<br>CIFAR 100: 67.64%</p> | <p>CIFAR 10: 91.34%<br>CIFAR 100: 67.76%</p> | <p>CIFAR 10: 91.69%<br>CIFAR 100: 68.43%</p> |
+|ResNet v1-164|<p>CIFAR 10: 83.62%<br>CIFAR 100: 52.7%</p> | <p>CIFAR 10: 82.19%<br>CIFAR 100: 55.96%</p> | <p>CIFAR 10: 82.37%<br>CIFAR 100: 52.6%</p> |
+|ResNet v2-20|<p>CIFAR 10: 92.02%<br>CIFAR 100: 70.86%</p> | <p>CIFAR 10: 91.61%<br>CIFAR 100: 70.23%</p> | <p>CIFAR 10: 91.71%<br>CIFAR 100: 70.54%</p> |
+|ResNet v2-56|<p>CIFAR 10: 87.18%<br>CIFAR 100: 60.67%</p> | <p>CIFAR 10: 86.36%<br>CIFAR 100: 60.28%</p> | <p>CIFAR 10: 83.86%<br>CIFAR 100: 57.25%</p> |
+|ResNet v2-110|<p>CIFAR 10: 92.58%<br>CIFAR 100: 74.41%</p> | <p>CIFAR 10: 92.22%<br>CIFAR 100: 74.13%</p> | <p>CIFAR 10: 91.93%<br>CIFAR 100: 73%</p> |
+|ResNet v2-164|<p>CIFAR 10: 87.74%<br>CIFAR 100: 64.16%</p> | <p>CIFAR 10: 86.13%<br>CIFAR 100: 64.48%</p> | <p>CIFAR 10: 83.59%<br>CIFAR 100: 63.73%</p> |
+|ResNet v2-245|<p>CIFAR 10: 86.67%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 85.41%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 86.32%<br>CIFAR 100: NA</p> |
+|WRN 10-2|<p>CIFAR 10: 86.83%<br>CIFAR 100: 67.157%</p> | <p>CIFAR 10: 86.56%<br>CIFAR 100: 66.98%</p> | <p>CIFAR 10: 84.52%<br>CIFAR 100: 62.5567%</p> |
+|WRN 16-4|<p>CIFAR 10: 90.54%<br>CIFAR 100: 72.92%</p> | <p>CIFAR 10: 90.07%<br>CIFAR 100: 74.60%</p> | <p>CIFAR 10: 90.74%<br>CIFAR 100: 74.60%</p> |
+|WRN 22-10|<p>CIFAR 10: 90.38%<br>CIFAR 100: 72.32%</p> | <p>CIFAR 10: 90.17%<br>CIFAR 100: 71.89%</p> | <p>CIFAR 10: 91.28%<br>CIFAR 100: 72.2%</p> |
+|WRN 40-4|<p>CIFAR 10: NA<br>CIFAR 100: 69.52%</p> | <p>CIFAR 10: NA<br>CIFAR 100: 69.59%</p> | <p>CIFAR 10: NA<br>CIFAR 100: 69.35%</p> |
+|VGG 16|<p>CIFAR 10: NA<br>CIFAR 100: 68.64%</p> | <p>CIFAR 10: NA<br>CIFAR 100: 69.7%</p> | <p>CIFAR 10: NA<br>CIFAR 100: 69.36%</p> |
+|SimpleNet|<p>CIFAR 10: 91.70%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 91.44%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 91.16%<br>CIFAR 100: NA</p> |
+|Xception Net|<p>CIFAR 10: 88.73%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 88.56%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 88.38%<br>CIFAR 100: NA</p> |
+|Capsule Network|<p>CIFAR 10: 83.15%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 82.48%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 82.19%<br>CIFAR 100: NA</p> |
+|Inception ResNet v2|<p>CIFAR 10: 85.21%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 84.96%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 82.22%<br>CIFAR 100: NA</p> |
+|DenseNet-121|<p>CIFAR 10: 91.2678%<br>CIFAR 100: 66.3172%</p> | <p>CIFAR 10: 90.9217%<br>CIFAR 100: 65.9118%</p> | <p>CIFAR 10: 91.0997%<br>CIFAR 100: 65.5063%</p> |
+|DenseNet - 161|<p>CIFAR 10: 90.8228%<br>CIFAR 100: 63.8944%</p> | <p>CIFAR 10: 90.1602%<br>CIFAR 100: 64.8042%</p> | <p>CIFAR 10: 91.0206%<br>CIFAR 100: 63.9043%</p> |
+|DenseNet - 169|<p>CIFAR 10: 90.5063%<br>CIFAR 100: 65.3877%</p> | <p>CIFAR 10: 90.6744%<br>CIFAR 100: 65.6942%</p> | <p>CIFAR 10: 91.6535%<br>CIFAR 100: 64.9921%</p> |
+|DenseNet - 201|<p>CIFAR 10: 90.7338%<br>CIFAR 100: 64.4383%</p> | <p>CIFAR 10: 91.0107%<br>CIFAR 100: 64.2504%</p> | <p>CIFAR 10: 90.7239%<br>CIFAR 100: 63.2516%</p> |
+|ResNext - 50|<p>CIFAR 10: 90.8327%<br>CIFAR 100: 67.5831%</p> | <p>CIFAR 10: 91.6238%<br>CIFAR 100: 66.7227%</p> | <p>CIFAR 10: 89.3592%<br>CIFAR 100: 67.5237%</p> |
+|MobileNet v1|<p>CIFAR 10: 85.2749%<br>CIFAR 100: 50.0989%</p> | <p>CIFAR 10: 85.6903%<br>CIFAR 100: 49.9506%</p> | <p>CIFAR 10: 84.1179%<br>CIFAR 100: 49.2089%</p> |
+|MobileNet v2|<p>CIFAR 10: 86.254%<br>CIFAR 100: 57.0609%</p> | <p>CIFAR 10: 86.0759%<br>CIFAR 100: 55.6764%</p> | <p>CIFAR 10: 86.0463%<br>CIFAR 100: 56.1907%</p> |
+|SENet - 18|<p>CIFAR 10: 89.913%<br>CIFAR 100: 64.3888%</p> | <p>CIFAR 10: 89.4284%<br>CIFAR 100: 63.8944%</p> | <p>CIFAR 10: 90.1602%<br>CIFAR 100: 62.7176%</p> |
+|SENet - 34|<p>CIFAR 10: 90.5162%<br>CIFAR 100: 64.4778%</p> | <p>CIFAR 10: 89.9624%<br>CIFAR 100: 64.8734%</p> | <p>CIFAR 10: 91.6733%<br>CIFAR 100: 64.5669%</p> |
+|ShuffleNet v1|<p>CIFAR 10: 87.3121%<br>CIFAR 100: 59.1871%</p> | <p>CIFAR 10: 86.9462%<br>CIFAR 100: 58.4355%</p> | <p>CIFAR 10: 87.0451%<br>CIFAR 100: 57.9806%</p> |
+|ShuffleNet v2|<p>CIFAR 10: 86.6297%<br>CIFAR 100: 59.3552%</p> | <p>CIFAR 10: 86.9363%<br>CIFAR 100: 58.9102%</p> | <p>CIFAR 10: 87.0055%<br>CIFAR 100: 58.5641%</p> |
+|SqueezeNet|<p>CIFAR 10: 87.767%<br>CIFAR 100: 63.0736%</p> | <p>CIFAR 10: 88.3703%<br>CIFAR 100: 62.1143%</p> | <p>CIFAR 10: 87.8461%<br>CIFAR 100: 60.9276%</p> |
+|Inception v3|<p>CIFAR 10: 91.1986%<br>CIFAR 100: 68.3347%</p> | <p>CIFAR 10: 91.1788%<br>CIFAR 100: 67.0095%</p> | <p>CIFAR 10: 90.8426%<br>CIFAR 100: 68.7797%</p> |
+|Efficient Net B0|<p>CIFAR 10: 80.7358%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 79.371FAR 100: NA</p> | <p>CIFAR 10: 79.3117FAR 100: NA</p> |
+|Efficient Net B1|<p>CIFAR 10: 80.9632%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 81.9818%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 82.4367%<br>CIFAR 100: NA</p> |
+|Efficient Net B2|<p>CIFAR 10: 81.2006%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 80.9039%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 81.7148%<br>CIFAR 100: NA</p> |
 
 
 ## Try It! 
