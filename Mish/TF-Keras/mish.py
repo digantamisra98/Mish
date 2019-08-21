@@ -23,4 +23,4 @@ class Mish(Layer):
         super(Mish, self).__init__()
     
     def call(self, inputs):
-        return inputs * tf.math.tanh(tf.math.log(1 + tf.math.exp(inputs)))
+        return inputs * tf.math.tanh(tf.math.softplus(x))
