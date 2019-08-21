@@ -67,7 +67,7 @@ Based on mathematical analysis, it is also confirmed that the function has a par
 
 **Mish** has a very sharp global minima similar to Swish, which might account to gradients updates of the model being stuck in the region of sharp decay thus may lead to bad performance levels as compared to ReLU. Mish, also being mathematically heavy, is more computationally expensive as compared to the time complexity of Swish Activation Function. 
 
-The output landscape of 5 layer randomly initialized neural network was compared for ReLU, Swish and Mish. The observation clearly shows the sharp transition between the scalar magnitudes for the co-ordinates of ReLU as compared to Swish and Mish. Smoother transition results in smoother loss functions which are easier to optimize and hence the network generalizes better. 
+The output landscape of 5 layer randomly initialized neural network was compared for ReLU, Swish, and Mish. The observation clearly shows the sharp transition between the scalar magnitudes for the co-ordinates of ReLU as compared to Swish and Mish. Smoother transition results in smoother loss functions which are easier to optimize and hence the network generalizes better. 
 
 <div style="text-align:center"><img src ="Observations/Mish_Landscape_1.png"  width="800"/></div>
 
@@ -90,7 +90,7 @@ To observe how increasing the number of layers in a network while maintaining ot
 
 <div style="text-align:center"><img src ="Observations/layersacc.png"  width="500"/></div>
 
-In the experiments, all 3 activations maintained nearly the same test accuracy for 15 layered Network. Increasing number of layers from 15 gradually resulted in sharp decrease in test accuracy for Swish and ReLU, however, Mish outperformed them both in large networks where optimization is difficult.
+In the experiments, all 3 activations maintained nearly the same test accuracy for 15 layered Network. Increasing number of layers from 15 gradually resulted in a sharp decrease in test accuracy for Swish and ReLU, however, Mish outperformed them both in large networks where optimization is difficult.
 
 ## Edge of Chaos and Rate of Convergence (EOC & ROC): 
 
