@@ -1,4 +1,4 @@
-"""Tensorflow-Keras Implementation of Mishh"""
+"""Tensorflow-Keras Implementation of Mish"""
 
 ## Import Necessary Modules
 import tensorflow as tf
