@@ -493,16 +493,6 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 <div style="text-align:center"><img src ="Observations/effb2.png"  width="1000"/></div>
 
-#### Shake-Shake Net: 
-
-|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
-|---|---|---|---|
-|Mish|90.9909%|3.05388%|98.7836%|
-|ReLU|90.9217%|2.98038%|98.6254%|
-|Swish-1|**91.0601%**|**2.93223%**|**98.8331%**|
-
-<div style="text-align:center"><img src ="Observations/shake_shake.png"  width="1000"/></div>
-
 ### CIFAR-100:
 
 #### ResNet-v1:
@@ -655,6 +645,16 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 <em> *Number of Epochs=50, Batch Size= 128.
 </em><br>
 
+#### VGG-16:
+
+|Activation Function |Testing Top-1 Accuracy|Testing Top-3 Accuracy|Testing Top-5 Accuracy|Testing Loss|
+|---|---|---|---|---|
+|Mish|68.64%|84.15%|88.75%|22.62576%|
+|Swish-1|**69.7%**|**84.98%**|**89.34%**|22.03713%|
+|ReLU|69.36%|84.57%|89.25%|**21.14352%**|
+
+<div style="text-align:center"><img src ="Observations/vgg.png"  width="1000"/></div>
+
 #### DenseNet
 
 ##### DenseNet-121:
@@ -699,15 +699,105 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 <div style="text-align:center"><img src ="Observations/dense201c100.png"  width="1000"/></div>
 
-#### Shake-Shake Net: 
+#### MobileNet:
+
+##### MobileNet V1:
 
 |Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
-|Mish|68.1764%|14.1969%|85.6013%|
-|ReLU|68.4533%|14.14212%|85.7199%|
-|Swish-1|**68.6808%**|**13.76375%**|**86.2737%**|
+|ReLU|49.2089%|**36.70942%**|68.0578%|
+|Swish-1|49.9506%|37.62909%|68.2358%|
+|Mish|**50.0989%**|36.86589%|**69.2642%**|
 
-<div style="text-align:center"><img src ="Observations/shakec100.png"  width="1000"/></div>
+<div style="text-align:center"><img src ="Observations/mobilec100.png"  width="1000"/></div>
+
+##### MobileNet V2:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|ReLU|56.1907%|**24.01577%**|75.8604%|
+|Swish-1|55.6764%|27.90889%|74.7528%|
+|Mish|**57.0609%**|25.96031%|**76.2757%**|
+
+<div style="text-align:center"><img src ="Observations/mobilev2c100.png"  width="1000"/></div>
+
+#### Shuffle Net:
+
+##### Shuffle Net v1:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|Mish|**59.1871%**|28.08927%|77.0866%|
+|Swish-1|58.4355%|28.2357%|77.1163%|
+|ReLU|57.9806%|**27.35182%**|**77.324%**|
+
+<div style="text-align:center"><img src ="Observations/shufflev1c100.png"  width="1000"/></div>
+
+##### Shuffle Net v2:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|Mish|**59.3552%**|27.42081%|77.324%|
+|Swish-1|58.9102%|27.65543%|**77.5218%**|
+|ReLU|58.5641%|**27.16777%**|76.8493%|
+
+<div style="text-align:center"><img src ="Observations/shufflev2c100.png"  width="1000"/></div>
+
+#### Squeeze Net:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|Mish|**63.0736%**|20.31478%|80.6566%|
+|ReLU|60.9276%|**19.8764%**|79.8259%|
+|Swish-1|62.1143%|20.82609%|**80.983%**|
+
+<div style="text-align:center"><img src ="Observations/squeezec100.png"  width="1000"/></div>
+
+#### ResNext
+
+##### ResNext-50:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|ReLU|67.5237%|22.82231%|**84.3058%**|
+|Swish-1|66.7227%|22.97197%|83.4751%|
+|Mish|**67.5831%**|**22.67923%**|84.2069%|
+
+<div style="text-align:center"><img src ="Observations/resnext50c100.png"  width="1000"/></div>
+
+#### Inception Net:
+
+##### Inception v3:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|Mish|68.3347%|20.8839%|84.7409%|
+|ReLU|**68.7797%**|**20.4812%**|**85.1365%**|
+|Swish-1|67.0095%|21.22539%|83.9201%|
+
+<div style="text-align:center"><img src ="Observations/inceptionc100.png"  width="1000"/></div>
+
+#### SE-Net (Squeeze Excite Network):
+
+##### SE-Net 18: 
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|Mish|**64.3888%**|**25.08049%**|**81.4775%**|
+|ReLU|62.7176%|27.25935%|80.3995%|
+|Swish-1|63.8944%|26.09737%|80.3995%|
+
+<div style="text-align:center"><img src ="Observations/se18c100.png"  width="1000"/></div>
+
+##### SE-Net 34:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|Mish|64.4778%|**24.05231%**|81.7741%|
+|ReLU|64.5669%|25.20289%|81.3093%|
+|Swish-1|**64.8734%**|24.13571%|**81.9225%**|
+
+<div style="text-align:center"><img src ="Observations/se34c100.png"  width="1000"/></div>
 
 ### Custom Data-Sets:
 

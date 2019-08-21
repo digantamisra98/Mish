@@ -55,7 +55,7 @@ When visualized, Mish Activation Function closely resembles the function path of
 <div style="text-align:center"><img src ="Observations/Mish3.png"  width="800"/></div>
 <div style="text-align:center"><img src ="Observations/Derivatives.png"  width="800"/></div>
 
-Following image shows the effect of Mish being applied on random noise. This is a replication of the effect of the activtion function on the image tensor inputs in CNN models. 
+Following image shows the effect of Mish being applied on random noise. This is a replication of the effect of the activation function on the image tensor inputs in CNN models. 
 
 <div style="text-align:center"><img src ="Observations/Mish_noise.png"  width="800"/></div>
 
@@ -104,8 +104,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 
 |Activation Function| Mish > Baseline Model | Mish < Baseline Model |
 |---|---|---|
-|ReLU|43|21|
-|Swish-1|41|23|
+|ReLU|49|23|
+|Swish-1|49|23|
 |ELU(α=1.0)|4|1|
 |Aria-2(β = 1, α=1.5)|1|0|
 |Bent's Identity|1|0|
@@ -141,12 +141,12 @@ TensorFlow - Keras Implementation of Mish Activation function can be found [here
 
 ## Future Work (Coming Soon):
 
-- Additional CIFAR-100, STL-10, CalTech-101 Benchmarks
-- Image Net Benchmarks
-- GANs Benchmarks
-- Transformer Model Benchmarks
-- Fix ResNext Benchmarks
-- Comparison of Convergence Rates
+- Additional STL-10, CalTech-101 & 256 Benchmarks.
+- Image Net Benchmarks.
+- GANs Benchmarks.
+- Transformer Model Benchmarks.
+- Fix ResNext Benchmarks.
+- Comparison of Convergence Rates.
 
 ## Cite this work:
 
