@@ -127,7 +127,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |TanH|2|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 
-#### CIFAR Results:
+#### CIFAR Results (Top-1 Testing Accuracy):
 
 |Models|Mish|Swish|ReLU|
 |:---:|:---:|:---:|:---:|
@@ -164,7 +164,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ShuffleNet v2|<p>CIFAR 10: 86.6297%<br>CIFAR 100: <b>59.3552%</b></p> | <p>CIFAR 10: 86.9363%<br>CIFAR 100: 58.9102%</p> | <p>CIFAR 10: <b>87.0055%</b><br>CIFAR 100: 58.5641%</p> |
 |SqueezeNet|<p>CIFAR 10: 87.767%<br>CIFAR 100: <b>63.0736%</b></p> | <p>CIFAR 10: <b>88.3703%</b><br>CIFAR 100: 62.1143%</p> | <p>CIFAR 10: 87.8461%<br>CIFAR 100: 60.9276%</p> |
 |Inception v3|<p>CIFAR 10: <b>91.1986%</b><br>CIFAR 100: 68.3347%</p> | <p>CIFAR 10: 91.1788%<br>CIFAR 100: 67.0095%</p> | <p>CIFAR 10: 90.8426%<br>CIFAR 100: <b>68.7797%</b></p> |
-|Efficient Net B0|<p>CIFAR 10: <b>80.7358%</b><br>CIFAR 100: NA</p> | <p>CIFAR 10: 79.371FAR 100: NA</p> | <p>CIFAR 10: 79.3117FAR 100: NA</p> |
+|Efficient Net B0|<p>CIFAR 10: <b>80.7358%</b><br>CIFAR 100: NA</p> | <p>CIFAR 10: 79.371%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 79.3117%<br>CIFAR 100: NA</p> |
 |Efficient Net B1|<p>CIFAR 10: 80.9632%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 81.9818%<br>CIFAR 100: NA</p> | <p>CIFAR 10: <b>82.4367%</b><br>CIFAR 100: NA</p> |
 |Efficient Net B2|<p>CIFAR 10: 81.2006%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 80.9039%<br>CIFAR 100: NA</p> | <p>CIFAR 10: <b>81.7148%</b><br>CIFAR 100: NA</p> |
 
