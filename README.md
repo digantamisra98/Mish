@@ -127,6 +127,13 @@ All results and comparative analysis are present in the [Readme](https://github.
 |TanH|2|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 
+
+|Models|Mish|Swish|ReLU|
+|:---:|---|---|---|
+|ResNet v1-20| <p>CIFAR 10: 91.81%<br>CIFAR 100: 67.26%</p> | <p>CIFAR 10: 91.95%<br>CIFAR 100: 67.1%</p> | <p>CIFAR 10: 91.5%<br>CIFAR 100: 67%</p> |
+|ResNet v1-32| <p>CIFAR 10: 92.29%<br>CIFAR 100: 69.44%</p> | <p>CIFAR 10: 92.3%%<br>CIFAR 100: 68.84%</p> | <p>CIFAR 10: 91.78%<br>CIFAR 100: 68.45%</p> |
+
+
 ## Try It! 
 
 ### Demo Jupyter Notebooks:
