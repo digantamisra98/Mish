@@ -799,6 +799,18 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 <div style="text-align:center"><img src ="Observations/se34c100.png"  width="1000"/></div>
 
+### CalTech - 256:
+
+#### ShuffleNet v2-x1:
+
+|Activation Function | Testing Top-1 Accuracy|Loss|
+|---|---|---|
+|Mish|**71%**|11.6515%|
+|ReLU|70%|**11.5748%**|
+|Swish-1|68%|12.8063%|
+
+<div style="text-align:center"><img src ="Observations/shufflev2c256.png"  width="1000"/></div>
+
 ### Custom Data-Sets:
 
 #### ASL (American Sign Language):
