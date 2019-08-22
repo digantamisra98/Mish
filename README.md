@@ -87,11 +87,12 @@ Complex Analysis of Mish Activation Function:
 ## Variation of Parameter Comparison:
 
 To observe how increasing the number of layers in a network while maintaining other parameters constant affect the test accuracy, fully connected networks of varying depths on MNIST, with each layer having 500 neurons were trained. Residual Connections were not used because they enable the training of arbitrarily deep networks. BatchNorm was used to lessen the dependence on initialization along with a dropout of 25%. The network is optimized using SGD on a batch size of 128, and for fair comparison, the same number of learning rates for each activation function was tried. In the experiments, all 3 activations maintained nearly the same test accuracy for 15 layered Network. Increasing number of layers from 15 gradually resulted in a sharp decrease in test accuracy for Swish and ReLU, however, Mish outperformed them both in large networks where optimization is difficult. 
+
 The consistency of Mish providing better test top-1 accuracy as compared to Swish and ReLU was also observed by increasing Batch Size for a ResNet v2-20 on CIFAR-10 for 50 epochs while keeping all other network paramters to be constant for fair comparison.
 
 <p float="left">
-  <img src="Observations/layersacc.png"  width="400"/>
-  <img src="Observations/batchacc.png"  width="400"/> 
+  <img src="Observations/layersacc.png"  width="500"/>
+  <img src="Observations/batchacc.png"  width="500"/> 
 </p>
 
 
