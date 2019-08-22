@@ -129,6 +129,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SoftPlus|1|0|
 |Softsign|2|0|
 |TanH|2|0|
+|SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
