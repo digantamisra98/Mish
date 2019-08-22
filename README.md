@@ -91,8 +91,8 @@ To observe how increasing the number of layers in a network while maintaining ot
 The consistency of Mish providing better test top-1 accuracy as compared to Swish and ReLU was also observed by increasing Batch Size for a ResNet v2-20 on CIFAR-10 for 50 epochs while keeping all other network paramters to be constant for fair comparison.
 
 <p float="left">
-  <img src="Observations/layersacc.png"  width="500"/>
-  <img src="Observations/batchacc.png"  width="500"/> 
+  <img src="Observations/layersacc.png"  width="420"/>
+  <img src="Observations/batchacc.png"  width="420"/> 
 </p>
 
 
