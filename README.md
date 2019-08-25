@@ -112,7 +112,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 
 ### Summary of Results: 
 
-*Comparison is done based on the high priority metric, for image classification the Top-1 Accuracy while for Generative Networks and Image Segmentation the Loss Metric. Therefore, for the latter, Mish > Baseline is indicative of better loss and vice versa.*
+*Comparison is done based on the high priority metric, for image classification the Top-1 Accuracy while for Generative Networks and Image Segmentation the Loss Metric. Therefore, for the latter, Mish > Baseline is indicative of better loss and vice versa. For Embeddings, the AUC metric is considered.*
 
 |Activation Function| Mish > Baseline Model | Mish < Baseline Model |
 |---|---|---|
