@@ -893,3 +893,12 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 
 <div style="text-align:center"><img src ="Observations/dcgan1.png"  width="600"/></div>
 <br>
+
+### Entity Embedding:
+
+|Activation Function| AUC|
+|---|---|
+|ReLU|0.79477483|
+|Swish-1|0.797871375706|
+|Mish|**0.79815630082**|
+
