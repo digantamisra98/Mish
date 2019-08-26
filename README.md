@@ -144,7 +144,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |E-Swish (β=1.75)|4|7|
 |GELU|1|1|
 |HardShrink(λ = 0.5)|1|0|
-|hardtanh|1|0|
+|Hardtanh|1|0|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
 
