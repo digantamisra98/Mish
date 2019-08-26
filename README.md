@@ -143,6 +143,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Thresholded ReLU(θ=1.0)|1|0|
 |E-Swish (β=1.75)|4|7|
 |GELU|1|1|
+|HardShrink|1|0|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
 
