@@ -98,9 +98,12 @@ The consistency of Mish providing better test top-1 accuracy as compared to Swis
   <img src="Observations/batchacc.png"  width="420"/> 
 </p>
 
-Gaussian Noise with varying standard deviation was added to the input in case of MNIST classification using a simple conv net to observe the trend in decreasing test top-1 accuracy for Mish and compare it to that of ReLU and Swish. Mish mostly maintained a consistent lead over that of Swish and ReLU (Less than ReLU in just 1 instance and less than Swish in 3 instance) as shown below. 
+Gaussian Noise with varying standard deviation was added to the input in case of MNIST classification using a simple conv net to observe the trend in decreasing test top-1 accuracy for Mish and compare it to that of ReLU and Swish. Mish mostly maintained a consistent lead over that of Swish and ReLU (Less than ReLU in just 1 instance and less than Swish in 3 instance) as shown below. The trend for test loss was also observed following the same procedure. (Mish has better loss than both Swish and ReLU except in 1 instance)
 
-<div style="text-align:center"><img src ="Observations/noise.png"  width="500"/></div>
+<p float="left">
+  <img src="Observations/noise.png"  width="420"/>
+  <img src="Observations/noise1.png"  width="420"/> 
+</p>
 
 ## Edge of Chaos and Rate of Convergence (EOC & ROC): 
 
