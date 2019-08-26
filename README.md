@@ -127,7 +127,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |---|---|---|
 |ReLU|51|23|
 |Swish-1|51|23|
-|ELU(α=1.0)|4|1|
+|ELU(α=1.0)|5|1|
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
