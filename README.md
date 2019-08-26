@@ -8,8 +8,11 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/DigantaMisra?locale.x=en_GB)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f67cf4cf73bf47fbbe4b3dd6f78bb10b)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=digantamisra98/Mish&amp;utm_campaign=Badge_Grade)
 [![CircleCI](https://circleci.com/gh/digantamisra98/Mish.svg?style=svg)](https://circleci.com/gh/digantamisra98/Mish)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-blue.svg)](https://arxiv.org/abs/1908.08681)
 
 # Mish: Self Regularized Non-Monotonic Activation Function
+
+## Read the paper here - https://arxiv.org/abs/1908.08681
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
 <div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
@@ -132,6 +135,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |TanH|2|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
+|E-Swish (β=1.75)|3|4|
+|GELU|1|1|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
 
