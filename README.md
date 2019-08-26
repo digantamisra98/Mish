@@ -136,7 +136,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 |E-Swish (β=1.75)|3|4|
-|GELU|1|0|
+|GELU|1|1|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
 
