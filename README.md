@@ -135,7 +135,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |TanH|2|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
-|E-Swish (β=1.75)|0|3|
+|E-Swish (β=1.75)|3|4|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
 
