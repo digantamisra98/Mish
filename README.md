@@ -184,7 +184,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SENet - 18|<p>CIFAR 10: 89.913%<br>CIFAR 100: <b>64.3888%</b></p> | <p>CIFAR 10: 89.4284%<br>CIFAR 100: 63.8944%</p> | <p>CIFAR 10: <b>90.1602%</b><br>CIFAR 100: 62.7176%</p> |
 |SENet - 34|<p>CIFAR 10: 90.5162%<br>CIFAR 100: 64.4778%</p> | <p>CIFAR 10: 89.9624%<br>CIFAR 100: <b>64.8734%</b></p> | <p>CIFAR 10: <b>91.6733%</b><br>CIFAR 100: 64.5669%</p> |
 |ShuffleNet v1|<p>CIFAR 10: <b>87.3121%</b><br>CIFAR 100: <b>59.1871%</b></p> | <p>CIFAR 10: 86.9462%<br>CIFAR 100: 58.4355%</p> | <p>CIFAR 10: 87.0451%<br>CIFAR 100: 57.9806%</p> |
-|ShuffleNet v2|<p><b>CIFAR 10: 87.37%</b><br>CIFAR 100: <b>59.3552%</b></p> | <p>CIFAR 10: 86.9363%<br>CIFAR 100: 58.9102%</p> | <p>CIFAR 10: 87.0055%<br>CIFAR 100: 58.5641%</p> |
+|ShuffleNet v2|<p>CIFAR 10: <b>87.37%</b><br>CIFAR 100: <b>59.3552%</b></p> | <p>CIFAR 10: 86.9363%<br>CIFAR 100: 58.9102%</p> | <p>CIFAR 10: 87.0055%<br>CIFAR 100: 58.5641%</p> |
 |SqueezeNet|<p>CIFAR 10: 88.13%<br>CIFAR 100: <b>63.0736%</b></p> | <p>CIFAR 10: <b>88.3703%</b><br>CIFAR 100: 62.1143%</p> | <p>CIFAR 10: 87.8461%<br>CIFAR 100: 60.9276%</p> |
 |Inception v3|<p>CIFAR 10: <b>91.1986%</b><br>CIFAR 100: 68.3347%</p> | <p>CIFAR 10: 91.1788%<br>CIFAR 100: 67.0095%</p> | <p>CIFAR 10: 90.8426%<br>CIFAR 100: <b>68.7797%</b></p> |
 |Efficient Net B0|<p>CIFAR 10: <b>80.7358%</b><br>CIFAR 100: NA</p> | <p>CIFAR 10: 79.371%<br>CIFAR 100: NA</p> | <p>CIFAR 10: 79.3117%<br>CIFAR 100: NA</p> |
