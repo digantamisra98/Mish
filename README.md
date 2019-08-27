@@ -125,14 +125,14 @@ All results and comparative analysis are present in the [Readme](https://github.
 
 |Activation Function| Mish > Baseline Model | Mish < Baseline Model |
 |---|---|---|
-|ReLU|52|22|
-|Swish-1|51|23|
-|ELU(α=1.0)|7|2|
+|ReLU|53|21|
+|Swish-1|52|22|
+|ELU(α=1.0)|8|1|
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
 |RReLU|3|1|
-|Leaky ReLU(α=0.3)|2|4|
+|Leaky ReLU(α=0.3)|3|3|
 |PReLU(Default Parameters)	|4|1|
 |SELU|7|0|
 |Sigmoid|4|0|
@@ -141,12 +141,12 @@ All results and comparative analysis are present in the [Readme](https://github.
 |TanH|2|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
-|E-Swish (β=1.75)|4|7|
-|GELU|2|2|
+|E-Swish (β=1.75)|5|6|
+|GELU|3|1|
 |CELU|2|0|
 |HardShrink(λ = 0.5)|4|0|
 |Hardtanh|4|0|
-|ReLU6|3|1|
+|ReLU6|4|0|
 |LogSigmoid|2|1|
 |Softshrink (λ = 0.5)|1|0|
 
