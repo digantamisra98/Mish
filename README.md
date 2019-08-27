@@ -125,7 +125,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 
 |Activation Function| Mish > Baseline Model | Mish < Baseline Model |
 |---|---|---|
-|ReLU|51|23|
+|ReLU|50|23|
 |Swish-1|51|23|
 |ELU(α=1.0)|5|1|
 |Aria-2(β = 1, α=1.5)|2|0|
@@ -145,6 +145,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |GELU|2|2|
 |HardShrink(λ = 0.5)|1|0|
 |Hardtanh|1|0|
+|ReLU6|1|0|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
 
