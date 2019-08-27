@@ -386,13 +386,14 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |---|---|---|---|
 |ReLU|84.1179%|**6.71502%**|96.9937%|
 |Swish-1|**85.6903%**|7.05216%|96.9937%|
-|Mish|85.2749%|6.99848%|**97.0926%**|
+|Mish|85.2749%|6.99848%|97.0926%|
 |E-Swish(β = 1.75)|85.58|6.927%|96.91%|
 |GELU|85.28%|7.13%|96.81%|
 |ELU(α=1.0)|84.16%|6.802%|97.06%|
 |HardShrink(λ=0.5)|63.23%|10.535%|87.74%|
 |Hardtanh|80.32%|9.113%|95.66%|
-|LeakyReLU (α=0.3)|85.44%|6.978%|97.34%|
+|LeakyReLU (α=0.3)|85.44%|6.978%|**97.34%**|
+|LogSigmoid|84.37%|7.363%|96.71%|
 
 <div style="text-align:center"><img src ="Observations/mobile2.png"  width="1000"/></div>
 
