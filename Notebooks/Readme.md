@@ -414,6 +414,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |E-Swish (β = 1.75)|**86.36%**|5.269%|**97.80%**|
 |GELU|86.13%|5.465%|97.37%|
 |ELU(α=1.0)|85.51%|5.287%|97.38%|
+|HardShrink(λ=0.5)|67.37%|9.168%|91.64%|
 
 #### SE-Net (Squeeze Excite Network):
 
@@ -479,6 +480,17 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Swish-1|**88.3703%**|**4.66536%**|**98.2793%**|
 |E-Swish(β = 1.75)|88.37%|4.862%|98.19%|
 |GELU|87.75%|5.169%|98.15%|
+|ELU(α=1.0)|87.52%|4.656%|98.08%|
+|HardShrink(λ=0.5)|79.02%|6.186%|95.48%|
+|Hardtanh|84.31%|5.182%|97.07%|
+|LeakyReLU(α=0.3)|88.47%|4.225%|98.34%|
+|LogSigmoid|83.31%|6.387%|96.90%|
+|PReLU|86.26%|6.018%|97.63%|
+|RReLU|88.09%|4.559%|98.12%|
+|ReLU6|87.48%|4.921%|97.97%|
+|SELU|86.72%|4.47%|97.76%|
+|Sigmoid|81.04%|6.566%|95.4%|
+|Softplus(β = 1)|85.55%|5.874%|97.65%|
 
 <div style="text-align:center"><img src ="Observations/squeeze.png"  width="1000"/></div>
 
