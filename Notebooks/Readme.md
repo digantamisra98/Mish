@@ -406,8 +406,6 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |E-Swish (β = 1.75)|**86.36%**|5.269%|**97.80%**|
 |GELU|86.13%|5.465%|97.37%|
 
-<div style="text-align:center"><img src ="Observations/mobile.png"  width="1000"/></div>
-
 #### SE-Net (Squeeze Excite Network):
 
 ##### SE-Net 18: 
