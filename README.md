@@ -134,7 +134,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |RReLU|2|0|
 |Leaky ReLU(α=0.3)|2|2|
 |PReLU(Default Parameters)	|2|1|
-|SELU|4|0|
+|SELU|5|0|
 |sigmoid|2|0|
 |SoftPlus|1|0|
 |Softsign|2|0|
