@@ -143,7 +143,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Thresholded ReLU(θ=1.0)|1|0|
 |E-Swish (β=1.75)|4|7|
 |GELU|2|2|
-|CELU|1|0|
+|CELU|2|0|
 |HardShrink(λ = 0.5)|4|0|
 |Hardtanh|4|0|
 |ReLU6|3|1|
