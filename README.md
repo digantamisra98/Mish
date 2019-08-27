@@ -211,6 +211,10 @@ Keras Implementation of Mish activation function can be found [here](https://git
 
 TensorFlow - Keras Implementation of Mish Activation function can be found [here](https://github.com/digantamisra98/Mish/blob/master/Mish/TF-Keras/mish.py)
 
+#### MXNet:
+
+MXNet Implementation of Mish Activation function can be found [here](https://github.com/digantamisra98/Mish/blob/master/Mish/MXNet/mish.py)
+
 ## Future Work (Coming Soon):
 
 - Additional STL-10, CalTech-101 & 256 Benchmarks.
