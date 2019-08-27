@@ -132,12 +132,12 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
 |RReLU|3|1|
-|Leaky ReLU(α=0.3)|3|3|
+|Leaky ReLU(α=0.3)|3|4|
 |PReLU(Default Parameters)	|4|1|
 |SELU|7|0|
 |Sigmoid|4|0|
 |SoftPlus|3|0|
-|Softsign|2|0|
+|Softsign|2|1|
 |TanH|2|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
