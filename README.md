@@ -125,13 +125,13 @@ All results and comparative analysis are present in the [Readme](https://github.
 
 |Activation Function| Mish > Baseline Model | Mish < Baseline Model |
 |---|---|---|
-|ReLU|51|23|
+|ReLU|52|22|
 |Swish-1|51|23|
 |ELU(α=1.0)|7|2|
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
-|RReLU|2|2|
+|RReLU|3|1|
 |Leaky ReLU(α=0.3)|2|4|
 |PReLU(Default Parameters)	|4|1|
 |SELU|7|0|
