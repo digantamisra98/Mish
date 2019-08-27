@@ -131,7 +131,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
-|RReLU|1|0|
+|RReLU|2|0|
 |Leaky ReLU(α=0.3)|2|2|
 |PReLU(Default Parameters)	|2|1|
 |SELU|4|0|
