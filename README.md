@@ -137,12 +137,12 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SELU|7|0|
 |Sigmoid|5|0|
 |SoftPlus|4|0|
-|Softsign|3|1|
-|TanH|4|0|
+|Softsign|4|1|
+|TanH|5|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
-|E-Swish (β=1.75)|6|6|
-|GELU|3|1|
+|E-Swish (β=1.75)|7|6|
+|GELU|5|1|
 |CELU|2|0|
 |HardShrink(λ = 0.5)|4|0|
 |Hardtanh|4|0|
