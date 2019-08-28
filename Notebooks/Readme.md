@@ -500,6 +500,8 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Softplus(β = 1)|85.55%|5.874%|97.65%|
 |Softshrink(λ=0.5)|87.95%|5.308%|97.96%|
 |Softsign|88.26%|4.748%|98.07%|
+|Tanh|84.92%|5.444%|97.38%|
+|Tanhshrink|84.17%|6.118%|96.86%|
 
 <div style="text-align:center"><img src ="Observations/squeeze.png"  width="1000"/></div>
 
