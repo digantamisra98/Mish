@@ -423,6 +423,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Hardtanh|82.97%|5.785%|96.65%|
 |LeakyReLU (α=0.3)|**86.63%**|**4.830%**|97.57%|
 |LogSigmoid|85.27%|5.224%|97.18%|
+|PReLU|86.32|4.834%|97,56%|
 
 #### SE-Net (Squeeze Excite Network):
 
