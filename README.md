@@ -133,7 +133,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Hard Sigmoid|1|0|
 |RReLU|3|1|
 |Leaky ReLU(α=0.3)|3|4|
-|PReLU(Default Parameters)	|4|1|
+|PReLU(Default Parameters)	|4|2|
 |SELU|7|0|
 |Sigmoid|5|0|
 |SoftPlus|4|0|
