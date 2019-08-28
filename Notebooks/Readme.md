@@ -455,6 +455,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |ReLU|**91.6733%**|**4.22846%**|**98.825%**|
 |Swish-1|89.9624%|5.39445%|98.4177%|
 |E-Swish (β = 1.75)|89.2306%|5.8442%|98.1507%|
+|GELU|90.9118%|4.66858%|98.7243%|
 
 <div style="text-align:center"><img src ="Observations/se34.png"  width="1000"/></div>
 
@@ -495,6 +496,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Softshrink(λ=0.5)|82.77%|6.701%|96.38%|
 |Tanh|83.52%|6.280%|96.57%|
 |Softsign|83.86%|5.767%|97.15%|
+|Tanhshrink|80.2%|7.852%|95.38%|
 
 <div style="text-align:center"><img src ="Observations/shufflev2.png"  width="1000"/></div>
 
