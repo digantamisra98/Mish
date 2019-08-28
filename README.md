@@ -131,20 +131,20 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
-|RReLU|3|1|
+|RReLU|3|2|
 |Leaky ReLU(α=0.3)|3|4|
 |PReLU(Default Parameters)	|4|2|
 |SELU|7|0|
 |Sigmoid|5|0|
 |SoftPlus|4|0|
-|Softsign|4|1|
+|Softsign|5|1|
 |TanH|6|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
-|E-Swish (β=1.75)|7|6|
+|E-Swish (β=1.75)|8|7|
 |GELU|5|1|
 |CELU|2|0|
-|HardShrink(λ = 0.5)|4|0|
+|HardShrink(λ = 0.5)|5|0|
 |Hardtanh|4|0|
 |ReLU6|5|0|
 |LogSigmoid|3|1|
