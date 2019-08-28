@@ -125,7 +125,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 
 |Activation Function| Mish > Baseline Model | Mish < Baseline Model |
 |---|---|---|
-|ReLU|53|21|
+|ReLU|54|20|
 |Swish-1|52|22|
 |ELU(α=1.0)|8|1|
 |Aria-2(β = 1, α=1.5)|2|0|
@@ -141,7 +141,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |TanH|4|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
-|E-Swish (β=1.75)|5|7|
+|E-Swish (β=1.75)|6|6|
 |GELU|3|1|
 |CELU|2|0|
 |HardShrink(λ = 0.5)|4|0|
@@ -182,7 +182,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ResNext - 50|<p>CIFAR 10: 90.8327%<br>CIFAR 100: <b>67.5831%</b></p> | <p>CIFAR 10: <b>91.6238%</b><br>CIFAR 100: 66.7227%</p> | <p>CIFAR 10: 89.3592%<br>CIFAR 100: 67.5237%</p> |
 |MobileNet v1|<p>CIFAR 10: 85.2749%<br>CIFAR 100: <b>50.0989%</b></p> | <p>CIFAR 10: <b>85.6903%</b><br>CIFAR 100: 49.9506%</p> | <p>CIFAR 10: 84.1179%<br>CIFAR 100: 49.2089%</p> |
 |MobileNet v2|<p>CIFAR 10: <b>86.254%</b><br>CIFAR 100: <b>57.0609%</b></p> | <p>CIFAR 10: 86.0759%<br>CIFAR 100: 55.6764%</p> | <p>CIFAR 10: 86.0463%<br>CIFAR 100: 56.1907%</p> |
-|SENet - 18|<p>CIFAR 10: 89.913%<br>CIFAR 100: <b>64.3888%</b></p> | <p>CIFAR 10: 89.4284%<br>CIFAR 100: 63.8944%</p> | <p>CIFAR 10: <b>90.1602%</b><br>CIFAR 100: 62.7176%</p> |
+|SENet - 18|<p>CIFAR 10: <b>90.526%</b><br>CIFAR 100: <b>64.3888%</b></p> | <p>CIFAR 10: 89.4284%<br>CIFAR 100: 63.8944%</p> | <p>CIFAR 10: 90.1602%<br>CIFAR 100: 62.7176%</p> |
 |SENet - 34|<p>CIFAR 10: 90.5162%<br>CIFAR 100: 64.4778%</p> | <p>CIFAR 10: 89.9624%<br>CIFAR 100: <b>64.8734%</b></p> | <p>CIFAR 10: <b>91.6733%</b><br>CIFAR 100: 64.5669%</p> |
 |ShuffleNet v1|<p>CIFAR 10: <b>87.3121%</b><br>CIFAR 100: <b>59.1871%</b></p> | <p>CIFAR 10: 86.9462%<br>CIFAR 100: 58.4355%</p> | <p>CIFAR 10: 87.0451%<br>CIFAR 100: 57.9806%</p> |
 |ShuffleNet v2|<p>CIFAR 10: <b>87.37%</b><br>CIFAR 100: <b>59.3552%</b></p> | <p>CIFAR 10: 86.9363%<br>CIFAR 100: 58.9102%</p> | <p>CIFAR 10: 87.0055%<br>CIFAR 100: 58.5641%</p> |
