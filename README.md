@@ -132,22 +132,22 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
 |RReLU|3|2|
-|Leaky ReLU(α=0.3)|4|4|
-|PReLU(Default Parameters)	|5|2|
+|Leaky ReLU(α=0.3)|5|4|
+|PReLU(Default Parameters)	|6|2|
 |SELU|8|0|
 |Sigmoid|5|0|
-|SoftPlus(β = 1)|4|1|
+|SoftPlus(β = 1)|5|0|
 |Softsign|5|1|
 |TanH|6|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 |E-Swish (β=1.75)|8|7|
-|GELU|5|2|
-|CELU(α=1.0)|3|0|
+|GELU|8|1|
+|CELU(α=1.0)|4|0|
 |HardShrink(λ = 0.5)|5|0|
 |Hardtanh|6|0|
 |ReLU6|5|0|
-|LogSigmoid|3|1|
+|LogSigmoid|4|1|
 |Softshrink (λ = 0.5)|4|0|
 |Tanhshrink|4|0|
 
@@ -180,10 +180,10 @@ All results and comparative analysis are present in the [Readme](https://github.
 |DenseNet - 169|<p>CIFAR 10: 90.5063%<br>CIFAR 100: 65.3877%</p> | <p>CIFAR 10: 90.6744%<br>CIFAR 100: <b>65.6942%</b></p> | <p>CIFAR 10: <b>91.6535%</b><br>CIFAR 100: 64.9921%</p> |
 |DenseNet - 201|<p>CIFAR 10: 90.7338%<br>CIFAR 100: <b>64.4383%</b></p> | <p>CIFAR 10: <b>91.0107%</b><br>CIFAR 100: 64.2504%</p> | <p>CIFAR 10: 90.7239%<br>CIFAR 100: 63.2516%</p> |
 |ResNext - 50|<p>CIFAR 10: 90.8327%<br>CIFAR 100: <b>67.5831%</b></p> | <p>CIFAR 10: <b>91.6238%</b><br>CIFAR 100: 66.7227%</p> | <p>CIFAR 10: 89.3592%<br>CIFAR 100: 67.5237%</p> |
-|MobileNet v1|<p>CIFAR 10: 85.2749%<br>CIFAR 100: <b>50.0989%</b></p> | <p>CIFAR 10: <b>85.6903%</b><br>CIFAR 100: 49.9506%</p> | <p>CIFAR 10: 84.1179%<br>CIFAR 100: 49.2089%</p> |
+|MobileNet v1|<p>CIFAR 10: 85.2749%<br>CIFAR 100: <b>51.93%</b></p> | <p>CIFAR 10: <b>85.6903%</b><br>CIFAR 100: 49.9506%</p> | <p>CIFAR 10: 84.1179%<br>CIFAR 100: 49.2089%</p> |
 |MobileNet v2|<p>CIFAR 10: <b>86.254%</b><br>CIFAR 100: <b>57.0609%</b></p> | <p>CIFAR 10: 86.0759%<br>CIFAR 100: 55.6764%</p> | <p>CIFAR 10: 86.0463%<br>CIFAR 100: 56.1907%</p> |
 |SENet - 18|<p>CIFAR 10: <b>90.526%</b><br>CIFAR 100: <b>64.3888%</b></p> | <p>CIFAR 10: 89.4284%<br>CIFAR 100: 63.8944%</p> | <p>CIFAR 10: 90.1602%<br>CIFAR 100: 62.7176%</p> |
-|SENet - 34|<p>CIFAR 10: 90.5162%<br>CIFAR 100: 64.4778%</p> | <p>CIFAR 10: 89.9624%<br>CIFAR 100: <b>64.8734%</b></p> | <p>CIFAR 10: <b>91.6733%</b><br>CIFAR 100: 64.5669%</p> |
+|SENet - 34|<p>CIFAR 10: 91.0997%<br>CIFAR 100: 64.4778%</p> | <p>CIFAR 10: 89.9624%<br>CIFAR 100: <b>64.8734%</b></p> | <p>CIFAR 10: <b>91.6733%</b><br>CIFAR 100: 64.5669%</p> |
 |ShuffleNet v1|<p>CIFAR 10: <b>87.3121%</b><br>CIFAR 100: <b>59.1871%</b></p> | <p>CIFAR 10: 86.9462%<br>CIFAR 100: 58.4355%</p> | <p>CIFAR 10: 87.0451%<br>CIFAR 100: 57.9806%</p> |
 |ShuffleNet v2|<p>CIFAR 10: <b>87.37%</b><br>CIFAR 100: <b>59.3552%</b></p> | <p>CIFAR 10: 86.9363%<br>CIFAR 100: 58.9102%</p> | <p>CIFAR 10: 87.0055%<br>CIFAR 100: 58.5641%</p> |
 |SqueezeNet|<p>CIFAR 10: 88.13%<br>CIFAR 100: <b>63.0736%</b></p> | <p>CIFAR 10: <b>88.3703%</b><br>CIFAR 100: 62.1143%</p> | <p>CIFAR 10: 87.8461%<br>CIFAR 100: 60.9276%</p> |
