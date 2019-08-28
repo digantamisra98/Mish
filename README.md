@@ -127,7 +127,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |---|---|---|
 |ReLU|54|20|
 |Swish-1|52|22|
-|ELU(α=1.0)|8|1|
+|ELU(α=1.0)|9|1|
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
@@ -138,7 +138,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Sigmoid|5|0|
 |SoftPlus|4|0|
 |Softsign|4|1|
-|TanH|5|0|
+|TanH|6|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 |E-Swish (β=1.75)|7|6|
