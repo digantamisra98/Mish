@@ -142,14 +142,14 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 |E-Swish (β=1.75)|8|7|
-|GELU|5|1|
+|GELU|5|2|
 |CELU(α=1.0)|3|0|
 |HardShrink(λ = 0.5)|5|0|
 |Hardtanh|5|0|
 |ReLU6|5|0|
 |LogSigmoid|3|1|
 |Softshrink (λ = 0.5)|4|0|
-|Tanhshrink|3|0|
+|Tanhshrink|4|0|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
 
