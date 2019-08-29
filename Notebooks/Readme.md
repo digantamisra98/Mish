@@ -806,6 +806,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Softplus(β = 1)|51.87%|**35.867%**|**70.94%**|
 |Sigmoid|51.67%|36.433%|70.32%|
 |CELU(α=1.0)|51.06%|37.188%|69.10%|
+|SELU|51.76%|36.285%|69.50%|
 
 <div style="text-align:center"><img src ="Observations/mobilec100.png"  width="1000"/></div>
 
