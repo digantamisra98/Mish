@@ -131,11 +131,11 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
-|RReLU|5|2|
+|RReLU|6|2|
 |Leaky ReLU(α=0.3)|5|4|
 |PReLU(Default Parameters)	|7|2|
 |SELU|11|0|
-|Sigmoid|8|0|
+|Sigmoid|9|0|
 |SoftPlus(β = 1)|6|0|
 |Softsign|5|1|
 |TanH|7|0|
@@ -144,11 +144,11 @@ All results and comparative analysis are present in the [Readme](https://github.
 |E-Swish (β=1.75)|9|6|
 |GELU|8|1|
 |CELU(α=1.0)|7|0|
-|HardShrink(λ = 0.5)|7|0|
+|HardShrink(λ = 0.5)|8|0|
 |Hardtanh|8|0|
-|ReLU6|5|1|
-|LogSigmoid|6|1|
-|Softshrink (λ = 0.5)|4|0|
+|ReLU6|6|1|
+|LogSigmoid|7|1|
+|Softshrink (λ = 0.5)|5|0|
 |Tanhshrink|5|0|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
