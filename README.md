@@ -127,7 +127,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |---|---|---|
 |ReLU|54|20|
 |Swish-1|52|22|
-|ELU(α=1.0)|9|1|
+|ELU(α=1.0)|10|1|
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
@@ -135,7 +135,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Leaky ReLU(α=0.3)|5|4|
 |PReLU(Default Parameters)	|6|2|
 |SELU|8|0|
-|Sigmoid|5|0|
+|Sigmoid|6|0|
 |SoftPlus(β = 1)|5|0|
 |Softsign|5|1|
 |TanH|6|0|
@@ -147,7 +147,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |HardShrink(λ = 0.5)|5|0|
 |Hardtanh|6|0|
 |ReLU6|5|0|
-|LogSigmoid|4|1|
+|LogSigmoid|5|1|
 |Softshrink (λ = 0.5)|4|0|
 |Tanhshrink|4|0|
 
