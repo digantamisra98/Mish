@@ -460,6 +460,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Sigmoid|43.651%|31.721%|73.3979%|
 |Softplus(β = 1)|89.4382%|5.6166%|98.4177%|
 |Softshrink(λ=0.5)|87.391%|5.8498%|97.7452%|
+|Softsign|84.2266%|7.09453%|97.0826%|
 
 <div style="text-align:center"><img src ="Observations/se18.png"  width="1000"/></div>
 
