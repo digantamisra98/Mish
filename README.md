@@ -113,7 +113,7 @@ Gaussian Noise with varying standard deviation was added to the input in case of
 
 |Activation Function Name| Function Graph | Equation | Range | Order of Continuity | Monotonic | Monotonic Derivative | Approximates Identity Near Origin| Dead Neurons | Saturated |
 |---|---|---|---|---|---|---|---|---|---|
-|Mish|<div style="text-align:center"><img src ="Observations/graph_mish.png"  width="500"/></div>|<div style="text-align:center"><img src ="Observations/table_eq.png"  width="700"/></div>| ≈-0.31 to ∞| C<sup>∞</sup> | No :negative_squared_cross_mark:| No :negative_squared_cross_mark: | Yes :heavy_check_mark:| No :negative_squared_cross_mark: | No :negative_squared_cross_mark: |
+|Mish|<div style="text-align:center"><img src ="Observations/graph_mish.png"  width="500"/></div>|<div style="text-align:center"><img src ="Observations/table_eq.png"  width="700"/></div>| ≈-0.31 to ∞| C<sup>∞</sup> | No :negative_squared_cross_mark:| No :negative_squared_cross_mark: | Yes :heavy_check_mark: (Approximates half of identity at origin) | No :negative_squared_cross_mark: | No :negative_squared_cross_mark: |
 
 ## Results:
 
@@ -131,24 +131,24 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
-|RReLU|6|2|
+|RReLU|6|3|
 |Leaky ReLU(α=0.3)|5|4|
 |PReLU(Default Parameters)	|9|2|
-|SELU|11|0|
-|Sigmoid|9|0|
-|SoftPlus(β = 1)|7|0|
+|SELU|12|0|
+|Sigmoid|10|0|
+|SoftPlus(β = 1)|8|0|
 |Softsign|6|1|
-|TanH|7|0|
+|TanH|8|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 |E-Swish (β=1.75)|9|6|
 |GELU|8|1|
-|CELU(α=1.0)|7|0|
+|CELU(α=1.0)|8|0|
 |HardShrink(λ = 0.5)|8|0|
-|Hardtanh|8|0|
-|ReLU6|7|1|
-|LogSigmoid|7|1|
-|Softshrink (λ = 0.5)|5|0|
+|Hardtanh|9|0|
+|ReLU6|8|1|
+|LogSigmoid|9|1|
+|Softshrink (λ = 0.5)|6|0|
 |Tanhshrink|5|0|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
