@@ -145,7 +145,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |GELU|8|1|
 |CELU(α=1.0)|8|0|
 |HardShrink(λ = 0.5)|8|0|
-|Hardtanh|9|0|
+|Hardtanh|9|1|
 |ReLU6|8|1|
 |LogSigmoid|9|1|
 |Softshrink (λ = 0.5)|6|0|
