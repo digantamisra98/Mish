@@ -488,6 +488,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Sigmoid|14.84%|43.395%|54.46%|
 |Softplus(β = 1)|90.07%|5.8636%|98.18%|
 |Tanh|85.79%|6.827%|97.43%|
+|LeakyReLU (α=0.3)|89.89%|4.957%|98.44%|
 
 <div style="text-align:center"><img src ="Observations/se34.png"  width="1000"/></div>
 
@@ -512,6 +513,10 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |SELU|86.98%|5.62%|97.72%|
 |CELU(α=1.0)|87.27%|5.617%|97.76%|
 |Sigmoid|42.51%|28.847%|76.09%|
+|Softplus(β = 1)|87.33%|5.673%|97.54%|
+|Tanh|83.98%|6.046%|97.12%|
+|Tanhshrink|81.94%|6.859%|96.33%|
+|LeakyReLU(α=0.3)|86.72%|5.897%|97.51%|
 
 <div style="text-align:center"><img src ="Observations/shuffle.png"  width="1000"/></div>
 
@@ -577,15 +582,16 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 |Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
-|Mish|**91.8314%**|3.8056%|**98.8627%**|
+|Mish|**91.8314%**|3.8056%|98.8627%|
 |ReLU|90.8426%|4.54385%|98.4968%|
 |Swish-1|91.1788%|3.80319%|98.6551%|
-|E-Swish (β = 1.75)|91.604%|**3.72613%**|98.8232%|
+|E-Swish (β = 1.75)|91.604%|3.72613%|98.8232%|
 |GELU|90.8623%|4.19958%|98.4276%|
 |ELU(α=1.0)|91.0502%|3.4677%|98.6451%|
 |HardShrink(λ=0.5)|78.1546%|6.5938%|95.2729%|
 |HardTanH|87.47%|5.3546%|97.92%|
 |LogSigmoid|91.07%|3.8678%|98.68%|
+|RReLU|91.42%|**3.402%**|**98.87%**|
 
 <div style="text-align:center"><img src ="Observations/inceptionv3.png"  width="1000"/></div>
 
@@ -862,6 +868,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |ReLU|56.1907%|**24.01577%**|75.8604%|
 |Swish-1|55.6764%|27.90889%|74.7528%|
 |Mish|**57.0609%**|25.96031%|**76.2757%**|
+|Tanhshrink|45.39%|35.02%|54.33%|
 
 <div style="text-align:center"><img src ="Observations/mobilev2c100.png"  width="1000"/></div>
 
@@ -941,6 +948,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Mish|**64.3888%**|**25.08049%**|**81.4775%**|
 |ReLU|62.7176%|27.25935%|80.3995%|
 |Swish-1|63.8944%|26.09737%|80.3995%|
+|Tanhshrink|55.755%|29.052%|75.2373%|
 
 <div style="text-align:center"><img src ="Observations/se18c100.png"  width="1000"/></div>
 
