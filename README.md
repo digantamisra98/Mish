@@ -129,7 +129,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |PReLU(Default Parameters)	|9|2|
 |SELU|13|0|
 |Sigmoid|11|0|
-|SoftPlus(β = 1)|8|1|
+|SoftPlus(β = 1)|9|1|
 |Softsign|8|1|
 |TanH|13|0|
 |SQNL|1|0|
