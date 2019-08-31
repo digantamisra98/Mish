@@ -62,10 +62,6 @@ Following image shows the effect of Mish being applied on random noise. This is 
 
 <div style="text-align:center"><img src ="Observations/Mish_noise.png"  width="800"/></div>
 
-Here, Mish activation function was applied on a standard normal distribution. The output distribution shows Mish to be preserving information of the original distribution in the negative axis. 
-
-<div style="text-align:center"><img src ="Observations/Mish_bar.png"  width="800"/></div>
-
 Based on mathematical analysis, it is also confirmed that the function has a parametric order of continuity of: C<sup>∞</sup>
 
 **Mish** has a very sharp global minima similar to Swish, which might account to gradients updates of the model being stuck in the region of sharp decay thus may lead to bad performance levels as compared to ReLU. Mish, also being mathematically heavy, is more computationally expensive as compared to the time complexity of Swish Activation Function. 
@@ -79,11 +75,6 @@ The output landscape of 5 layer randomly initialized neural network was compared
 The Pre-Activations (ωx + b) distribution was observed for the final convolution layer in a ResNet v1-20 with Mish activation function before and after training for 20 epochs on CIFAR-10. As shown below, units are being preserved in the negative side which improves the network capacity to generalize well due to less loss of information. 
 
 <div style="text-align:center"><img src ="Observations/Distribution.png"  width="800"/></div>
-
-A 9 layer Network was trained for 50 epochs on CIFAR-10 to visualize the Loss Contour and Weights Distribution Histograms by following Filter Normalization process: 
-
-<div style="text-align:center"><img src ="Observations/Histogram_Mish.png"  width="800"/></div>
-<div style="text-align:center"><img src ="Observations/Mish_loss_2d.png"  width="800"/></div>
 
 Complex Analysis of Mish Activation Function: 
 
