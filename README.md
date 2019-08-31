@@ -73,6 +73,8 @@ Based on mathematical analysis, it is also confirmed that the function has a par
 The output landscape of 5 layer randomly initialized neural network was compared for ReLU, Swish, and Mish. The observation clearly shows the sharp transition between the scalar magnitudes for the co-ordinates of ReLU as compared to Swish and Mish. Smoother transition results in smoother loss functions which are easier to optimize and hence the network generalizes better. 
 
 <div style="text-align:center"><img src ="Observations/Mish_Landscape_1.png"  width="800"/></div>
+<div style="text-align:center"><img src ="Observations/comp123.png"  width="800"/></div>
+<div style="text-align:center"><img src ="Observations/comp1234.png"  width="800"/></div>
 
 The Pre-Activations (ωx + b) distribution was observed for the final convolution layer in a ResNet v1-20 with Mish activation function before and after training for 20 epochs on CIFAR-10. As shown below, units are being preserved in the negative side which improves the network capacity to generalize well due to less loss of information. 
 
