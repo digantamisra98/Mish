@@ -129,7 +129,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |---|---|---|
 |ReLU|54|20|
 |Swish-1|52|22|
-|ELU(α=1.0)|12|1|
+|ELU(α=1.0)|13|1|
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
@@ -151,7 +151,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ReLU6|8|1|
 |LogSigmoid|9|1|
 |Softshrink (λ = 0.5)|6|0|
-|Tanhshrink|6|0|
+|Tanhshrink|7|0|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
 
