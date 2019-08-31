@@ -131,7 +131,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Sigmoid|11|0|
 |SoftPlus(β = 1)|8|1|
 |Softsign|7|1|
-|TanH|11|0|
+|TanH|12|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 |E-Swish (β=1.75)|9|6|
