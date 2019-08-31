@@ -869,6 +869,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Swish-1|55.6764%|27.90889%|74.7528%|
 |Mish|**57.0609%**|25.96031%|**76.2757%**|
 |Tanhshrink|45.39%|35.02%|54.33%|
+|Tanh|49.61%|25.86%|70.2%|
 
 <div style="text-align:center"><img src ="Observations/mobilev2c100.png"  width="1000"/></div>
 
@@ -945,11 +946,12 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 |Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
-|Mish|**64.3888%**|**25.08049%**|**81.4775%**|
+|Mish|**64.3888%**|25.08049%|**81.4775%**|
 |ReLU|62.7176%|27.25935%|80.3995%|
 |Swish-1|63.8944%|26.09737%|80.3995%|
 |Tanhshrink|55.755%|29.052%|75.2373%|
 |Tanh|54.3611%|27.952%|74.5549%|
+|Softsign|56.17%|**24.293%**|76.2351%|
 
 <div style="text-align:center"><img src ="Observations/se18c100.png"  width="1000"/></div>
 
