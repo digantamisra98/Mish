@@ -70,7 +70,7 @@ Based on mathematical analysis, it is also confirmed that the function has a par
 
 **Mish** has a very sharp global minima similar to Swish, which might account to gradients updates of the model being stuck in the region of sharp decay thus may lead to bad performance levels as compared to ReLU. Mish, also being mathematically heavy, is more computationally expensive as compared to the time complexity of Swish Activation Function. 
 
-The output landscape of 5 layer randomly initialized neural network was compared for ReLU, Swish, and Mish. The observation clearly shows the sharp transition between the scalar magnitudes for the co-ordinates of ReLU as compared to Swish and Mish. Smoother transition results in smoother loss functions which are easier to optimize and hence the network generalizes better. 
+The output landscape of 5 layer randomly initialized neural network was compared for ReLU, Swish, and Mish. The observation clearly shows the sharp transition between the scalar magnitudes for the co-ordinates of ReLU as compared to Swish and Mish. Smoother transition results in smoother loss functions which are easier to optimize and hence the network generalizes better. Additional comparison of output landscapes is done for GELU, SELU, ELU, Leaky ReLU, PReLU and RReLU. Most of them similar to ReLU have sharp transitions in the output landscape and thus prove to be a roadblock to effective optimization of gradients. 
 
 <div style="text-align:center"><img src ="Observations/Mish_Landscape_1.png"  width="800"/></div>
 <div style="text-align:center"><img src ="Observations/comp123.png"  width="800"/></div>
