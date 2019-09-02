@@ -98,6 +98,12 @@ Gaussian Noise with varying standard deviation was added to the input in case of
   <img src="Observations/noise1.png"  width="420"/> 
 </p>
 
+The effect of various Optimizers on the Test Top-1 Accuracy of a simple 4 layered Conv Net with Mish on MNIST was visualized and compared against Swish. Mish had a better accuracy in 7 out of the 9 optimizers as shown below.
+
+<p float="left">
+  <img src="Observations/optim.png"  width="420"/>
+</p>
+
 ## Edge of Chaos and Rate of Convergence (EOC & ROC): 
 
 **Coming Soon**
