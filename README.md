@@ -105,6 +105,13 @@ The effect of various Optimizers on the Test Top-1 Accuracy of a simple 4 layere
   <img src="Observations/lr.png"  width="420"/>
 </p>
 
+The effect of various Weight initializers and Regularizers on the Test Top-1 Accuracy in the fully connected Dense Layer of a simple 4 layered Conv Net with Mish on MNIST was compared to that with Swish and the plots beneath shows that Mish has a significant improvement over Swish. 
+
+<p float="left">
+  <img src="Observations/init.png"  width="420"/>
+  <img src="Observations/l1l2.png"  width="420"/>
+</p>
+
 ## Edge of Chaos and Rate of Convergence (EOC & ROC): 
 
 **Coming Soon**
