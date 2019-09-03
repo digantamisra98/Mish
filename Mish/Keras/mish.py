@@ -39,7 +39,7 @@ class Mish(Layer):
 
     def get_config(self):
         base_config = super(Mish, self).get_config()
-        return dict(list(base_config.items()) + list(config.items()))
+        return dict(list(base_config.items())
 
     def compute_output_shape(self, input_shape):
         return input_shape
