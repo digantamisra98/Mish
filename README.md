@@ -112,6 +112,13 @@ The effect of various Weight initializers and Regularizers on the Test Top-1 Acc
   <img src="Observations/l1l2.png"  width="420"/>
 </p>
 
+The effect of increasing dropout rates and increasing dense units on Test Top-1 Accuracy for a 4 layered network using Mish on MNIST was compared to Swish. The graphs below show the consistency of Mish over Swish.
+
+<p float="left">
+  <img src="Observations/drop.png"  width="420"/>
+  <img src="Observations/dense.png"  width="420"/>
+</p>
+
 ## Edge of Chaos and Rate of Convergence (EOC & ROC): 
 
 **Coming Soon**
