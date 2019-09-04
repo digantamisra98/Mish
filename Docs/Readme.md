@@ -4,7 +4,7 @@
 
 # Paper
 
-> Coming Soon
+Read the paper here - https://arxiv.org/abs/1908.08681
 
 # External Resources
 
