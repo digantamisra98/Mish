@@ -149,10 +149,10 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Leaky ReLU(α=0.3)|8|4|
 |PReLU(Default Parameters)	|10|2|
 |SELU|13|0|
-|Sigmoid|11|0|
-|SoftPlus(β = 1)|9|1|
-|Softsign|8|1|
-|TanH|13|0|
+|Sigmoid|12|0|
+|SoftPlus(β = 1)|10|1|
+|Softsign|9|1|
+|TanH|14|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 |E-Swish (β=1.75)|9|6|
@@ -162,8 +162,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Hardtanh|9|1|
 |ReLU6|8|1|
 |LogSigmoid|9|1|
-|Softshrink (λ = 0.5)|7|0|
-|Tanhshrink|11|0|
+|Softshrink (λ = 0.5)|8|0|
+|Tanhshrink|12|0|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
 
