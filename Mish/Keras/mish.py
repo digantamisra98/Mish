@@ -1,15 +1,14 @@
 # Keras Implementation of Mish Activation Function.
 
-
 # Import Necessary Modules.
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
+from keras.layers import Activation
+from keras.utils.generic_utils import get_custom_objects
+import keras.backend as K
 
-from keras.engine.base_layer import Layer
-from keras import backend as K
-
-class Mish(Layer):
+class Mish(Activation):
     '''
     Mish Activation Function.
 
@@ -25,21 +24,15 @@ class Mish(Layer):
         - Output: Same shape as the input.
 
     Examples:
-        >>> X_input = Input(input_shape)
-        >>> X = Mish()(X_input)
-
+        >>> X = Activation('Mish', name="conv1_act")(X_input)
     '''
 
-    def __init__(self, **kwargs):
-        super(Mish, self).__init__(**kwargs)
-        self.supports_masking = True
+    def __init__(self, activation, **kwargs):
+        super(Mish, self).__init__(activation, **kwargs)
+        self.__name__ = 'Mish'
 
-    def call(self, inputs):
-        return inputs * K.tanh(K.softplus(inputs))
 
-    def get_config(self):
-        base_config = super(Mish, self).get_config()
-        return dict(list(base_config.items())
+def mish(x):
+    return x*K.tanh(K.softplus(x))
 
-    def compute_output_shape(self, input_shape):
-        return input_shape
+get_custom_objects().update({'Mish': Mish(mish)})
