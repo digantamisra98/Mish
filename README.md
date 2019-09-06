@@ -147,7 +147,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Hard Sigmoid|1|0|
 |RReLU|7|3|
 |Leaky ReLU(α=0.3)|8|4|
-|PReLU(Default Parameters)	|9|2|
+|PReLU(Default Parameters)	|10|2|
 |SELU|13|0|
 |Sigmoid|11|0|
 |SoftPlus(β = 1)|9|1|
@@ -163,7 +163,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ReLU6|8|1|
 |LogSigmoid|9|1|
 |Softshrink (λ = 0.5)|7|0|
-|Tanhshrink|10|0|
+|Tanhshrink|11|0|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
 
