@@ -155,7 +155,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |---|---|---|
 |ReLU|54|20|
 |Swish-1|52|22|
-|ELU(α=1.0)|13|1|
+|ELU(α=1.0)|14|1|
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
@@ -172,8 +172,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |E-Swish (β=1.75)|9|6|
 |GELU|8|2|
 |CELU(α=1.0)|10|0|
-|HardShrink(λ = 0.5)|9|0|
-|Hardtanh|9|1|
+|HardShrink(λ = 0.5)|10|0|
+|Hardtanh|10|1|
 |ReLU6|8|2|
 |LogSigmoid|9|1|
 |Softshrink (λ = 0.5)|11|0|
