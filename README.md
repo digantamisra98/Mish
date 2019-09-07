@@ -171,7 +171,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Hardtanh|9|1|
 |ReLU6|8|1|
 |LogSigmoid|9|1|
-|Softshrink (λ = 0.5)|9|0|
+|Softshrink (λ = 0.5)|11|0|
 |Tanhshrink|12|0|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
