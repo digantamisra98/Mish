@@ -157,7 +157,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |RReLU|7|3|
 |Leaky ReLU(α=0.3)|8|4|
 |PReLU(Default Parameters)	|10|2|
-|SELU|13|0|
+|SELU|14|0|
 |Sigmoid|12|0|
 |SoftPlus(β = 1)|10|1|
 |Softsign|9|1|
@@ -166,7 +166,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Thresholded ReLU(θ=1.0)|1|0|
 |E-Swish (β=1.75)|9|6|
 |GELU|8|2|
-|CELU(α=1.0)|9|0|
+|CELU(α=1.0)|10|0|
 |HardShrink(λ = 0.5)|9|0|
 |Hardtanh|9|1|
 |ReLU6|8|1|
