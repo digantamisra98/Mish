@@ -125,6 +125,7 @@ The effect of increasing dropout rates and increasing dense units on Test Top-1 
 
 <p float="left">
   <img src="Observations/dropc10.png"  width="420"/>
+  <img src="Observations/densec10.png"  width="420"/>
 </p>
 
 ## Edge of Chaos and Rate of Convergence (EOC & ROC): 
