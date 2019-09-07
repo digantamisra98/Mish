@@ -597,7 +597,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |HardShrink(λ=0.5)|78.1546%|6.5938%|95.2729%|
 |HardTanH|87.47%|5.3546%|97.92%|
 |LogSigmoid|91.07%|3.8678%|98.68%|
-|RReLU|91.42%|**3.402%**|98.87%|
+|RReLU|91.42%|3.402%|98.87%|
 |PReLU|90.46%|4.4049%|98.70%|
 |Tanhshrink|84.65%|5.621%|97.04%|
 |Tanh|86.98%|5.305%|98.05%|
@@ -607,6 +607,8 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |CELU(α=1.0)|90.76%|3.899%|98.5%|
 |Softshrink(λ=0.5)|86%|5.569%|97.8%|
 |ReLU6|**92%**|3.846%|**98.98%**|
+|LeakyReLU (α=0.3)|91.6%|**3.331%**|98.86%|
+|Softsign|84.75%|6.212%|97.09%|
 
 <div style="text-align:center"><img src ="Observations/inceptionv3.png"  width="1000"/></div>
 
@@ -880,7 +882,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 |Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
-|ReLU|56.1907%|**24.01577%**|75.8604%|
+|ReLU|56.1907%|24.01577%|75.8604%|
 |Swish-1|55.6764%|27.90889%|74.7528%|
 |Mish|**57.0609%**|25.96031%|**76.2757%**|
 |Tanhshrink|45.39%|35.02%|54.33%|
@@ -890,6 +892,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |ELU (α=1.0)|55.68%|23.84%|75.64%|
 |HardShrink(λ=0.5)|37.95%|25.02%|57.82%|
 |Hardtanh|50.46%|23.82%|71.40%|
+|LogSigmoid|56.11%|**20.733%**|76.63%|
 
 <div style="text-align:center"><img src ="Observations/mobilev2c100.png"  width="1000"/></div>
 
