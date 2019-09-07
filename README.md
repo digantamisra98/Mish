@@ -160,7 +160,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SELU|14|0|
 |Sigmoid|12|0|
 |SoftPlus(β = 1)|10|1|
-|Softsign|10|1|
+|Softsign|11|1|
 |TanH|14|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
