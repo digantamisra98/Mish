@@ -899,7 +899,8 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Sigmoid|47.01%|20.466%|68.86%|
 |SELU|56.43%|**19.885%**|76.5%|
 |CELU(α=1.0)|56.72%|23.15%|76.54%|
-
+|Leaky ReLU(α=0.3)|57.8%|22.393%|77.11%|
+|Softplus(β = 1)|55.03%|19.935%|75.9%|
 <div style="text-align:center"><img src ="Observations/mobilev2c100.png"  width="1000"/></div>
 
 #### Shuffle Net:
@@ -964,8 +965,10 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
 |Mish|68.3347%|20.8839%|84.7409%|
-|ReLU|**68.7797%**|**20.4812%**|**85.1365%**|
+|ReLU|68.7797%|20.4812%|85.1365%|
 |Swish-1|67.0095%|21.22539%|83.9201%|
+|Leaky ReLU(α=0.3)|**69.54%**|**15.45%**|**86.43%**|
+|ELU (α=1.0)|68.17%|18.39%|85.38%|
 
 <div style="text-align:center"><img src ="Observations/inceptionc100.png"  width="1000"/></div>
 
