@@ -168,10 +168,10 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
-|RReLU|7|5|
+|RReLU|8|5|
 |Leaky ReLU(α=0.3)|10|5|
 |PReLU(Default Parameters)	|12|2|
-|SELU|16|0|
+|SELU|17|0|
 |Sigmoid|15|0|
 |SoftPlus(β = 1)|11|2|
 |Softsign|13|1|
