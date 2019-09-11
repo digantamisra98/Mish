@@ -169,7 +169,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
 |RReLU|8|6|
-|Leaky ReLU(α=0.3)|10|5|
+|Leaky ReLU(α=0.3)|11|5|
 |PReLU(Default Parameters)	|13|2|
 |SELU|17|0|
 |Sigmoid|15|0|
@@ -184,7 +184,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |HardShrink(λ = 0.5)|12|0|
 |Hardtanh|11|1|
 |ReLU6|10|3|
-|LogSigmoid|10|2|
+|LogSigmoid|11|2|
 |Softshrink (λ = 0.5)|13|0|
 |Tanhshrink|13|0|
 
