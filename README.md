@@ -183,7 +183,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |CELU(α=1.0)|13|0|
 |HardShrink(λ = 0.5)|12|0|
 |Hardtanh|11|1|
-|ReLU6|10|3|
+|ReLU6|11|3|
 |LogSigmoid|11|2|
 |Softshrink (λ = 0.5)|13|0|
 |Tanhshrink|13|0|
