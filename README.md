@@ -163,7 +163,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Activation Function| Mish > Baseline Model | Mish < Baseline Model |
 |---|---|---|
 |ReLU|54|20|
-|Swish-1|52|22|
+|Swish-1|53|22|
 |ELU(α=1.0)|16|2|
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
@@ -178,7 +178,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |TanH|15|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
-|E-Swish (β=1.75)|10|6|
+|E-Swish (β=1.75)|11|6|
 |GELU|9|2|
 |CELU(α=1.0)|13|0|
 |HardShrink(λ = 0.5)|13|0|
