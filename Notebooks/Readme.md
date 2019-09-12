@@ -1051,6 +1051,9 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |SELU|60.51%|27.47%|78.52%|
 |CELU(α=1.0)|61.7%|26.42%|79.58%|
 |Softplus(β = 1)|61.39%|32.9%|79.36%|
+|Tanhshrink|56.7%|27.76%|75.35%|
+|Tanh|54.49%|29.63%|73.67%|
+|Softshrink(λ=0.5)|54.61%|32.37%|73.12%|
 
 <div style="text-align:center"><img src ="Observations/se34c100.png"  width="1000"/></div>
 
