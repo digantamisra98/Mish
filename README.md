@@ -164,27 +164,27 @@ All results and comparative analysis are present in the [Readme](https://github.
 |---|---|---|
 |ReLU|54|20|
 |Swish-1|53|22|
-|ELU(α=1.0)|16|2|
+|ELU(α=1.0)|17|2|
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
-|RReLU|8|6|
-|Leaky ReLU(α=0.3)|11|5|
-|PReLU(Default Parameters)	|13|2|
-|SELU|17|0|
+|RReLU|9|6|
+|Leaky ReLU(α=0.3)|12|5|
+|PReLU(Default Parameters)	|14|2|
+|SELU|18|0|
 |Sigmoid|15|0|
-|SoftPlus(β = 1)|12|2|
+|SoftPlus(β = 1)|13|2|
 |Softsign|14|1|
 |TanH|15|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
-|E-Swish (β=1.75)|11|6|
-|GELU|9|2|
-|CELU(α=1.0)|13|0|
-|HardShrink(λ = 0.5)|13|0|
-|Hardtanh|12|1|
-|ReLU6|11|3|
-|LogSigmoid|11|2|
+|E-Swish (β=1.75)|12|6|
+|GELU|10|2|
+|CELU(α=1.0)|14|0|
+|HardShrink(λ = 0.5)|14|0|
+|Hardtanh|13|1|
+|ReLU6|11|4|
+|LogSigmoid|12|2|
 |Softshrink (λ = 0.5)|13|0|
 |Tanhshrink|13|0|
 
