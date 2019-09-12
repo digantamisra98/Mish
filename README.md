@@ -175,7 +175,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Sigmoid|15|0|
 |SoftPlus(β = 1)|13|2|
 |Softsign|14|1|
-|TanH|15|0|
+|TanH|16|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 |E-Swish (β=1.75)|12|6|
@@ -185,8 +185,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Hardtanh|13|1|
 |ReLU6|11|4|
 |LogSigmoid|12|2|
-|Softshrink (λ = 0.5)|13|0|
-|Tanhshrink|13|0|
+|Softshrink (λ = 0.5)|14|0|
+|Tanhshrink|14|0|
 
 #### CIFAR Results (Top-1 Testing Accuracy):
 
