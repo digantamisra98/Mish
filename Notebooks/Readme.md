@@ -998,7 +998,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |TanhShrink|62.21%|18.7%|80.47%|
 |Softsign|58.61%|22.55%|77.46%|
 |Softshrink|58.73%|22.91%|77.19%|
-|E-Swish(β = 1.75)|68.33%|21.7%|84.34%|
+|E-Swish(β = 1.75)|68.3346%|21.7%|84.34%|
 
 <div style="text-align:center"><img src ="Observations/inceptionc100.png"  width="1000"/></div>
 
