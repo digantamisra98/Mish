@@ -142,7 +142,7 @@ The effect of increasing dropout rates and increasing dense units on Test Top-1 
   <img src="Observations/optimc10.png"  width="420"/>
 </p>
 
-## Edge of Chaos and Rate of Convergence (EOC & ROC): 
+## Edge of Chaos and Rate of Convergence (EOC & ROC)/ Hessian Energy Computation Analysis: 
 
 **Coming Soon**
 
