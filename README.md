@@ -208,9 +208,11 @@ All results and comparative analysis are present in the [Readme](https://github.
 |GELU|90.5063%|5.0612%|**98.754%**|
 |SELU|86.432%|6.89385%|97.8936%|
 
-<div style="text-align:center"><img src ="Observations/se50.png"  width="1000"/></div>
+<div style="text-align:center"><img src ="Observations/se50_1.png"  width="1000"/></div>
 
 It was observed that the stability of descent of Loss for SENet-50 with Mish is much better as compared to other activation functions. It was also observed that Mish was the only activation function which crossed the 91% mark for the Test Top-1 accuracy across both the runs while others reached a maximum of 90.7% with Mish recording the highest at 91.248%. 
+
+Note - The graph represents the Test Top-1 accuracy and loss. Training Top-1 Accuracy and Loss are represented using dashed lines. 
 
 #### CIFAR Results (Top-1 Testing Accuracy):
 
