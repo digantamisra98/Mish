@@ -496,13 +496,18 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 <div style="text-align:center"><img src ="Observations/se34.png"  width="1000"/></div>
 
-##### SE-Net 34:
+##### SE-Net 50:
 
 |Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
 |Mish|**90.7931%**|**4.75271%**|98.5562%|
 |Swish-1|90.558%|4.76047%|98.6748%|
-|E-Swish (β = 1.75)|90.5063%|5.22954%|**98.6946%**|
+|E-Swish (β = 1.75)|90.5063%|5.22954%|98.6946%|
+|ReLU|90.447%|4.93086%|98.6155%|
+|GELU|90.5063%|5.0612%|**98.754%**|
+|SELU|86.432%|6.89385%|97.8936%|
+
+<div style="text-align:center"><img src ="Observations/se50.png"  width="1000"/></div>
 
 #### Shuffle Net:
 
