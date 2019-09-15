@@ -193,10 +193,15 @@ All results and comparative analysis are present in the [Readme](https://github.
 Setup and Parameters:
 
 Model - Squeeze Excite ResNet-50
+
 Dataset - CIFAR-10
+
 Batch Size - 128
+
 Epoch - 100
+
 Optimizer - Adam
+
 Learning Rate - 0.001
 
 <div style="text-align:center"><img src ="Observations/se50.png"  width="1000"/></div>
