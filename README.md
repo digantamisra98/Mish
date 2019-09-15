@@ -162,7 +162,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 
 |Activation Function| Mish > Baseline Model | Mish < Baseline Model |
 |---|---|---|
-|ReLU|54|20|
+|ReLU|55|20|
 |Swish-1|53|22|
 |ELU(α=1.0)|17|2|
 |Aria-2(β = 1, α=1.5)|2|0|
@@ -171,7 +171,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |RReLU|9|6|
 |Leaky ReLU(α=0.3)|12|5|
 |PReLU(Default Parameters)	|14|2|
-|SELU|18|0|
+|SELU|19|0|
 |Sigmoid|15|0|
 |SoftPlus(β = 1)|13|2|
 |Softsign|15|1|
@@ -179,7 +179,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 |E-Swish (β=1.75)|13|6|
-|GELU|10|2|
+|GELU|11|2|
 |CELU(α=1.0)|14|0|
 |HardShrink(λ = 0.5)|14|0|
 |Hardtanh|13|1|
@@ -198,6 +198,15 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Epoch|100|
 |Optimizer|Adam|
 |Learning Rate|0.001|
+
+|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
+|---|---|---|---|
+|Mish|**90.7931%**|**4.75271%**|98.5562%|
+|Swish-1|90.558%|4.76047%|98.6748%|
+|E-Swish (β = 1.75)|90.5063%|5.22954%|98.6946%|
+|ReLU|90.447%|4.93086%|98.6155%|
+|GELU|90.5063%|5.0612%|**98.754%**|
+|SELU|86.432%|6.89385%|97.8936%|
 
 <div style="text-align:center"><img src ="Observations/se50.png"  width="1000"/></div>
 
