@@ -909,6 +909,8 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |CELU(α=1.0)|56.72%|23.15%|76.54%|
 |Leaky ReLU(α=0.3)|57.8%|22.393%|77.11%|
 |Softplus(β = 1)|55.03%|19.935%|75.9%|
+|E-Swish (β = 1.75)|55.44%|28.506%|75.17%|
+
 <div style="text-align:center"><img src ="Observations/mobilev2c100.png"  width="1000"/></div>
 
 #### Shuffle Net:
