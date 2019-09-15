@@ -188,6 +188,10 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Softshrink (λ = 0.5)|14|0|
 |Tanhshrink|14|0|
 
+#### Sample Result: 
+
+<div style="text-align:center"><img src ="Observations/se50.png"  width="1000"/></div>
+
 #### CIFAR Results (Top-1 Testing Accuracy):
 
 |Models|Mish|Swish|ReLU|
