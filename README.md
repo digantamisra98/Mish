@@ -178,7 +178,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Aria-2(β = 1, α=1.5)|2|0|
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
-|RReLU|9|6|
+|RReLU|9|7|
 |Leaky ReLU(α=0.3)|12|5|
 |PReLU(Default Parameters)	|14|2|
 |SELU|19|0|
@@ -193,7 +193,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |CELU(α=1.0)|14|0|
 |HardShrink(λ = 0.5)|15|0|
 |Hardtanh|14|1|
-|ReLU6|11|4|
+|ReLU6|12|4|
 |LogSigmoid|13|2|
 |Softshrink (λ = 0.5)|14|0|
 |Tanhshrink|14|0|
