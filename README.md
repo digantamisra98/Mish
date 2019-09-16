@@ -143,6 +143,11 @@ The effect of increasing dropout rates and increasing dense units on Test Top-1 
   <img src="Observations/policyan.png"  width="420"/>
 </p>
 
+<p float="left">
+  <img src="Observations/mix1.png"  width="420"/>
+  <img src="Observations/mix2.png"  width="420"/>
+</p>
+
 ## Edge of Chaos and Rate of Convergence (EOC & ROC)/ Hessian Energy Computation Analysis: 
 
 **Coming Soon**
