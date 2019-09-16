@@ -143,8 +143,8 @@ The effect of increasing dropout rates and increasing dense units on Test Top-1 
   <img src="Observations/policyan.png"  width="420"/>
 </p>
 
-*All default parameters were used for Optimizers.*
-*For Cosine Annealing, Max η was set at 0.01 (1e-2) and Min η was set at 0.0001 (1e-4)*
+*All default parameters were used for Optimizers.* <br>
+*For Cosine Annealing, Max η was set at 0.01 (1e-2) and Min η was set at 0.0001 (1e-4)* <br>
 *For One Cycle Policy, Min Learning Rate was set at 0.00000291545 (7e-3), Max Learning Rate was set at 0.00020408163 (7e-2), Min Momentum was set at 0.85, Max Momentum was set at 0.95, Annealing Stage was set at 0.1 and Annealing Rate was set at 0.01.
 
 <p float="left">
