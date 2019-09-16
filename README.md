@@ -184,7 +184,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SELU|19|1|
 |Sigmoid|16|0|
 |SoftPlus(β = 1)|13|3|
-|Softsign|15|1|
+|Softsign|16|1|
 |TanH|17|0|
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
@@ -196,7 +196,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ReLU6|12|4|
 |LogSigmoid|13|2|
 |Softshrink (λ = 0.5)|15|0|
-|Tanhshrink|14|0|
+|Tanhshrink|15|0|
 
 #### Sample Result: 
 
