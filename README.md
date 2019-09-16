@@ -189,7 +189,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SQNL|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 |E-Swish (β=1.75)|14|6|
-|GELU|11|2|
+|GELU|13|2|
 |CELU(α=1.0)|14|0|
 |HardShrink(λ = 0.5)|14|0|
 |Hardtanh|13|1|
