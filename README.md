@@ -179,11 +179,11 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Sigmoid|17|0|
 |HardShrink(λ = 0.5)|17|0|
 |TanH|17|0|
+|Softsign|17|1|
 |E-Swish (β=1.75)|17|6|
 |Tanhshrink|16|0|
 |Softshrink (λ = 0.5)|16|0|
 |Hardtanh|16|1|
-|Softsign|16|1|
 |PReLU(Default Parameters)	|16|2|
 |GELU|16|2|
 |CELU(α=1.0)|14|2|
