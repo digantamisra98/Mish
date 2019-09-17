@@ -980,6 +980,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |GELU|58.41%|27.98%|77.13%|
 |E-Swish (β = 1.75)|58.97%|27.33%|77.78%|
 |Softsign|55.25%|23.37%|75.08%|
+|Tanh|55.11%|24.62%|74.57%|
 
 <div style="text-align:center"><img src ="Observations/shufflev2c100.png"  width="1000"/></div>
 
