@@ -191,7 +191,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |E-Swish (β=1.75)|15|6|
 |GELU|14|2|
 |CELU(α=1.0)|14|0|
-|HardShrink(λ = 0.5)|15|0|
+|HardShrink(λ = 0.5)|16|0|
 |Hardtanh|14|1|
 |ReLU6|12|4|
 |LogSigmoid|13|2|
