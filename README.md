@@ -179,7 +179,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Bent's Identity|1|0|
 |Hard Sigmoid|1|0|
 |RReLU|9|7|
-|Leaky ReLU(α=0.3)|12|5|
+|Leaky ReLU(α=0.3)|13|5|
 |PReLU(Default Parameters)	|15|2|
 |SELU|19|1|
 |Sigmoid|16|0|
