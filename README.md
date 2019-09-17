@@ -175,10 +175,10 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ReLU|55|20|
 |Swish-1|53|22|
 |SELU|20|1|
+|TanH|18|0|
 |ELU(α=1.0)|18|4|
 |Sigmoid|17|0|
 |HardShrink(λ = 0.5)|17|0|
-|TanH|17|0|
 |Softsign|17|1|
 |E-Swish (β=1.75)|17|6|
 |Tanhshrink|16|0|
