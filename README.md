@@ -187,7 +187,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |PReLU(Default Parameters)	|16|2|
 |GELU|16|2|
 |CELU(α=1.0)|14|2|
-|LogSigmoid|13|3|
+|LogSigmoid|14|3|
 |ReLU6|13|4|
 |SoftPlus(β = 1)|13|4|
 |Leaky ReLU(α=0.3)|13|7|
