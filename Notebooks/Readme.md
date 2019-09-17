@@ -959,9 +959,25 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 
 |Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
 |---|---|---|---|
-|Mish|**59.3552%**|27.42081%|77.324%|
-|Swish-1|58.9102%|27.65543%|**77.5218%**|
-|ReLU|58.5641%|**27.16777%**|76.8493%|
+|Mish|59.3552%|27.42081%|77.324%|
+|Swish-1|58.9102%|27.65543%|77.5218%|
+|ReLU|58.5641%|27.16777%|76.8493%|
+|ELU (α=1.0)|60.16%|25.24%|78.36%|
+|HardShrink(λ=0.5)|49.37%|19.94%|70.38%|
+|Hardtanh|54.45%|23.83%|73.78%|
+|LogSigmoid|**61.42%**|24.71%|79.64%|
+|RReLU|61.34%|22.7%|**80.25%**|
+|ReLU6|58.17%|26.99%|76.75%|
+|PReLU|56.19%|30.15%|75.18%|
+|SELU|58.87%|21.66%|77.74%|
+|Sigmoid|57.9%|**17.93%**|77.51%|
+|Softplus(β = 1)|60.81%|24.67%|79.27%|
+|Softshrink(λ=0.5)|46.24%|32.53%|66.26%|
+|Tanhshrink|49.33%|30.84%|69.43%|
+|Leaky ReLU(α=0.3)|60.95%|22.97%|79.5%|
+|CELU(α=1.0)|59.62%|24.72%|78.55%|
+|GELU|58.41%|27.98%|77.13%|
+|E-Swish (β = 1.75)|58.97%|27.33%|77.78%|
 
 <div style="text-align:center"><img src ="Observations/shufflev2c100.png"  width="1000"/></div>
 
