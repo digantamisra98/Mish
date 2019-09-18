@@ -176,18 +176,18 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Swish-1|53|22|
 |SELU|20|1|
 |ELU(α=1.0)|19|4|
+|HardShrink(λ = 0.5)|18|0|
 |TanH|18|0|
 |E-Swish (β=1.75)|18|6|
 |Sigmoid|17|0|
-|HardShrink(λ = 0.5)|17|0|
+|Hardtanh|17|1|
 |Softsign|17|1|
 |GELU|17|2|
 |Tanhshrink|16|0|
 |Softshrink (λ = 0.5)|16|0|
-|Hardtanh|16|1|
 |PReLU(Default Parameters)	|16|2|
+|LogSigmoid|15|3|
 |CELU(α=1.0)|14|2|
-|LogSigmoid|14|3|
 |ReLU6|13|4|
 |SoftPlus(β = 1)|13|4|
 |Leaky ReLU(α=0.3)|13|7|
