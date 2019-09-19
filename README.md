@@ -156,6 +156,19 @@ The effect of increasing dropout rates and increasing dense units on Test Top-1 
 
 **Coming Soon**
 
+## Significance Level: 
+
+The P-values were computed for different activation functions in comparison to that of Mish on terms of Top-1 Testing Accuracy of a Squeeze Net Model on CIFAR-10 for 50 epochs for 3 runs using Adam Optimizer at a Learning Rate of 0.001 and Batch Size of 128. It was observed that Mish beats most of the activation functions at a high significance level. Mish also had a comparatively lower standard deviation across the 3 runs which proves the consistency of performance for Mish.
+
+|Activation Function| Peak Accuracy | Mean Accuracy | Standard Deviation of Accuracy | P-value |
+|:---:|:---:|:---:|:---:|:---:|
+|Mish|88.15%|87.93%|0.04358898943540784|-|
+|ReLU|87.47%|87.06%|0.5311308689955831|P < 5e-3 (0.0475)|
+|Swish-1|87.88%|87.36333333333333%|0.135030860670192|P < 5e-4 (0.0023)|
+|ELU(α=1.0)|86.82%|86.46333333333334%|0.07571877794400171|P < 0.0001|
+|E-Swish (β=1.75)|87.92%|87.53999999999999%|0.33421549934136363|P < 5e-2 (0.1156)| 
+|GELU|87.89%|87.28%|0.15620499351812658|P < 5e-4 (0.0023)|
+
 ## Properties Summary:
 
 |Activation Function Name| Function Graph | Equation | Range | Order of Continuity | Monotonic | Monotonic Derivative | Approximates Identity Near Origin| Dead Neurons | Saturated |
