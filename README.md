@@ -162,7 +162,7 @@ The P-values were computed for different activation functions in comparison to t
 
 |Activation Function| Peak Accuracy | Mean Accuracy | Standard Deviation of Accuracy | P-value |
 |:---:|:---:|:---:|:---:|:---:|
-|Mish|88.15%|87.93%|0.04358898943540784|-|
+|Mish|**88.15%**|**87.93%**|**0.04358898943540784**|-|
 |ReLU|87.47%|87.06%|0.5311308689955831|P < 5e-3 (0.0475)|
 |Swish-1|87.88%|87.36333333333333%|0.135030860670192|P < 5e-4 (0.0023)|
 |ELU(α=1.0)|86.82%|86.46333333333334%|0.07571877794400171|P < 0.0001|
