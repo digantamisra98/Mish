@@ -196,6 +196,7 @@ The P-values were computed for different activation functions in comparison to t
 |Mish|87.48%|4.13%|0.3967|-|-|-|
 |Swish-1|87.32%|4.22%|0.414|P = 0.1973|0.386|-0.3975 to 0.0844|
 |E-Swish (β=1.75)|87.49%|4.156%|0.411|P = 0.9075|0.034444|-0.2261 to 0.2539|
+|GELU|87.37%|4.339%|0.472|P = 0.4003|0.250468|-0.3682 to 0.1499|
 
 ## Properties Summary:
 
