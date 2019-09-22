@@ -158,7 +158,7 @@ The effect of increasing dropout rates and increasing dense units on Test Top-1 
 
 ## Significance Level: 
 
-The P-values were computed for different activation functions in comparison to that of Mish on terms of Top-1 Testing Accuracy of a Squeeze Net Model on CIFAR-10 for 50 epochs for 3 runs using Adam Optimizer at a Learning Rate of 0.001 and Batch Size of 128. It was observed that Mish beats most of the activation functions at a high significance level. Mish also had a comparatively lower standard deviation across the 3 runs which proves the consistency of performance for Mish.
+The P-values were computed for different activation functions in comparison to that of Mish on terms of Top-1 Testing Accuracy of a Squeeze Net Model on CIFAR-10 for 50 epochs for 3 runs and 23 runs using Adam Optimizer at a Learning Rate of 0.001 and Batch Size of 128. It was observed that Mish beats most of the activation functions at a high significance level in the 3 runs while for 23 runs, it beats ReLU at a high significance of P < 0.0001. Mish also had a comparatively lower standard deviation across both 3 and 23 runs which proves the consistency of performance for Mish.
 
 ### Sample Size = 3:
 
