@@ -202,6 +202,7 @@ The P-values were computed for different activation functions in comparison to t
 |Leaky ReLU(α=0.3)|86.85%|4.112%|0.4569|P < 0.0001|1.47632|-0.8860 to -0.3774|
 |RReLU|86.87%|4.138%|0.4478|P < 0.0001|1.444091|-0.8623 to -0.3595|
 |SELU|83.91%|4.831%|0.5995|P < 0.0001|7.020812|-3.8713 to -3.2670|
+|SoftPlus(β = 1)|83.004%|5.546%|1.4015|P < 0.0001|4.345453|-4.7778 to -4.1735|
 
 *Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
 
