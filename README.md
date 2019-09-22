@@ -198,6 +198,11 @@ The P-values were computed for different activation functions in comparison to t
 |E-Swish (β=1.75)|87.49%|4.156%|0.411|P = 0.9075|0.034444|-0.2261 to 0.2539|
 |GELU|87.37%|4.339%|0.472|P = 0.4003|0.250468|-0.3682 to 0.1499|
 |ReLU|86.66%|4.398%|0.584|P < 0.0001|1.645536|-1.1179 to -0.5247|
+|ELU(α=1.0)|86.41%|4.211%|0.3371|P < 0.0001|2.918232|-1.2931 to -0.8556|
+|Leaky ReLU(α=0.3)|86.85%|4.112%|0.4569|P < 0.0001|1.47632|-0.8860 to -0.3774|
+|RReLU|86.87%|4.138%|0.4478|P < 0.0001|1.444091|-0.8623 to -0.3595|
+
+*Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
 
 ## Properties Summary:
 
