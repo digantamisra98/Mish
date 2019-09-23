@@ -244,7 +244,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ReLU6|14|4|
 |SoftPlus(β = 1)|14|4|
 |Leaky ReLU(α=0.3)|13|7|
-|RReLU|10|8|
+|RReLU|11|8|
 |Aria-2(β = 1, α=1.5)|5|0|
 |SQNL|4|0|
 |Bent's Identity|3|0|
