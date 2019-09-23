@@ -232,12 +232,12 @@ All results and comparative analysis are present in the [Readme](https://github.
 |HardShrink(λ = 0.5)|18|0|
 |Sigmoid|18|0|
 |Softsign|18|1|
+|PReLU(Default Parameters)	|18|2|
 |E-Swish (β=1.75)|18|6|
 |Tanhshrink|17|0|
 |Softshrink (λ = 0.5)|17|0|
 |Hardtanh|17|1|
 |GELU|17|2|
-|PReLU(Default Parameters)	|17|2|
 |LogSigmoid|16|3|
 |CELU(α=1.0)|15|2|
 |ReLU6|14|4|
