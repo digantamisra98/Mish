@@ -231,7 +231,7 @@ The P-values were computed for different activation functions in comparison to t
 |PReLU|85.66478 ± 0.968944|
 |ReLU6|86.75391 ± 0.1946326|
 
-<div style="text-align:center"><img src ="Observations/ci.png"  width="800"/></div>
+<div style="text-align:center"><img src ="Observations/ci.png"  width="1000"/></div>
 
 ## Properties Summary:
 
