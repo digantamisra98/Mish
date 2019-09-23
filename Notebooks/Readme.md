@@ -438,6 +438,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Tanhshrink|82.87%|6.299%|96.97%|
 |Bent's Identity|85.82%|**4.818%**|97.46%|
 |SQNL|82.45%|6.5525|96.41%|
+|Aria-2(β = 1, α=1.5)|82.31%|6.161%|96.4%|
 
 <div style="text-align:center"><img src ="Observations/mobile.png"  width="1000"/></div>
 
