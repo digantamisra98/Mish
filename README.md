@@ -208,6 +208,7 @@ The P-values were computed for different activation functions in comparison to t
 |LogSigmoid|81.98%|5.705%|1.6751|P < 0.0001|4.517156|-6.2221 to -4.7753|
 |PReLU|85.66%|5.101%|2.2406|P = 0.0004|1.128135|-2.7715 to -0.8590|
 |ReLU6|86.75%|4.355%|0.4501|P < 0.0001| 1.711482|-0.9782 to -0.4740|
+|CELU(α=1.0)|86.23%|4.243%|0.50941|P < 0.0001| 2.741669|-1.5231 to -0.9804|
 
 *Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
 
@@ -230,6 +231,7 @@ The P-values were computed for different activation functions in comparison to t
 |LogSigmoid|81.9813 ± 0.7244|
 |PReLU|85.66478 ± 0.968944|
 |ReLU6|86.75391 ± 0.1946326|
+|CELU(α=1.0)|86.22826 ± 0.2202884|
 
 <div style="text-align:center"><img src ="Observations/ci.png"  width="1000"/></div>
 
