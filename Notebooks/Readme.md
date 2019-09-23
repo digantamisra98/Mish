@@ -179,7 +179,6 @@ The evaluation metrics for the Mini-VGG Network with Mish Activation Function is
 |TanH|90.99%|4.3992%|
 |Thresholded ReLU(θ=1.0)|76.22%|7.37498%|
 
-
 ##### ResNet-56:
 
 Number of Epochs were varied to observe the computational cost and training time of the networks. The table below provides all the information regarding the same. 
@@ -438,6 +437,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |TanH|83.51%|5.843%|96.65%|
 |Tanhshrink|82.87%|6.299%|96.97%|
 |Bent's Identity|85.82%|**4.818%**|97.46%|
+|SQNL|82.45%|6.5525|96.41%|
 
 <div style="text-align:center"><img src ="Observations/mobile.png"  width="1000"/></div>
 
