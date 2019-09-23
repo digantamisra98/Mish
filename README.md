@@ -203,6 +203,7 @@ The P-values were computed for different activation functions in comparison to t
 |RReLU|86.87%|4.138%|0.4478|P < 0.0001|1.444091|-0.8623 to -0.3595|
 |SELU|83.91%|4.831%|0.5995|P < 0.0001|7.020812|-3.8713 to -3.2670|
 |SoftPlus(β = 1)|83.004%|5.546%|1.4015|P < 0.0001|4.345453|-4.7778 to -4.1735|
+|HardShrink(λ = 0.5)|75.03%|7.231%|0.98345|P < 0.0001|16.601747|-12.8948 to -12.0035|
 
 *Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
 
