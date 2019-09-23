@@ -241,8 +241,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Softshrink (λ = 0.5)|17|0|
 |Hardtanh|17|1|
 |GELU|17|2|
+|CELU(α=1.0)|16|2|
 |LogSigmoid|16|3|
-|CELU(α=1.0)|15|2|
 |SoftPlus(β = 1)|14|4|
 |ReLU6|14|5|
 |Leaky ReLU(α=0.3)|13|7|
