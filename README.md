@@ -206,6 +206,8 @@ The P-values were computed for different activation functions in comparison to t
 |HardShrink(λ = 0.5)|75.03%|7.231%|0.98345|P < 0.0001|16.601747|-12.8948 to -12.0035|
 |Hardtanh|82.78%|5.209%|0.4491|P < 0.0001|11.093842|-4.9522 to -4.4486|
 |LogSigmoid|81.98%|5.705%|1.6751|P < 0.0001|4.517156|-6.2221 to -4.7753|
+|PReLU|85.66%|5.101%|2.2406|P = 0.0004|1.128135|-2.7715 to -0.8590|
+|ReLU6|86.75%|4.355%|0.4501|P < 0.0001| 1.711482|-0.9782 to -0.4740|
 
 *Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
 
