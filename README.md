@@ -211,6 +211,26 @@ The P-values were computed for different activation functions in comparison to t
 
 *Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
 
+### Confidence Interval Profiles: 
+
+|Activation Function| CI |
+|:---:|:---:|
+|Mish|87.48 ± 0.1716|
+|Swish-1|87.32347 ± 0.179027|
+|E-Swish (β=1.75)|87.49391 ± 0.1776597|
+|GELU|87.37083 ± 0.2040073|
+|ReLU|86.65869 ± 0.2524601|
+|ELU(α=1.0)|86.40565 ± 0.1458006|
+|Leaky ReLU(α=0.3)|86.84826 ± 0.1976138|
+|RReLU| 86.86913 ± 0.1936264|
+|SELU|83.91086 ± 0.2592722|
+|SoftPlus(β = 1)|83.00434 ± 0.6060631|
+|HardShrink(λ = 0.5)|75.03086 ± 0.4252852|
+|Hardtanh|82.77956 ± 0.1941855|
+|LogSigmoid|81.9813 ± 0.7244|
+|PReLU|85.66478 ± 0.968944|
+|ReLU6|86.75391 ± 0.1946326|
+
 ## Properties Summary:
 
 |Activation Function Name| Function Graph | Equation | Range | Order of Continuity | Monotonic | Monotonic Derivative | Approximates Identity Near Origin| Dead Neurons | Saturated |
