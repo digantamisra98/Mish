@@ -258,10 +258,10 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SELU|21|1|
 |TanH|19|0|
 |Sigmoid|19|0|
+|Softsign|19|1|
 |ELU(α=1.0)|19|4|
 |HardShrink(λ = 0.5)|18|0|
 |Softshrink (λ = 0.5)|18|0|
-|Softsign|18|1|
 |PReLU(Default Parameters)	|18|2|
 |E-Swish (β=1.75)|18|6|
 |Tanhshrink|17|0|
