@@ -210,6 +210,7 @@ The P-values were computed for different activation functions in comparison to t
 |ReLU6|86.75%|4.355%|0.4501|P < 0.0001| 1.711482|-0.9782 to -0.4740|
 |CELU(α=1.0)|86.23%|4.243%|0.50941|P < 0.0001| 2.741669|-1.5231 to -0.9804|
 |Sigmoid|74.82%|8.127%|5.7662|P < 0.0001|3.098289|-15.0915 to -10.2337|
+|Softshrink(λ = 0.5)|82.35%|5.4915%|0.71959|P < 0.0001|8.830541|-5.4762 to -4.7856|
 
 *Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
 
@@ -234,6 +235,7 @@ The P-values were computed for different activation functions in comparison to t
 |ReLU6|86.75391 ± 0.1946326|
 |CELU(α=1.0)|86.22826 ± 0.2202884|
 |Sigmoid|74.81739 ± 2.4934984|
+|Softshrink(λ = 0.5)|82.34913 ± 0.3111762|
 
 <div style="text-align:center"><img src ="Observations/ci.png"  width="1000"/></div>
 
