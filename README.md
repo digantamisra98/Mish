@@ -213,6 +213,7 @@ The P-values were computed for different activation functions in comparison to t
 |Softshrink(λ = 0.5)|82.35%|5.4915%|0.71959|P < 0.0001|8.830541|-5.4762 to -4.7856|
 |Tanhshrink|82.35%|5.446%|0.94508|P < 0.0001|7.083564|-5.5646 to -4.7032|
 |Tanh|83.15%|5.161%|0.6887|	P < 0.0001|7.700198|-4.6618 to -3.9938|
+|Softsign|82.66%|5.258%|0.6697|P < 0.0001|8.761157|-5.1493 to -4.4951|
 
 *Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
 
@@ -240,6 +241,7 @@ The P-values were computed for different activation functions in comparison to t
 |Softshrink(λ = 0.5)|82.34913 ± 0.3111762|
 |Tanhshrink|82.34608 ± 0.4086837|
 |Tanh|83.15217 ± 0.2978422|
+|Softsign|82.65782 ± 0.2896004|
 
 <div style="text-align:center"><img src ="Observations/ci.png"  width="1000"/></div>
 
