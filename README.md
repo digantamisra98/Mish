@@ -45,10 +45,10 @@ Where:<br>
 <br>
 
 The Taylor Series Expansion of *f(x)* at *x=0* is given by: <br>
-<div style="text-align:center"><img src ="Observations/series.png"  width="650"/></div><br>
+<div style="text-align:center"><img src ="Observations/series.png"  width="500"/></div><br>
 
 The Taylor Series Expansion of *f(x)* at *x=∞* is given by: <br>
-<div style="text-align:center"><img src ="Observations/series2.png"  width="450"/></div><br>
+<div style="text-align:center"><img src ="Observations/series2.png"  width="350"/></div><br>
 
 Minimum of *f(x)* is observed to be ≈-0.30884 at *x*≈-1.1924<br>
 
