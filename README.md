@@ -215,6 +215,8 @@ The P-values were computed for different activation functions in comparison to t
 |Tanh|83.15%|5.161%|0.6887|	P < 0.0001|7.700198|-4.6618 to -3.9938|
 |Softsign|82.66%|5.258%|0.6697|P < 0.0001|8.761157|-5.1493 to -4.4951|
 |Aria-2(β = 1, α=1.5)|81.31%|6.0021%|2.35475|P < 0.0001|3.655362|-7.1757 to -5.1687|
+|Bent's Identity|85.03%|4.531%|0.60404|P < 0.0001|4.80211|-2.7576 to -2.1502|
+|SQNL|83.44%|5.015%|0.46819|P < 0.0001|9.317237|-4.3009 to -3.7852|
 
 *Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
 
@@ -244,6 +246,8 @@ The P-values were computed for different activation functions in comparison to t
 |Tanh|83.15217 ± 0.2978422|
 |Softsign|82.65782 ± 0.2896004|
 |Aria-2(β = 1, α=1.5)|81.30782 ± 1.0182716|
+|Bent's Identity|85.02608 ± 0.2612082|
+|SQNL|83.43695 ± 0.2024614|
 
 <div style="text-align:center"><img src ="Observations/ci.png"  width="1000"/></div>
 
