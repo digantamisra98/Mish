@@ -249,7 +249,7 @@ The P-values were computed for different activation functions in comparison to t
 |Bent's Identity|85.02608 ± 0.2612082|
 |SQNL|83.43695 ± 0.2024614|
 
-<div style="text-align:center"><img src ="Observations/ci.png"  width="1000"/></div>
+<div style="text-align:center"><img src ="Observations/ci1.png"  width="1000"/></div>
 
 ## Properties Summary:
 
