@@ -35,9 +35,9 @@ Mish Activation Function can be mathematically represented by the following form
 <div style="text-align:center"><img src ="Observations/imgtemp_ugysxo-1.png"  width="200"/></div>
 It can also be represented by using the SoftPlus Activation Function as shown:<br><br>
 <div style="text-align:center"><img src ="Observations/imgtemp_x5rglu-1.png"  width="150"/></div>
-<div style="text-align:center"><img src ="Observations/imgtemp_utahjs-1.png"  width="300"/></div><br>
+<div style="text-align:center"><img src ="Observations/imgtemp_utahjs-1.png"  width="270"/></div><br>
 And it's 1<sup>st</sup> and 2<sup>nd</sup> derivatives are given below:<br>
-<div style="text-align:center"><img src ="Observations/d1.png"  width="90"/></div>
+<div style="text-align:center"><img src ="Observations/d1.png"  width="120"/></div>
 <div style="text-align:center"><img src ="Observations/d2.png"  width="650"/></div><br>
 Where:<br>
 <div style="text-align:center"><img src ="Observations/delta.png"  width="150"/></div>
