@@ -32,23 +32,23 @@ Other notable ones being: <br>
 ## Mathematics under the hood:
 
 Mish Activation Function can be mathematically represented by the following formula:<br> 
-<div style="text-align:center"><img src ="Observations/imgtemp_ugysxo-1.png"  width="250"/></div>
+<div style="text-align:center"><img src ="Observations/imgtemp_ugysxo-1.png"  width="200"/></div>
 It can also be represented by using the SoftPlus Activation Function as shown:<br><br>
-<div style="text-align:center"><img src ="Observations/imgtemp_x5rglu-1.png"  width="200"/></div>
-<div style="text-align:center"><img src ="Observations/imgtemp_utahjs-1.png"  width="340"/></div><br>
+<div style="text-align:center"><img src ="Observations/imgtemp_x5rglu-1.png"  width="150"/></div>
+<div style="text-align:center"><img src ="Observations/imgtemp_utahjs-1.png"  width="300"/></div><br>
 And it's 1<sup>st</sup> and 2<sup>nd</sup> derivatives are given below:<br>
-<div style="text-align:center"><img src ="Observations/d1.png"  width="120"/></div>
-<div style="text-align:center"><img src ="Observations/d2.png"  width="700"/></div><br>
+<div style="text-align:center"><img src ="Observations/d1.png"  width="90"/></div>
+<div style="text-align:center"><img src ="Observations/d2.png"  width="650"/></div><br>
 Where:<br>
-<div style="text-align:center"><img src ="Observations/delta.png"  width="200"/></div>
-<div style="text-align:center"><img src ="Observations/omega.png"  width="400"/></div>
+<div style="text-align:center"><img src ="Observations/delta.png"  width="150"/></div>
+<div style="text-align:center"><img src ="Observations/omega.png"  width="350"/></div>
 <br>
 
 The Taylor Series Expansion of *f(x)* at *x=0* is given by: <br>
-<div style="text-align:center"><img src ="Observations/series.png"  width="700"/></div><br>
+<div style="text-align:center"><img src ="Observations/series.png"  width="650"/></div><br>
 
 The Taylor Series Expansion of *f(x)* at *x=∞* is given by: <br>
-<div style="text-align:center"><img src ="Observations/series2.png"  width="500"/></div><br>
+<div style="text-align:center"><img src ="Observations/series2.png"  width="450"/></div><br>
 
 Minimum of *f(x)* is observed to be ≈-0.30884 at *x*≈-1.1924<br>
 
