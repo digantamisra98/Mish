@@ -995,6 +995,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |E-Swish (β = 1.75)|55.2%|33.01%|73.64%|
 |SQNL|51.44%|27.146%|71.47%|
 |Bent's Identity|58.78%|29.623%|76.88%|
+|Aria-2(β = 1, α=1.5)|52.74%|22.831%|72.43%|
 
 <div style="text-align:center"><img src ="Observations/shufflev1c100.png"  width="1000"/></div>
 
