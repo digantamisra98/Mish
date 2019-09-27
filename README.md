@@ -293,6 +293,10 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Hard Sigmoid|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 |Flatten T-Swish|1|0|
+|ELisH|1|0|
+|SineReLU|1|0|
+|ISRU|1|0|
+|ISRLU|1|0|
 
 #### Sample Result: 
 
