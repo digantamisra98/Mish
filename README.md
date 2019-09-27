@@ -292,6 +292,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Bent's Identity|6|2|
 |Hard Sigmoid|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
+|Flatten T-Swish|1|0|
 
 #### Sample Result: 
 
