@@ -287,9 +287,9 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ReLU6|14|5|
 |Leaky ReLU(α=0.3)|13|7|
 |RReLU|11|8|
-|Aria-2(β = 1, α=1.5)|7|0|
-|SQNL|6|0|
-|Bent's Identity|5|1|
+|SQNL|8|0|
+|Aria-2(β = 1, α=1.5)|7|1|
+|Bent's Identity|6|2|
 |Hard Sigmoid|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 
