@@ -302,6 +302,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SReLU|1|0|
 |Weighted TanH (Weight = 1.7145)|1|0|
 |Le Cun's TanH|1|0|
+|Hard ELisH|1|0|
 
 #### Sample Result: 
 
