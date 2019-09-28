@@ -278,11 +278,11 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Sigmoid|19|0|
 |Softsign|19|1|
 |ELU(α=1.0)|19|4|
+|Tanhshrink|18|0|
 |HardShrink(λ = 0.5)|18|0|
 |Softshrink (λ = 0.5)|18|0|
 |PReLU(Default Parameters)	|18|2|
 |E-Swish (β=1.75)|18|6|
-|Tanhshrink|17|0|
 |Hardtanh|17|1|
 |GELU|17|2|
 |CELU(α=1.0)|16|2|
@@ -294,18 +294,18 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Aria-2(β = 1, α=1.5)|9|1|
 |SQNL|8|0|
 |Bent's Identity|6|2|
+|ELisH|2|0|
+|Hard ELisH|2|0|
+|SineReLU (ε = 0.001)|2|0|
+|Flatten T-Swish|2|0|
 |Hard Sigmoid|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
-|Flatten T-Swish|1|0|
-|ELisH|1|0|
-|SineReLU (ε = 0.001)|1|0|
 |ISRU (α=1.0)|1|0|
 |ISRLU (α=1.0)|1|0|
 |Soft Clipping (α=0.5)|1|0|
 |SReLU|1|0|
 |Weighted TanH (Weight = 1.7145)|1|0|
 |Le Cun's TanH|1|0|
-|Hard ELisH|1|0|
 
 #### Sample Result: 
 
