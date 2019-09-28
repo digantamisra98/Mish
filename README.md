@@ -189,6 +189,7 @@ The P-values were computed for different activation functions in comparison to t
 |Bent's Identity|85.66%|85.19666666666666%|0.3500476158086701|P < 5e-4 (0.0002)|4.434333333333333%|
 |SQNL|83.72%|83.52%|0.20000000000000284|P < 0.0001|5.045%|
 |ELisH|87.89%|87.86%|**0.04358898943540458**|P < 5e-1 (0.1206)|4.138%|
+|Hard ELisH|86.85%|86.29%|0.11789826122551722|P < 5e-4 (0.0001)|4.2967%|
 
 ### Sample Size = 23:
 
@@ -218,6 +219,7 @@ The P-values were computed for different activation functions in comparison to t
 |Aria-2(β = 1, α=1.5)|81.31%|6.0021%|2.35475|P < 0.0001|3.655362|-7.1757 to -5.1687|
 |Bent's Identity|85.03%|4.531%|0.60404|P < 0.0001|4.80211|-2.7576 to -2.1502|
 |SQNL|83.44%|5.015%|0.46819|P < 0.0001|9.317237|-4.3009 to -3.7852|
+|ELisH|87.38%|4.288%|0.47731|P = 0.4283|0.235784|-0.3643 to 0.1573|
 
 *Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
 
@@ -249,6 +251,7 @@ The P-values were computed for different activation functions in comparison to t
 |Aria-2(β = 1, α=1.5)|81.30782 ± 1.0182716|
 |Bent's Identity|85.02608 ± 0.2612082|
 |SQNL|83.43695 ± 0.2024614|
+|ELisH|87.37652 ± 0.2064078|
 
 <div style="text-align:center"><img src ="Observations/ci1.png"  width="1000"/></div>
 
