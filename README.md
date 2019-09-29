@@ -303,11 +303,11 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Flatten T-Swish|3|0|
 |ISRU (α=1.0)|3|0|
 |Soft Clipping (α=0.5)|3|0|
-|Weighted TanH (Weight = 1.7145)|2|0|
-|Le Cun's TanH|2|0|
+|Weighted TanH (Weight = 1.7145)|3|0|
+|Le Cun's TanH|3|0|
+|ISRLU (α=1.0)|2|2|
 |Hard Sigmoid|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
-|ISRLU (α=1.0)|1|2|
 |SReLU|1|2|
 
 #### Sample Result: 
