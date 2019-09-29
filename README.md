@@ -299,8 +299,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Bent's Identity|6|2|
 |ELisH|4|0|
 |Hard ELisH|4|0|
-|SineReLU (ε = 0.001)|3|0|
-|Flatten T-Swish|3|0|
+|SineReLU (ε = 0.001)|4|0|
+|Flatten T-Swish|4|0|
 |ISRU (α=1.0)|3|0|
 |Soft Clipping (α=0.5)|3|0|
 |Weighted TanH (Weight = 1.7145)|3|0|
