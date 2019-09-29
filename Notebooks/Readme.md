@@ -407,7 +407,17 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Tanhshrink|80.47%|6.979%|95.76%|
 |Aria-2(β = 1, α=1.5)|82.66%|7.001%|96.53%|
 |SQNL|80.43%|9.198%|95.52%|
-|Bent's Identity|**86.65%**|**6.196%**|**97.56%**|
+|Bent's Identity|**86.65%**|6.196%|**97.56%**|
+|Flatten T-Swish|83.65%|7.933%|96.17%|
+|ELisH|85.02%|7.223%|96.58%|
+|SineReLU (ε = 0.001)|85.03%|6.744%|97.06%|
+|ISRU (α=1.0)|80.65%|9.272%|95.66%|
+|ISRLU (α=1.0)|85.87%|6.517%|97.21%|
+|Soft Clipping (α=0.5)|83.93%|**5.33%**|97.27%|
+|SReLU|85.34%|6.498%|97.14%|
+|Weighted TanH (Weight = 1.7145)|75.04%|11.268%|93.44%|
+|Le Cun's TanH|81.89%|9.99%|95.9%|
+|Hard ELisH|84.89%|6.54%|96.97%|
 
 <div style="text-align:center"><img src ="Observations/mobile2.png"  width="1000"/></div>
 
