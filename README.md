@@ -297,18 +297,18 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Aria-2(β = 1, α=1.5)|9|1|
 |SQNL|8|0|
 |Bent's Identity|6|2|
-|ELisH|2|0|
-|Hard ELisH|2|0|
+|ELisH|3|0|
+|Hard ELisH|3|0|
 |SineReLU (ε = 0.001)|2|0|
 |Flatten T-Swish|2|0|
+|ISRU (α=1.0)|2|0|
+|Soft Clipping (α=0.5)|2|0|
 |Hard Sigmoid|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
-|ISRU (α=1.0)|1|0|
-|ISRLU (α=1.0)|1|0|
-|Soft Clipping (α=0.5)|1|0|
-|SReLU|1|0|
 |Weighted TanH (Weight = 1.7145)|1|0|
 |Le Cun's TanH|1|0|
+|ISRLU (α=1.0)|1|1|
+|SReLU|1|1|
 
 #### Sample Result: 
 
