@@ -310,9 +310,9 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Soft Clipping (α=0.5)|3|0|
 |Le Cun's TanH|3|0|
 |ISRLU (α=1.0)|2|2|
+|SReLU|2|2|
 |Hard Sigmoid|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
-|SReLU|1|2|
 
 #### Sample Result: 
 
