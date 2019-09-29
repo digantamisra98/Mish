@@ -617,6 +617,8 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Flatten T-Swish|86.92%|5.844%|97.78%|
 |Weighted TanH (Weight = 1.7145)|81.05%|7.425%|95.9%|
 |SReLU|86.13%|5.457|97.49%|
+|Le Cun's TanH|82.69%|6.973%|96.62%|
+|ISRLU (α=1.0)|82.07%|7.084%|96.45%|
 
 <div style="text-align:center"><img src ="Observations/shufflev2.png"  width="1000"/></div>
 
