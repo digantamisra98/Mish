@@ -563,6 +563,10 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |ELisH|86.96%|5.99%|97.65%|
 |SineReLU (ε = 0.001)|86.51%|5.787%|97.58%|
 |HardElish|87.1%|5.518%|97.75%|
+|ISRU (α=1.0)|84.36%|5.968%|96.7%|
+|ISRLU (α=1.0)|87.52%|5.485%|97.66%|
+|Soft Clipping (α=0.5)|13.97%|61.918%|80.32%|
+|SReLU|87.34%|5.34%|97.69%|
 
 <div style="text-align:center"><img src ="Observations/shuffle.png"  width="1000"/></div>
 
@@ -594,6 +598,8 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Aria-2(β = 1, α=1.5)|85.7%|5.057%|97.55%|
 |Bent's Identity|86.24%|4.892%|97.56%|
 |SQNL|84.08%|5.977%|97.11%|
+|ELisH|86.58%|6.209%|97.7%|
+|Hard ELisH|87.01%|5.551%|97.68%|
 
 <div style="text-align:center"><img src ="Observations/shufflev2.png"  width="1000"/></div>
 
