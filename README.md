@@ -191,6 +191,8 @@ The P-values were computed for different activation functions in comparison to t
 |ELisH|87.89%|87.86%|**0.04358898943540458**|P < 5e-1 (0.1206)|4.138%|
 |Hard ELisH|86.85%|86.29%|0.11789826122551722|P < 5e-4 (0.0001)|4.2967%|
 |SReLU|85.91%|85.347%|0.5600297611139322|P < 5e-3  (0.0013)|4.479%|
+|ISRU (α=1.0)|84.14%|82.86%|0.7396170180122467|P < 5e-4 (0.0003)|5.335%|
+|Flatten T-Swish|87.35%|86.85%|0.11060440015357959|P < 5e-4 (0.0001)|4.669%|
 
 ### Sample Size = 23:
 
@@ -222,6 +224,7 @@ The P-values were computed for different activation functions in comparison to t
 |SQNL|83.44%|5.015%|0.46819|P < 0.0001|9.317237|-4.3009 to -3.7852|
 |ELisH|87.38%|4.288%|0.47731|P = 0.4283|0.235784|-0.3643 to 0.1573|
 |Hard ELisH|85.89%|4.431%|0.62245|P < 0.0001|3.048849|-1.9015 to -1.2811|
+|SReLU|85.05%|4.541%|0.5826|P < 0.0001|4.883831|-2.7306 to -2.1381|
 
 *Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
 
@@ -255,6 +258,7 @@ The P-values were computed for different activation functions in comparison to t
 |SQNL|83.43695 ± 0.2024614|
 |ELisH|87.37652 ± 0.2064078|
 |Hard ELisH|85.88869 ± 0.2691689|
+|SReLU|85.04565 ± 0.2519697|
 
 <div style="text-align:center"><img src ="Observations/ci1.png"  width="1000"/></div>
 
