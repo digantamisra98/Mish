@@ -11,6 +11,14 @@
 <p align="center">
     <a href="LICENSE" alt="License">
         <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" /></a>
+    <a href="http://hits.dwyl.io/digantamisra98/Mish" alt="HitCount">
+        <img src="http://hits.dwyl.io/digantamisra98/Mish.svg" /></a>
+    <a href="https://api.codacy.com/project/badge/Grade/f67cf4cf73bf47fbbe4b3dd6f78bb10b" alt="Code Quality">
+        <img src="https://api.codacy.com/project/badge/Grade/f67cf4cf73bf47fbbe4b3dd6f78bb10b" /></a>
+    <a href="https://circleci.com/gh/digantamisra98/Mish">
+        <img src="https://circleci.com/gh/digantamisra98/Mish.svg?style=svg" /></a>
+    <a href="https://arxiv.org/abs/1908.08681" alt="ArXiv">
+        <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
 </p>
 
 # Mish: Self Regularized Non-Monotonic Activation Function
