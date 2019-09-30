@@ -434,7 +434,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |ELU(α=1.0)|85.51%|5.287%|97.38%|
 |HardShrink(λ=0.5)|67.37%|9.168%|91.64%|
 |Hardtanh|82.97%|5.785%|96.65%|
-|LeakyReLU (α=0.3)|**86.63%**|4.830%|97.57%|
+|LeakyReLU (α=0.3)|86.63%|4.830%|97.57%|
 |LogSigmoid|85.27%|5.224%|97.18%|
 |PReLU|86.32|4.834%|97.56%|
 |ReLU6|85.86%|5.418%|97.42%|
@@ -450,6 +450,17 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Bent's Identity|85.82%|**4.818%**|97.46%|
 |SQNL|82.45%|6.5525|96.41%|
 |Aria-2(β = 1, α=1.5)|82.31%|6.161%|96.4%|
+|Flatten T-Swish|**86.71%**|5.494%|97.31%|
+|ELisH|86.6%|5.406%|97.59%|
+|SineReLU (ε = 0.001)|85.98%|5.294%|97.35%|
+|ISRU (α=1.0)|82.32%|6.287%|96.66%|
+|ISRLU (α=1.0)|85.87%|5.462%|97.45%|
+|Soft Clipping (α=0.5)|77.73%|7.219%|94.53%|
+|SReLU|84.98%|5.43%|97.09%|
+|Weighted TanH (Weight = 1.7145)|78.97%|7.661%|95.16%|
+|Le Cun's TanH|83.71%|5.924%|96.85%|
+|Hard ELisH|85.66%|5.335%|97.56%|
+
 
 <div style="text-align:center"><img src ="Observations/mobile.png"  width="1000"/></div>
 
