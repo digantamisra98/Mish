@@ -312,8 +312,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SoftPlus(β = 1)|15|4|
 |ReLU6|14|5|
 |Leaky ReLU(α=0.3)|13|7|
+|Aria-2(β = 1, α=1.5)|11|1|
 |RReLU|11|8|
-|Aria-2(β = 1, α=1.5)|10|1|
 |SQNL|9|0|
 |Bent's Identity|7|2|
 |ISRU (α=1.0)|6|0|
