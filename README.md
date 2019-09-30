@@ -223,6 +223,8 @@ The P-values were computed for different activation functions in comparison to t
 |ELisH|87.38%|4.288%|0.47731|P = 0.4283|0.235784|-0.3643 to 0.1573|
 |Hard ELisH|85.89%|4.431%|0.62245|P < 0.0001|3.048849|-1.9015 to -1.2811|
 |SReLU|85.05%|4.541%|0.5826|P < 0.0001|4.883831|-2.7306 to -2.1381|
+|ISRU (α=1.0)|86.85%|4.669%|0.1106|P < 0.0001|5.302987|-4.4855 to -3.5815|
+|Flatten T-Swish|86.93%|4.459%|0.40047|P < 0.0001|1.378742|-0.7865 to -0.3127|
 
 *Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
 
@@ -257,6 +259,8 @@ The P-values were computed for different activation functions in comparison to t
 |ELisH|87.37652 ± 0.2064078|
 |Hard ELisH|85.88869 ± 0.2691689|
 |SReLU|85.04565 ± 0.2519697|
+|ISRU (α=1.0)|83.44652 ± 0.4323568|
+|Flatten T-Swish|86.93043 ± 0.1731766|
 
 <div style="text-align:center"><img src ="Observations/ci1.png"  width="1000"/></div>
 
