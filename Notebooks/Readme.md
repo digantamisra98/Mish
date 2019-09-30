@@ -483,6 +483,8 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Aria-2(β = 1, α=1.5)|78.14%|9.042%|94.69%|
 |SQNL|84.525|7.29%|97.25%|
 |Flatten T-Swish|90.31%|5.247%|98.22%|
+|ISRU (α=1.0)|84.33%|7.35%|97.12%|
+|ISRLU (α=1.0)|88.8%|5.474%|98.35%|
 
 <div style="text-align:center"><img src ="Observations/se18.png"  width="1000"/></div>
 
