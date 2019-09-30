@@ -8,6 +8,11 @@
 [![CircleCI](https://circleci.com/gh/digantamisra98/Mish.svg?style=svg)](https://circleci.com/gh/digantamisra98/Mish)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-blue.svg)](https://arxiv.org/abs/1908.08681)
 
+<p align="center">
+    <a href="LICENSE" alt="License">
+        <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" /></a>
+</p>
+
 # Mish: Self Regularized Non-Monotonic Activation Function
 
 ## Read the paper here - https://arxiv.org/abs/1908.08681
