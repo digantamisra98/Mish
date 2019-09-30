@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
 </p>
 
-# Mish: Self Regularized Non-Monotonic Activation Function
+#                    Mish: Self Regularized Non-Monotonic Activation Function
 
 ## Read the paper here - https://arxiv.org/abs/1908.08681
 
