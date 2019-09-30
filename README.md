@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="Observations/Activation Function.png">
+  <img width="300" src="Observations/logo_transparent.png">
 </p>
 
 <p align="center">
