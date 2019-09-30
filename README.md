@@ -191,6 +191,8 @@ The P-values were computed for different activation functions in comparison to t
 |SReLU|85.91%|85.347%|0.5600297611139322|P < 5e-3  (0.0013)|4.479%|
 |ISRU (α=1.0)|84.14%|82.86%|0.7396170180122467|P < 5e-4 (0.0003)|5.335%|
 |Flatten T-Swish|87.35%|86.85%|0.11060440015357959|P < 5e-4 (0.0001)|4.669%|
+|Soft Clipping (α=0.5)|71.62%|54.087%|9.498727985016378|P < 5e-3 (0.0035)|18.6857%|
+|SineReLU (ε = 0.001)|87.3%|87.13%|0.187705443004009|P < 5e-3 (0.0020)|4.2963%|
 
 ### Sample Size = 23:
 
@@ -225,6 +227,7 @@ The P-values were computed for different activation functions in comparison to t
 |SReLU|85.05%|4.541%|0.5826|P < 0.0001|4.883831|-2.7306 to -2.1381|
 |ISRU (α=1.0)|86.85%|4.669%|0.1106|P < 0.0001|5.302987|-4.4855 to -3.5815|
 |Flatten T-Swish|86.93%|4.459%|0.40047|P < 0.0001|1.378742|-0.7865 to -0.3127|
+|SineReLU (ε = 0.001)|86.48%|4.396%|0.88062|P < 0.0001|1.461675|-1.4041 to -0.5924|
 
 *Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
 
@@ -261,6 +264,7 @@ The P-values were computed for different activation functions in comparison to t
 |SReLU|85.04565 ± 0.2519697|
 |ISRU (α=1.0)|83.44652 ± 0.4323568|
 |Flatten T-Swish|86.93043 ± 0.1731766|
+|SineReLU (ε = 0.001)|86.48173 ± 0.3808073|
 
 <div style="text-align:center"><img src ="Observations/ci1.png"  width="1000"/></div>
 
