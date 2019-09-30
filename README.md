@@ -321,9 +321,9 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SineReLU (ε = 0.001)|6|0|
 |Hard ELisH|6|0|
 |Le Cun's TanH|6|0|
+|ELisH|6|1|
 |Weighted TanH (Weight = 1.7145)|5|0|
 |Flatten T-Swish|5|1|
-|ELisH|5|1|
 |ISRLU (α=1.0)|4|2|
 |SReLU|4|2|
 |Hard Sigmoid|1|0|
