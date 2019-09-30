@@ -314,7 +314,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Le Cun's TanH|5|0|
 |Soft Clipping (α=0.5)|5|0|
 |Flatten T-Swish|5|1|
-|ELisH|4|1|
+|ELisH|5|1|
 |ISRLU (α=1.0)|4|2|
 |SReLU|3|2|
 |Hard Sigmoid|1|0|
