@@ -201,6 +201,7 @@ The P-values were computed for different activation functions in comparison to t
 |Soft Clipping (α=0.5)|71.62%|54.087%|9.498727985016378|P < 5e-3 (0.0035)|18.6857%|
 |SineReLU (ε = 0.001)|87.3%|87.13%|0.187705443004009|P < 5e-3 (0.0020)|4.2963%|
 |Weighted TanH (Weight = 1.7145)|83.52%|83.09%|0.356791255498227|P < 0.0001|5.22%|
+|Le Cun's Tanh|84.06%|82.79%|0.4751140214025823|P < 0.0001|5.2026666666666666%|
 
 ### Sample Size = 23:
 
