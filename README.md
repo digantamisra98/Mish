@@ -298,7 +298,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ReLU6|14|5|
 |Leaky ReLU(α=0.3)|13|7|
 |RReLU|11|8|
-|Aria-2(β = 1, α=1.5)|9|1|
+|Aria-2(β = 1, α=1.5)|10|1|
 |SQNL|8|0|
 |Bent's Identity|6|2|
 |ELisH|4|0|
