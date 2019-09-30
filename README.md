@@ -306,8 +306,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |RReLU|11|8|
 |Aria-2(β = 1, α=1.5)|10|1|
 |SQNL|9|0|
+|Bent's Identity|7|2|
 |ISRU (α=1.0)|6|0|
-|Bent's Identity|6|2|
 |Weighted TanH (Weight = 1.7145)|5|0|
 |Hard ELisH|5|0|
 |SineReLU (ε = 0.001)|5|0|
