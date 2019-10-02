@@ -545,6 +545,8 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Soft Clipping (α=0.5)|10.02%|54.75%|30.01%
 |Le Cun's Tanh|85.28%|7.173%|97.31%|
 |Weighted TanH (Weight = 1.7145)|79.69%|9.373%|95.32%|
+|ISRU|84.31%|7.639%|96.91%|
+|SReLU|89.76%|5.507%|98.2%|
 
 <div style="text-align:center"><img src ="Observations/se34.png"  width="1000"/></div>
 
