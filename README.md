@@ -202,6 +202,7 @@ The P-values were computed for different activation functions in comparison to t
 |SineReLU (ε = 0.001)|87.3%|87.13%|0.187705443004009|P < 5e-3 (0.0020)|4.2963%|
 |Weighted TanH (Weight = 1.7145)|83.52%|83.09%|0.356791255498227|P < 0.0001|5.22%|
 |Le Cun's Tanh|84.06%|82.79%|0.4751140214025823|P < 0.0001|5.2026666666666666%|
+|ISRLU (α=1.0)|87.1%|86.02%|0.8259136355172628|P < 5e-2 (0.0160)|4.373%|
 
 ### Sample Size = 23:
 
@@ -237,6 +238,10 @@ The P-values were computed for different activation functions in comparison to t
 |ISRU (α=1.0)|86.85%|4.669%|0.1106|P < 0.0001|5.302987|-4.4855 to -3.5815|
 |Flatten T-Swish|86.93%|4.459%|0.40047|P < 0.0001|1.378742|-0.7865 to -0.3127|
 |SineReLU (ε = 0.001)|86.48%|4.396%|0.88062|P < 0.0001|1.461675|-1.4041 to -0.5924|
+|Weighted Tanh (Weight = 1.7145)|80.66%|5.985%|1.19868|P < 0.0001|7.638298|-7.3502 to -6.2890|
+|LeCun's Tanh|82.72%|5.322%|0.58256|P < 0.0001|9.551812|-5.0566 to -4.4642|
+|Soft Clipping (α=0.5)|55.21%|18.518%|10.831994|P < 0.0001|4.210373|-36.8255 to -27.7154|
+|ISRLU (α=1.0)|86.69%|4.231%|0.5788|P < 0.0001|1.572874|-1.0753 to -0.4856|
 
 *Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
 
@@ -274,6 +279,10 @@ The P-values were computed for different activation functions in comparison to t
 |ISRU (α=1.0)|83.44652 ± 0.4323568|
 |Flatten T-Swish|86.93043 ± 0.1731766|
 |SineReLU (ε = 0.001)|86.48173 ± 0.3808073|
+|Weighted Tanh (Weight = 1.7145)|80.66043 ± 0.518349|
+|LeCun's Tanh|82.71956 ± 0.2519178|
+|Soft Clipping (α=0.5)|55.20956 ± 4.6841037|
+|ISRLU (α=1.0)|86.69956 ± 0.2502932|
 
 <div style="text-align:center"><img src ="Observations/ci1.png"  width="1000"/></div>
 
