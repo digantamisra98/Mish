@@ -321,18 +321,18 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SoftPlus(β = 1)|15|4|
 |ReLU6|14|5|
 |Leaky ReLU(α=0.3)|13|7|
-|Aria-2(β = 1, α=1.5)|11|1|
+|Aria-2(β = 1, α=1.5)|12|1|
 |RReLU|11|8|
-|SQNL|9|0|
+|SQNL|10|0|
+|Bent's Identity|8|2|
 |Hard ELisH|7|0|
-|Bent's Identity|7|2|
+|Soft Clipping (α=0.5)|7|0|
+|Le Cun's TanH|7|0|
+|SineReLU (ε = 0.001)|7|1|
+|Flatten T-Swish|7|1|
 |ISRU (α=1.0)|6|0|
-|Soft Clipping (α=0.5)|6|0|
-|Le Cun's TanH|6|0|
-|SineReLU (ε = 0.001)|6|1|
+|Weighted TanH (Weight = 1.7145)|6|0|
 |ELisH|6|1|
-|Flatten T-Swish|6|1|
-|Weighted TanH (Weight = 1.7145)|5|0|
 |ISRLU (α=1.0)|4|2|
 |SReLU|4|2|
 |Hard Sigmoid|1|0|
