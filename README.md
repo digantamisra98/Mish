@@ -284,7 +284,7 @@ The P-values were computed for different activation functions in comparison to t
 |Soft Clipping (α=0.5)|55.20956 ± 4.6841037|
 |ISRLU (α=1.0)|86.69956 ± 0.2502932|
 
-<div style="text-align:center"><img src ="Observations/ci1.png"  width="1000"/></div>
+<div style="text-align:center"><img src ="Observations/ci2.png"  width="1000"/></div>
 
 ## Properties Summary:
 
