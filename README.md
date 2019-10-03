@@ -400,11 +400,13 @@ MXNet Implementation of Mish Activation function can be found [here](https://git
 ## Cite this work:
 
 ```
-@misc{1908.08681,
-Author = {Diganta Misra},
-Title = {Mish: A Self Regularized Non-Monotonic Neural Activation Function},
-Year = {2019},
-Eprint = {arXiv:1908.08681},
+@misc{misra2019mish,
+    title={Mish: A Self Regularized Non-Monotonic Neural Activation Function},
+    author={Diganta Misra},
+    year={2019},
+    eprint={1908.08681},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
 }
 ```
 
