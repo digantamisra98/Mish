@@ -324,8 +324,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Aria-2(β = 1, α=1.5)|12|1|
 |SQNL|11|0|
 |RReLU|11|8|
+|Bent's Identity|9|2|
 |ISRU (α=1.0)|8|0|
-|Bent's Identity|8|2|
 |Hard ELisH|7|0|
 |Soft Clipping (α=0.5)|7|0|
 |Le Cun's TanH|7|0|
