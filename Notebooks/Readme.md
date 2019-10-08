@@ -336,6 +336,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |SQNL|90.69%|4.472%|98.68%|
 |ISRU(α=1.0)|90.06%|4.819%|98.52%|
 |Bent's Identity|90.53%|4.919%|98.76%|
+|ISRLU(α=1.0)|90.7%|4.668%|98.69%|
 
 <div style="text-align:center"><img src ="Observations/dense121.png"  width="1000"/></div>
 
