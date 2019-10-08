@@ -312,9 +312,9 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Softsign|19|1|
 |Tanhshrink|18|0|
 |Softshrink (λ = 0.5)|18|0|
+|Hardtanh|18|1|
 |PReLU(Default Parameters)	|18|2|
 |E-Swish (β=1.75)|18|6|
-|Hardtanh|17|1|
 |GELU|17|2|
 |CELU(α=1.0)|16|2|
 |LogSigmoid|16|3|
