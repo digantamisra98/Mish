@@ -333,8 +333,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Flatten T-Swish|7|1|
 |Weighted TanH (Weight = 1.7145)|6|0|
 |ELisH|6|1|
+|ISRLU (α=1.0)|6|2|
 |SReLU|5|2|
-|ISRLU (α=1.0)|5|2|
 |Hard Sigmoid|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 
