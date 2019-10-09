@@ -316,12 +316,12 @@ All results and comparative analysis are present in the [Readme](https://github.
 |PReLU(Default Parameters)	|18|2|
 |E-Swish (β=1.75)|18|6|
 |GELU|17|2|
+|LogSigmoid|17|3|
 |CELU(α=1.0)|16|2|
-|LogSigmoid|16|3|
 |SoftPlus(β = 1)|15|4|
 |ReLU6|14|5|
+|Leaky ReLU(α=0.3)|14|7|
 |Aria-2(β = 1, α=1.5)|13|1|
-|Leaky ReLU(α=0.3)|13|7|
 |SQNL|12|0|
 |RReLU|11|8|
 |Bent's Identity|9|3|
