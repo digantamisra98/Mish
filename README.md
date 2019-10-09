@@ -305,9 +305,9 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ReLU|55|20|
 |Swish-1|53|22|
 |SELU|22|1|
+|Sigmoid|20|0|
 |ELU(α=1.0)|20|4|
 |TanH|19|0|
-|Sigmoid|19|0|
 |HardShrink(λ = 0.5)|19|0|
 |Softsign|19|1|
 |PReLU(Default Parameters)	|19|2|
@@ -316,8 +316,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Hardtanh|18|1|
 |E-Swish (β=1.75)|18|6|
 |GELU|17|2|
+|CELU(α=1.0)|17|2|
 |LogSigmoid|17|3|
-|CELU(α=1.0)|16|2|
 |SoftPlus(β = 1)|15|4|
 |ReLU6|15|5|
 |Leaky ReLU(α=0.3)|14|7|
