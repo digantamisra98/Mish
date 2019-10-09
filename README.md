@@ -310,16 +310,16 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Sigmoid|19|0|
 |HardShrink(λ = 0.5)|19|0|
 |Softsign|19|1|
+|PReLU(Default Parameters)	|19|2|
 |Tanhshrink|18|0|
 |Softshrink (λ = 0.5)|18|0|
 |Hardtanh|18|1|
-|PReLU(Default Parameters)	|18|2|
 |E-Swish (β=1.75)|18|6|
 |GELU|17|2|
 |LogSigmoid|17|3|
 |CELU(α=1.0)|16|2|
 |SoftPlus(β = 1)|15|4|
-|ReLU6|14|5|
+|ReLU6|15|5|
 |Leaky ReLU(α=0.3)|14|7|
 |Aria-2(β = 1, α=1.5)|13|1|
 |SQNL|12|0|
