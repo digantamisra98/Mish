@@ -305,10 +305,10 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ReLU|55|20|
 |Swish-1|53|22|
 |SELU|22|1|
+|ELU(α=1.0)|21|4|
 |Sigmoid|20|0|
 |TanH|20|0|
 |Softsign|20|1|
-|ELU(α=1.0)|20|4|
 |Tanhshrink|19|0|
 |HardShrink(λ = 0.5)|19|0|
 |Softshrink (λ = 0.5)|19|0|
@@ -333,7 +333,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SineReLU (ε = 0.001)|7|2|
 |Flatten T-Swish|7|2|
 |ELisH|6|2|
-|SReLU|6|2|
+|SReLU|6|3|
 |ISRLU (α=1.0)|6|3|
 |Hard Sigmoid|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
