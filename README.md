@@ -333,8 +333,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SineReLU (ε = 0.001)|7|2|
 |Flatten T-Swish|7|2|
 |ELisH|6|2|
+|SReLU|6|2|
 |ISRLU (α=1.0)|6|3|
-|SReLU|5|2|
 |Hard Sigmoid|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 
