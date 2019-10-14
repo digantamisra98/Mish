@@ -306,7 +306,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |---|---|---|
 |ReLU|55|20|
 |Swish-1|53|22|
-|SELU|22|1|
+|SELU|23|1|
 |ELU(α=1.0)|21|4|
 |Sigmoid|20|0|
 |TanH|20|0|
