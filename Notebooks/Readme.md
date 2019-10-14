@@ -400,6 +400,8 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Weighted TanH (Weight = 1.7145)|90.74%|4.977%|98.47%|
 |Aria-2(β = 1, α=1.5)|90.86%|4.864%|98.7%|
 |E-Swish (β = 1.75)|90.59%|5.157%|98.68%|
+|ELisH|91.16%|4.659%|98.68%|
+|Hard ELisH|90.7%|4.762%|98.63%|
 
 <div style="text-align:center"><img src ="Observations/dense169.png"  width="1000"/></div>
 
