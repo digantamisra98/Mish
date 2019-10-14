@@ -314,7 +314,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Softshrink (λ = 0.5)|19|0|
 |PReLU(Default Parameters)	|19|2|
 |Hardtanh|18|1|
-|E-Swish (β=1.75)|18|6|
+|E-Swish (β=1.75)|18|7|
 |GELU|17|2|
 |CELU(α=1.0)|17|2|
 |LogSigmoid|17|3|
@@ -329,7 +329,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Hard ELisH|8|0|
 |Soft Clipping (α=0.5)|8|1|
 |Le Cun's TanH|8|1|
-|Weighted TanH (Weight = 1.7145)|7|1|
+|Weighted TanH (Weight = 1.7145)|8|1|
 |SineReLU (ε = 0.001)|7|2|
 |Flatten T-Swish|7|2|
 |ELisH|6|2|
