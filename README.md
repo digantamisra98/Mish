@@ -332,8 +332,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Soft Clipping (α=0.5)|8|1|
 |Le Cun's TanH|8|1|
 |Weighted TanH (Weight = 1.7145)|8|1|
-|SineReLU (ε = 0.001)|7|2|
-|Flatten T-Swish|7|2|
+|SineReLU (ε = 0.001)|8|2|
+|Flatten T-Swish|8|2|
 |ELisH|6|3|
 |SReLU|6|3|
 |ISRLU (α=1.0)|6|3|
