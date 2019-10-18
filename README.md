@@ -15,11 +15,6 @@
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
 </p>
 
-<p align="center">
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mish-a-self-regularized-non-monotonic-neural/image-classification-on-cifar-100)](https://paperswithcode.com/sota/image-classification-on-cifar-100?p=mish-a-self-regularized-non-monotonic-neural)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mish-a-self-regularized-non-monotonic-neural/image-classification-on-cifar-10)](https://paperswithcode.com/sota/image-classification-on-cifar-10?p=mish-a-self-regularized-non-monotonic-neural)
-</p>
-
 #                    Mish: Self Regularized Non-Monotonic Activation Function
 
 ## Read the paper here - https://arxiv.org/abs/1908.08681 (Version 2)
@@ -300,6 +295,9 @@ The P-values were computed for different activation functions in comparison to t
 |Mish|<div style="text-align:center"><img src ="Observations/graph_mish.png"  width="500"/></div>|<div style="text-align:center"><img src ="Observations/table_eq.png"  width="700"/></div>| ≈-0.31 to ∞| C<sup>∞</sup> | No :negative_squared_cross_mark:| No :negative_squared_cross_mark: | Yes :heavy_check_mark: (Approximates half of identity at origin) | No :negative_squared_cross_mark: | No :negative_squared_cross_mark: |
 
 ## Results:
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mish-a-self-regularized-non-monotonic-neural/image-classification-on-cifar-100)](https://paperswithcode.com/sota/image-classification-on-cifar-100?p=mish-a-self-regularized-non-monotonic-neural)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mish-a-self-regularized-non-monotonic-neural/image-classification-on-cifar-10)](https://paperswithcode.com/sota/image-classification-on-cifar-10?p=mish-a-self-regularized-non-monotonic-neural)
 
 All results and comparative analysis are present in the [Readme](https://github.com/digantamisra98/Mish/blob/master/Notebooks/Readme.md) file present in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks).
 
