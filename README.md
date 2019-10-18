@@ -15,9 +15,10 @@
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
 </p>
 
+<p align="center">
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mish-a-self-regularized-non-monotonic-neural/image-classification-on-cifar-100)](https://paperswithcode.com/sota/image-classification-on-cifar-100?p=mish-a-self-regularized-non-monotonic-neural)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mish-a-self-regularized-non-monotonic-neural/image-classification-on-cifar-10)](https://paperswithcode.com/sota/image-classification-on-cifar-10?p=mish-a-self-regularized-non-monotonic-neural)
-
+</p>
 
 #                    Mish: Self Regularized Non-Monotonic Activation Function
 
