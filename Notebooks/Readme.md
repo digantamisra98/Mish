@@ -405,7 +405,9 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |ELisH|91.16%|4.659%|98.68%|
 |Hard ELisH|90.7%|4.762%|98.63%|
 |SineReLU (ε = 0.001)|90.5%|5.101%|98.47%|
-|FTS|90.19%|5.169%|98.42%|
+|Flatten T-Swish|90.19%|5.169%|98.42%|
+|SQNL|90.61%|4.805%|98.59%|
+|ISRU (α=1.0)|90.59%|4.835%|98.6%|
 
 <div style="text-align:center"><img src ="Observations/dense169.png"  width="1000"/></div>
 
