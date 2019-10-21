@@ -310,14 +310,14 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ReLU|55|20|
 |Swish-1|53|22|
 |SELU|23|1|
+|HardShrink(λ = 0.5)|21|0|
 |ELU(α=1.0)|21|5|
 |Sigmoid|20|0|
 |TanH|20|0|
-|HardShrink(λ = 0.5)|20|0|
+|Hardtanh|20|1|
 |Softsign|20|1|
 |Tanhshrink|19|0|
 |Softshrink (λ = 0.5)|19|1|
-|Hardtanh|19|1|
 |PReLU(Default Parameters)	|19|2|
 |E-Swish (β=1.75)|18|7|
 |GELU|17|2|
