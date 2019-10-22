@@ -420,6 +420,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |LogSigmoid|90.35%|5.498%|98.45%|
 |PReLU|89.38%|5.976%|98.5%|
 |ReLU6|90.88%|5.215%|98.51%|
+|RReLU|90.79%|4.773%|98.66%|
 
 <div style="text-align:center"><img src ="Observations/dense169.png"  width="1000"/></div>
 
