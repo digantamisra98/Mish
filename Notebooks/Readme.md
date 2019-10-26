@@ -1418,6 +1418,8 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 Dataset - CoNLL 2003 NER format
 Number of Runs - 3
 
+#### Bi-LSTM CRF:
+
 |Activation Function|Best Accuracy|Mean Accuracy|Standard Deviation of Accuracy|Best Loss|Mean Loss|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Mish|97.22%|96.61%|0.44|4.056%|4.487%|
@@ -1431,11 +1433,11 @@ Number of Runs - 3
 |SReLU|96.25%|95.35%|0.64|4.896%|5.405%|
 |Sigmoid|90.45%|88.55%|1.87|9.245%|10.931%|
 
-## Doument Classification:
+### Doument Classification:
 
 Dataset - IMBD 
 
-### CNN:
+#### CNN:
 
 |Activation Function|Mean Accuracy|Best Accuracy|Best Loss|Mean Loss|
 |:---:|:---:|:---:|:---:|:---:|
