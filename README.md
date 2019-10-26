@@ -345,10 +345,19 @@ All results and comparative analysis are present in the [Readme](https://github.
 
 ### Summary of Results (Language Tasks): 
 
+*Comparison is done based on the best metric score (Test accuracy) across 3 runs.*
+
 |Activation Function| Mish > Baseline Model | Mish < Baseline Model |
 |---|---|---|
-|Swish|||
-|ReLU|||
+|Swish|2|0|
+|ReLU|1|1|
+|TanH|1|1|
+|Penalized TanH|2|0|
+|Leaky ReLU|1|1|
+|GELU|1|0|
+|SReLU|1|0|
+|ELU|2|0|
+|Sigmoid|2|0|
 
 #### Sample Result: 
 
