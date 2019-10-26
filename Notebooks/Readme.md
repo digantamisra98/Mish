@@ -1438,7 +1438,7 @@ Dataset - IMBD
 ### CNN:
 
 |Activation Function|Mean Accuracy|Best Accuracy|Best Loss|Mean Loss|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 |Mish|88.38%|88.56%|5.4%|5.42%|
 |Swish|88.14%|88.29%|7.99%|8.03%|
 |ReLU|88.24%|88.36%|4.82%|4.85%|
