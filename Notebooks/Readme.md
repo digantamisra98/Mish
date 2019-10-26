@@ -1411,3 +1411,39 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 |Swish-1|0.797871375706|
 |Mish|**0.79815630082**|
 
+## Natural Language Processing Tasks:
+
+### Sequence Tagging:
+
+Dataset - CoNLL 2003 NER format
+Number of Runs - 3
+
+|Activation Function|Best Accuracy|Mean Accuracy|Standard Deviation of Accuracy|Best Loss|Mean Loss|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Mish|97.22%|96.61%|0.44|4.056%|4.487%|
+|Swish|97.12%|96.88%|**0.18**|4.121%|4.356%|
+|ReLU|**98.44%**|**97.73%**|0.81|**3.171%**|**3.734%**|
+|TanH|93%|92.15%|0.64|7.241%|8.047%|
+|Penalized TanH|96%|95.26%|0.58|4.913%|5.364%|
+|Leaky ReLU|98.16%|97.56%|0.56|3.922%|3.934%|
+|GELU|91.56%|90.61%|0.67|8.742%|8.997%|
+|ELU|92.14%|90.84%|1.24|8.019%|8.98%|
+|SReLU|96.25%|95.35%|0.64|4.896%|5.405%|
+|Sigmoid|90.45%|88.55%|1.87|9.245%|10.931%|
+
+## Doument Classification:
+
+Dataset - IMBD 
+
+### CNN:
+
+|Activation Function|Mean Accuracy|Best Accuracy|Best Loss|Mean Loss|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Mish|88.38%|88.56%|5.4%|5.42%|
+|Swish|88.14%|88.29%|7.99%|8.03%|
+|ReLU|88.24%|88.36%|4.82%|4.85%|
+|TanH|89.66%|89.82%|3.01%|3.66%|
+|Penalized TanH|87.84%|88.06%|4.42%|4.65%|
+|Leaky ReLU|87.96%|88.11%|5.47%|6.12%|
+|ELU|88.1%|88.16%|4.59%|4.87%|
+|Sigmoid|85.18%|85.47%|4.21%|5.01%|
