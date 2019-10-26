@@ -301,7 +301,7 @@ The P-values were computed for different activation functions in comparison to t
 
 All results and comparative analysis are present in the [Readme](https://github.com/digantamisra98/Mish/blob/master/Notebooks/Readme.md) file present in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks).
 
-### Summary of Results: 
+### Summary of Results (Vision Tasks): 
 
 *Comparison is done based on the high priority metric, for image classification the Top-1 Accuracy while for Generative Networks and Image Segmentation the Loss Metric. Therefore, for the latter, Mish > Baseline is indicative of better loss and vice versa. For Embeddings, the AUC metric is considered.*
 
@@ -342,6 +342,13 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SReLU|6|4|
 |Hard Sigmoid|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
+
+### Summary of Results (Language Tasks): 
+
+|Activation Function| Mish > Baseline Model | Mish < Baseline Model |
+|---|---|---|
+|Swish|||
+|ReLU|||
 
 #### Sample Result: 
 
