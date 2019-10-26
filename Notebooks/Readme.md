@@ -1415,8 +1415,8 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 
 ### Sequence Tagging:
 
-Dataset - CoNLL 2003 NER format
-Number of Runs - 3
+- Dataset - CoNLL 2003 NER format
+- Number of Runs - 3
 
 #### Bi-LSTM CRF:
 
@@ -1435,7 +1435,7 @@ Number of Runs - 3
 
 ### Doument Classification:
 
-Dataset - IMBD 
+- Dataset - IMBD 
 
 #### CNN:
 
