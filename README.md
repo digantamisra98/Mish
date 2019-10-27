@@ -318,7 +318,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ELU(α=1.0)|21|6|
 |Tanhshrink|20|0|
 |Softsign|20|1|
-|Softshrink (λ = 0.5)|19|1|
+|Softshrink (λ = 0.5)|20|1|
 |LogSigmoid|19|4|
 |CELU(α=1.0)|18|3|
 |E-Swish (β=1.75)|18|7|
