@@ -315,9 +315,9 @@ All results and comparative analysis are present in the [Readme](https://github.
 |PReLU(Default Parameters)	|22|2|
 |TanH|21|0|
 |Hardtanh|21|1|
+|Softsign|21|1|
 |ELU(α=1.0)|21|6|
 |Tanhshrink|20|0|
-|Softsign|20|1|
 |Softshrink (λ = 0.5)|20|1|
 |LogSigmoid|19|4|
 |CELU(α=1.0)|18|3|
