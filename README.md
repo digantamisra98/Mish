@@ -319,8 +319,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Softsign|21|1|
 |ELU(α=1.0)|21|6|
 |Softshrink (λ = 0.5)|20|1|
+|GELU|19|2|
 |LogSigmoid|19|4|
-|GELU|18|2|
 |CELU(α=1.0)|18|3|
 |E-Swish (β=1.75)|18|7|
 |SoftPlus(β = 1)|17|5|
