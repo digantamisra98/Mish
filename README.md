@@ -394,9 +394,10 @@ All demo jupyter notebooks are present in the [Notebooks Folder](https://github.
 ## Official Package Based Implementations: 
 
 - [TensorFlow-Addons](https://github.com/tensorflow/addons/tree/master/tensorflow_addons/activations)
-- [SpaCy - Tok2Vec Layer](https://github.com/explosion/spaCy)
+- [SpaCy (Tok2Vec Layer)](https://github.com/explosion/spaCy)
 - [Thinc - SpaCy's official NLP based ML library](https://github.com/explosion/thinc/releases/tag/v7.3.0)
 - [Echo AI](https://github.com/digantamisra98/Echo)
+- [CNTKX - Extension of Microsoft's CNTK](https://github.com/delzac/cntkx)
 
 ### For Source Code Implementation: 
 
