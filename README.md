@@ -338,14 +338,14 @@ All results and comparative analysis are present in the [Readme](https://github.
 |SQNL|13|1|
 |RReLU|12|10|
 |ISRU (α=1.0)|10|1|
+|Bent's Identity|10|4|
 |Hard ELisH|9|1|
 |SineReLU (ε = 0.001)|9|2|
 |Flatten T-Swish|9|2|
-|Bent's Identity|9|4|
 |Weighted TanH (Weight = 1.7145)|8|1|
 |Soft Clipping (α=0.5)|8|2|
 |Le Cun's TanH|8|2|
-|ISRLU (α=1.0)|7|3|
+|ISRLU (α=1.0)|8|3|
 |ELisH|7|3|
 |SReLU|6|4|
 |Hard Sigmoid|1|0|
