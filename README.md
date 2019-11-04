@@ -347,7 +347,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Soft Clipping (α=0.5)|8|3|
 |ISRLU (α=1.0)|8|3|
 |ELisH|7|3|
-|SReLU|6|4|
+|SReLU|6|5|
 |Hard Sigmoid|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 
