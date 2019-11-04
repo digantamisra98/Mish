@@ -461,6 +461,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Bent's Identity|90.66%|**4.696%**|98.63%|
 |ISRLU (α=1.0)|90.25%|5.04%|98.54%|
 |Soft Clipping (α=0.5)|90.96%|4.722%|**98.87%**|
+|LeCun's TanH|88.76%|5.625%|98.11%|
 
 <div style="text-align:center"><img src ="Observations/dense201.png"  width="1000"/></div>
 
