@@ -340,10 +340,10 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ISRU (α=1.0)|10|1|
 |Bent's Identity|10|4|
 |Hard ELisH|9|1|
+|Weighted TanH (Weight = 1.7145)|9|1|
 |SineReLU (ε = 0.001)|9|2|
 |Flatten T-Swish|9|2|
 |Le Cun's TanH|9|2|
-|Weighted TanH (Weight = 1.7145)|8|1|
 |Soft Clipping (α=0.5)|8|3|
 |ISRLU (α=1.0)|8|3|
 |ELisH|7|3|
