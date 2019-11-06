@@ -28,6 +28,7 @@
 - [Thinc - SpaCy's official NLP based ML library](https://github.com/explosion/thinc/releases/tag/v7.3.0)
 - [Echo AI](https://github.com/digantamisra98/Echo)
 - [CNTKX - Extension of Microsoft's CNTK](https://github.com/delzac/cntkx)
+- [FastAI-Dev](https://github.com/fastai/fastai_dev/blob/0f613ba3205990c83de9dba0c8798a9eec5452ce/dev/local/layers.py#L441)
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
 <div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
@@ -319,26 +320,26 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Swish-1|53|22|
 |SELU|25|1|
 |Sigmoid|23|0|
+|TanH|23|0|
 |HardShrink(λ = 0.5)|22|0|
-|TanH|22|0|
+|Tanhshrink|22|0|
+|Softsign|22|1|
 |PReLU(Default Parameters)	|22|2|
-|Tanhshrink|21|0|
 |Hardtanh|21|1|
-|Softsign|21|1|
+|Softshrink (λ = 0.5)|21|1|
 |ELU(α=1.0)|21|7|
-|Softshrink (λ = 0.5)|20|1|
 |GELU|19|2|
 |LogSigmoid|19|4|
 |E-Swish (β=1.75)|19|7|
 |CELU(α=1.0)|18|4|
-|SoftPlus(β = 1)|17|5|
+|SoftPlus(β = 1)|17|6|
 |ReLU6|16|7|
 |Leaky ReLU(α=0.3)|16|8|
-|Aria-2(β = 1, α=1.5)|14|2|
+|Aria-2(β = 1, α=1.5)|15|2|
 |SQNL|13|1|
 |RReLU|12|10|
 |ISRU (α=1.0)|10|1|
-|Bent's Identity|10|4|
+|Bent's Identity|10|5|
 |Hard ELisH|9|1|
 |Weighted TanH (Weight = 1.7145)|9|1|
 |SineReLU (ε = 0.001)|9|2|
