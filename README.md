@@ -329,13 +329,13 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Softshrink (λ = 0.5)|21|1|
 |Hardtanh|21|2|
 |ELU(α=1.0)|21|7|
+|LogSigmoid|20|4|
 |GELU|19|2|
-|LogSigmoid|19|4|
 |E-Swish (β=1.75)|19|7|
 |CELU(α=1.0)|18|4|
 |SoftPlus(β = 1)|17|6|
+|Leaky ReLU(α=0.3)|17|8|
 |ReLU6|16|7|
-|Leaky ReLU(α=0.3)|16|8|
 |Aria-2(β = 1, α=1.5)|15|2|
 |SQNL|13|1|
 |RReLU|12|10|
