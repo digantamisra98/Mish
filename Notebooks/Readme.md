@@ -464,7 +464,9 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |LeCun's TanH|88.76%|5.625%|98.11%|
 |SReLU|**91.22%**|4.571%|98.66%|
 |Weighted TanH (Weight = 1.7145)|88.69%|5.69%|98.1%|
-|ELU (α=1.0)|90.91%|**4.567%**|98.67%|
+|ELU (α=1.0)|90.91%|4.567%|98.67%|
+|Hardtanh|90.91%|**4.505%**|98.69%|
+|HardShrink(λ=0.5)|89.84%|5.374%|98.26%|
 
 <div style="text-align:center"><img src ="Observations/dense201.png"  width="1000"/></div>
 
