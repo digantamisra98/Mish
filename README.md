@@ -330,7 +330,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Hardtanh|21|2|
 |ELU(α=1.0)|21|7|
 |LogSigmoid|20|4|
-|GELU|19|2|
+|GELU|19|3|
 |E-Swish (β=1.75)|19|7|
 |CELU(α=1.0)|18|5|
 |SoftPlus(β = 1)|17|7|
@@ -344,12 +344,12 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Le Cun's TanH|10|2|
 |Bent's Identity|10|5|
 |Hard ELisH|9|1|
-|Flatten T-Swish|9|2|
+|Flatten T-Swish|9|3|
 |SineReLU (ε = 0.001)|9|3|
 |Soft Clipping (α=0.5)|9|3|
 |ISRLU (α=1.0)|8|3|
 |ELisH|7|3|
-|SReLU|6|5|
+|SReLU|6|6|
 |Hard Sigmoid|1|0|
 |Thresholded ReLU(θ=1.0)|1|0|
 
