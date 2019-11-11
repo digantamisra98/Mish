@@ -319,7 +319,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |---|---|---|
 |ReLU|55|20|
 |Swish-1|53|22|
-|SELU|25|1|
+|SELU|26|1|
 |Sigmoid|23|0|
 |TanH|23|0|
 |HardShrink(λ = 0.5)|23|0|
@@ -338,7 +338,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ReLU6|16|8|
 |Aria-2(β = 1, α=1.5)|15|2|
 |SQNL|13|1|
-|RReLU|12|10|
+|RReLU|12|11|
 |ISRU (α=1.0)|10|1|
 |Weighted TanH (Weight = 1.7145)|10|1|
 |Le Cun's TanH|10|2|
