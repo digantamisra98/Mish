@@ -332,7 +332,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |LogSigmoid|20|4|
 |GELU|19|2|
 |E-Swish (β=1.75)|19|7|
-|CELU(α=1.0)|18|4|
+|CELU(α=1.0)|18|5|
 |SoftPlus(β = 1)|17|6|
 |Leaky ReLU(α=0.3)|17|8|
 |ReLU6|16|8|
