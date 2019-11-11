@@ -320,7 +320,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ReLU|55|20|
 |Swish-1|53|22|
 |SELU|26|1|
-|Sigmoid|23|0|
+|Sigmoid|24|0|
 |TanH|23|0|
 |HardShrink(λ = 0.5)|23|0|
 |PReLU(Default Parameters)	|23|2|
