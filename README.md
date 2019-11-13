@@ -349,7 +349,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Flatten T-Swish|9|3|
 |SineReLU (ε = 0.001)|9|3|
 |Soft Clipping (α=0.5)|9|3|
-|ISRLU (α=1.0)|8|3|
+|ISRLU (α=1.0)|8|4|
 |ELisH|7|3|
 |SReLU|6|6|
 |Hard Sigmoid|1|0|
