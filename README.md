@@ -361,15 +361,15 @@ All results and comparative analysis are present in the [Readme](https://github.
 
 |Activation Function| Mish > Baseline Model | Mish < Baseline Model |
 |---|---|---|
-|Penalized TanH|3|0|
-|ELU|3|0|
-|Sigmoid|3|0|
-|SReLU|2|0|
-|Swish|2|1|
-|TanH|2|1|
-|GELU|1|1|
-|ReLU|1|2|
-|Leaky ReLU|1|2|
+|Penalized TanH|4|0|
+|ELU|4|0|
+|Sigmoid|4|0|
+|SReLU|3|0|
+|TanH|3|1|
+|Swish|2|2|
+|GELU|1|2|
+|ReLU|1|3|
+|Leaky ReLU|1|3|
 
 #### Sample Result: 
 
