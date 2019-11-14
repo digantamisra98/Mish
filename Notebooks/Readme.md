@@ -1505,6 +1505,7 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 ### Doument Classification:
 
 - Dataset - IMBD 
+- Number of Runs - 3
 
 #### CNN:
 
@@ -1519,10 +1520,31 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 |ELU|88.1%|88.16%|4.59%|4.87%|
 |Sigmoid|85.18%|85.47%|4.21%|5.01%|
 
+- [Dataset](http://competition.ai100.com.cn/html/game_det.html?id=24)
+- Number of Runs - 3
+
+#### CNN:
+
+|Activation Function|Mean Accuracy|Best Accuracy|Best Loss|Mean Loss|Standard Deviation of Accuracy|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Mish|91.37%|91.38%|2.121%|2.122%|0.0000816479|
+|Swish|91.4533%|91.52%|2.105%|2.10633%|0.000478|
+|ReLU|91.4833%|91.55%|2.165%|2.167%|0.000531|
+|TanH|90.82%|90.84%|2.308%|2.31533%|0.000943|
+|Penalized TanH|90.9%|90.91%|2.115%|2.11667%|0.0000816479|
+|Leaky ReLU|**91.63%**|**91.7%**|**2.089%**|**2.09233%**|0.000497|
+|GELU|91.5467%|91.56%|2.102%|2.10467%|0.0000943|
+|ELU|91.0333%|91.04%|2.23%|2.29%|0.0000943|
+|SReLU|90.7733%|90.8%|2.29%|2.29627%|0.000249|
+|Sigmoid|49.61%|49.61%|6.939%|6.939%|**0**|
+
 
 ### Sentence Classification: 
 
 - Dataset - Large IMBD
+- Number of Runs - 3
+
+#### CNN:
 
 |Activation Function|Mean Accuracy|Best Accuracy|Best Loss|Mean Loss|Standard Deviation of Accuracy|
 |:---:|:---:|:---:|:---:|:---:|:---:|
