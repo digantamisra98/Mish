@@ -1518,3 +1518,21 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 |Leaky ReLU|87.96%|88.11%|5.47%|6.12%|
 |ELU|88.1%|88.16%|4.59%|4.87%|
 |Sigmoid|85.18%|85.47%|4.21%|5.01%|
+
+
+### Sentence Classification: 
+
+- Dataset - Large IMBD
+
+|Activation Function|Mean Accuracy|Best Accuracy|Best Loss|Mean Loss|Standard Deviation of Accuracy|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Mish|91.1367%|91.14%|2.143%|2.144%|0.0000471405|
+|Swish|91.4867%|91.52%|2.115%|2.116%|0.000403|
+|ReLU|91.4833%|91.55%|2.165%|2.167%|0.000531|
+|TanH|90.7433%|90.82%|2.315%|2.33233%|0.000613|
+|Penalized TanH|90.9%|90.91%|2.115%|2.11667%|0.0000816|
+|Leaky ReLU|**91.6267%**|**91.7%**|**2.094%**|**2.095%**|0.000519|
+|GELU|91.5667%|91.59%|2.107%|2.11333%|0.000205|
+|ELU|91.0333%|91.04%|2.21%|2.22333%|0.0000471405|
+|SReLU|90.7433%|90.8%|2.291%|2.294%|0.00045|
+|Sigmoid|51.24%|51.24%|7.134%|7.134%|**0**|
