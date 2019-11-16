@@ -349,8 +349,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Bent's Identity|10|5|
 |Hard ELisH|9|1|
 |Flatten T-Swish|9|3|
-|SineReLU (ε = 0.001)|9|3|
 |Soft Clipping (α=0.5)|9|3|
+|SineReLU (ε = 0.001)|9|4|
 |ISRLU (α=1.0)|8|4|
 |ELisH|7|3|
 |SReLU|7|6|
