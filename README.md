@@ -32,6 +32,7 @@
 - [Darknet](https://github.com/AlexeyAB/darknet/commit/bf8ea4183dc265ac17f7c9d939dc815269f0a213)
 - [Yolov3](https://github.com/ultralytics/yolov3/commit/444a9f7099d4ff1aef12783704e3df9a8c3aa4b3)
 - [BeeDNN - Library in C++](https://github.com/edeforas/BeeDNN)
+- [Gen-EfficientNet-PyTorch](https://github.com/rwightman/gen-efficientnet-pytorch)
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
 <div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
