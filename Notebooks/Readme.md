@@ -477,6 +477,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Sigmoid|89.71%|5.608%|98.42%|
 |Softplus(β = 1)|91.22%|5.116%|98.62%|
 |Softshrink(λ=0.5)|89.65%|5.232%|98.61%|
+|Tanh|90.33%|4.838%|98.55%|
 
 <div style="text-align:center"><img src ="Observations/dense201.png"  width="1000"/></div>
 
@@ -712,6 +713,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Softsign|84.74%|7.152%|97.27%|
 |TanH|85%|7.572%|97.24%|
 |Tanhshrink|76.08%|9.234%|94.71%|
+|Weighted Tanh (Weight = 1.7145)|80.47%|8.769%|96.06%|
 
 <div style="text-align:center"><img src ="Observations/se50_1.png"  width="1000"/></div>
 
