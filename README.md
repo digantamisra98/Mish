@@ -341,8 +341,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |ReLU6|16|8|
 |Aria-2(β = 1, α=1.5)|15|2|
 |SQNL|13|1|
+|Weighted TanH (Weight = 1.7145)|12|1|
 |RReLU|12|11|
-|Weighted TanH (Weight = 1.7145)|11|1|
 |ISRU (α=1.0)|10|1|
 |Le Cun's TanH|10|2|
 |Bent's Identity|10|5|
