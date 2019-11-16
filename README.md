@@ -326,8 +326,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Sigmoid|24|0|
 |TanH|24|0|
 |HardShrink(λ = 0.5)|23|0|
+|Tanhshrink|23|0|
 |PReLU(Default Parameters)	|23|2|
-|Tanhshrink|22|0|
 |Softsign|22|1|
 |Softshrink (λ = 0.5)|22|1|
 |Hardtanh|21|2|
