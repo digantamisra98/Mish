@@ -324,7 +324,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Swish-1|53|22|
 |SELU|26|1|
 |Sigmoid|24|0|
-|TanH|23|0|
+|TanH|24|0|
 |HardShrink(λ = 0.5)|23|0|
 |PReLU(Default Parameters)	|23|2|
 |Tanhshrink|22|0|
@@ -342,8 +342,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |Aria-2(β = 1, α=1.5)|15|2|
 |SQNL|13|1|
 |RReLU|12|11|
+|Weighted TanH (Weight = 1.7145)|11|1|
 |ISRU (α=1.0)|10|1|
-|Weighted TanH (Weight = 1.7145)|10|1|
 |Le Cun's TanH|10|2|
 |Bent's Identity|10|5|
 |Hard ELisH|9|1|
