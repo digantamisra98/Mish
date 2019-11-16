@@ -716,6 +716,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |Tanhshrink|76.08%|9.234%|94.71%|
 |Weighted Tanh (Weight = 1.7145)|80.47%|8.769%|96.06%|
 |LeCun's Tanh|83.82%|7.677%|97.06%|
+|SReLU|88.36%|5.899%|98.23%|
 
 <div style="text-align:center"><img src ="Observations/se50_1.png"  width="1000"/></div>
 
