@@ -1,5 +1,7 @@
 # Keras Implementation of Mish Activation Function.
 
+"""Update: 11/17/2019- Keras implementation is now depreciated, please move to TFKeras directory for the Tensorflow 2.0 Keras based implementation"""
+
 # Import Necessary Modules.
 from __future__ import absolute_import
 from __future__ import division

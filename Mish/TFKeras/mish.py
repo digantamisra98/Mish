@@ -3,7 +3,7 @@
 ## Import Necessary Modules
 import tensorflow as tf
 from tensorflow.keras.layers import Activation
-from tensorflow.keras.utils.generic_utils import get_custom_objects
+from tensorflow.keras.utils import get_custom_objects
 
 class Mish(Activation):
     '''
