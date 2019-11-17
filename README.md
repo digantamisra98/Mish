@@ -339,8 +339,8 @@ All results and comparative analysis are present in the [Readme](https://github.
 |CELU(α=1.0)|18|5|
 |SoftPlus(β = 1)|17|7|
 |Leaky ReLU(α=0.3)|17|8|
+|Aria-2(β = 1, α=1.5)|16|2|
 |ReLU6|16|8|
-|Aria-2(β = 1, α=1.5)|15|2|
 |SQNL|13|1|
 |Weighted TanH (Weight = 1.7145)|12|1|
 |RReLU|12|11|
