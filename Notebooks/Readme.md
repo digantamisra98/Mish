@@ -870,6 +870,7 @@ The Confusion Matrix obtained after 100 epoch training of ResNet v2 with Mish on
 |ReLU6|**92%**|3.846%|**98.98%**|
 |LeakyReLU (α=0.3)|91.6%|**3.331%**|98.86%|
 |Softsign|84.75%|6.212%|97.09%|
+|Aria-2(β = 1, α=1.5)|87.86%|4.933%|98.25%|
 
 <div style="text-align:center"><img src ="Observations/inceptionv3.png"  width="1000"/></div>
 
