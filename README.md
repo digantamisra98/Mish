@@ -26,6 +26,7 @@
 - [TensorFlow-Addons](https://github.com/tensorflow/addons/tree/master/tensorflow_addons/activations)
 - [SpaCy (Tok2Vec Layer)](https://github.com/explosion/spaCy)
 - [Thinc - SpaCy's official NLP based ML library](https://github.com/explosion/thinc/releases/tag/v7.3.0)
+- [Eclipse's deeplearning4j](https://github.com/eclipse/deeplearning4j/issues/8417)
 - [Echo AI](https://github.com/digantamisra98/Echo)
 - [CNTKX - Extension of Microsoft's CNTK](https://github.com/delzac/cntkx)
 - [FastAI-Dev](https://github.com/fastai/fastai_dev/blob/0f613ba3205990c83de9dba0c8798a9eec5452ce/dev/local/layers.py#L441)
