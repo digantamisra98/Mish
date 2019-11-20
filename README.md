@@ -23,10 +23,30 @@
 
 ## Official Package Based Implementations: 
 
+<p float="left">
+  <img src="package_logos/DL4J.png"  width="200"/>
+  &emsp;
+  &emsp;
+  <img src="package_logos/spacy.png"  width="200"/>
+  <img src="package_logos/tf_addons.png"  width="200"/>
+  <img src="package_logos/thinc.png"  width="100"/>
+</p>
+
+<p float="left">
+  <img src="package_logos/hasktorch.png"  width="140"/>
+  &emsp;
+  &emsp;
+  <img src="package_logos/fastai.png"  width="200"/>
+  &emsp;
+  &emsp;
+  <img src="package_logos/darknet.png"  width="140"/>
+</p>
+
 - [TensorFlow-Addons](https://github.com/tensorflow/addons/tree/master/tensorflow_addons/activations)
 - [SpaCy (Tok2Vec Layer)](https://github.com/explosion/spaCy)
 - [Thinc - SpaCy's official NLP based ML library](https://github.com/explosion/thinc/releases/tag/v7.3.0)
 - [Eclipse's deeplearning4j](https://github.com/eclipse/deeplearning4j/issues/8417)
+- [Hasktorch](https://github.com/hasktorch/hasktorch/pull/247)
 - [Echo AI](https://github.com/digantamisra98/Echo)
 - [CNTKX - Extension of Microsoft's CNTK](https://github.com/delzac/cntkx)
 - [FastAI-Dev](https://github.com/fastai/fastai_dev/blob/0f613ba3205990c83de9dba0c8798a9eec5452ce/dev/local/layers.py#L441)
