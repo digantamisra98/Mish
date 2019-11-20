@@ -23,7 +23,7 @@
 
 ## Official Package Based Implementations: 
 
-<p float="left">
+<p float="center">
   <img src="package_logos/DL4J.png"  width="200"/>
   &emsp;
   &emsp;
@@ -32,7 +32,7 @@
   <img src="package_logos/thinc.png"  width="100"/>
 </p>
 
-<p float="left">
+<p float="center">
   <img src="package_logos/hasktorch.png"  width="140"/>
   &emsp;
   &emsp;
@@ -40,6 +40,7 @@
   &emsp;
   &emsp;
   <img src="package_logos/darknet.png"  width="140"/>
+  <img src="package_logos/echo.png"  width="160"/>
 </p>
 
 |     |     |  |
