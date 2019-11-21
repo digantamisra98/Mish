@@ -46,7 +46,7 @@
 |     |     |  |
 | :---: | :---: |  :---: |
 |[TensorFlow-Addons](https://github.com/tensorflow/addons/tree/master/tensorflow_addons/activations)|[SpaCy (Tok2Vec Layer)](https://github.com/explosion/spaCy)|[Thinc - SpaCy's official NLP based ML library](https://github.com/explosion/thinc/releases/tag/v7.3.0)|
-|[Eclipse's deeplearning4j](https://github.com/eclipse/deeplearning4j/issues/8417)|[Hasktorch](https://github.com/hasktorch/hasktorch/pull/247)|[Echo AI](https://github.com/digantamisra98/Echo)|
+|[Eclipse's deeplearning4j](https://github.com/eclipse/deeplearning4j/issues/8417)|[Hasktorch](https://github.com/hasktorch/hasktorch/blob/e5d4fb1b11663de3e032941f78b9d25c5da06f6d/hasktorch/src/Torch/Typed/Native.hs#L314)|[Echo AI](https://github.com/digantamisra98/Echo)|
 |[CNTKX - Extension of Microsoft's CNTK](https://github.com/delzac/cntkx)|[FastAI-Dev](https://github.com/fastai/fastai_dev/blob/0f613ba3205990c83de9dba0c8798a9eec5452ce/dev/local/layers.py#L441)|[Darknet](https://github.com/AlexeyAB/darknet/commit/bf8ea4183dc265ac17f7c9d939dc815269f0a213)|
 |[Yolov3](https://github.com/ultralytics/yolov3/commit/444a9f7099d4ff1aef12783704e3df9a8c3aa4b3)|[BeeDNN - Library in C++](https://github.com/edeforas/BeeDNN)|[Gen-EfficientNet-PyTorch](https://github.com/rwightman/gen-efficientnet-pytorch)|
 |[dnet](https://github.com/umangjpatel/dnet/blob/master/nn/activations.py)|||
