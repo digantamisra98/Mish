@@ -49,7 +49,7 @@
 |[Eclipse's deeplearning4j](https://github.com/eclipse/deeplearning4j/issues/8417)|[Hasktorch](https://github.com/hasktorch/hasktorch/blob/e5d4fb1b11663de3e032941f78b9d25c5da06f6d/hasktorch/src/Torch/Typed/Native.hs#L314)|[Echo AI](https://github.com/digantamisra98/Echo)|
 |[CNTKX - Extension of Microsoft's CNTK](https://github.com/delzac/cntkx)|[FastAI-Dev](https://github.com/fastai/fastai_dev/blob/0f613ba3205990c83de9dba0c8798a9eec5452ce/dev/local/layers.py#L441)|[Darknet](https://github.com/AlexeyAB/darknet/commit/bf8ea4183dc265ac17f7c9d939dc815269f0a213)|
 |[Yolov3](https://github.com/ultralytics/yolov3/commit/444a9f7099d4ff1aef12783704e3df9a8c3aa4b3)|[BeeDNN - Library in C++](https://github.com/edeforas/BeeDNN)|[Gen-EfficientNet-PyTorch](https://github.com/rwightman/gen-efficientnet-pytorch)|
-|[dnet](https://github.com/umangjpatel/dnet/blob/master/nn/activations.py)|||
+|[dnet](https://github.com/umangjpatel/dnet/blob/master/nn/activations.py)|[ruby-dnn](https://github.com/unagiootoro/ruby-dnn#implemented)|[blackcat-tensors](https://github.com/josephjaspers/blackcat_tensors/commit/87fa2f427d044a120816f2bc83176bdb455ceccd)|
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
 <div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
