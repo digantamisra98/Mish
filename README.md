@@ -42,15 +42,12 @@
   <img src="package_logos/darknet.png"  width="140"/>
   <img src="package_logos/echo.png"  width="160"/>
 </p>
-
-<br>
-
 <p float="center">
   <img src="package_logos/dl4s.png"  width="160"/>
   &emsp;
   &emsp;
   <img src="package_logos/hugging_face.png"  width="300"/>
-  <img src="package_logos/dnet.png"  width="100"/>
+  <img src="package_logos/dnet.png"  width="150"/>
 </p>
 
 |     |     |  |
