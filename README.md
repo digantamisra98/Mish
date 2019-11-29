@@ -50,7 +50,7 @@
   &emsp;
   &emsp;
   <img src="package_logos/hugging_face.png"  width="300"/>
-  <img src="package_logos/dnet.png"  width="150"/>
+  <img src="package_logos/dnet.png"  width="100"/>
 </p>
 
 |     |     |  |
