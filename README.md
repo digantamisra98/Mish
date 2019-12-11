@@ -64,6 +64,7 @@
 |[dnet](https://github.com/umangjpatel/dnet)|[ruby-dnn](https://github.com/unagiootoro/ruby-dnn#implemented)|[blackcat-tensors](https://github.com/josephjaspers/blackcat_tensors/commit/87fa2f427d044a120816f2bc83176bdb455ceccd)|
 |[DL4S](https://palle-k.github.io/DL4S/)|[HuggingFace Transformers](https://github.com/huggingface/transformers/pull/1753)|[PAGI](https://github.com/ProjectAGI/pagi)|
 |[OpenCV](https://github.com/opencv/opencv/pull/15808)|[Odin-AI](https://github.com/imito/odin-ai)|[Mini DNN](https://github.com/yixuan/MiniDNN/commit/a405bd082183e685222472fa5851fd5024b1a7e6)|
+|[Efficient Segmentation Networks](https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks)|||
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
 <div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
