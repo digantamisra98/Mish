@@ -13,6 +13,8 @@
         <img src="https://circleci.com/gh/digantamisra98/Mish.svg?style=svg" /></a>
     <a href="https://arxiv.org/abs/1908.08681" alt="ArXiv">
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
+   <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
+        <img src="https://img.shields.io/twitter/url/https/twitter.com/DigantaMisra1.svg?style=social&label=Follow%20%40DigantaMisra1" /></a>
 </p>
 
 #                    Mish: Self Regularized Non-Monotonic Activation Function
@@ -478,4 +480,4 @@ MXNet Implementation of Mish Activation function can be found [here](https://git
 
 ## Contact: 
 - [LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
-- Email: mishradiganta91@gmail.com
+- [Twitter](https://twitter.com/DigantaMisra1)
