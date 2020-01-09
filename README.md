@@ -134,6 +134,12 @@ Complex Analysis of Mish Activation Function:
 
 <div style="text-align:center"><img src ="Observations/complex.png"  width="800"/></div>
 
+## ImageNet Scores:
+
+|Network|Activation|Top-1 Accuracy|Top-5 Accuracy|cfg|Weights|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|ResNet-50|Mish|74.244%|92.406%|||
+
 ## Variation of Parameter Comparison:
 
 ### MNIST:
