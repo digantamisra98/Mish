@@ -136,6 +136,8 @@ Complex Analysis of Mish Activation Function:
 
 ## ImageNet Scores:
 
+*For Installing DarkNet framework, please refer to [darknet(Alexay AB)](https://github.com/AlexeyAB/darknet)*
+
 |Network|Activation|Top-1 Accuracy|Top-5 Accuracy|cfg|Weights|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |ResNet-50|Mish|74.244%|92.406%|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/resnet50-mish.cfg)|[weights](https://drive.google.com/file/d/12rZ3F570JJ5p2C_AHRP_dzlrdq5-liaj/view?usp=sharing)|
