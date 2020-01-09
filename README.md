@@ -136,6 +136,8 @@ Complex Analysis of Mish Activation Function:
 
 ## ImageNet Scores:
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mish-a-self-regularized-non-monotonic-neural/image-classification-on-imagenet)](https://paperswithcode.com/sota/image-classification-on-imagenet?p=mish-a-self-regularized-non-monotonic-neural)
+
 *For Installing DarkNet framework, please refer to [darknet(Alexey AB)](https://github.com/AlexeyAB/darknet)*
 
 |Network|Activation|Top-1 Accuracy|Top-5 Accuracy|cfg|Weights|Hardware|
