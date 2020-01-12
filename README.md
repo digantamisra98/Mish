@@ -144,6 +144,7 @@ Complex Analysis of Mish Activation Function:
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |ResNet-50|Mish|74.244%|92.406%|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/resnet50-mish.cfg)|[weights](https://drive.google.com/file/d/12rZ3F570JJ5p2C_AHRP_dzlrdq5-liaj/view?usp=sharing)|[AWS p3.16x large, 8 Tesla V100](https://aws.amazon.com/ec2/instance-types/p3/)|
 |DarkNet-53|Mish|77.01%|93.75%|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/darknet53-mish.cfg)|[weights](https://drive.google.com/file/d/1rkM3Mz2Tf27IoSwFIMiwtgDfhT-MuF_u/view?usp=sharing)|[AWS p3.16x large, 8 Tesla V100](https://aws.amazon.com/ec2/instance-types/p3/)|
+|DenseNet-201|Mish|76.584%|93.47%|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/densenet201-mish.cfg)|[weights](https://drive.google.com/file/d/1RURL4JLbECYfHVArQ71lfFUiujFEYJvl/view?usp=sharing)|[AWS p3.16x large, 8 Tesla V100](https://aws.amazon.com/ec2/instance-types/p3/)|
 
 ## Variation of Parameter Comparison:
 
