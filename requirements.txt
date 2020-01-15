@@ -7,5 +7,5 @@ matplotlib
 numpy
 opencv-python
 torch
-torchvision
+-U git+https://github.com/pytorch/vision
 argparse
