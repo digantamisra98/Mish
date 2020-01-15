@@ -6,6 +6,8 @@ Script provides functional interface for Mish activation function.
 import torch
 import torch.nn.functional as F
 
+
+@torch.jit.script
 def mish(input):
     '''
     Applies the mish function element-wise:
@@ -13,4 +15,9 @@ def mish(input):
 
     See additional documentation for mish class.
     '''
-    return input * torch.tanh(F.softplus(input))
+    if torch.cuda.is_available():
+        return input * torch.tanh(F.softplus(input))
+    else:
+        delta = torch.exp(-input)
+        alpha = 1 + 2 * delta
+        return input * alpha / (alpha + 2* delta * delta)
