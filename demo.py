@@ -98,7 +98,7 @@ def main():
         # Initialize the model using nn.Sequential
         model = nn.Sequential(OrderedDict([
                               ('fc1', nn.Linear(784, 256)),
-                              ('mila', activation_function), # use custom activation function
+                              ('mish', activation_function), # use custom activation function
                               ('fc2', nn.Linear(256, 128)),
                               ('bn2', nn.BatchNorm1d(num_features=128)),
                               ('relu2', nn.ReLU()),
