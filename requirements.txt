@@ -7,4 +7,5 @@ matplotlib
 numpy
 opencv-python
 torch
+torchvision
 argparse

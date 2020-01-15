@@ -22,7 +22,6 @@ jobs:
             python3 -m venv venv
             . venv/bin/activate
             pip install -r requirements.txt
-            pip install -U git+https://github.com/pytorch/vision
       - save_cache:
           paths:
             - ./venv
@@ -43,7 +42,6 @@ jobs:
             python3 -m venv venv
             . venv/bin/activate
             pip install -r requirements.txt
-            pip install -U git+https://github.com/pytorch/vision
             python3 demo.py --activation mish --model_initialization class
 
 workflows:
