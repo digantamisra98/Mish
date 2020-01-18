@@ -63,7 +63,7 @@
    <img src="package_logos/allennlp.png"  width="200"/>
 </p>
 <p float="center">
-   <img src="package_logos/djl.png"  width="200"/>
+   <img src="package_logos/djl.png"  width="300"/>
 </p>
 
 |     |     |  |
