@@ -7,17 +7,23 @@ import torch
 import torch.nn.functional as F
 
 
-@torch.jit.script
 def mish(input):
     '''
     Applies the mish function element-wise:
     mish(x) = x * tanh(softplus(x)) = x * tanh(ln(1 + exp(x)))
-
     See additional documentation for mish class.
     '''
     if torch.cuda.is_available():
-        return input * torch.tanh(F.softplus(input))
+        return cuda_mish(input)
     else:
-        delta = torch.exp(-input)
-        alpha = 1 + 2 * delta
-        return input * alpha / (alpha + 2* delta * delta)
+        return cpu_mish(input)
+
+@torch.jit.script
+def cuda_mish(input):
+    return input * torch.tanh(F.softplus(input))
+
+@torch.jit.script
+def cpu_mish(input):
+    delta = torch.exp(-input)
+    alpha = 1 + 2 * delta
+    return input * alpha / (alpha + 2* delta * delta)
