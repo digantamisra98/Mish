@@ -62,6 +62,9 @@
    &emsp;
    <img src="package_logos/allennlp.png"  width="200"/>
 </p>
+<p float="center">
+   <img src="package_logos/djl.png"  width="200"/>
+</p>
 
 |     |     |  |
 | :---: | :---: |  :---: |
@@ -74,7 +77,8 @@
 |[OpenCV](https://github.com/opencv/opencv/pull/15808)|[Odin-AI](https://github.com/imito/odin-ai)|[Mini DNN](https://github.com/yixuan/MiniDNN/commit/a405bd082183e685222472fa5851fd5024b1a7e6)|
 |[Efficient Segmentation Networks](https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks)|[TF Semantic Segmentation](https://pypi.org/project/tf-semantic-segmentation/0.1.0/)|[Dynastes](https://github.com/veqtor/dynastes)|
 |[DLib](https://github.com/davisking/dlib/commit/edff12d2e17f65a2ded6ea71c6ba402055cea896)|[Copernicus](https://github.com/dmbernaal/copernicus)|[AllenNLP](https://github.com/allenai/allennlp/pull/3466#event-2951976800)|
-|[PyWick](https://github.com/achaiah/pywick)|||
+|[PyWick](https://github.com/achaiah/pywick)|[Deep Java Library](https://github.com/awslabs/djl)|[PyTorch-Toolbelt](https://github.com/BloodAxe/pytorch-toolbelt)|
+|[Holocron](https://github.com/frgfm/Holocron)|||
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
 <div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
