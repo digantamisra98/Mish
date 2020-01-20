@@ -88,8 +88,8 @@ Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.0594
 <br>
 An Activation Function is generally used to introduce non-linearity and over the years of theoretical machine learning research, many activation functions have been constructed with the 2 most popular amongst them being: 
 
-- ReLU (Rectified Linear Unit; f(x)=max(0,x)) <br>.
-- TanH <br>.
+- ReLU (Rectified Linear Unit; f(x)=max(0,x)) <br>
+- TanH <br>
 
 Other notable ones being: <br> 
 - Softmax (Used for Multi-class Classification in the output layer) <br> 
