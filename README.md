@@ -374,7 +374,7 @@ The P-values were computed for different activation functions in comparison to t
 
 *News: [Ajay Arasanipalai](https://github.com/iyaja) recently submitted benchmark for CIFAR-10 training for the [Stanford DAWN Benchmark](https://dawn.cs.stanford.edu/benchmark/#cifar10-train-time) using a [Custom ResNet-9 + Mish](https://github.com/iyaja/cifar-10-faster) which achieved 94.05% accuracy in just 10.7 seconds in 14 epochs on the [HAL Computing Cluster](https://wiki.ncsa.illinois.edu/display/ISL20/HAL+cluster). This is the current fastest training of CIFAR-10 in 4 GPUs and 2nd fastest training of CIFAR-10 overall in the world.*
 
-All results and comparative analysis are present in the [Readme](https://github.com/digantamisra98/Mish/blob/master/Notebooks/Readme.md) file present in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks).
+All results and comparative analysis are present in the [Readme](https://github.com/digantamisra98/Mish/blob/master/Examples%20and%20Benchmarks/Readme.md) file present in the [Examples and Benchmarks Folder](https://github.com/digantamisra98/Mish/tree/master/Examples%20and%20Benchmarks).
 
 ### Summary of Results (Vision Tasks): 
 
