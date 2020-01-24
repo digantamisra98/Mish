@@ -25,8 +25,8 @@
 
 ### Citations: 
 
-- Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/)
-- Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non-Gaussian hydraulic conductivities: [Paper](https://arxiv.org/pdf/1906.11828.pdf)
+- Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
+- Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non-Gaussian hydraulic conductivities: [Paper](https://arxiv.org/pdf/1906.11828.pdf) (Submitted to [Wiley Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973))
 - Connecting Optical Morphology, Environment, and H I Mass Fraction for Low-Redshift Galaxies Using Deep Learning: [Paper](https://arxiv.org/pdf/2001.00018.pdf), [Code](https://github.com/jwuphysics/HI-convnets)
 - Learning Neural Activations: [Paper](https://arxiv.org/abs/1912.12187), [Code](https://github.com/amina01/Learning-Neural-Activations)
 - Learning to Reconstruct Crack Profiles for Eddy Current Nondestructive Testing: [Paper](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_100.pdf), [Code](https://github.com/askerlee/EddyNet) (Accepted to [33rd NeurIPS ML4PS (Machine Learning and the Physical Sciences) Workshop](https://ml4physicalsciences.github.io/))
