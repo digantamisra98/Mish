@@ -177,7 +177,8 @@ Complex Analysis of Mish Activation Function:
 |[CSPResNet-50](https://github.com/WongKinYiu/CrossStagePartialNetworks)|Mish|**78.1%**|**94.2%**|
 |||||
 |[Pelee Net](https://arxiv.org/abs/1804.06882)|Leaky ReLU|70.7%|90%|
-|[Pelee Net](https://arxiv.org/abs/1804.06882)|Mish|**71.4%**|**90.4%**|
+|[Pelee Net](https://arxiv.org/abs/1804.06882)|Mish|71.4%|90.4%|
+|[Pelee Net](https://arxiv.org/abs/1804.06882)|Swish|**71.5%**|**90.7%**|
 |||||
 |[CSPPelee Net](https://github.com/WongKinYiu/CrossStagePartialNetworks)|Leaky ReLU|70.9%|90.2%|
 |[CSPPelee Net](https://github.com/WongKinYiu/CrossStagePartialNetworks)|Mish|**71.2%**|**90.3%**|
