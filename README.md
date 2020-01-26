@@ -171,6 +171,17 @@ Complex Analysis of Mish Activation Function:
 |DenseNet-201|Mish|76.584%|93.47%|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/densenet201-mish.cfg)|[weights](https://drive.google.com/file/d/1RURL4JLbECYfHVArQ71lfFUiujFEYJvl/view?usp=sharing)|[AWS p3.16x large, 8 Tesla V100](https://aws.amazon.com/ec2/instance-types/p3/)|
 |ResNext-50|Mish|77.182%|93.318%|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/resnext50-mish.cfg)|[weights](https://drive.google.com/file/d/1IN4lpFfQYnaVtdnNPSl83vE4ew2OQPN_/view?usp=sharing)|[AWS p3.16x large, 8 Tesla V100](https://aws.amazon.com/ec2/instance-types/p3/)|
 
+|Network|Activation|Top-1 Accuracy|Top-5 Accuracy|
+|:---:|:---:|:---:|:---:|
+|[CSPResNet-50](https://github.com/WongKinYiu/CrossStagePartialNetworks)|Leaky ReLU|77.1%|94.1%|
+|[CSPResNet-50](https://github.com/WongKinYiu/CrossStagePartialNetworks)|Mish|**78.1%**|**94.2%**|
+|||||
+|[Pelee Net](https://arxiv.org/abs/1804.06882)|Leaky ReLU|70.7%|90%|
+|[Pelee Net](https://arxiv.org/abs/1804.06882)|Mish|**71.4%**|**90.4%**|
+|||||
+|[CSPPelee Net](https://github.com/WongKinYiu/CrossStagePartialNetworks)|Leaky ReLU|70.9%|90.2%|
+|[CSPPelee Net](https://github.com/WongKinYiu/CrossStagePartialNetworks)|Mish|**71.2%**|**90.3%**|
+
 Results on [CSPResNext-50](https://github.com/WongKinYiu/CrossStagePartialNetworks):
 
 |[MixUp](https://arxiv.org/abs/1710.09412)|[CutMix](https://arxiv.org/abs/1905.04899)|Mosaic|Blur|Label Smoothing|Leaky ReLU|Swish|Mish|Top -1 Accuracy| Top-5 Accuracy|
