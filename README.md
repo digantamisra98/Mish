@@ -23,6 +23,17 @@
 
 ### Note - A considerably faster version based on CUDA can be found here - https://github.com/thomasbrandon/mish-cuda (All credits to Thomas Brandon for the same)
 
+### Citations: 
+
+- Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
+- Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non-Gaussian hydraulic conductivities: [Paper](https://arxiv.org/pdf/1906.11828.pdf) (Submitted to [Wiley Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973))
+- Connecting Optical Morphology, Environment, and H I Mass Fraction for Low-Redshift Galaxies Using Deep Learning: [Paper](https://arxiv.org/pdf/2001.00018.pdf), [Code](https://github.com/jwuphysics/HI-convnets)
+- Learning Neural Activations: [Paper](https://arxiv.org/abs/1912.12187), [Code](https://github.com/amina01/Learning-Neural-Activations)
+- Learning to Reconstruct Crack Profiles for Eddy Current Nondestructive Testing: [Paper](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_100.pdf), [Code](https://github.com/askerlee/EddyNet) (Accepted to [33rd NeurIPS ML4PS (Machine Learning and the Physical Sciences) Workshop](https://ml4physicalsciences.github.io/))
+- Classification of Hyperspectral Image Based on Double-Branch Dual-Attention Mechanism Network: [Paper](https://www.preprints.org/manuscript/201912.0059/v1)
+- A Survey of the Recent Architectures of Deep Convolutional Neural Networks: [Paper](https://arxiv.org/abs/1901.06032)
+
+
 ## Official Package Based Implementations: 
 
 <p float="center">
@@ -159,6 +170,33 @@ Complex Analysis of Mish Activation Function:
 |DarkNet-53|Mish|77.01%|93.75%|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/darknet53-mish.cfg)|[weights](https://drive.google.com/file/d/1rkM3Mz2Tf27IoSwFIMiwtgDfhT-MuF_u/view?usp=sharing)|[AWS p3.16x large, 8 Tesla V100](https://aws.amazon.com/ec2/instance-types/p3/)|
 |DenseNet-201|Mish|76.584%|93.47%|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/densenet201-mish.cfg)|[weights](https://drive.google.com/file/d/1RURL4JLbECYfHVArQ71lfFUiujFEYJvl/view?usp=sharing)|[AWS p3.16x large, 8 Tesla V100](https://aws.amazon.com/ec2/instance-types/p3/)|
 |ResNext-50|Mish|77.182%|93.318%|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/resnext50-mish.cfg)|[weights](https://drive.google.com/file/d/1IN4lpFfQYnaVtdnNPSl83vE4ew2OQPN_/view?usp=sharing)|[AWS p3.16x large, 8 Tesla V100](https://aws.amazon.com/ec2/instance-types/p3/)|
+
+|Network|Activation|Top-1 Accuracy|Top-5 Accuracy|
+|:---:|:---:|:---:|:---:|
+|[CSPResNet-50](https://github.com/WongKinYiu/CrossStagePartialNetworks)|Leaky ReLU|77.1%|94.1%|
+|[CSPResNet-50](https://github.com/WongKinYiu/CrossStagePartialNetworks)|Mish|**78.1%**|**94.2%**|
+|||||
+|[Pelee Net](https://arxiv.org/abs/1804.06882)|Leaky ReLU|70.7%|90%|
+|[Pelee Net](https://arxiv.org/abs/1804.06882)|Mish|71.4%|90.4%|
+|[Pelee Net](https://arxiv.org/abs/1804.06882)|Swish|**71.5%**|**90.7%**|
+|||||
+|[CSPPelee Net](https://github.com/WongKinYiu/CrossStagePartialNetworks)|Leaky ReLU|70.9%|90.2%|
+|[CSPPelee Net](https://github.com/WongKinYiu/CrossStagePartialNetworks)|Mish|**71.2%**|**90.3%**|
+
+Results on [CSPResNext-50](https://github.com/WongKinYiu/CrossStagePartialNetworks):
+
+|[MixUp](https://arxiv.org/abs/1710.09412)|[CutMix](https://arxiv.org/abs/1905.04899)|Mosaic|Blur|Label Smoothing|Leaky ReLU|Swish|Mish|Top -1 Accuracy| Top-5 Accuracy|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+||||||:heavy_check_mark:|||77.9%(=)|94%(=)|
+|:heavy_check_mark:|||||:heavy_check_mark:|||77.2%(-)|94%(=)|
+||:heavy_check_mark:||||:heavy_check_mark:|||78%(+)|94.3%(+)|
+|||:heavy_check_mark:|||:heavy_check_mark:|||78.1%(+)|94.5%(+)|
+||||:heavy_check_mark:||:heavy_check_mark:|||77.5%(-)|93.8%(-)|
+|||||:heavy_check_mark:|:heavy_check_mark:|||78.1%(+)|94.4%(+)|
+|||||||:heavy_check_mark:||64.5%(-)|86%(-)|
+||||||||:heavy_check_mark:|78.9%(+)|94.5%(+)|
+||:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|||78.5%(+)|94.8%(+)|
+||:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|||:heavy_check_mark:|**79.8%**(+)|**95.2%**(+)|
 
 ## Variation of Parameter Comparison:
 
@@ -374,7 +412,7 @@ The P-values were computed for different activation functions in comparison to t
 
 *News: [Ajay Arasanipalai](https://github.com/iyaja) recently submitted benchmark for CIFAR-10 training for the [Stanford DAWN Benchmark](https://dawn.cs.stanford.edu/benchmark/#cifar10-train-time) using a [Custom ResNet-9 + Mish](https://github.com/iyaja/cifar-10-faster) which achieved 94.05% accuracy in just 10.7 seconds in 14 epochs on the [HAL Computing Cluster](https://wiki.ncsa.illinois.edu/display/ISL20/HAL+cluster). This is the current fastest training of CIFAR-10 in 4 GPUs and 2nd fastest training of CIFAR-10 overall in the world.*
 
-All results and comparative analysis are present in the [Readme](https://github.com/digantamisra98/Mish/blob/master/Notebooks/Readme.md) file present in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks).
+All results and comparative analysis are present in the [Readme](https://github.com/digantamisra98/Mish/blob/master/Examples%20and%20Benchmarks/Readme.md) file present in the [Examples and Benchmarks Folder](https://github.com/digantamisra98/Mish/tree/master/Examples%20and%20Benchmarks).
 
 ### Summary of Results (Vision Tasks): 
 
