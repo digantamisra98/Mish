@@ -19,8 +19,6 @@
 
 #                    Mish: Self Regularized Non-Monotonic Activation Function
 
-## Read the paper here - https://arxiv.org/abs/1908.08681 (Version 2)
-
 #### Note - A considerably faster version based on CUDA can be found here - [Mish CUDA](https://github.com/thomasbrandon/mish-cuda) (All credits to Thomas Brandon for the same)
 
 #### Device Optimized Mish for PyTorch is an experimental feature under construction - [Torch Dev](https://github.com/digantamisra98/Mish/tree/master/Mish/Torch_dev)
