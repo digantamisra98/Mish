@@ -205,7 +205,7 @@ Results on [CSPResNext-50](https://github.com/WongKinYiu/CrossStagePartialNetwor
 |||||||:heavy_check_mark:||64.5%(-)|86%(-)|||
 ||||||||:heavy_check_mark:|78.9%(+)|94.5%(+)|||
 ||:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|||78.5%(+)|94.8%(+)|||
-||:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|||:heavy_check_mark:|**79.8%**(+)|**95.2%**(+)|||
+||:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|||:heavy_check_mark:|**79.8%**(+)|**95.2%**(+)|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/csresnext50-omega.cfg)|[weights](https://drive.google.com/file/d/11mQ6Avuh0eyRpg0rGTyoR-VmGF1ErTe7/view?usp=sharing)|
 
 Results on [CSPResNet-50](https://github.com/WongKinYiu/CrossStagePartialNetworks):
 
@@ -213,7 +213,7 @@ Results on [CSPResNet-50](https://github.com/WongKinYiu/CrossStagePartialNetwork
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||||:heavy_check_mark:||76.6%(=)|93.3%(=)|||
 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||77.1%(+)|94.1%(+)|||
-|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|**78.1%**(+)|**94.2%**(+)|||
+|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|**78.1%**(+)|**94.2%**(+)|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/csresnet50-omega.cfg)|[weights](https://drive.google.com/file/d/1h4KpfEF6M-BU7Fz2WBsFwtREW5DO3iGw/view?usp=sharing)|
 
 Results on [CSPDarkNet-53](https://github.com/WongKinYiu/CrossStagePartialNetworks):
 
@@ -221,7 +221,7 @@ Results on [CSPDarkNet-53](https://github.com/WongKinYiu/CrossStagePartialNetwor
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||||:heavy_check_mark:||77.2%(=)|93.6%(=)|||
 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||77.8%(+)|94.4%(+)|||
-|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|**78.7%**(+)|**94.8%**(+)|||
+|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|**78.7%**(+)|**94.8%**(+)|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/csdarknet53-omega.cfg)|[weights](https://drive.google.com/file/d/1iSQRfeh-Hl1Mp0_oUsGGbd8okoVvlQq0/view?usp=sharing)|
 
 ## Variation of Parameter Comparison:
 
