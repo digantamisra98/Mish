@@ -19,8 +19,6 @@
 
 #                    Mish: Self Regularized Non-Monotonic Activation Function
 
-## Read the paper here - https://arxiv.org/abs/1908.08681 (Version 2)
-
 #### Note - A considerably faster version based on CUDA can be found here - [Mish CUDA](https://github.com/thomasbrandon/mish-cuda) (All credits to Thomas Brandon for the same)
 
 #### Device Optimized Mish for PyTorch is an experimental feature under construction - [Torch Dev](https://github.com/digantamisra98/Mish/tree/master/Mish/Torch_dev)
@@ -80,6 +78,9 @@
    <img src="package_logos/tensorhub.png"  width="350"/>
    <img src="package_logos/mlpack.png"  width="150"/>
 </p>
+<p float="center">
+   <img src="package_logos/NaoTH.png"  width="130"/>
+</p>
 
 |     |     |  |
 | :---: | :---: |  :---: |
@@ -94,7 +95,8 @@
 |[DLib](https://github.com/davisking/dlib/commit/edff12d2e17f65a2ded6ea71c6ba402055cea896)|[Copernicus](https://github.com/dmbernaal/copernicus)|[AllenNLP](https://github.com/allenai/allennlp/pull/3466#event-2951976800)|
 |[PyWick](https://github.com/achaiah/pywick)|[Deep Java Library](https://github.com/awslabs/djl)|[PyTorch-Toolbelt](https://github.com/BloodAxe/pytorch-toolbelt)|
 |[Holocron](https://github.com/frgfm/Holocron)|[TensorHub](https://github.com/nityansuman/tensorhub)|[mlpack](https://github.com/mlpack/mlpack)|
-|[XNet](https://github.com/nirex0/XNet)|||
+|[XNet](https://github.com/nirex0/XNet)|[TH](https://github.com/chunsj/TH)|[VLML](https://github.com/ThinkingForms/VLML)|
+|[NaoTH](https://github.com/BerlinUnited/NaoTH)|||
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
 <div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
@@ -547,7 +549,3 @@ MXNet Implementation of Mish Activation function can be found [here](https://git
     primaryClass={cs.LG}
 }
 ```
-
-## Contact: 
-- [LinkedIn](https://www.linkedin.com/in/misradiganta/)<br>
-- [Twitter](https://twitter.com/DigantaMisra1)
