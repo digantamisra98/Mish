@@ -194,18 +194,34 @@ Complex Analysis of Mish Activation Function:
 
 Results on [CSPResNext-50](https://github.com/WongKinYiu/CrossStagePartialNetworks):
 
-|[MixUp](https://arxiv.org/abs/1710.09412)|[CutMix](https://arxiv.org/abs/1905.04899)|Mosaic|Blur|Label Smoothing|Leaky ReLU|Swish|Mish|Top -1 Accuracy| Top-5 Accuracy|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-||||||:heavy_check_mark:|||77.9%(=)|94%(=)|
-|:heavy_check_mark:|||||:heavy_check_mark:|||77.2%(-)|94%(=)|
-||:heavy_check_mark:||||:heavy_check_mark:|||78%(+)|94.3%(+)|
-|||:heavy_check_mark:|||:heavy_check_mark:|||78.1%(+)|94.5%(+)|
-||||:heavy_check_mark:||:heavy_check_mark:|||77.5%(-)|93.8%(-)|
-|||||:heavy_check_mark:|:heavy_check_mark:|||78.1%(+)|94.4%(+)|
-|||||||:heavy_check_mark:||64.5%(-)|86%(-)|
-||||||||:heavy_check_mark:|78.9%(+)|94.5%(+)|
-||:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|||78.5%(+)|94.8%(+)|
-||:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|||:heavy_check_mark:|**79.8%**(+)|**95.2%**(+)|
+|[MixUp](https://arxiv.org/abs/1710.09412)|[CutMix](https://arxiv.org/abs/1905.04899)|Mosaic|Blur|Label Smoothing|Leaky ReLU|Swish|Mish|Top -1 Accuracy| Top-5 Accuracy|cfg|weights|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+||||||:heavy_check_mark:|||77.9%(=)|94%(=)|||
+|:heavy_check_mark:|||||:heavy_check_mark:|||77.2%(-)|94%(=)|||
+||:heavy_check_mark:||||:heavy_check_mark:|||78%(+)|94.3%(+)|||
+|||:heavy_check_mark:|||:heavy_check_mark:|||78.1%(+)|94.5%(+)|||
+||||:heavy_check_mark:||:heavy_check_mark:|||77.5%(-)|93.8%(-)|||
+|||||:heavy_check_mark:|:heavy_check_mark:|||78.1%(+)|94.4%(+)|||
+|||||||:heavy_check_mark:||64.5%(-)|86%(-)|||
+||||||||:heavy_check_mark:|78.9%(+)|94.5%(+)|||
+||:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|||78.5%(+)|94.8%(+)|||
+||:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|||:heavy_check_mark:|**79.8%**(+)|**95.2%**(+)|||
+
+Results on [CSPResNet-50](https://github.com/WongKinYiu/CrossStagePartialNetworks):
+
+[CutMix](https://arxiv.org/abs/1905.04899)|Mosaic|Label Smoothing|Leaky ReLU|Mish|Top -1 Accuracy| Top-5 Accuracy|cfg|weights|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+||||:heavy_check_mark:||76.6%(=)|93.3%(=)|||
+|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||77.1%(+)|94.1%(+)|||
+|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|**78.1%**(+)|**94.2%**(+)|||
+
+Results on [CSPDarkNet-53](https://github.com/WongKinYiu/CrossStagePartialNetworks):
+
+[CutMix](https://arxiv.org/abs/1905.04899)|Mosaic|Label Smoothing|Leaky ReLU|Mish|Top -1 Accuracy| Top-5 Accuracy|cfg|weights|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+||||:heavy_check_mark:||77.2%(=)|93.6%(=)|||
+|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||77.8%(+)|94.4%(+)|||
+|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|**78.7%**(+)|**94.8%**(+)|||
 
 ## Variation of Parameter Comparison:
 
