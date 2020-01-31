@@ -527,7 +527,7 @@ Note - The graph represents the Test Top-1 accuracy and loss. Training Top-1 Acc
 
 ### Demo Jupyter Notebooks:
 
-All demo jupyter notebooks are present in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks).
+All demo jupyter notebooks are present in the [Examples and Benchmarks Folder](https://github.com/digantamisra98/Mish/tree/master/Examples%20and%20Benchmarks).
 
 ### For Source Code Implementation: 
 
@@ -535,13 +535,11 @@ All demo jupyter notebooks are present in the [Notebooks Folder](https://github.
 
 Torch Implementation of Mish Activation Function can be found [here](https://github.com/digantamisra98/Mish/tree/master/Mish/Torch)
 
-#### Keras:
-
-Keras Implementation of Mish activation function can be found [here](https://github.com/digantamisra98/Mish/blob/master/Mish/Keras/mish.py)
-
 #### Tensorflow:
 
-TensorFlow - Keras Implementation of Mish Activation function can be found [here](https://github.com/digantamisra98/Mish/blob/master/Mish/TF-Keras/mish.py)
+TensorFlow - Keras Implementation of Mish Activation function can be found [here](https://github.com/digantamisra98/Mish/blob/master/Mish/TFKeras/mish.py)
+
+TensorFlow native implementation can be found on [TensorFlow Addons](https://www.tensorflow.org/addons/api_docs/python/tfa/activations/mish)
 
 #### MXNet:
 
