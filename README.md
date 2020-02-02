@@ -99,7 +99,7 @@
 |[PyWick](https://github.com/achaiah/pywick)|[Deep Java Library](https://github.com/awslabs/djl)|[PyTorch-Toolbelt](https://github.com/BloodAxe/pytorch-toolbelt)|
 |[Holocron](https://github.com/frgfm/Holocron)|[TensorHub](https://github.com/nityansuman/tensorhub)|[mlpack](https://github.com/mlpack/mlpack)|
 |[XNet](https://github.com/nirex0/XNet)|[TH](https://github.com/chunsj/TH)|[VLML](https://github.com/ThinkingForms/VLML)|
-|[NaoTH](https://github.com/BerlinUnited/NaoTH)|[NNLib.jl](https://github.com/FluxML/NNlib.jl)||
+|[NaoTH](https://github.com/BerlinUnited/NaoTH)|[NNLib.jl](https://github.com/FluxML/NNlib.jl)|[xfmers](https://github.com/tlkh/xfmers)|
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
 <div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
@@ -205,7 +205,7 @@ Results on [CSPResNext-50](https://github.com/WongKinYiu/CrossStagePartialNetwor
 |||||||:heavy_check_mark:||64.5%(-)|86%(-)|||
 ||||||||:heavy_check_mark:|78.9%(+)|94.5%(+)|||
 ||:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|||78.5%(+)|94.8%(+)|||
-||:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|||:heavy_check_mark:|**79.8%**(+)|**95.2%**(+)|||
+||:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|||:heavy_check_mark:|**79.8%**(+)|**95.2%**(+)|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/csresnext50-omega.cfg)|[weights](https://drive.google.com/file/d/11mQ6Avuh0eyRpg0rGTyoR-VmGF1ErTe7/view?usp=sharing)|
 
 Results on [CSPResNet-50](https://github.com/WongKinYiu/CrossStagePartialNetworks):
 
@@ -213,7 +213,7 @@ Results on [CSPResNet-50](https://github.com/WongKinYiu/CrossStagePartialNetwork
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||||:heavy_check_mark:||76.6%(=)|93.3%(=)|||
 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||77.1%(+)|94.1%(+)|||
-|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|**78.1%**(+)|**94.2%**(+)|||
+|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|**78.1%**(+)|**94.2%**(+)|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/csresnet50-omega.cfg)|[weights](https://drive.google.com/file/d/1h4KpfEF6M-BU7Fz2WBsFwtREW5DO3iGw/view?usp=sharing)|
 
 Results on [CSPDarkNet-53](https://github.com/WongKinYiu/CrossStagePartialNetworks):
 
@@ -221,7 +221,7 @@ Results on [CSPDarkNet-53](https://github.com/WongKinYiu/CrossStagePartialNetwor
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||||:heavy_check_mark:||77.2%(=)|93.6%(=)|||
 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||77.8%(+)|94.4%(+)|||
-|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|**78.7%**(+)|**94.8%**(+)|||
+|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|**78.7%**(+)|**94.8%**(+)|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/csdarknet53-omega.cfg)|[weights](https://drive.google.com/file/d/1iSQRfeh-Hl1Mp0_oUsGGbd8okoVvlQq0/view?usp=sharing)|
 
 ## Variation of Parameter Comparison:
 
@@ -527,7 +527,7 @@ Note - The graph represents the Test Top-1 accuracy and loss. Training Top-1 Acc
 
 ### Demo Jupyter Notebooks:
 
-All demo jupyter notebooks are present in the [Notebooks Folder](https://github.com/digantamisra98/Mish/tree/master/Notebooks).
+All demo jupyter notebooks are present in the [Examples and Benchmarks Folder](https://github.com/digantamisra98/Mish/tree/master/Examples%20and%20Benchmarks).
 
 ### For Source Code Implementation: 
 
@@ -535,13 +535,11 @@ All demo jupyter notebooks are present in the [Notebooks Folder](https://github.
 
 Torch Implementation of Mish Activation Function can be found [here](https://github.com/digantamisra98/Mish/tree/master/Mish/Torch)
 
-#### Keras:
-
-Keras Implementation of Mish activation function can be found [here](https://github.com/digantamisra98/Mish/blob/master/Mish/Keras/mish.py)
-
 #### Tensorflow:
 
-TensorFlow - Keras Implementation of Mish Activation function can be found [here](https://github.com/digantamisra98/Mish/blob/master/Mish/TF-Keras/mish.py)
+TensorFlow - Keras Implementation of Mish Activation function can be found [here](https://github.com/digantamisra98/Mish/blob/master/Mish/TFKeras/mish.py)
+
+TensorFlow native implementation can be found on [TensorFlow Addons](https://www.tensorflow.org/addons/api_docs/python/tfa/activations/mish)
 
 #### MXNet:
 
