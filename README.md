@@ -551,11 +551,8 @@ MXNet Implementation of Mish Activation function can be found [here](https://git
 
 ## Future Work (Coming Soon):
 
-- Additional STL-10, CalTech-101 & 256 Benchmarks.
-- Image Net Benchmarks.
 - GANs Benchmarks.
 - Transformer Model Benchmarks.
-- Fix ResNext Benchmarks.
 - Comparison of Convergence Rates.
 
 ## Cite this work:
