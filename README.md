@@ -554,6 +554,7 @@ MXNet Implementation of Mish Activation function can be found [here](https://git
 - GANs Benchmarks.
 - Transformer Model Benchmarks.
 - Comparison of Convergence Rates.
+- SHA RNN benchmark.
 
 ## Cite this work:
 
