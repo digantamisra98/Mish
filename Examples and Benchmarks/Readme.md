@@ -1587,3 +1587,15 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 |Penalized Tanh|83.4159%|83.7999%|6.76042%|7.134432%|0.41724|
 |SReLU|83.5839%|**84.179%**|6.47969%|6.60478%|0.44686|
 
+### Language Modelling:
+
+- Optimizer - [Lamb](https://arxiv.org/abs/1904.00962)
+- Epochs - 31
+
+#### [Single Headed Attention RNN](https://github.com/Smerity/sha-rnn)
+
+|Activation Function|Bits Per Character (BPC)|Loss|
+|:---:|:---:|:---:|
+|Mish|1.114|0.7721|
+|GELU|1.112|0.7705|
+
