@@ -1513,7 +1513,7 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 
 ### Doument Classification:
 
-- Dataset - IMBD 
+- Dataset - IMBDb
 - Number of Runs - 3
 
 #### CNN:
@@ -1550,7 +1550,7 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 
 ### Sentence Classification: 
 
-- Dataset - Large IMBD
+- Dataset - Large IMDb
 - Number of Runs - 3
 
 #### CNN:
@@ -1570,7 +1570,7 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 
 ### Sentiment Classification:
 
-- Dataset - IMBD
+- Dataset - IMDb
 - Number of Runs - 3
 
 #### CNN-LSTM:
