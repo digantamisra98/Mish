@@ -1591,6 +1591,7 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 
 - Optimizer - [Lamb](https://arxiv.org/abs/1904.00962)
 - Epochs - 31
+- Dataset - enwiki8
 
 #### [Single Headed Attention RNN](https://github.com/Smerity/sha-rnn)
 
