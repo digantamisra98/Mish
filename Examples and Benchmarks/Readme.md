@@ -1598,4 +1598,5 @@ Some samples generated over 100 epochs and the Discriminator and Generator Loss 
 |:---:|:---:|:---:|
 |Mish|1.114|0.7721|
 |GELU|1.112|0.7705|
-
+|ReLU|1.11|0.7692|
+|Swish|1.112|0.7706|
