@@ -30,7 +30,7 @@
 - Connecting Optical Morphology, Environment, and H I Mass Fraction for Low-Redshift Galaxies Using Deep Learning: [Paper](https://arxiv.org/pdf/2001.00018.pdf), [Code](https://github.com/jwuphysics/HI-convnets)
 - Learning Neural Activations: [Paper](https://arxiv.org/abs/1912.12187), [Code](https://github.com/amina01/Learning-Neural-Activations)
 - Learning to Reconstruct Crack Profiles for Eddy Current Nondestructive Testing: [Paper](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_100.pdf), [Code](https://github.com/askerlee/EddyNet) (Accepted to [33rd NeurIPS ML4PS (Machine Learning and the Physical Sciences) Workshop](https://ml4physicalsciences.github.io/))
-- Classification of Hyperspectral Image Based on Double-Branch Dual-Attention Mechanism Network: [Paper](https://www.preprints.org/manuscript/201912.0059/v1)
+- Classification of Hyperspectral Image Based on Double-Branch Dual-Attention Mechanism Network: [Paper](https://www.preprints.org/manuscript/201912.0059/v1), [Code](https://github.com/lironui/Double-Branch-Dual-Attention-Mechanism-Network)
 - A Survey of the Recent Architectures of Deep Convolutional Neural Networks: [Paper](https://arxiv.org/abs/1901.06032)
 
 
