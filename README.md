@@ -87,6 +87,7 @@
    &emsp;
    &emsp;
    <img src="package_logos/gorgonia.png"  width="230"/>
+   <img src="package_logos/tensorlayer.png"  width="230"/>
 </p>
 
 |     |     |  |
@@ -104,7 +105,7 @@
 |[Holocron](https://github.com/frgfm/Holocron)|[TensorHub](https://github.com/nityansuman/tensorhub)|[mlpack](https://github.com/mlpack/mlpack)|
 |[XNet](https://github.com/nirex0/XNet)|[TH](https://github.com/chunsj/TH)|[VLML](https://github.com/ThinkingForms/VLML)|
 |[NaoTH](https://github.com/BerlinUnited/NaoTH)|[NNLib.jl](https://github.com/FluxML/NNlib.jl)|[xfmers](https://github.com/tlkh/xfmers)|
-|[Gorgonia](https://github.com/gorgonia/gorgonia)|||
+|[Gorgonia](https://github.com/gorgonia/gorgonia)|[TensorLayer - Chinese](https://github.com/tensorlayer/tensorlayer-chinese)||
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
 <div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
