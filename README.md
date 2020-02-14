@@ -32,7 +32,7 @@
 - Learning to Reconstruct Crack Profiles for Eddy Current Nondestructive Testing: [Paper](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_100.pdf), [Code](https://github.com/askerlee/EddyNet) (Accepted to [33rd NeurIPS ML4PS (Machine Learning and the Physical Sciences) Workshop](https://ml4physicalsciences.github.io/))
 - Classification of Hyperspectral Image Based on Double-Branch Dual-Attention Mechanism Network: [Paper](https://www.preprints.org/manuscript/201912.0059/v1), [Code](https://github.com/lironui/Double-Branch-Dual-Attention-Mechanism-Network)
 - A Survey of the Recent Architectures of Deep Convolutional Neural Networks: [Paper](https://arxiv.org/abs/1901.06032)
-- fastai—A Layered API for Deep Learning: [Paper](https://arxiv.org/abs/2002.04688), [Code](https://github.com/fastai/fastai2), [Blog](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/#related-work)
+- fastai—A Layered API for Deep Learning: [Paper](https://arxiv.org/abs/2002.04688), [Code](https://github.com/fastai/fastai2), [Blog](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/)
 
 
 ## Official Package Based Implementations: 
