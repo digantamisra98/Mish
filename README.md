@@ -33,6 +33,7 @@
 - Classification of Hyperspectral Image Based on Double-Branch Dual-Attention Mechanism Network: [Paper](https://www.preprints.org/manuscript/201912.0059/v1), [Code](https://github.com/lironui/Double-Branch-Dual-Attention-Mechanism-Network)
 - A Survey of the Recent Architectures of Deep Convolutional Neural Networks: [Paper](https://arxiv.org/abs/1901.06032)
 - fastai—A Layered API for Deep Learning: [Paper](https://arxiv.org/abs/2002.04688), [Code](https://github.com/fastai/fastai2), [Blog](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/)
+- Soft-Root-Sign Activation Function: [Paper](https://arxiv.org/abs/2003.00547)
 
 
 ## Official Package Based Implementations: 
