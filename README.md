@@ -13,6 +13,8 @@
         <img src="https://circleci.com/gh/digantamisra98/Mish.svg?style=svg" /></a>
     <a href="https://arxiv.org/abs/1908.08681" alt="ArXiv">
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
+   <a href=" " alt="Citations">
+        <img src="https://img.shields.io/badge/Citations-9-lightgrey.svg" /></a>
    <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
         <img src="https://img.shields.io/twitter/url/https/twitter.com/DigantaMisra1.svg?style=social&label=Follow%20%40DigantaMisra1" /></a>
 </p>
