@@ -1,5 +1,6 @@
 '''
 Script provides functional interface for Mish activation function.
+Experimental device based functional definition. Not advised to use!
 '''
 
 # import pytorch
