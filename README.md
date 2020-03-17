@@ -14,7 +14,7 @@
     <a href="https://arxiv.org/abs/1908.08681" alt="ArXiv">
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-9-lightgrey.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-10-lightgrey.svg" /></a>
    <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
         <img src="https://img.shields.io/twitter/url/https/twitter.com/DigantaMisra1.svg?style=social&label=Follow%20%40DigantaMisra1" /></a>
 </p>
@@ -36,7 +36,7 @@
 - A Survey of the Recent Architectures of Deep Convolutional Neural Networks: [Paper](https://arxiv.org/abs/1901.06032)
 - fastai—A Layered API for Deep Learning: [Paper](https://arxiv.org/abs/2002.04688), [Code](https://github.com/fastai/fastai2), [Blog](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/)
 - Soft-Root-Sign Activation Function: [Paper](https://arxiv.org/abs/2003.00547)
-
+- RMNv2: Reduced Mobilenet V2 for CIFAR10: [Paper](https://ieeexplore.ieee.org/abstract/document/9031131)
 
 ## Official Package Based Implementations: 
 
