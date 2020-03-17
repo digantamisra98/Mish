@@ -115,6 +115,7 @@
 |[Model Constructor](https://github.com/ayasyrev/model_constructor)|[WML](https://github.com/vghost2008/wml)|[Incendio](https://github.com/hdmamin/incendio)|
 |[Jai](https://github.com/gengjia0214/jai)|[Rust-Bert](https://github.com/guillaume-be/rust-bert)|[TensorLayer](https://github.com/tensorlayer/tensorlayer)|
 |[Spago](https://github.com/saientist/spago)|[TimeSeries FastAI](https://tcapelle.github.io/timeseries_fastai/)|[Enchanter](https://khirotaka.github.io/enchanter/)|
+|[Fast-Reid](https://github.com/L1aoXingyu/fast-reid)|||
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
 <div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
