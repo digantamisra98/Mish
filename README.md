@@ -37,6 +37,7 @@
 - fastai—A Layered API for Deep Learning: [Paper](https://arxiv.org/abs/2002.04688), [Code](https://github.com/fastai/fastai2), [Blog](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/)
 - Soft-Root-Sign Activation Function: [Paper](https://arxiv.org/abs/2003.00547)
 - RMNv2: Reduced Mobilenet V2 for CIFAR10: [Paper](https://ieeexplore.ieee.org/abstract/document/9031131)
+- An Unsupervised Deep Learning System for Acoustic Scene Analysis : [Paper](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwj_ir221KfoAhWEzzgGHfvaCvEQFjAAegQIBRAB&url=https%3A%2F%2Fwww.mdpi.com%2F2076-3417%2F10%2F6%2F2076%2Fpdf&usg=AOvVaw2z_mDnB26SUSkMSV9Fl7ey&cshid=1584659582954994)
 
 ## Official Package Based Implementations: 
 
