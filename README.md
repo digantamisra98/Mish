@@ -14,7 +14,7 @@
     <a href="https://arxiv.org/abs/1908.08681" alt="ArXiv">
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-12-lightgrey.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-13-lightgrey.svg" /></a>
    <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
         <img src="https://img.shields.io/twitter/url/https/twitter.com/DigantaMisra1.svg?style=social&label=Follow%20%40DigantaMisra1" /></a>
 </p>
@@ -39,6 +39,7 @@
 - RMNv2: Reduced Mobilenet V2 for CIFAR10: [Paper](https://ieeexplore.ieee.org/abstract/document/9031131)
 - An Unsupervised Deep Learning System for Acoustic Scene Analysis : [Paper](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwj_ir221KfoAhWEzzgGHfvaCvEQFjAAegQIBRAB&url=https%3A%2F%2Fwww.mdpi.com%2F2076-3417%2F10%2F6%2F2076%2Fpdf&usg=AOvVaw2z_mDnB26SUSkMSV9Fl7ey&cshid=1584659582954994)
 - U-Det: A Modified U-Net architecture with bidirectional feature network for lung nodule segmentation : [Paper](https://arxiv.org/abs/2003.09293)
+- Dynamic ReLU : [Paper](https://arxiv.org/abs/2003.10027) (Microsoft Research (MSR))
 
 ## Official Package Based Implementations: 
 
