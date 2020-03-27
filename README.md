@@ -30,6 +30,7 @@
 - (02/2020): Podcast episode on Mish at [Machine Learning Café](http://podcast.machinelearningcafe.org/website/mish-activation-function-with-diganta-misra-007) is out now. Listen on: 
 <p float="center">
   &emsp;
+  &emsp;
   <a href="https://podcasts.apple.com/hu/podcast/mish-activation-function-with-diganta-misra-007/id1490681799?i=1000464407163" alt="Apple Podcasts">
         <img src="podcast_logo/applepodcasts.png" width="150"/></a>
   <a href="https://open.spotify.com/episode/4sT9sxjSbAKtvJ6hTFg9zc" alt="Spotify">
@@ -39,8 +40,9 @@
 - (02/2020): Talk on Mish and Non-Linear Dynamics at [Sicara](https://www.sicara.ai/) is out now. Watch on:
 <p float="center">
   &emsp;
+  &emsp;
   <a href="https://youtu.be/T2CRFROKcLM" alt="YouTube">
-        <img src="podcast_logo/yt1.png" width="150"/></a>
+        <img src="podcast_logo/yt1.png" width="100"/></a>
 </p>
 
 ### Citations: 
