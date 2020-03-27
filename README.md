@@ -36,8 +36,12 @@
         <img src="https://github.com/digantamisra98/Mish/blob/master/podcast_logo/spotify.png" width="150"/></a>
 </p>
 
-- (02/2020): Talk on Mish and Non-Linear Dynamics at [Sicara](https://www.sicara.ai/) is out now. Watch on: <div style="text-align:center"><a href="https://youtu.be/T2CRFROKcLM" alt="YouTube"><img src ="podcast_logo/yt1.png"  width="150"/></div>
-
+- (02/2020): Talk on Mish and Non-Linear Dynamics at [Sicara](https://www.sicara.ai/) is out now. Watch on:
+<p float="center">
+  &emsp;
+  <a href="https://youtu.be/T2CRFROKcLM" alt="YouTube">
+        <img src="podcast_logo/yt1.png" width="150"/></a>
+</p>
 
 ### Citations: 
 
