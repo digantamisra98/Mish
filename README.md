@@ -29,6 +29,7 @@
 
 - (02/2020): Podcast episode on Mish at [Machine Learning Café](http://podcast.machinelearningcafe.org/website/mish-activation-function-with-diganta-misra-007) is out now. Listen on: 
 <p float="center">
+  &emsp;
   <a href="https://podcasts.apple.com/hu/podcast/mish-activation-function-with-diganta-misra-007/id1490681799?i=1000464407163" alt="Apple Podcasts">
         <img src="podcast_logo/applepodcasts.png" width="150"/></a>
   <a href="https://open.spotify.com/episode/4sT9sxjSbAKtvJ6hTFg9zc" alt="Spotify">
