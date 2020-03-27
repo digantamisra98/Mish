@@ -14,7 +14,7 @@
     <a href="https://arxiv.org/abs/1908.08681" alt="ArXiv">
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-14-lightgrey.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-15-lightgrey.svg" /></a>
    <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
         <img src="https://img.shields.io/twitter/url/https/twitter.com/DigantaMisra1.svg?style=social&label=Follow%20%40DigantaMisra1" /></a>
 </p>
@@ -60,7 +60,8 @@
 - An Unsupervised Deep Learning System for Acoustic Scene Analysis : [Paper](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwj_ir221KfoAhWEzzgGHfvaCvEQFjAAegQIBRAB&url=https%3A%2F%2Fwww.mdpi.com%2F2076-3417%2F10%2F6%2F2076%2Fpdf&usg=AOvVaw2z_mDnB26SUSkMSV9Fl7ey&cshid=1584659582954994)
 - U-Det: A Modified U-Net architecture with bidirectional feature network for lung nodule segmentation : [Paper](https://arxiv.org/abs/2003.09293)
 - Dynamic ReLU : [Paper](https://arxiv.org/abs/2003.10027) (Microsoft Research (MSR))
-- TanhExp: A Smooth Activation Function with High Convergence Speed for Lightweight Neural Networks : [Paper](https://arxiv.org/abs/2003.09855) (Submitted to IET Computer Vision)
+- TanhExp: A Smooth Activation Function with High Convergence Speed for Lightweight Neural Networks : [Paper](https://arxiv.org/abs/2003.09855) (Submitted to [IET Computer Vision](https://digital-library.theiet.org/content/journals/iet-cvi))
+- MV-RAN: Multiview recurrent aggregation network for echocardiographic sequences segmentation and full cardiac cycle analysis : [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482520301128#abs0010) (Submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine))
 
 ## Official Package Based Implementations: 
 
