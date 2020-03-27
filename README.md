@@ -25,6 +25,18 @@
 
 #### Device Optimized Mish for PyTorch is an experimental feature under construction - [Torch Dev](https://github.com/digantamisra98/Mish/tree/master/Mish/Torch_dev)
 
+### News/ Media Coverage:
+
+- (02/2020): Podcast episode on Mish at [Machine Learning Café](http://podcast.machinelearningcafe.org/website/mish-activation-function-with-diganta-misra-007) is out now. Listen on: 
+<p float="center">
+  <a href="https://podcasts.apple.com/hu/podcast/mish-activation-function-with-diganta-misra-007/id1490681799?i=1000464407163" alt="Apple Podcasts">
+        <img src="podcast_logo/applepodcasts.png" width="150"/></a>
+  <a href="https://open.spotify.com/episode/4sT9sxjSbAKtvJ6hTFg9zc" alt="Spotify">
+        <img src="https://github.com/digantamisra98/Mish/blob/master/podcast_logo/spotify.png" width="150"/></a>
+</p>
+
+- (02/2020): Talk on Mish and Non-Linear Dynamics at [Sicara](https://www.sicara.ai/) is out now. Watch on: 
+
 ### Citations: 
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
