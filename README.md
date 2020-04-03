@@ -265,6 +265,12 @@ Results on [CSPDarkNet-53](https://github.com/WongKinYiu/CrossStagePartialNetwor
 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||77.8%(+)|94.4%(+)|||
 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|**78.7%**(+)|**94.8%**(+)|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/csdarknet53-omega.cfg)|[weights](https://drive.google.com/file/d/1iSQRfeh-Hl1Mp0_oUsGGbd8okoVvlQq0/view?usp=sharing)|
 
+Results on [SpineNet-49](https://arxiv.org/abs/1912.05027):
+
+[CutMix](https://arxiv.org/abs/1905.04899)|Mosaic|Label Smoothing|Mish|Top -1 Accuracy| Top-5 Accuracy|cfg|weights|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|**78.3%**(+)|**94.6%**(+)|-|-|
+
 ## Variation of Parameter Comparison:
 
 ### MNIST:
