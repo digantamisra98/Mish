@@ -271,6 +271,16 @@ Results on [SpineNet-49](https://arxiv.org/abs/1912.05027):
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|**78.3%**(+)|**94.6%**(+)|-|-|
 
+## MS-COCO:
+
+|Model|Mish|AP50...95|mAP50|CPU - 90 Watt - FP32 (Intel Core i7-6700K, 4GHz, 8 logical cores) OpenCV-DLIE, FPS|VPU-2 Watt- FP16 (Intel MyriadX) OpenCV-DLIE, FPS|GPU-175 Watt- FP32/16 (Nvidia GeForce RTX 2070) DarkNet-cuDNN, FPS|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[CSPDarkNet-53](https://github.com/WongKinYiu/CrossStagePartialNetworks) (512 x 512)||42.4%|64.5%|3.5|1.23|**43**|
+|[CSPDarkNet-53](https://github.com/WongKinYiu/CrossStagePartialNetworks) (512 x 512)|:heavy_check_mark:|**43%**|**64.9%**|-|-|41|
+|[CSPDarkNet-53](https://github.com/WongKinYiu/CrossStagePartialNetworks) (608 x 608)|:heavy_check_mark:|**43.5%**|**65.7%**|-|-|26|
+
+Credits to [AlexeyAB](https://github.com/AlexeyAB), [Wong Kin-Yiu](https://github.com/WongKinYiu) and [Glenn Jocher](https://github.com/glenn-jocher) for all the help with benchmarking MS-COCO and ImageNet. 
+
 ## Variation of Parameter Comparison:
 
 ### MNIST:
