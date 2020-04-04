@@ -273,6 +273,8 @@ Results on [SpineNet-49](https://arxiv.org/abs/1912.05027):
 
 ## MS-COCO:
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mish-a-self-regularized-non-monotonic-neural/object-detection-on-coco)](https://paperswithcode.com/sota/object-detection-on-coco?p=mish-a-self-regularized-non-monotonic-neural)
+
 |Model|Mish|AP50...95|mAP50|CPU - 90 Watt - FP32 (Intel Core i7-6700K, 4GHz, 8 logical cores) OpenCV-DLIE, FPS|VPU-2 Watt- FP16 (Intel MyriadX) OpenCV-DLIE, FPS|GPU-175 Watt- FP32/16 (Nvidia GeForce RTX 2070) DarkNet-cuDNN, FPS|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[CSPDarkNet-53](https://github.com/WongKinYiu/CrossStagePartialNetworks) (512 x 512)||42.4%|64.5%|3.5|1.23|**43**|
