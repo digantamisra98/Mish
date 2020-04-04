@@ -279,6 +279,15 @@ Results on [SpineNet-49](https://arxiv.org/abs/1912.05027):
 |[CSPDarkNet-53](https://github.com/WongKinYiu/CrossStagePartialNetworks) (512 x 512)|:heavy_check_mark:|**43%**|**64.9%**|-|-|41|
 |[CSPDarkNet-53](https://github.com/WongKinYiu/CrossStagePartialNetworks) (608 x 608)|:heavy_check_mark:|**43.5%**|**65.7%**|-|-|26|
 
+|Architecture|Mish|[CutMix](https://arxiv.org/abs/1905.04899)|Mosaic|Label Smoothing|Size|AP|AP50|AP75|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|CSPResNext50-PANet-SPP|||||512 x 512|**42.4%**|**64.4%**|**45.9%**|
+|CSPResNext50-PANet-SPP||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|512 x 512|42.3%|64.3%|45.7%|
+|CSPResNext50-PANet-SPP|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|512 x 512|42.3%|64.2%|45.8%|
+||||||||||
+|CSPDarkNet53-PANet-SPP||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|512 x 512|42.4%|64.5%|46%|
+|CSPDarkNet53-PANet-SPP|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|512 x 512|**43%**|**64.9%**|**46.5%**|
+
 Credits to [AlexeyAB](https://github.com/AlexeyAB), [Wong Kin-Yiu](https://github.com/WongKinYiu) and [Glenn Jocher](https://github.com/glenn-jocher) for all the help with benchmarking MS-COCO and ImageNet. 
 
 ## Variation of Parameter Comparison:
