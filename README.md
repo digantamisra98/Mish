@@ -63,7 +63,7 @@
 - TanhExp: A Smooth Activation Function with High Convergence Speed for Lightweight Neural Networks : [Paper](https://arxiv.org/abs/2003.09855) (Submitted to [IET Computer Vision](https://digital-library.theiet.org/content/journals/iet-cvi))
 - MV-RAN: Multiview recurrent aggregation network for echocardiographic sequences segmentation and full cardiac cycle analysis : [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482520301128#abs0010) (Submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine))
 - TResNet: High Performance GPU-Dedicated Architecture: [Paper](https://arxiv.org/abs/2003.13630)
-- MXR-U-Nets for Real Time Hyperspectral Reconstruction: [Paper](https://128.84.21.199/abs/2004.07003)
+- MXR-U-Nets for Real Time Hyperspectral Reconstruction: [Paper](https://128.84.21.199/abs/2004.07003), [Code](https://github.com/akashpalrecha/hyperspectral-reconstruction)
 - Neural Architectures Design and Search for Deep Learning and Continual Learning: [Thesis](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/37440/etd.pdf?sequence=1)
 
 ## Official Package Based Implementations: 
