@@ -271,9 +271,11 @@ Results on [CSPDarkNet-53](https://github.com/WongKinYiu/CrossStagePartialNetwor
 
 Results on [SpineNet-49](https://arxiv.org/abs/1912.05027):
 
-[CutMix](https://arxiv.org/abs/1905.04899)|Mosaic|Label Smoothing|Mish|Top -1 Accuracy| Top-5 Accuracy|cfg|weights|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|**78.3%**(+)|**94.6%**(+)|-|-|
+[CutMix](https://arxiv.org/abs/1905.04899)|Mosaic|Label Smoothing|ReLU|Swish|Mish|Top -1 Accuracy| Top-5 Accuracy|cfg|weights|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+||||:heavy_check_mark:|||77%(=)|93.3%(=)|-|-|
+|||:heavy_check_mark:||:heavy_check_mark:||78.1%(+)|94%(+)|-|-|
+|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||:heavy_check_mark:|**78.3%**(+)|**94.6%**(+)|-|-|
 
 ## MS-COCO:
 
