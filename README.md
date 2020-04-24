@@ -14,7 +14,7 @@
     <a href="https://arxiv.org/abs/1908.08681" alt="ArXiv">
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-21-lightgrey.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-22-lightgrey.svg" /></a>
    <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
         <img src="https://img.shields.io/twitter/url/https/twitter.com/DigantaMisra1.svg?style=social&label=Follow%20%40DigantaMisra1" /></a>
 </p>
@@ -66,6 +66,7 @@
 - MXR-U-Nets for Real Time Hyperspectral Reconstruction: [Paper](https://128.84.21.199/abs/2004.07003), [Code](https://github.com/akashpalrecha/hyperspectral-reconstruction)
 - Neural Architectures Design and Search for Deep Learning and Continual Learning: [Thesis](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/37440/etd.pdf?sequence=1)
 - Analyzing Lung Disease Using Highly Effective Deep Learning Techniques: [Paper](https://www.mdpi.com/2227-9032/8/2/107)
+- YOLOv4: Optimal Speed and Accuracy of Object Detection: [Paper](https://arxiv.org/abs/2004.10934), [Code](https://github.com/AlexeyAB/darknet)
 
 ## Official Package Based Implementations: 
 
