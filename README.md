@@ -14,7 +14,7 @@
     <a href="https://arxiv.org/abs/1908.08681" alt="ArXiv">
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-22-lightgrey.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-23-lightgrey.svg" /></a>
    <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
         <img src="https://img.shields.io/twitter/url/https/twitter.com/DigantaMisra1.svg?style=social&label=Follow%20%40DigantaMisra1" /></a>
 </p>
@@ -67,6 +67,7 @@
 - Neural Architectures Design and Search for Deep Learning and Continual Learning: [Thesis](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/37440/etd.pdf?sequence=1)
 - Analyzing Lung Disease Using Highly Effective Deep Learning Techniques: [Paper](https://www.mdpi.com/2227-9032/8/2/107)
 - YOLOv4: Optimal Speed and Accuracy of Object Detection: [Paper](https://arxiv.org/abs/2004.10934), [Code](https://github.com/AlexeyAB/darknet)
+- sEMG Gesture Recognition With a Simple Model of Attention: [Paper](https://www.semanticscholar.org/paper/sEMG-Gesture-Recognition-With-a-Simple-Model-of-Josephs-Drake/0e7d56890d07ade3ed153fd1d1cdb212aa0e257e), [Code](https://github.com/josephsdavid/MYO-Transfer-Capstone)
 
 ## Official Package Based Implementations: 
 
@@ -124,6 +125,9 @@
 </p>
 <p float="center">
    <img src="package_logos/spago.png"  width="130"/>
+  &emsp;
+   &emsp;
+  <img src="package_logos/vortex.png"  width="330"/>
 </p>
 
 |     |     |  |
@@ -147,7 +151,7 @@
 |[Spago](https://github.com/saientist/spago)|[TimeSeries FastAI](https://tcapelle.github.io/timeseries_fastai/)|[Enchanter](https://khirotaka.github.io/enchanter/)|
 |[Fast-Reid](https://github.com/L1aoXingyu/fast-reid)|[ReNom](https://github.com/ReNom-dev-team/ReNom)|[nnUnet](https://github.com/MIC-DKFZ/nnUNet)|
 |[TFTK (TensorFlow Toolkit)](https://github.com/kitfactory/tftk)|[Nupic Research](https://github.com/numenta/nupic.research)|[keraTorch](https://github.com/sachinruk/keraTorch)|
-|[NLPlay](https://github.com/jeremypoulain/nlplay)|||
+|[NLPlay](https://github.com/jeremypoulain/nlplay)|[Vortex](https://github.com/void-intelligence/Vortex)||
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
 <div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
