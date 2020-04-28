@@ -21,7 +21,9 @@
 
 #                    Mish: Self Regularized Non-Monotonic Activation Function
 
-#### Note - A considerably faster version based on CUDA can be found here - [Mish CUDA](https://github.com/thomasbrandon/mish-cuda) (All credits to Thomas Brandon for the same)
+#### Note:
+- A considerably faster version based on CUDA can be found here - [Mish CUDA](https://github.com/thomasbrandon/mish-cuda) (All credits to Thomas Brandon for the same)
+- Memory Efficient Experimental version of Mish can be found [here](https://github.com/rwightman/gen-efficientnet-pytorch/blob/8795d3298d51ea5d993ab85a222dacffa8211f56/geffnet/activations/activations_autofn.py#L41)
 
 #### Device Optimized Mish for PyTorch is an experimental feature under construction - [Torch Dev](https://github.com/digantamisra98/Mish/tree/master/Mish/Torch_dev)
 
@@ -151,7 +153,7 @@
 |[Spago](https://github.com/saientist/spago)|[TimeSeries FastAI](https://tcapelle.github.io/timeseries_fastai/)|[Enchanter](https://khirotaka.github.io/enchanter/)|
 |[Fast-Reid](https://github.com/L1aoXingyu/fast-reid)|[ReNom](https://github.com/ReNom-dev-team/ReNom)|[nnUnet](https://github.com/MIC-DKFZ/nnUNet)|
 |[TFTK (TensorFlow Toolkit)](https://github.com/kitfactory/tftk)|[Nupic Research](https://github.com/numenta/nupic.research)|[keraTorch](https://github.com/sachinruk/keraTorch)|
-|[NLPlay](https://github.com/jeremypoulain/nlplay)|[Vortex](https://github.com/void-intelligence/Vortex)||
+|[NLPlay](https://github.com/jeremypoulain/nlplay)|[Vortex](https://github.com/void-intelligence/Vortex)|[GetTuned](https://github.com/CrispyKernel/GetTuned)|
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
 <div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
