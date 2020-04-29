@@ -14,7 +14,7 @@
     <a href="https://arxiv.org/abs/1908.08681" alt="ArXiv">
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-23-lightgrey.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-24-lightgrey.svg" /></a>
    <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
         <img src="https://img.shields.io/twitter/url/https/twitter.com/DigantaMisra1.svg?style=social&label=Follow%20%40DigantaMisra1" /></a>
 </p>
@@ -70,6 +70,7 @@
 - Analyzing Lung Disease Using Highly Effective Deep Learning Techniques: [Paper](https://www.mdpi.com/2227-9032/8/2/107)
 - YOLOv4: Optimal Speed and Accuracy of Object Detection: [Paper](https://arxiv.org/abs/2004.10934), [Code](https://github.com/AlexeyAB/darknet)
 - sEMG Gesture Recognition With a Simple Model of Attention: [Paper](https://www.semanticscholar.org/paper/sEMG-Gesture-Recognition-With-a-Simple-Model-of-Josephs-Drake/0e7d56890d07ade3ed153fd1d1cdb212aa0e257e), [Code](https://github.com/josephsdavid/MYO-Transfer-Capstone)
+- Deep-Learning-Based Active Hyperspectral Imaging Classification Method Illuminated by the Supercontinuum Laser: [Paper](https://www.mdpi.com/2076-3417/10/9/3088/pdf)
 
 ## Official Package Based Implementations: 
 
