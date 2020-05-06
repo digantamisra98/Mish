@@ -51,6 +51,8 @@
 
 <div style="text-align:center"><img src ="package_logo.gif"  width="1000"/></div>
 
+## Introduction:
+
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
 <div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
 <em> Image Credits: https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions
@@ -526,9 +528,11 @@ MXNet Implementation of Mish Activation function can be found [here](https://git
 
 ## Future Work (Coming Soon):
 
-- GANs Benchmarks.
-- Transformer Model Benchmarks.
 - Comparison of Convergence Rates.
+- Normalizing constant for Mish to eliminate the use of Batch Norm.
+- Regularizing effect of the first derivative of Mish with repect to Swish. 
+- Memory Efficient Fast implementation of Mish for PyTorch/ CUDA
+- Investigating the loss landscape for Mish.
 
 ## Cite this work:
 
