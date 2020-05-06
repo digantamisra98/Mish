@@ -47,59 +47,9 @@
         <img src="podcast_logo/yt1.png" width="100"/></a>
 </p>
 
-### Citations: 
-
-- Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
-- Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non-Gaussian hydraulic conductivities: [Paper](https://arxiv.org/pdf/1906.11828.pdf) (Submitted to [Wiley Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973))
-- Connecting Optical Morphology, Environment, and H I Mass Fraction for Low-Redshift Galaxies Using Deep Learning: [Paper](https://arxiv.org/pdf/2001.00018.pdf), [Code](https://github.com/jwuphysics/HI-convnets)
-- Learning Neural Activations: [Paper](https://arxiv.org/abs/1912.12187), [Code](https://github.com/amina01/Learning-Neural-Activations)
-- Learning to Reconstruct Crack Profiles for Eddy Current Nondestructive Testing: [Paper](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_100.pdf), [Code](https://github.com/askerlee/EddyNet) (Accepted to [33rd NeurIPS ML4PS (Machine Learning and the Physical Sciences) Workshop](https://ml4physicalsciences.github.io/))
-- Classification of Hyperspectral Image Based on Double-Branch Dual-Attention Mechanism Network: [Paper](https://www.preprints.org/manuscript/201912.0059/v1), [Code](https://github.com/lironui/Double-Branch-Dual-Attention-Mechanism-Network)
-- A Survey of the Recent Architectures of Deep Convolutional Neural Networks: [Paper](https://arxiv.org/abs/1901.06032)
-- fastai—A Layered API for Deep Learning: [Paper](https://arxiv.org/abs/2002.04688), [Code](https://github.com/fastai/fastai2), [Blog](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/)
-- Soft-Root-Sign Activation Function: [Paper](https://arxiv.org/abs/2003.00547)
-- RMNv2: Reduced Mobilenet V2 for CIFAR10: [Paper](https://ieeexplore.ieee.org/abstract/document/9031131)
-- An Unsupervised Deep Learning System for Acoustic Scene Analysis : [Paper](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwj_ir221KfoAhWEzzgGHfvaCvEQFjAAegQIBRAB&url=https%3A%2F%2Fwww.mdpi.com%2F2076-3417%2F10%2F6%2F2076%2Fpdf&usg=AOvVaw2z_mDnB26SUSkMSV9Fl7ey&cshid=1584659582954994)
-- U-Det: A Modified U-Net architecture with bidirectional feature network for lung nodule segmentation : [Paper](https://arxiv.org/abs/2003.09293)
-- Dynamic ReLU : [Paper](https://arxiv.org/abs/2003.10027) (Microsoft Research (MSR))
-- TanhExp: A Smooth Activation Function with High Convergence Speed for Lightweight Neural Networks : [Paper](https://arxiv.org/abs/2003.09855) (Submitted to [IET Computer Vision](https://digital-library.theiet.org/content/journals/iet-cvi))
-- MV-RAN: Multiview recurrent aggregation network for echocardiographic sequences segmentation and full cardiac cycle analysis : [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482520301128#abs0010) (Submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine))
-- TResNet: High Performance GPU-Dedicated Architecture: [Paper](https://arxiv.org/abs/2003.13630)
-- MXR-U-Nets for Real Time Hyperspectral Reconstruction: [Paper](https://128.84.21.199/abs/2004.07003), [Code](https://github.com/akashpalrecha/hyperspectral-reconstruction)
-- Neural Architectures Design and Search for Deep Learning and Continual Learning: [Thesis](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/37440/etd.pdf?sequence=1)
-- Analyzing Lung Disease Using Highly Effective Deep Learning Techniques: [Paper](https://www.mdpi.com/2227-9032/8/2/107)
-- YOLOv4: Optimal Speed and Accuracy of Object Detection: [Paper](https://arxiv.org/abs/2004.10934), [Code](https://github.com/AlexeyAB/darknet)
-- sEMG Gesture Recognition With a Simple Model of Attention: [Paper](https://www.semanticscholar.org/paper/sEMG-Gesture-Recognition-With-a-Simple-Model-of-Josephs-Drake/0e7d56890d07ade3ed153fd1d1cdb212aa0e257e), [Code](https://github.com/josephsdavid/MYO-Transfer-Capstone)
-- Deep-Learning-Based Active Hyperspectral Imaging Classification Method Illuminated by the Supercontinuum Laser: [Paper](https://www.mdpi.com/2076-3417/10/9/3088/pdf)
-- Optimized Light-Weight Convolutional Neural Networks for Histopathologic Cancer Detection: [Paper](https://ieeexplore.ieee.org/abstract/document/9080968/references#references)
-
 ## Official Package Based Implementations: 
 
 <div style="text-align:center"><img src ="package_logo.gif"  width="1000"/></div>
-
-|     |     |  |
-| :---: | :---: |  :---: |
-|[TensorFlow-Addons](https://github.com/tensorflow/addons/tree/master/tensorflow_addons/activations)|[SpaCy (Tok2Vec Layer)](https://github.com/explosion/spaCy)|[Thinc - SpaCy's official NLP based ML library](https://github.com/explosion/thinc/releases/tag/v7.3.0)|
-|[Eclipse's deeplearning4j](https://github.com/eclipse/deeplearning4j/issues/8417)|[Hasktorch](https://github.com/hasktorch/hasktorch/blob/e5d4fb1b11663de3e032941f78b9d25c5da06f6d/hasktorch/src/Torch/Typed/Native.hs#L314)|[Echo AI](https://github.com/digantamisra98/Echo)|
-|[CNTKX - Extension of Microsoft's CNTK](https://github.com/delzac/cntkx)|[FastAI-Dev](https://github.com/fastai/fastai_dev/blob/0f613ba3205990c83de9dba0c8798a9eec5452ce/dev/local/layers.py#L441)|[Darknet](https://github.com/AlexeyAB/darknet/commit/bf8ea4183dc265ac17f7c9d939dc815269f0a213)|
-|[Yolov3](https://github.com/ultralytics/yolov3/commit/444a9f7099d4ff1aef12783704e3df9a8c3aa4b3)|[BeeDNN - Library in C++](https://github.com/edeforas/BeeDNN)|[Gen-EfficientNet-PyTorch](https://github.com/rwightman/gen-efficientnet-pytorch)|
-|[dnet](https://github.com/umangjpatel/dnet)|[ruby-dnn](https://github.com/unagiootoro/ruby-dnn#implemented)|[blackcat-tensors](https://github.com/josephjaspers/blackcat_tensors/commit/87fa2f427d044a120816f2bc83176bdb455ceccd)|
-|[DL4S](https://palle-k.github.io/DL4S/)|[HuggingFace Transformers](https://github.com/huggingface/transformers/pull/1753)|[PAGI](https://github.com/ProjectAGI/pagi)|
-|[OpenCV](https://github.com/opencv/opencv/pull/15808)|[Odin-AI](https://github.com/imito/odin-ai)|[Mini DNN](https://github.com/yixuan/MiniDNN/commit/a405bd082183e685222472fa5851fd5024b1a7e6)|
-|[Efficient Segmentation Networks](https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks)|[TF Semantic Segmentation](https://pypi.org/project/tf-semantic-segmentation/0.1.0/)|[Dynastes](https://github.com/veqtor/dynastes)|
-|[DLib](https://github.com/davisking/dlib/commit/edff12d2e17f65a2ded6ea71c6ba402055cea896)|[Copernicus](https://github.com/dmbernaal/copernicus)|[AllenNLP](https://github.com/allenai/allennlp/pull/3466#event-2951976800)|
-|[PyWick](https://github.com/achaiah/pywick)|[Deep Java Library](https://github.com/awslabs/djl)|[PyTorch-Toolbelt](https://github.com/BloodAxe/pytorch-toolbelt)|
-|[Holocron](https://github.com/frgfm/Holocron)|[TensorHub](https://github.com/nityansuman/tensorhub)|[mlpack](https://github.com/mlpack/mlpack)|
-|[XNet](https://github.com/nirex0/XNet)|[TH](https://github.com/chunsj/TH)|[VLML](https://github.com/ThinkingForms/VLML)|
-|[NaoTH](https://github.com/BerlinUnited/NaoTH)|[NNLib.jl](https://github.com/FluxML/NNlib.jl)|[xfmers](https://github.com/tlkh/xfmers)|
-|[Gorgonia](https://github.com/gorgonia/gorgonia)|[TensorLayer - Chinese](https://github.com/tensorlayer/tensorlayer-chinese)|[Open Competition](https://github.com/rwbfd/OpenCompetition)|
-|[Model Constructor](https://github.com/ayasyrev/model_constructor)|[WML](https://github.com/vghost2008/wml)|[Incendio](https://github.com/hdmamin/incendio)|
-|[Jai](https://github.com/gengjia0214/jai)|[Rust-Bert](https://github.com/guillaume-be/rust-bert)|[TensorLayer](https://github.com/tensorlayer/tensorlayer)|
-|[Spago](https://github.com/saientist/spago)|[TimeSeries FastAI](https://tcapelle.github.io/timeseries_fastai/)|[Enchanter](https://khirotaka.github.io/enchanter/)|
-|[Fast-Reid](https://github.com/L1aoXingyu/fast-reid)|[ReNom](https://github.com/ReNom-dev-team/ReNom)|[nnUnet](https://github.com/MIC-DKFZ/nnUNet)|
-|[TFTK (TensorFlow Toolkit)](https://github.com/kitfactory/tftk)|[Nupic Research](https://github.com/numenta/nupic.research)|[keraTorch](https://github.com/sachinruk/keraTorch)|
-|[NLPlay](https://github.com/jeremypoulain/nlplay)|[Vortex](https://github.com/void-intelligence/Vortex)|[GetTuned](https://github.com/CrispyKernel/GetTuned)|
-|[tkDNN](https://github.com/ceccocats/tkDNN)|[Carrot](https://github.com/liquidcarrot/carrot)||
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
 <div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
