@@ -75,65 +75,7 @@
 
 ## Official Package Based Implementations: 
 
-<p float="center">
-  <img src="package_logos/DL4J.png"  width="200"/>
-  &emsp;
-  &emsp;
-  <img src="package_logos/spacy.png"  width="200"/>
-  <img src="package_logos/tf_addons.png"  width="200"/>
-  <img src="package_logos/thinc.png"  width="100"/>
-</p>
-
-<p float="center">
-  <img src="package_logos/hasktorch.png"  width="140"/>
-  &emsp;
-  &emsp;
-  <img src="package_logos/fastai.png"  width="200"/>
-  &emsp;
-  &emsp;
-  <img src="package_logos/darknet.png"  width="140"/>
-  <img src="package_logos/echo.png"  width="160"/>
-</p>
-<p float="center">
-  <img src="package_logos/dl4s.png"  width="160"/>
-  &emsp;
-  &emsp;
-  <img src="package_logos/hugging_face.png"  width="300"/>
-  <img src="package_logos/dnet.png"  width="150"/>
-  <img src="package_logos/yolov3.png"  width="150"/>
-</p>
-<p float="center">
-   <img src="package_logos/pagi.png"  width="120"/>
-   <img src="package_logos/opencv.png"  width="120"/>
-   &emsp;
-   &emsp;
-   <img src="package_logos/dlib-logo.png"  width="280"/>
-   &emsp;
-   &emsp;
-   <img src="package_logos/allennlp.png"  width="200"/>
-</p>
-<p float="center">
-   <img src="package_logos/djl.png"  width="300"/>
-   <img src="package_logos/tensorhub.png"  width="350"/>
-   <img src="package_logos/mlpack.png"  width="150"/>
-</p>
-<p float="center">
-   <img src="package_logos/NaoTH.png"  width="130"/>
-   &emsp;
-   &emsp;
-   <img src="package_logos/flux.png"  width="130"/>
-   &emsp;
-   &emsp;
-   <img src="package_logos/gorgonia.png"  width="230"/>
-   <img src="package_logos/tensorlayer.png"  width="230"/>
-</p>
-<p float="center">
-   <img src="package_logos/spago.png"  width="130"/>
-  &emsp;
-   &emsp;
-  <img src="package_logos/vortex.png"  width="330"/>
-  <img src="package_logos/carrot.png"  width="330"/>
-</p>
+<div style="text-align:center"><img src ="package_logo.gif"  width="1000"/></div>
 
 |     |     |  |
 | :---: | :---: |  :---: |
