@@ -27,3 +27,4 @@
 - sEMG Gesture Recognition With a Simple Model of Attention: [Paper](https://www.semanticscholar.org/paper/sEMG-Gesture-Recognition-With-a-Simple-Model-of-Josephs-Drake/0e7d56890d07ade3ed153fd1d1cdb212aa0e257e), [Code](https://github.com/josephsdavid/MYO-Transfer-Capstone)
 - Deep-Learning-Based Active Hyperspectral Imaging Classification Method Illuminated by the Supercontinuum Laser: [Paper](https://www.mdpi.com/2076-3417/10/9/3088/pdf)
 - Optimized Light-Weight Convolutional Neural Networks for Histopathologic Cancer Detection: [Paper](https://ieeexplore.ieee.org/abstract/document/9080968/references#references)
+- NTIRE 2020 Challenge on Spectral Reconstruction from an RGB Image: [Paper](https://arxiv.org/pdf/2005.03412.pdf) (Review of the [New Trends in Image Restoration and Enhancement workshop and challenges on image and video restoration and enhancement](https://data.vision.ee.ethz.ch/cvl/ntire20/) in conjuction with CVPR 2020)
