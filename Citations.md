@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-25-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-27-green.svg" /></a>
 </p>
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
@@ -28,3 +28,4 @@
 - Deep-Learning-Based Active Hyperspectral Imaging Classification Method Illuminated by the Supercontinuum Laser: [Paper](https://www.mdpi.com/2076-3417/10/9/3088/pdf)
 - Optimized Light-Weight Convolutional Neural Networks for Histopathologic Cancer Detection: [Paper](https://ieeexplore.ieee.org/abstract/document/9080968/references#references)
 - NTIRE 2020 Challenge on Spectral Reconstruction from an RGB Image: [Paper](https://arxiv.org/pdf/2005.03412.pdf) (Review of the [New Trends in Image Restoration and Enhancement workshop and challenges on image and video restoration and enhancement](https://data.vision.ee.ethz.ch/cvl/ntire20/) in conjuction with CVPR 2020)
+- Style transfer with variational autoencoders is a promising approach to RNA-Seq data harmonization and analysis: [Paper](https://www.biorxiv.org/content/10.1101/791962v2)
