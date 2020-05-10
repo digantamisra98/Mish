@@ -51,6 +51,34 @@
 
 <div style="text-align:center"><img src ="package_logo.gif"  width="1000"/></div>
 
+## Contents: 
+
+1. [Introduction](https://github.com/digantamisra98/Mish#introduction)
+2. [Mathematics under the hood](https://github.com/digantamisra98/Mish#mathematics-under-the-hood)
+3. [ImageNet Scores](https://github.com/digantamisra98/Mish#imagenet-scores)
+4. [MS-COCO](https://github.com/digantamisra98/Mish#ms-coco)
+5. [Variation of Parameter Comparison](https://github.com/digantamisra98/Mish#variation-of-parameter-comparison)<br>
+   a. [MNIST](https://github.com/digantamisra98/Mish#mnist)<br>
+   b. [CIFAR10](https://github.com/digantamisra98/Mish#cifar10)<br>
+6. [Edge of Chaos and Rate of Convergence (EOC & ROC)/ Hessian Energy Computation Analysis:](https://github.com/digantamisra98/Mish#edge-of-chaos-and-rate-of-convergence-eoc--roc-hessian-energy-computation-analysis)
+7. [Significance Level](https://github.com/digantamisra98/Mish#significance-level) <br>
+   a. [Sample Size = 3](https://github.com/digantamisra98/Mish#sample-size--3)<br>
+   b. [Sample Size = 23](https://github.com/digantamisra98/Mish#sample-size--23)<br>
+   c. [Confidence Interval Profiles](https://github.com/digantamisra98/Mish#confidence-interval-profiles)<br>
+8. [Properties Summary](https://github.com/digantamisra98/Mish#properties-summary)
+9. [Results](https://github.com/digantamisra98/Mish#results)<br>
+   a. [Summary of Results (Vision Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-vision-tasks)<br>
+   b. [Summary of Results (Language Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-language-tasks)<br>
+   c. [Sample Result](https://github.com/digantamisra98/Mish#sample-result)<br>
+10. [Try It!](https://github.com/digantamisra98/Mish#try-it)<br>
+    a. [Demo Jupyter Notebooks](https://github.com/digantamisra98/Mish#demo-jupyter-notebooks)<br>
+    b. [Torch](https://github.com/digantamisra98/Mish#torch)<br>
+    c. [TensorFlow](https://github.com/digantamisra98/Mish#tensorflow)<br>
+    d. [MXNet](https://github.com/digantamisra98/Mish#mxnet)<br>
+11. [Future Work (Coming Soon)](https://github.com/digantamisra98/Mish#future-work-coming-soon)
+12. [Cite this work](https://github.com/digantamisra98/Mish#cite-this-work)
+   
+
 ## Introduction:
 
 Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
