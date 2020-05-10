@@ -25,6 +25,12 @@
 - A considerably faster version based on CUDA can be found here - [Mish CUDA](https://github.com/thomasbrandon/mish-cuda) (All credits to Thomas Brandon for the same)
 - Memory Efficient Experimental version of Mish can be found [here](https://github.com/rwightman/gen-efficientnet-pytorch/blob/8795d3298d51ea5d993ab85a222dacffa8211f56/geffnet/activations/activations_autofn.py#L41)
 
+### Also take a look at:
+
+- [Mila: Controlling Minima Concavity in Activation Function](https://github.com/digantamisra98/Mila)
+- [SharkFin: A Modified Version of ReLU](https://github.com/digantamisra98/SharkFin)
+- [β-Mish: An uni-parametric adaptive activation function derived from Mish](https://github.com/digantamisra98/Beta-Mish)
+
 #### Device Optimized Mish for PyTorch is an experimental feature under construction - [Torch Dev](https://github.com/digantamisra98/Mish/tree/master/Mish/Torch_dev)
 
 ### News/ Media Coverage:
