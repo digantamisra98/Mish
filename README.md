@@ -30,7 +30,7 @@
 - [Mila: Controlling Minima Concavity in Activation Function](https://github.com/digantamisra98/Mila)
 - [SharkFin: A Modified Version of ReLU](https://github.com/digantamisra98/SharkFin)
 - [β-Mish: An uni-parametric adaptive activation function derived from Mish](https://github.com/digantamisra98/Beta-Mish)
-- [Hard Mish- Memory Efficient and faster variant of Mish](https://github.com/digantamisra98/H-Mish)
+- [Hard Mish- Memory Efficient and faster equivalent of Mish](https://github.com/digantamisra98/H-Mish)
 
 #### Device Optimized Mish for PyTorch is an experimental feature under construction - [Torch Dev](https://github.com/digantamisra98/Mish/tree/master/Mish/Torch_dev)
 
