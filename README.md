@@ -56,7 +56,7 @@
 
 ## Official Package Based Implementations: 
 
-<div style="text-align:center"><img src ="package_logo.gif"  width="1000"/></div>
+<div style="text-align:center"><img src ="package_logo1.gif"  width="1000"/></div>
 
 ## Contents: 
 
