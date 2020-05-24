@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-28-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-29-green.svg" /></a>
 </p>
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
@@ -30,3 +30,4 @@
 - NTIRE 2020 Challenge on Spectral Reconstruction from an RGB Image: [Paper](https://arxiv.org/pdf/2005.03412.pdf) (Review of the [New Trends in Image Restoration and Enhancement workshop and challenges on image and video restoration and enhancement](https://data.vision.ee.ethz.ch/cvl/ntire20/) in conjuction with CVPR 2020)
 - Style transfer with variational autoencoders is a promising approach to RNA-Seq data harmonization and analysis: [Paper](https://www.biorxiv.org/content/10.1101/791962v2)
 - Neural Networks Versus Conventional Filters for Inertial-Sensor-based Attitude Estimation: [Paper](https://arxiv.org/abs/2005.06897) 
+- Carbon Dioxide Level Prediction for Indoor Air Using Neural networks: [Master's Thesis, University of Oulu](http://jultika.oulu.fi/files/nbnfioulu-202005191922.pdf)
