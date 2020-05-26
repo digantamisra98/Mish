@@ -32,3 +32,4 @@
 - Neural Networks Versus Conventional Filters for Inertial-Sensor-based Attitude Estimation: [Paper](https://arxiv.org/abs/2005.06897) 
 - Carbon Dioxide Level Prediction for Indoor Air Using Neural networks: [Master's Thesis, University of Oulu](http://jultika.oulu.fi/files/nbnfioulu-202005191922.pdf)
 - Domain Specific, Semi-Supervised Transfer Learning for Medical Imaging: [Paper](https://arxiv.org/abs/2005.11746)
+- Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non-Gaussian hydraulic conductivities: [Paper](https://arxiv.org/abs/1906.11828)
