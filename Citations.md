@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-29-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-30-green.svg" /></a>
 </p>
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
@@ -31,3 +31,4 @@
 - Style transfer with variational autoencoders is a promising approach to RNA-Seq data harmonization and analysis: [Paper](https://www.biorxiv.org/content/10.1101/791962v2)
 - Neural Networks Versus Conventional Filters for Inertial-Sensor-based Attitude Estimation: [Paper](https://arxiv.org/abs/2005.06897) 
 - Carbon Dioxide Level Prediction for Indoor Air Using Neural networks: [Master's Thesis, University of Oulu](http://jultika.oulu.fi/files/nbnfioulu-202005191922.pdf)
+- Domain Specific, Semi-Supervised Transfer Learning for Medical Imaging: [Paper](https://arxiv.org/abs/2005.11746)
