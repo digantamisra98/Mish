@@ -13,7 +13,7 @@
 - A Survey of the Recent Architectures of Deep Convolutional Neural Networks: [Paper](https://arxiv.org/abs/1901.06032)
 - fastai—A Layered API for Deep Learning: [Paper](https://arxiv.org/abs/2002.04688), [Code](https://github.com/fastai/fastai2), [Blog](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/)
 - Soft-Root-Sign Activation Function: [Paper](https://arxiv.org/abs/2003.00547)
-- RMNv2: Reduced Mobilenet V2 for CIFAR10: [Paper](https://ieeexplore.ieee.org/abstract/document/9031131)
+- RMNv2: Reduced Mobilenet V2 for CIFAR10: [Paper](https://ieeexplore.ieee.org/abstract/document/9031131), [Thesis, Purdue University](https://scholarworks.iupui.edu/handle/1805/22610)
 - An Unsupervised Deep Learning System for Acoustic Scene Analysis : [Paper](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwj_ir221KfoAhWEzzgGHfvaCvEQFjAAegQIBRAB&url=https%3A%2F%2Fwww.mdpi.com%2F2076-3417%2F10%2F6%2F2076%2Fpdf&usg=AOvVaw2z_mDnB26SUSkMSV9Fl7ey&cshid=1584659582954994)
 - U-Det: A Modified U-Net architecture with bidirectional feature network for lung nodule segmentation : [Paper](https://arxiv.org/abs/2003.09293)
 - Dynamic ReLU : [Paper](https://arxiv.org/abs/2003.10027) (Microsoft Research (MSR))
@@ -37,3 +37,4 @@
 - A Review of Activation Function for Artificial Neural Network: [Paper](https://ieeexplore.ieee.org/abstract/document/9108717)(Published at [IEEE 18th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2020)](http://conf.uni-obuda.hu/sami2020/))
 - Attention Mechanism Exploits Temporal Contexts: Real-Time 3D Human Pose Reconstruction: [Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Attention_Mechanism_Exploits_Temporal_Contexts_Real-Time_3D_Human_Pose_Reconstruction_CVPR_2020_paper.html), [Code](https://github.com/lrxjason/Attention3DHumanPose), [Project Page](https://sites.google.com/a/udayton.edu/jshen1/pose3d) (Published at [The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020](http://cvpr2020.thecvf.com/))
 - A Note on Deepfake Detection with Low-Resources: [Paper](https://128.84.21.199/abs/2006.05183)
+- An Embedded Deep Learning Object Detection Model For Traffic In Asian Countries: [Paper](https://ieeexplore.ieee.org/abstract/document/9105994)
