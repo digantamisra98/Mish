@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-36-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-37-green.svg" /></a>
 </p>
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
@@ -38,3 +38,4 @@
 - Attention Mechanism Exploits Temporal Contexts: Real-Time 3D Human Pose Reconstruction: [Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Attention_Mechanism_Exploits_Temporal_Contexts_Real-Time_3D_Human_Pose_Reconstruction_CVPR_2020_paper.html), [Code](https://github.com/lrxjason/Attention3DHumanPose), [Project Page](https://sites.google.com/a/udayton.edu/jshen1/pose3d) (Published at [The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020](http://cvpr2020.thecvf.com/))
 - A Note on Deepfake Detection with Low-Resources: [Paper](https://128.84.21.199/abs/2006.05183)
 - An Embedded Deep Learning Object Detection Model For Traffic In Asian Countries: [Paper](https://ieeexplore.ieee.org/abstract/document/9105994)
+- MSMD-Net: Deep Stereo Matching with Multi-scale and Multi-dimension Cost Volume: [Paper](https://arxiv.org/abs/2006.12797), [Code](https://github.com/gallenszl/MSMD-Net)
