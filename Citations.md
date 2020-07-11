@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-41-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-42-green.svg" /></a>
 </p>
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
@@ -43,3 +43,4 @@
 - Deep Learning Based Analysis of Prostate Cancer from MP-MRI: [Thesis, Aalto University](https://aaltodoc2.org.aalto.fi/handle/123456789/44951)
 - Multi-View Pose Generator Based on Deep Learning for Monocular 3D Human Pose Estimation: [Paper](https://www.mdpi.com/2073-8994/12/7/1116/pdf)
 - Accurate, Data-Efficient, Unconstrained Text Recognition with Convolutional Neural Networks: [Paper](https://www.sciencedirect.com/science/article/pii/S0031320320302855?casa_token=AWDPBJdKDgQAAAAA:uSgpZBV825NSsVZHGbe4qhUdYP2KGsev4CJheoKA4gvmE0Hll202pzc_E_IsAfceM9CqwpqKXAJQ#!)
+- Sound Event Detection in Domestic Environments using Dense Recurrent Neural Network : [Paper](http://dcase.community/documents/challenge2020/technical_reports/DCASE2020_Yao_66.pdf)
