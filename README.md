@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/twitter/url/https/twitter.com/DigantaMisra1.svg?style=social&label=Follow%20%40DigantaMisra1" /></a>
 </p>
 
-<h1 align="center">Mish: Self Regularized Non-Monotonic Activation Function</h1>
+<h1 align="center">Mish: Self Regularized <br> Non-Monotonic Activation Function</h1>
 
 #### Note:
 - A considerably faster version based on CUDA can be found here - [Mish CUDA](https://github.com/thomasbrandon/mish-cuda) (All credits to Thomas Brandon for the same)
