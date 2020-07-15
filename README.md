@@ -24,6 +24,15 @@
 #### Note:
 - A considerably faster version based on CUDA can be found here - [Mish CUDA](https://github.com/thomasbrandon/mish-cuda) (All credits to Thomas Brandon for the same)
 - Memory Efficient Experimental version of Mish can be found [here](https://github.com/rwightman/gen-efficientnet-pytorch/blob/8795d3298d51ea5d993ab85a222dacffa8211f56/geffnet/activations/activations_autofn.py#L41)
+- Faster variants for Mish and H-Mish by [Yashas Samaga](https://github.com/YashasSamaga) can be found here - [ConvolutionBuildingBlocks](https://github.com/YashasSamaga/ConvolutionBuildingBlocks)
+- Alternative (experimental improved) variant of H-Mish developed by [Páll Haraldsson](https://github.com/PallHaraldsson) can be found here - [H-Mish](https://github.com/PallHaraldsson/H-Mish/blob/master/README.md) (Available in Julia)
+- Variance based initialization method for Mish (experimental) by [Federico Andres Lois](https://twitter.com/federicolois) can be found here - [Mish_init](https://gist.github.com/redknightlois/b5d36fd2ae306cb8b3484c1e3bcce253)
+
+#### Changelogs/ Updates:
+
+- Mish added to [OpenVino](https://github.com/openvinotoolkit/openvino) - [Open-1187](https://github.com/openvinotoolkit/openvino/pull/1187), [Merged-1125](https://github.com/openvinotoolkit/openvino/pull/1125)
+- Mish added to [BetaML.jl](https://github.com/sylvaticus/BetaML.jl)
+- Loss Landscape exploration progress in collaboration with [Javier Ideami](https://ideami.com/ideami/) and [Ajay Uppili Arasanipalai](https://github.com/iyaja)
 
 ### Also take a look at:
 
@@ -56,7 +65,7 @@
 
 ## Official Package Based Implementations: 
 
-<div style="text-align:center"><img src ="logox.gif"  width="1000"/></div>
+<div style="text-align:center"><img src ="logo_gif.gif"  width="1000"/></div>
 
 ## Contents: 
 
