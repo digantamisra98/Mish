@@ -33,6 +33,7 @@
 - Mish added to [OpenVino](https://github.com/openvinotoolkit/openvino) - [Open-1187](https://github.com/openvinotoolkit/openvino/pull/1187), [Merged-1125](https://github.com/openvinotoolkit/openvino/pull/1125)
 - Mish added to [BetaML.jl](https://github.com/sylvaticus/BetaML.jl)
 - Loss Landscape exploration progress in collaboration with [Javier Ideami](https://ideami.com/ideami/) and [Ajay Uppili Arasanipalai](https://github.com/iyaja)
+- Poster accepted for presentation at [DLRLSS](https://dlrlsummerschool.ca/) hosted by [MILA](https://mila.quebec/en/), [CIFAR](https://www.cifar.ca/), [Vector Institute](https://vectorinstitute.ai/) and [AMII](https://www.amii.ca/)
 
 ### Also take a look at:
 
