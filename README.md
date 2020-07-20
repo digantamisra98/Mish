@@ -30,10 +30,11 @@
 
 #### Changelogs/ Updates:
 
-- Mish added to [OpenVino](https://github.com/openvinotoolkit/openvino) - [Open-1187](https://github.com/openvinotoolkit/openvino/pull/1187), [Merged-1125](https://github.com/openvinotoolkit/openvino/pull/1125)
-- Mish added to [BetaML.jl](https://github.com/sylvaticus/BetaML.jl)
-- Loss Landscape exploration progress in collaboration with [Javier Ideami](https://ideami.com/ideami/) and [Ajay Uppili Arasanipalai](https://github.com/iyaja)
-- Poster accepted for presentation at [DLRLSS](https://dlrlsummerschool.ca/) hosted by [MILA](https://mila.quebec/en/), [CIFAR](https://www.cifar.ca/), [Vector Institute](https://vectorinstitute.ai/) and [AMII](https://www.amii.ca/)
+- [07/17] Mish added to [OpenVino](https://github.com/openvinotoolkit/openvino) - [Open-1187](https://github.com/openvinotoolkit/openvino/pull/1187), [Merged-1125](https://github.com/openvinotoolkit/openvino/pull/1125)
+- [07/17] Mish added to [BetaML.jl](https://github.com/sylvaticus/BetaML.jl)
+- [07/17] Loss Landscape exploration progress in collaboration with [Javier Ideami](https://ideami.com/ideami/) and [Ajay Uppili Arasanipalai](https://github.com/iyaja)
+- [07/17] Poster accepted for presentation at [DLRLSS](https://dlrlsummerschool.ca/) hosted by [MILA](https://mila.quebec/en/), [CIFAR](https://www.cifar.ca/), [Vector Institute](https://vectorinstitute.ai/) and [AMII](https://www.amii.ca/)
+- [07/20] Mish added to [Google's AutoML](https://github.com/google/automl) - [502](https://github.com/google/automl/commit/28cf011689dacda90fe1ae6da59b92c0d3f2c9d9) 
 
 ### Also take a look at:
 
