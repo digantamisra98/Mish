@@ -608,7 +608,7 @@ Thanks to all the people who have helped and supported me massively through this
 11. [Ioannis Anifantakis](https://github.com/ioannisa)
 12. [George Christopoulos](https://github.com/geochri)
 
-And many more including the Fast AI community, Weights and Biases Community, TensorFlow Addons team, SpaCy/Thic team, Sicara team, Udacity scholarships team, etc. Apologies if I missed out anyone.
+And many more including the Fast AI community, Weights and Biases Community, TensorFlow Addons team, SpaCy/Thinc team, Sicara team, Udacity scholarships team, etc. Apologies if I missed out anyone.
 
 ## Cite this work:
 
