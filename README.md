@@ -157,6 +157,16 @@ The output landscape of 5 layer randomly initialized neural network was compared
 <div style="text-align:center"><img src ="Observations/comp123.png"  width="800"/></div>
 <div style="text-align:center"><img src ="Observations/comp1234.png"  width="800"/></div>
 
+Loss landscape visualizations for a ResNet-20 for CIFAR 10 using Mish, Swish and ReLU for 200 epochs training: 
+
+<div style="text-align:center"><img src ="landscapes/d2-transparent.png"  width="800"/></div>
+<div style="text-align:center"><img src ="landscapes/landskape-relu-mish-july-20-Fixed.jpg"  width="800"/></div>
+<div style="text-align:center"><img src ="landscapes/s1.png"  width="800"/></div>
+
+<br>
+
+Mish provides much better accuracy, overall lower loss, smoother and well conditioned easy-to-optimize loss landscape as compared to both Swish and ReLU. For all loss landscape visualizations please visit this [readme](https://github.com/digantamisra98/Mish/blob/master/landscapes/Landscape.md). For the non-labelled visualization it's ReLu followed by Mish followed by Swish from left to right. 
+
 The Pre-Activations (ωx + b) distribution was observed for the final convolution layer in a ResNet v1-20 with Mish activation function before and after training for 20 epochs on CIFAR-10. As shown below, units are being preserved in the negative side which improves the network capacity to generalize well due to less loss of information. 
 
 <div style="text-align:center"><img src ="Observations/Distribution.png"  width="800"/></div>
