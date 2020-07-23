@@ -73,6 +73,7 @@
 
 1. [Introduction](https://github.com/digantamisra98/Mish#introduction)
 2. [Mathematics under the hood](https://github.com/digantamisra98/Mish#mathematics-under-the-hood)
+   a. [Loss landscape](https://github.com/digantamisra98/Mish#loss-landscape) 
 3. [ImageNet Scores](https://github.com/digantamisra98/Mish#imagenet-scores)
 4. [MS-COCO](https://github.com/digantamisra98/Mish#ms-coco)
 5. [Variation of Parameter Comparison](https://github.com/digantamisra98/Mish#variation-of-parameter-comparison)<br>
@@ -94,6 +95,7 @@
     c. [TensorFlow](https://github.com/digantamisra98/Mish#tensorflow)<br>
     d. [MXNet](https://github.com/digantamisra98/Mish#mxnet)<br>
 11. [Future Work (Coming Soon)](https://github.com/digantamisra98/Mish#future-work-coming-soon)
+13. [Acknowledgements](https://github.com/digantamisra98/Mish#acknowledgements)
 12. [Cite this work](https://github.com/digantamisra98/Mish#cite-this-work)
    
 
