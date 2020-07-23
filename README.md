@@ -72,7 +72,7 @@
 ## Contents: 
 
 1. [Introduction](https://github.com/digantamisra98/Mish#introduction)
-2. [Mathematics under the hood](https://github.com/digantamisra98/Mish#mathematics-under-the-hood)
+2. [Mathematics under the hood](https://github.com/digantamisra98/Mish#mathematics-under-the-hood) <br>
    a. [Loss landscape](https://github.com/digantamisra98/Mish#loss-landscape) 
 3. [ImageNet Scores](https://github.com/digantamisra98/Mish#imagenet-scores)
 4. [MS-COCO](https://github.com/digantamisra98/Mish#ms-coco)
