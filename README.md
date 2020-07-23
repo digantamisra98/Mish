@@ -157,6 +157,8 @@ The output landscape of 5 layer randomly initialized neural network was compared
 <div style="text-align:center"><img src ="Observations/comp123.png"  width="800"/></div>
 <div style="text-align:center"><img src ="Observations/comp1234.png"  width="800"/></div>
 
+#### Loss Landscape:
+
 Loss landscape visualizations for a ResNet-20 for CIFAR 10 using Mish, Swish and ReLU for 200 epochs training: 
 
 <div style="text-align:center"><img src ="landscapes/d2-transparent.png"  width="800"/></div>
