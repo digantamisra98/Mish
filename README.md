@@ -161,9 +161,9 @@ The output landscape of 5 layer randomly initialized neural network was compared
 
 Loss landscape visualizations for a ResNet-20 for CIFAR 10 using Mish, Swish and ReLU for 200 epochs training: 
 
-<div style="text-align:center"><img src ="landscapes/d2-transparent.png"  width="800"/></div>
-<div style="text-align:center"><img src ="landscapes/landskape-relu-mish-july-20-Fixed.jpg"  width="800"/></div>
-<div style="text-align:center"><img src ="landscapes/s1.png"  width="800"/></div>
+<div style="text-align:center"><img src ="landscapes/d2-transparent.png"  width="1000"/></div>
+<div style="text-align:center"><img src ="landscapes/landskape-relu-mish-july-20-Fixed.jpg"  width="1000"/></div>
+<div style="text-align:center"><img src ="landscapes/relu-mish-comparison-2.jpg"  width="1000"/></div>
 
 <br>
 
@@ -608,7 +608,7 @@ Thanks to all the people who have helped and supported me massively through this
 11. [Ioannis Anifantakis](https://github.com/ioannisa)
 12. [George Christopoulos](https://github.com/geochri)
 
-And many more including the Fast AI community, Weights and Biases Community, TensorFlow Addons team, SpaCy/Thinc team, Sicara team, Udacity scholarships team, etc. Apologies if I missed out anyone.
+And many more including the [Fast AI community](https://forums.fast.ai/t/meet-mish-new-activation-function-possible-successor-to-relu/53299/647), [Weights and Biases Community](https://www.wandb.com/), [TensorFlow Addons team](https://www.tensorflow.org/addons), [SpaCy/Thinc team](https://explosion.ai/), [Sicara team](https://www.sicara.fr/), [Udacity scholarships team](https://www.udacity.com/scholarships) to name a few. *Apologies if I missed out anyone.*
 
 ## Cite this work:
 
