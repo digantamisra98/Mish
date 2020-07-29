@@ -69,6 +69,14 @@
         <img src="podcast_logo/yt1.png" width="100"/></a>
 </p>
 
+- (07/2020): CROWN: A comparison of morphology for Mish, Swish and ReLU produced in collaboration with [Javier Ideami](https://ideami.com/ideami/). Watch on:
+<p float="center">
+  &emsp;
+  &emsp;
+  <a href="https://www.youtube.com/watch?v=XRGu23hfzaQ" alt="YouTube">
+        <img src="podcast_logo/yt1.png" width="100"/></a>
+</p>
+
 ## Official Package Based Implementations: 
 
 <div style="text-align:center"><img src ="logo_gif.gif"  width="1000"/></div>
