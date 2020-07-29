@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-45-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-46-green.svg" /></a>
 </p>
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
@@ -47,3 +47,4 @@
 - Federated Self-Supervised Learning of Multi-Sensor Representations for Embedded Intelligence: [Paper](https://arxiv.org/abs/2007.13018) (Accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/))
 - Regularized Flexible Activation Function Combinations for Deep Neural Networks: [Paper](https://arxiv.org/abs/2007.13101)
 - Designing a lightweight 1D convolutional neural network with Bayesian optimization for wheel flat detection using carbody accelerations: [Paper](https://www.tandfonline.com/doi/abs/10.1080/23248378.2020.1795942) (Accepted to [International Journal of Rail Transportation](https://www.tandfonline.com/toc/tjrt20/current))
+- Hand Pose Estimation from RGBD Images: [Paper](https://dspace.vsb.cz/bitstream/handle/10084/140604/SIM0242_FEI_N2647_2612T025_2020.pdf?sequence=1)
