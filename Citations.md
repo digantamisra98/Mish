@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-42-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-45-green.svg" /></a>
 </p>
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
@@ -44,3 +44,6 @@
 - Multi-View Pose Generator Based on Deep Learning for Monocular 3D Human Pose Estimation: [Paper](https://www.mdpi.com/2073-8994/12/7/1116/pdf)
 - Accurate, Data-Efficient, Unconstrained Text Recognition with Convolutional Neural Networks: [Paper](https://www.sciencedirect.com/science/article/pii/S0031320320302855?casa_token=AWDPBJdKDgQAAAAA:uSgpZBV825NSsVZHGbe4qhUdYP2KGsev4CJheoKA4gvmE0Hll202pzc_E_IsAfceM9CqwpqKXAJQ#!)
 - Sound Event Detection in Domestic Environments using Dense Recurrent Neural Network : [Paper](http://dcase.community/documents/challenge2020/technical_reports/DCASE2020_Yao_66.pdf)
+- Federated Self-Supervised Learning of Multi-Sensor Representations for Embedded Intelligence: [Paper](https://arxiv.org/abs/2007.13018) (Accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/))
+- Regularized Flexible Activation Function Combinations for Deep Neural Networks: [Paper](https://arxiv.org/abs/2007.13101)
+- Designing a lightweight 1D convolutional neural network with Bayesian optimization for wheel flat detection using carbody accelerations: [Paper](https://www.tandfonline.com/doi/abs/10.1080/23248378.2020.1795942) (Accepted to [International Journal of Rail Transportation](https://www.tandfonline.com/toc/tjrt20/current))
