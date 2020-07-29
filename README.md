@@ -621,6 +621,7 @@ Thanks to all the people who have helped and supported me massively through this
 10. [Javier Ideami](https://github.com/javismiles)
 11. [Ioannis Anifantakis](https://github.com/ioannisa)
 12. [George Christopoulos](https://github.com/geochri)
+13. [Miklos Toth](https://hu.linkedin.com/in/miklostoth)
 
 And many more including the [Fast AI community](https://forums.fast.ai/t/meet-mish-new-activation-function-possible-successor-to-relu/53299/647), [Weights and Biases Community](https://www.wandb.com/), [TensorFlow Addons team](https://www.tensorflow.org/addons), [SpaCy/Thinc team](https://explosion.ai/), [Sicara team](https://www.sicara.fr/), [Udacity scholarships team](https://www.udacity.com/scholarships) to name a few. *Apologies if I missed out anyone.*
 
