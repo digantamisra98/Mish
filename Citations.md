@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-46-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-47-green.svg" /></a>
 </p>
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
@@ -48,3 +48,4 @@
 - Regularized Flexible Activation Function Combinations for Deep Neural Networks: [Paper](https://arxiv.org/abs/2007.13101)
 - Designing a lightweight 1D convolutional neural network with Bayesian optimization for wheel flat detection using carbody accelerations: [Paper](https://www.tandfonline.com/doi/abs/10.1080/23248378.2020.1795942) (Accepted to [International Journal of Rail Transportation](https://www.tandfonline.com/toc/tjrt20/current))
 - Hand Pose Estimation from RGBD Images: [Paper](https://dspace.vsb.cz/bitstream/handle/10084/140604/SIM0242_FEI_N2647_2612T025_2020.pdf?sequence=1)
+- A Robust Fabric Defect Detection Method Based on Improved RefineDet : [Paper](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.mdpi.com/1424-8220/20/15/4260/pdf&ved=2ahUKEwicisnL7_XqAhXc7XMBHZs4ADUQFjACegQIAhAB&usg=AOvVaw2k7xh7t6NxGSodb8WY5s8K)
