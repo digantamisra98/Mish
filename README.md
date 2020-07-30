@@ -14,15 +14,15 @@
     <a href="https://arxiv.org/abs/1908.08681" alt="ArXiv">
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-46-lightgrey.svg" /></a>
-  <a href=" " alt="Publication">
+        <img src="https://img.shields.io/badge/Citations-47-lightgrey.svg" /></a>
+  <a href="https://bmvc2020.github.io/index.html" alt="Publication">
         <img src="https://img.shields.io/badge/BMVC-2020-red.svg" /></a>
    <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
         <img src="https://img.shields.io/twitter/url/https/twitter.com/DigantaMisra1.svg?style=social&label=Follow%20%40DigantaMisra1" /></a>
 </p>
 
 <h1 align="center">Mish: Self Regularized <br> Non-Monotonic Activation Function</h1>
-<h2 align="center">BMVC 2020</h2>
+<p align="center">BMVC 2020</p>
 
 #### Note:
 - A considerably faster version based on CUDA can be found here - [Mish CUDA](https://github.com/thomasbrandon/mish-cuda) (All credits to Thomas Brandon for the same)
