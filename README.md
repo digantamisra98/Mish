@@ -22,8 +22,7 @@
 </p>
 
 <h1 align="center">Mish: Self Regularized <br> Non-Monotonic Activation Function</h1>
-
-**Accepted to [BMVC 2020](https://bmvc2020.github.io/index.html)**
+<h2 align="center">BMVC 2020</h2>
 
 #### Note:
 - A considerably faster version based on CUDA can be found here - [Mish CUDA](https://github.com/thomasbrandon/mish-cuda) (All credits to Thomas Brandon for the same)
