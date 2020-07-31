@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-47-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-48-green.svg" /></a>
 </p>
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
@@ -9,12 +9,10 @@
 - Connecting Optical Morphology, Environment, and H I Mass Fraction for Low-Redshift Galaxies Using Deep Learning: [Paper](https://arxiv.org/pdf/2001.00018.pdf), [Code](https://github.com/jwuphysics/HI-convnets)
 - Learning Neural Activations: [Paper](https://arxiv.org/abs/1912.12187), [Code](https://github.com/amina01/Learning-Neural-Activations)
 - Learning to Reconstruct Crack Profiles for Eddy Current Nondestructive Testing: [Paper](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_100.pdf), [Code](https://github.com/askerlee/EddyNet) (Accepted to [33rd NeurIPS ML4PS (Machine Learning and the Physical Sciences) Workshop](https://ml4physicalsciences.github.io/))
-- Classification of Hyperspectral Image Based on Double-Branch Dual-Attention Mechanism Network: [Paper](https://www.preprints.org/manuscript/201912.0059/v1), [Code](https://github.com/lironui/Double-Branch-Dual-Attention-Mechanism-Network)
 - A Survey of the Recent Architectures of Deep Convolutional Neural Networks: [Paper](https://arxiv.org/abs/1901.06032)
 - fastai—A Layered API for Deep Learning: [Paper](https://arxiv.org/abs/2002.04688), [Code](https://github.com/fastai/fastai2), [Blog](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/)
 - Soft-Root-Sign Activation Function: [Paper](https://arxiv.org/abs/2003.00547)
 - RMNv2: Reduced Mobilenet V2 for CIFAR10: [Paper](https://ieeexplore.ieee.org/abstract/document/9031131), [Thesis, Purdue University](https://scholarworks.iupui.edu/handle/1805/22610)
-- An Unsupervised Deep Learning System for Acoustic Scene Analysis : [Paper](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwj_ir221KfoAhWEzzgGHfvaCvEQFjAAegQIBRAB&url=https%3A%2F%2Fwww.mdpi.com%2F2076-3417%2F10%2F6%2F2076%2Fpdf&usg=AOvVaw2z_mDnB26SUSkMSV9Fl7ey&cshid=1584659582954994)
 - U-Det: A Modified U-Net architecture with bidirectional feature network for lung nodule segmentation : [Paper](https://arxiv.org/abs/2003.09293)
 - Dynamic ReLU : [Paper](https://arxiv.org/abs/2003.10027) (Microsoft Research (MSR))
 - TanhExp: A Smooth Activation Function with High Convergence Speed for Lightweight Neural Networks : [Paper](https://arxiv.org/abs/2003.09855) (Submitted to [IET Computer Vision](https://digital-library.theiet.org/content/journals/iet-cvi))
@@ -22,10 +20,8 @@
 - TResNet: High Performance GPU-Dedicated Architecture: [Paper](https://arxiv.org/abs/2003.13630)
 - MXR-U-Nets for Real Time Hyperspectral Reconstruction: [Paper](https://128.84.21.199/abs/2004.07003), [Code](https://github.com/akashpalrecha/hyperspectral-reconstruction)
 - Neural Architectures Design and Search for Deep Learning and Continual Learning: [Thesis](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/37440/etd.pdf?sequence=1)
-- Analyzing Lung Disease Using Highly Effective Deep Learning Techniques: [Paper](https://www.mdpi.com/2227-9032/8/2/107)
 - YOLOv4: Optimal Speed and Accuracy of Object Detection: [Paper](https://arxiv.org/abs/2004.10934), [Code](https://github.com/AlexeyAB/darknet)
 - sEMG Gesture Recognition With a Simple Model of Attention: [Paper](https://www.semanticscholar.org/paper/sEMG-Gesture-Recognition-With-a-Simple-Model-of-Josephs-Drake/0e7d56890d07ade3ed153fd1d1cdb212aa0e257e), [Code](https://github.com/josephsdavid/MYO-Transfer-Capstone)
-- Deep-Learning-Based Active Hyperspectral Imaging Classification Method Illuminated by the Supercontinuum Laser: [Paper](https://www.mdpi.com/2076-3417/10/9/3088/pdf)
 - Optimized Light-Weight Convolutional Neural Networks for Histopathologic Cancer Detection: [Paper](https://ieeexplore.ieee.org/abstract/document/9080968/references#references)
 - NTIRE 2020 Challenge on Spectral Reconstruction from an RGB Image: [Paper](https://arxiv.org/pdf/2005.03412.pdf) (Review of the [New Trends in Image Restoration and Enhancement workshop and challenges on image and video restoration and enhancement](https://data.vision.ee.ethz.ch/cvl/ntire20/) in conjuction with CVPR 2020)
 - Style transfer with variational autoencoders is a promising approach to RNA-Seq data harmonization and analysis: [Paper](https://www.biorxiv.org/content/10.1101/791962v2)
@@ -41,11 +37,9 @@
 - MSMD-Net: Deep Stereo Matching with Multi-scale and Multi-dimension Cost Volume: [Paper](https://arxiv.org/abs/2006.12797), [Code](https://github.com/gallenszl/MSMD-Net)
 - PATS: A New Neural Network Activation Function with Parameter: [Paper](https://ieeexplore.ieee.org/document/9118471), [Code](https://github.com/zbygithub/PATS)
 - Deep Learning Based Analysis of Prostate Cancer from MP-MRI: [Thesis, Aalto University](https://aaltodoc2.org.aalto.fi/handle/123456789/44951)
-- Multi-View Pose Generator Based on Deep Learning for Monocular 3D Human Pose Estimation: [Paper](https://www.mdpi.com/2073-8994/12/7/1116/pdf)
 - Accurate, Data-Efficient, Unconstrained Text Recognition with Convolutional Neural Networks: [Paper](https://www.sciencedirect.com/science/article/pii/S0031320320302855?casa_token=AWDPBJdKDgQAAAAA:uSgpZBV825NSsVZHGbe4qhUdYP2KGsev4CJheoKA4gvmE0Hll202pzc_E_IsAfceM9CqwpqKXAJQ#!)
 - Sound Event Detection in Domestic Environments using Dense Recurrent Neural Network : [Paper](http://dcase.community/documents/challenge2020/technical_reports/DCASE2020_Yao_66.pdf)
 - Federated Self-Supervised Learning of Multi-Sensor Representations for Embedded Intelligence: [Paper](https://arxiv.org/abs/2007.13018) (Accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/))
 - Regularized Flexible Activation Function Combinations for Deep Neural Networks: [Paper](https://arxiv.org/abs/2007.13101)
 - Designing a lightweight 1D convolutional neural network with Bayesian optimization for wheel flat detection using carbody accelerations: [Paper](https://www.tandfonline.com/doi/abs/10.1080/23248378.2020.1795942) (Accepted to [International Journal of Rail Transportation](https://www.tandfonline.com/toc/tjrt20/current))
 - Hand Pose Estimation from RGBD Images: [Paper](https://dspace.vsb.cz/bitstream/handle/10084/140604/SIM0242_FEI_N2647_2612T025_2020.pdf?sequence=1)
-- A Robust Fabric Defect Detection Method Based on Improved RefineDet : [Paper](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.mdpi.com/1424-8220/20/15/4260/pdf&ved=2ahUKEwicisnL7_XqAhXc7XMBHZs4ADUQFjACegQIAhAB&usg=AOvVaw2k7xh7t6NxGSodb8WY5s8K)
