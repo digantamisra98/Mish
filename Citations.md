@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-50-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-52-green.svg" /></a>
 </p>
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
@@ -44,3 +44,5 @@
 - Designing a lightweight 1D convolutional neural network with Bayesian optimization for wheel flat detection using carbody accelerations: [Paper](https://www.tandfonline.com/doi/abs/10.1080/23248378.2020.1795942) (Accepted to [International Journal of Rail Transportation](https://www.tandfonline.com/toc/tjrt20/current))
 - Hand Pose Estimation from RGBD Images: [Paper](https://dspace.vsb.cz/bitstream/handle/10084/140604/SIM0242_FEI_N2647_2612T025_2020.pdf?sequence=1)
 - Deep Embeddings of Contextual Assessment Data for Improving Performance Prediction: [Paper](https://www.semanticscholar.org/paper/Deep-Embeddings-of-Contextual-Assessment-Data-for-Clavi%C3%A9-Gal/e5c98454b0708616d60f7d7336fe90fadaeafafc?citingPapersSort=relevance&citingPapersLimit=10&citingPapersOffset=0&year%5B0%5D=&year%5B1%5D=&citedPapersSort=relevance&citedPapersLimit=10&citedPapersOffset=10)
+- KAPLAN: A 3D Point Descriptor for Shape Completion: [Paper](https://arxiv.org/abs/2008.00096)
+- Robust Collaborative Learning of Patch-level and Image-level Annotations for Diabetic Retinopathy Grading from Fundus Image: [Paper](https://www.semanticscholar.org/paper/Robust-Collaborative-Learning-of-Patch-level-and-Yang-Shang/76c342dab14d5fe3a33c975b3703973f2218a583?citingPapersSort=relevance&citingPapersLimit=10&citingPapersOffset=0&year%5B0%5D=&year%5B1%5D=&citedPapersSort=relevance&citedPapersLimit=10&citedPapersOffset=0)
