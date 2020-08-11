@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-52-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-54-green.svg" /></a>
 </p>
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
@@ -46,3 +46,5 @@
 - Deep Embeddings of Contextual Assessment Data for Improving Performance Prediction: [Paper](https://www.semanticscholar.org/paper/Deep-Embeddings-of-Contextual-Assessment-Data-for-Clavi%C3%A9-Gal/e5c98454b0708616d60f7d7336fe90fadaeafafc?citingPapersSort=relevance&citingPapersLimit=10&citingPapersOffset=0&year%5B0%5D=&year%5B1%5D=&citedPapersSort=relevance&citedPapersLimit=10&citedPapersOffset=10)
 - KAPLAN: A 3D Point Descriptor for Shape Completion: [Paper](https://arxiv.org/abs/2008.00096)
 - Robust Collaborative Learning of Patch-level and Image-level Annotations for Diabetic Retinopathy Grading from Fundus Image: [Paper](https://www.semanticscholar.org/paper/Robust-Collaborative-Learning-of-Patch-level-and-Yang-Shang/76c342dab14d5fe3a33c975b3703973f2218a583?citingPapersSort=relevance&citingPapersLimit=10&citingPapersOffset=0&year%5B0%5D=&year%5B1%5D=&citedPapersSort=relevance&citedPapersLimit=10&citedPapersOffset=0)
+- Actor-Action Video Classification CSC 249/449 Spring 2020 Challenge Report: [Report](https://arxiv.org/pdf/2008.00141.pdf)
+- Gait Recognition using FMCW Radar and Temporal Convolutional Deep Neural Networks: [Paper](https://ieeexplore.ieee.org/abstract/document/9160199) ([Accepted to 2020 IEEE 7th International Workshop on Metrology for AeroSpace (MetroAeroSpace)](https://ieeexplore.ieee.org/xpl/conhome/9151872/proceeding))
