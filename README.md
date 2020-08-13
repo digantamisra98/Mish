@@ -39,6 +39,7 @@
 - [07/17] Poster accepted for presentation at [DLRLSS](https://dlrlsummerschool.ca/) hosted by [MILA](https://mila.quebec/en/), [CIFAR](https://www.cifar.ca/), [Vector Institute](https://vectorinstitute.ai/) and [AMII](https://www.amii.ca/)
 - [07/20] Mish added to [Google's AutoML](https://github.com/google/automl) - [502](https://github.com/google/automl/commit/28cf011689dacda90fe1ae6da59b92c0d3f2c9d9) 
 - [07/27] Mish paper accepted to [31st British Machine Vision Conference (BMVC), 2020](https://bmvc2020.github.io/index.html). ArXiv version to be updated soon. 
+- [08/13] New updated PyTorch benchmarks and pretrained models available on [PyTorch Benchmarks](https://github.com/digantamisra98/Mish/tree/master/PyTorch%20Benchmarks).
 
 ### Also take a look at:
 
