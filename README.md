@@ -11,7 +11,7 @@
         <img src="https://api.codacy.com/project/badge/Grade/f67cf4cf73bf47fbbe4b3dd6f78bb10b" /></a>
     <a href="https://circleci.com/gh/digantamisra98/Mish">
         <img src="https://circleci.com/gh/digantamisra98/Mish.svg?style=svg" /></a>
-    <a href="https://arxiv.org/abs/1908.08681" alt="ArXiv">
+    <a href="https://arxiv.org/abs/1908.08681v3" alt="ArXiv">
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
    <a href=" " alt="Citations">
         <img src="https://img.shields.io/badge/Citations-54-lightgrey.svg" /></a>
@@ -40,6 +40,7 @@
 - [07/20] Mish added to [Google's AutoML](https://github.com/google/automl) - [502](https://github.com/google/automl/commit/28cf011689dacda90fe1ae6da59b92c0d3f2c9d9) 
 - [07/27] Mish paper accepted to [31st British Machine Vision Conference (BMVC), 2020](https://bmvc2020.github.io/index.html). ArXiv version to be updated soon. 
 - [08/13] New updated PyTorch benchmarks and pretrained models available on [PyTorch Benchmarks](https://github.com/digantamisra98/Mish/tree/master/PyTorch%20Benchmarks).
+- [08/14] New updated [Arxiv](https://arxiv.org/abs/1908.08681v3) version of the paper is out.
 
 ### Also take a look at:
 
