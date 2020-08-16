@@ -287,58 +287,58 @@ To observe how increasing the number of layers in a network while maintaining ot
 The consistency of Mish providing better test top-1 accuracy as compared to Swish and ReLU was also observed by increasing Batch Size for a ResNet v2-20 on CIFAR-10 for 50 epochs while keeping all other network parameters to be constant for fair comparison.
 
 <p float="left">
-  <img src="Observations/layersacc.png"  width="420"/>
-  <img src="Observations/batchacc.png"  width="420"/> 
+  <img src="Observations/layersacc.png"  width="400"/>
+  <img src="Observations/batchacc.png"  width="400"/> 
 </p>
 
 Gaussian Noise with varying standard deviation was added to the input in case of MNIST classification using a simple conv net to observe the trend in decreasing test top-1 accuracy for Mish and compare it to that of ReLU and Swish. Mish mostly maintained a consistent lead over that of Swish and ReLU (Less than ReLU in just 1 instance and less than Swish in 3 instance) as shown below. The trend for test loss was also observed following the same procedure. (Mish has better loss than both Swish and ReLU except in 1 instance)
 
 <p float="left">
-  <img src="Observations/noise.png"  width="420"/>
-  <img src="Observations/noise1.png"  width="420"/> 
+  <img src="Observations/noise.png"  width="400"/>
+  <img src="Observations/noise1.png"  width="400"/> 
 </p>
 
 The effect of various Optimizers on the Test Top-1 Accuracy of a simple 4 layered Conv Net with Mish on MNIST was visualized and compared against Swish. Mish had a better accuracy in 7 out of the 9 optimizers as shown below. Mish was also tested for different Learning Rates for *SGD* optimizer on MNIST and compared to Swish. The comparison confirms that Mish performs best on lower learning rates as compared to Swish. 
 
 <p float="left">
-  <img src="Observations/optim.png"  width="420"/>
-  <img src="Observations/lr.png"  width="420"/>
+  <img src="Observations/optim.png"  width="400"/>
+  <img src="Observations/lr.png"  width="400"/>
 </p>
 
 The effect of various Weight initializers and Regularizers on the Test Top-1 Accuracy in the fully connected Dense Layer of a simple 4 layered Conv Net with Mish on MNIST was compared to that with Swish and the plots beneath shows that Mish has a significant improvement over Swish. 
 
 <p float="left">
-  <img src="Observations/init.png"  width="420"/>
-  <img src="Observations/l1l2.png"  width="420"/>
+  <img src="Observations/init.png"  width="400"/>
+  <img src="Observations/l1l2.png"  width="400"/>
 </p>
 
 The effect of increasing dropout rates and increasing dense units on Test Top-1 Accuracy for a 4 layered network using Mish on MNIST was compared to Swish. The graphs below show the consistency of Mish over Swish.
 
 <p float="left">
-  <img src="Observations/drop.png"  width="420"/>
-  <img src="Observations/dense.png"  width="420"/>
+  <img src="Observations/drop.png"  width="400"/>
+  <img src="Observations/dense.png"  width="400"/>
 </p>
 
 ### CIFAR10:
 
 <p float="left">
-  <img src="Observations/dropc10.png"  width="420"/>
-  <img src="Observations/densec10.png"  width="420"/>
+  <img src="Observations/dropc10.png"  width="400"/>
+  <img src="Observations/densec10.png"  width="400"/>
 </p>
 
 <p float="left">
-  <img src="Observations/initc10.png"  width="420"/>
-  <img src="Observations/regc10.png"  width="420"/>
+  <img src="Observations/initc10.png"  width="400"/>
+  <img src="Observations/regc10.png"  width="400"/>
 </p>
 
 <p float="left">
-  <img src="Observations/lrc10.png"  width="420"/>
-  <img src="Observations/augc10.png"  width="420"/>
+  <img src="Observations/lrc10.png"  width="400"/>
+  <img src="Observations/augc10.png"  width="400"/>
 </p>
 
 <p float="left">
-  <img src="Observations/optimc10.png"  width="420"/>
-  <img src="Observations/policyan.png"  width="420"/>
+  <img src="Observations/optimc10.png"  width="400"/>
+  <img src="Observations/policyan.png"  width="400"/>
 </p>
 
 *All default parameters were used for Optimizers.* <br>
@@ -346,8 +346,8 @@ The effect of increasing dropout rates and increasing dense units on Test Top-1 
 *For One Cycle Policy, Min Learning Rate was set at 0.00000291545 (7e-3), Max Learning Rate was set at 0.00020408163 (7e-2), Min Momentum was set at 0.85, Max Momentum was set at 0.95, Annealing Stage was set at 0.1 and Annealing Rate was set at 0.01.*
 
 <p float="left">
-  <img src="Observations/mix1.png"  width="420"/>
-  <img src="Observations/mix2.png"  width="420"/>
+  <img src="Observations/mix1.png"  width="400"/>
+  <img src="Observations/mix2.png"  width="400"/>
 </p>
 
 ## Edge of Chaos and Rate of Convergence (EOC & ROC)/ Hessian Energy Computation Analysis: 
