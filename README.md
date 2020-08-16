@@ -630,12 +630,10 @@ And many more including the [Fast AI community](https://forums.fast.ai/t/meet-mi
 ## Cite this work:
 
 ```
-@misc{misra2019mish,
-    title={Mish: A Self Regularized Non-Monotonic Neural Activation Function},
-    author={Diganta Misra},
-    year={2019},
-    eprint={1908.08681},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+@article{misra2019mish,
+  title={Mish: A self regularized non-monotonic neural activation function},
+  author={Misra, Diganta},
+  journal={arXiv preprint arXiv:1908.08681},
+  year={2019}
 }
 ```
