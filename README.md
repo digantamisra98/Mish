@@ -41,6 +41,7 @@
 - [07/27] Mish paper accepted to [31st British Machine Vision Conference (BMVC), 2020](https://bmvc2020.github.io/index.html). ArXiv version to be updated soon. 
 - [08/13] New updated PyTorch benchmarks and pretrained models available on [PyTorch Benchmarks](https://github.com/digantamisra98/Mish/tree/master/PyTorch%20Benchmarks).
 - [08/14] New updated [Arxiv](https://arxiv.org/abs/1908.08681v3) version of the paper is out.
+- [08/18] Mish added to [Sony Nnabla](https://github.com/sony/nnabla) - [Merged-700](https://github.com/sony/nnabla/pull/700)
 
 ### Also take a look at:
 
@@ -82,6 +83,10 @@
 ## Official Package Based Implementations: 
 
 <div style="text-align:center"><img src ="logo_gif.gif"  width="1000"/></div>
+
+## [MILA/ CIFAR 2020 DLRLSS](https://dlrl.ca/) Poster:
+
+<div style="text-align:center"><img src ="poster_landscape-1.png"  width="1000"/></div>
 
 ## Contents: 
 
