@@ -50,3 +50,4 @@
 - Gait Recognition using FMCW Radar and Temporal Convolutional Deep Neural Networks: [Paper](https://ieeexplore.ieee.org/abstract/document/9160199) ([Accepted to 2020 IEEE 7th International Workshop on Metrology for AeroSpace (MetroAeroSpace)](https://ieeexplore.ieee.org/xpl/conhome/9151872/proceeding))
 - An Ensemble of Knowledge Sharing Models for Dynamic Hand Gesture Recognition: [Paper](https://arxiv.org/pdf/2008.05732.pdf)
 - Predictive spectral analysis using an end-to-end deep model from hyperspectral images for high-throughput plant phenotyping: [Paper](https://www.researchgate.net/publication/343677373_Predictive_spectral_analysis_using_an_end-to-end_deep_model_from_hyperspectral_images_for_high-throughput_plant_phenotyping)
+- A Deep Convolutional Neural Network for the Detection of Polyps in Colonoscopy Images: [Paper](https://arxiv.org/abs/2008.06721)
