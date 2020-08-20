@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-57-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-59-green.svg" /></a>
 </p>
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
@@ -51,3 +51,5 @@
 - An Ensemble of Knowledge Sharing Models for Dynamic Hand Gesture Recognition: [Paper](https://arxiv.org/pdf/2008.05732.pdf)
 - Predictive spectral analysis using an end-to-end deep model from hyperspectral images for high-throughput plant phenotyping: [Paper](https://www.researchgate.net/publication/343677373_Predictive_spectral_analysis_using_an_end-to-end_deep_model_from_hyperspectral_images_for_high-throughput_plant_phenotyping)
 - A Deep Convolutional Neural Network for the Detection of Polyps in Colonoscopy Images: [Paper](https://arxiv.org/abs/2008.06721)
+- An Improved Deep Convolutional Neural Network-Based Autonomous Road Inspection Scheme Using Unmanned Aerial Vehicles: [Paper](https://arxiv.org/abs/2008.06189)
+- Deep Volumetric Ambient Occlusion : [Paper](https://arxiv.org/abs/2008.08345) (Accepted at [IEEE VIS SciVis 2020](http://ieeevis.org/year/2020/welcome))
