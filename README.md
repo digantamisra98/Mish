@@ -14,7 +14,7 @@
     <a href="https://arxiv.org/abs/1908.08681v3" alt="ArXiv">
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-57-lightgrey.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-59-lightgrey.svg" /></a>
   <a href="https://bmvc2020.github.io/index.html" alt="Publication">
         <img src="https://img.shields.io/badge/BMVC-2020-red.svg" /></a>
    <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
