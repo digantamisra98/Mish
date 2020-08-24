@@ -80,6 +80,14 @@
         <img src="podcast_logo/yt1.png" width="100"/></a>
 </p>
 
+- (08/2020): Talk on Mish and Non-Linear Dynamics at [Computer Vision Talks](https://computervisiontalks.github.io/). Watch on:
+<p float="center">
+  &emsp;
+  &emsp;
+  <a href="https://youtu.be/whOdg-yrgdI" alt="YouTube">
+        <img src="podcast_logo/yt1.png" width="100"/></a>
+</p>
+
 ## Official Package Based Implementations: 
 
 <div style="text-align:center"><img src ="packg.gif"  width="1000"/></div>
