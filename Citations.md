@@ -1,8 +1,10 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-59-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-60-green.svg" /></a>
 </p>
+
+*MDPI articles are not maintained in this list*
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
 - Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non-Gaussian hydraulic conductivities: [Paper](https://arxiv.org/pdf/1906.11828.pdf) (Submitted to [Wiley Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973))
