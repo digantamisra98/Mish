@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-60-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-62-green.svg" /></a>
 </p>
 
 *MDPI articles are not maintained in this list*
@@ -55,3 +55,4 @@
 - A Deep Convolutional Neural Network for the Detection of Polyps in Colonoscopy Images: [Paper](https://arxiv.org/abs/2008.06721)
 - An Improved Deep Convolutional Neural Network-Based Autonomous Road Inspection Scheme Using Unmanned Aerial Vehicles: [Paper](https://arxiv.org/abs/2008.06189)
 - Deep Volumetric Ambient Occlusion : [Paper](https://arxiv.org/abs/2008.08345) (Accepted at [IEEE VIS SciVis 2020](http://ieeevis.org/year/2020/welcome))
+- DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic: [Paper](https://arxiv.org/abs/2008.11672)
