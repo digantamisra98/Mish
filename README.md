@@ -138,12 +138,20 @@
 
 # Mish:
 
+<p align="left">
+  <img width="500" src="Observations/Mish3.png">
+</p>
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=f(x)&space;=&space;x\tanh&space;(softplus(x))&space;=&space;x\tanh(\ln&space;(1&space;&plus;&space;e^{x}))" target="_blank"><img src="https://latex.codecogs.com/svg.latex?f(x)&space;=&space;x\tanh&space;(softplus(x))&space;=&space;x\tanh(\ln&space;(1&space;&plus;&space;e^{x}))" title="f(x) = x\tanh (softplus(x)) = x\tanh(\ln (1 + e^{x}))" /></a>
 
 Minimum of *f(x)* is observed to be ≈-0.30884 at *x*≈-1.1924<br>
 Mish has a parametric order of continuity of: C<sup>∞</sup>
 
 Derivative of Mish with respect to Swish and Δ(x) preconditioning:
+
+<p align="left">
+  <img width="1000" src="Observations/Derivatives.png">
+</p>
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=f'(x)&space;=&space;(sech^{2}(softplus(x)))(xsigmoid(x))&space;&plus;&space;\frac{f(x)}{x}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?f'(x)&space;=&space;(sech^{2}(softplus(x)))(xsigmoid(x))&space;&plus;&space;\frac{f(x)}{x}" title="f'(x) = (sech^{2}(softplus(x)))(xsigmoid(x)) + \frac{f(x)}{x}" /></a>
 
