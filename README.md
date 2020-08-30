@@ -102,93 +102,35 @@
 
 ## Contents: 
 
-1. [Introduction](https://github.com/digantamisra98/Mish#introduction)
-2. [Mathematics under the hood](https://github.com/digantamisra98/Mish#mathematics-under-the-hood) <br>
+1. [Mish](https://github.com/digantamisra98/Mish#mathematics-under-the-hood) <br>
    a. [Loss landscape](https://github.com/digantamisra98/Mish#loss-landscape) 
-3. [ImageNet Scores](https://github.com/digantamisra98/Mish#imagenet-scores)
-4. [MS-COCO](https://github.com/digantamisra98/Mish#ms-coco)
-5. [Variation of Parameter Comparison](https://github.com/digantamisra98/Mish#variation-of-parameter-comparison)<br>
+2. [ImageNet Scores](https://github.com/digantamisra98/Mish#imagenet-scores)
+3. [MS-COCO](https://github.com/digantamisra98/Mish#ms-coco)
+4. [Variation of Parameter Comparison](https://github.com/digantamisra98/Mish#variation-of-parameter-comparison)<br>
    a. [MNIST](https://github.com/digantamisra98/Mish#mnist)<br>
    b. [CIFAR10](https://github.com/digantamisra98/Mish#cifar10)<br>
-6. [Edge of Chaos and Rate of Convergence (EOC & ROC)/ Hessian Energy Computation Analysis:](https://github.com/digantamisra98/Mish#edge-of-chaos-and-rate-of-convergence-eoc--roc-hessian-energy-computation-analysis)
-7. [Significance Level](https://github.com/digantamisra98/Mish#significance-level) <br>
+5. [Significance Level](https://github.com/digantamisra98/Mish#significance-level) <br>
    a. [Sample Size = 3](https://github.com/digantamisra98/Mish#sample-size--3)<br>
    b. [Sample Size = 23](https://github.com/digantamisra98/Mish#sample-size--23)<br>
    c. [Confidence Interval Profiles](https://github.com/digantamisra98/Mish#confidence-interval-profiles)<br>
-8. [Properties Summary](https://github.com/digantamisra98/Mish#properties-summary)
-9. [Results](https://github.com/digantamisra98/Mish#results)<br>
+6. [Results](https://github.com/digantamisra98/Mish#results)<br>
    a. [Summary of Results (Vision Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-vision-tasks)<br>
    b. [Summary of Results (Language Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-language-tasks)<br>
    c. [Sample Result](https://github.com/digantamisra98/Mish#sample-result)<br>
-10. [Try It!](https://github.com/digantamisra98/Mish#try-it)<br>
+7. [Try It!](https://github.com/digantamisra98/Mish#try-it)<br>
     a. [Demo Jupyter Notebooks](https://github.com/digantamisra98/Mish#demo-jupyter-notebooks)<br>
     b. [Torch](https://github.com/digantamisra98/Mish#torch)<br>
     c. [TensorFlow](https://github.com/digantamisra98/Mish#tensorflow)<br>
     d. [MXNet](https://github.com/digantamisra98/Mish#mxnet)<br>
-11. [Future Work (Coming Soon)](https://github.com/digantamisra98/Mish#future-work-coming-soon)
-13. [Acknowledgements](https://github.com/digantamisra98/Mish#acknowledgements)
-12. [Cite this work](https://github.com/digantamisra98/Mish#cite-this-work)
-   
+8. [Future Work (Coming Soon)](https://github.com/digantamisra98/Mish#future-work-coming-soon)
+9. [Acknowledgements](https://github.com/digantamisra98/Mish#acknowledgements)
+10. [Cite this work](https://github.com/digantamisra98/Mish#cite-this-work)
 
-## Introduction:
-
-Inspired by *Swish* Activation Function ([Paper](https://arxiv.org/abs/1710.05941)), **Mish** is a Self Regularized Non-Monotonic Neural Activation Function. Activation Function serves a core functionality in the training process of a Neural Network Architecture and is represented by the basic mathematical representation: 
-<div style="text-align:center"><img src ="Observations/act.png"  width="500"/></div>
-<em> Image Credits: https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions
-</em><br>
-<br>
-An Activation Function is generally used to introduce non-linearity and over the years of theoretical machine learning research, many activation functions have been constructed with the 2 most popular amongst them being: 
-
-- ReLU (Rectified Linear Unit; f(x)=max(0,x)) <br>
-- TanH <br>
-
-Other notable ones being: <br> 
-- Softmax (Used for Multi-class Classification in the output layer) <br> 
-- Sigmoid (f(x)=(1+e<sup>-x</sup>)<sup>-1</sup>;Used for Binary Classification and Logistic Regression) <br>
-- Leaky ReLU (f(x)=0.001x (x<0) or x (x>0)) <br>
-
-## Mathematics under the hood:
-
-Mish Activation Function can be mathematically represented by the following formula:<br> 
-<div style="text-align:center"><img src ="Observations/imgtemp_ugysxo-1.png"  width="200"/></div>
-It can also be represented by using the SoftPlus Activation Function as shown:<br><br>
-<div style="text-align:center"><img src ="Observations/imgtemp_x5rglu-1.png"  width="150"/></div>
-<div style="text-align:center"><img src ="Observations/imgtemp_utahjs-1.png"  width="270"/></div><br>
-And it's 1<sup>st</sup> and 2<sup>nd</sup> derivatives are given below:<br>
-<div style="text-align:center"><img src ="Observations/d1.png"  width="120"/></div>
-<div style="text-align:center"><img src ="Observations/d2.png"  width="650"/></div><br>
-Where:<br>
-<div style="text-align:center"><img src ="Observations/delta.png"  width="150"/></div>
-<div style="text-align:center"><img src ="Observations/omega.png"  width="350"/></div>
-<br>
-
-The Taylor Series Expansion of *f(x)* at *x=0* is given by: <br>
-<div style="text-align:center"><img src ="Observations/series.png"  width="500"/></div><br>
-
-The Taylor Series Expansion of *f(x)* at *x=∞* is given by: <br>
-<div style="text-align:center"><img src ="Observations/series2.png"  width="350"/></div><br>
+## Mish:
 
 Minimum of *f(x)* is observed to be ≈-0.30884 at *x*≈-1.1924<br>
 
-When visualized, Mish Activation Function closely resembles the function path of Swish having a small decay (preserve) in the negative side while being near linear on the positive side. It is a Non-Monotonic Function and as observed from it's derivatives functions shown above and graph shown below, it can be noted that it has a Non-Monotonic 1<sup>st</sup> derivative and 2<sup>nd</sup> derivative. <br>
-
-**Mish** ranges between ≈-0.31 to ∞.<br>
-<div style="text-align:center"><img src ="Observations/Mish3.png"  width="800"/></div>
-<div style="text-align:center"><img src ="Observations/Derivatives.png"  width="800"/></div>
-
-Following image shows the effect of Mish being applied on random noise. This is a replication of the effect of the activation function on the image tensor inputs in CNN models. 
-
-<div style="text-align:center"><img src ="Observations/Mish_noise.png"  width="800"/></div>
-
 Based on mathematical analysis, it is also confirmed that the function has a parametric order of continuity of: C<sup>∞</sup>
-
-**Mish** has a very sharp global minima similar to Swish, which might account to gradients updates of the model being stuck in the region of sharp decay thus may lead to bad performance levels as compared to ReLU. Mish, also being mathematically heavy, is more computationally expensive as compared to the time complexity of Swish Activation Function. 
-
-The output landscape of 5 layer randomly initialized neural network was compared for ReLU, Swish, and Mish. The observation clearly shows the sharp transition between the scalar magnitudes for the co-ordinates of ReLU as compared to Swish and Mish. Smoother transition results in smoother loss functions which are easier to optimize and hence the network generalizes better. Additional comparison of output landscapes is done for GELU, SELU, ELU, Leaky ReLU, PReLU and RReLU. Most of them similar to ReLU have sharp transitions in the output landscape and thus prove to be a roadblock to effective optimization of gradients. 
-
-<div style="text-align:center"><img src ="Observations/Mish_Landscape_1.png"  width="800"/></div>
-<div style="text-align:center"><img src ="Observations/comp123.png"  width="800"/></div>
-<div style="text-align:center"><img src ="Observations/comp1234.png"  width="800"/></div>
 
 #### Loss Landscape:
 
@@ -201,14 +143,6 @@ Loss landscape visualizations for a ResNet-20 for CIFAR 10 using Mish, Swish and
 <br>
 
 Mish provides much better accuracy, overall lower loss, smoother and well conditioned easy-to-optimize loss landscape as compared to both Swish and ReLU. For all loss landscape visualizations please visit this [readme](https://github.com/digantamisra98/Mish/blob/master/landscapes/Landscape.md). For the non-labelled visualization it's ReLu followed by Mish followed by Swish from left to right. 
-
-The Pre-Activations (ωx + b) distribution was observed for the final convolution layer in a ResNet v1-20 with Mish activation function before and after training for 20 epochs on CIFAR-10. As shown below, units are being preserved in the negative side which improves the network capacity to generalize well due to less loss of information. 
-
-<div style="text-align:center"><img src ="Observations/Distribution.png"  width="800"/></div>
-
-Complex Analysis of Mish Activation Function: 
-
-<div style="text-align:center"><img src ="Observations/complex.png"  width="800"/></div>
 
 ## ImageNet Scores:
 
@@ -315,104 +249,16 @@ Gaussian Noise with varying standard deviation was added to the input in case of
   <img src="Observations/noise1.png"  width="400"/> 
 </p>
 
-The effect of various Optimizers on the Test Top-1 Accuracy of a simple 4 layered Conv Net with Mish on MNIST was visualized and compared against Swish. Mish had a better accuracy in 7 out of the 9 optimizers as shown below. Mish was also tested for different Learning Rates for *SGD* optimizer on MNIST and compared to Swish. The comparison confirms that Mish performs best on lower learning rates as compared to Swish. 
-
-<p float="left">
-  <img src="Observations/optim.png"  width="400"/>
-  <img src="Observations/lr.png"  width="400"/>
-</p>
-
-The effect of various Weight initializers and Regularizers on the Test Top-1 Accuracy in the fully connected Dense Layer of a simple 4 layered Conv Net with Mish on MNIST was compared to that with Swish and the plots beneath shows that Mish has a significant improvement over Swish. 
-
-<p float="left">
-  <img src="Observations/init.png"  width="400"/>
-  <img src="Observations/l1l2.png"  width="400"/>
-</p>
-
-The effect of increasing dropout rates and increasing dense units on Test Top-1 Accuracy for a 4 layered network using Mish on MNIST was compared to Swish. The graphs below show the consistency of Mish over Swish.
-
-<p float="left">
-  <img src="Observations/drop.png"  width="400"/>
-  <img src="Observations/dense.png"  width="400"/>
-</p>
-
 ### CIFAR10:
 
 <p float="left">
-  <img src="Observations/dropc10.png"  width="400"/>
+  <img src="Observations/initc10.png"  width="400"/>
   <img src="Observations/densec10.png"  width="400"/>
 </p>
 
-<p float="left">
-  <img src="Observations/initc10.png"  width="400"/>
-  <img src="Observations/regc10.png"  width="400"/>
-</p>
-
-<p float="left">
-  <img src="Observations/lrc10.png"  width="400"/>
-  <img src="Observations/augc10.png"  width="400"/>
-</p>
-
-<p float="left">
-  <img src="Observations/optimc10.png"  width="400"/>
-  <img src="Observations/policyan.png"  width="400"/>
-</p>
-
-*All default parameters were used for Optimizers.* <br>
-*For Cosine Annealing, Max η was set at 0.01 (1e-2) and Min η was set at 0.0001 (1e-4)* <br>
-*For One Cycle Policy, Min Learning Rate was set at 0.00000291545 (7e-3), Max Learning Rate was set at 0.00020408163 (7e-2), Min Momentum was set at 0.85, Max Momentum was set at 0.95, Annealing Stage was set at 0.1 and Annealing Rate was set at 0.01.*
-
-<p float="left">
-  <img src="Observations/mix1.png"  width="400"/>
-  <img src="Observations/mix2.png"  width="400"/>
-</p>
-
-## Edge of Chaos and Rate of Convergence (EOC & ROC)/ Hessian Energy Computation Analysis: 
-
-**Coming Soon**
-
 ## Significance Level: 
 
-The P-values were computed for different activation functions in comparison to that of Mish on terms of Top-1 Testing Accuracy of a Squeeze Net Model on CIFAR-10 for 50 epochs for 3 runs and 23 runs using Adam Optimizer at a Learning Rate of 0.001 and Batch Size of 128. It was observed that Mish beats most of the activation functions at a high significance level in the 3 runs while for 23 runs, it beats ReLU at a high significance of P < 0.0001. Mish also had a comparatively lower standard deviation across both 3 and 23 runs which proves the consistency of performance for Mish.
-
-### Sample Size = 3:
-
-|Activation Function| Peak Accuracy | Mean Accuracy | Standard Deviation of Accuracy | P-value | Mean Loss|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mish|**88.15%**|**87.93%**|0.04358898943540784|-|**4.018666666666666%**|
-|ReLU|87.47%|87.06%|0.5311308689955831|P < 5e-2 (0.0475)|4.2956666666666665%|
-|Swish-1|87.88%|87.36333333333333%|0.135030860670192|P < 5e-3 (0.0023)|4.191%|
-|ELU(α=1.0)|86.82%|86.46333333333334%|0.07571877794400171|P < 0.0001|4.2090000000000005%|
-|E-Swish (β=1.75)|87.92%|87.53999999999999%|0.33421549934136363|P < 5e-1 (0.1156)| 4.091333333333333%|
-|GELU|87.89%|87.28%|0.15620499351812658|P < 5e-3 (0.0023)|4.405666666666667%|
-|HardShrink(λ = 0.5)|75.44%|74.89333333333333%|0.6035174672976259|P < 0.0001|7.278333333333333%|
-|Hardtanh|83.39%|82.79666666666667%|0.36963946398258196|P < 0.0001|5.132333333333333%|
-|Leaky ReLU(α=0.3)|87.27%|87.06666666666666%|0.06429100507328683|P < 0.0001|4.067333333333333%|
-|LogSigmoid|84.54%|82.41666666666667%|0.7203702751594688|P < 5e-4 (0.0002)|5.436%|
-|PReLU|85.82%|84.61666666666666%|0.4534681172181107|P < 5e-4 (0.0002)|5.366666666666666%|
-|RReLU|87.88%|86.82333333333334%|1.1430806329097392|P < 5e-1 (0.1691)|4.103666666666666%|
-|ReLU6|87.5%|87.02333333333333%|0.092915732431772|P < 5e-4 (0.0001)|4.202333333333334%|
-|SELU|84.54%|84.53666666666666%|0.26388128644020004|P < 0.0001|4.612666666666667%|
-|CELU(α=1.0)|87.2%|86.52%|0.32969683043669107|P < 5e-3 (0.0018)| 4.145666666666667%|
-|Sigmoid|81.75%|78.96%|1.8929606440705533|P < 5e-3 (0.0012)|6.463666666666667%|
-|SoftPlus(β = 1)|84.93%|81.92333333333333%|1.6565727672919628|P < 5e-3 (0.0033)|6.008666666666667%|
-|Tanhshrink|84.71%|83.63%|0.9457272334029457|P < 5e-3 (0.0014)|5.002666666666666%|
-|Tanh|84.2%|83.41%|0.7397972695272689|P <= 5e-4 (0.0005)|5.053%|
-|Softshrink(λ = 0.5)|83.34%|82.51666666666667%|0.22722969289539155|P < 0.0001|5.494666666666666%|
-|Softsign|83.64%|83.23333333333333%|0.4398105652816147|P = 0.0001|5.056666666666667%|
-|Aria-2(β = 1, α=1.5)|83.89%|82.67666666666666%|1.3052330570949109|P < 5e-3  (0.0022)|6.205666666666667%|
-|Bent's Identity|85.66%|85.19666666666666%|0.3500476158086701|P < 5e-4 (0.0002)|4.434333333333333%|
-|SQNL|83.72%|83.52%|0.20000000000000284|P < 0.0001|5.045%|
-|ELisH|87.89%|87.86%|**0.04358898943540458**|P < 5e-1 (0.1206)|4.138%|
-|Hard ELisH|86.85%|86.29%|0.11789826122551722|P < 5e-4 (0.0001)|4.2967%|
-|SReLU|85.91%|85.347%|0.5600297611139322|P < 5e-3  (0.0013)|4.479%|
-|ISRU (α=1.0)|84.14%|82.86%|0.7396170180122467|P < 5e-4 (0.0003)|5.335%|
-|Flatten T-Swish|87.35%|86.85%|0.11060440015357959|P < 5e-4 (0.0001)|4.669%|
-|Soft Clipping (α=0.5)|71.62%|54.087%|9.498727985016378|P < 5e-3 (0.0035)|18.6857%|
-|SineReLU (ε = 0.001)|87.3%|87.13%|0.187705443004009|P < 5e-3 (0.0020)|4.2963%|
-|Weighted TanH (Weight = 1.7145)|83.52%|83.09%|0.356791255498227|P < 0.0001|5.22%|
-|Le Cun's Tanh|84.06%|82.79%|0.4751140214025823|P < 0.0001|5.2026666666666666%|
-|ISRLU (α=1.0)|87.1%|86.02%|0.8259136355172628|P < 5e-2 (0.0160)|4.373%|
+The P-values were computed for different activation functions in comparison to that of Mish on terms of Top-1 Testing Accuracy of a Squeeze Net Model on CIFAR-10 for 50 epochs for 23 runs using Adam Optimizer at a Learning Rate of 0.001 and Batch Size of 128. It was observed that Mish beats most of the activation functions at a high significance level in the 23 runs, specifically it beats ReLU at a high significance of P < 0.0001. Mish also had a comparatively lower standard deviation across 23 runs which proves the consistency of performance for Mish.
 
 ### Sample Size = 23:
 
@@ -494,22 +340,12 @@ The P-values were computed for different activation functions in comparison to t
 |Soft Clipping (α=0.5)|55.20956 ± 4.6841037|
 |ISRLU (α=1.0)|86.69956 ± 0.2502932|
 
-<div style="text-align:center"><img src ="Observations/ci2.png"  width="1000"/></div>
-
-## Properties Summary:
-
-|Activation Function Name| Function Graph | Equation | Range | Order of Continuity | Monotonic | Monotonic Derivative | Approximates Identity Near Origin| Dead Neurons | Saturated |
-|---|---|---|---|---|---|---|---|---|---|
-|Mish|<div style="text-align:center"><img src ="Observations/graph_mish.png"  width="500"/></div>|<div style="text-align:center"><img src ="Observations/table_eq.png"  width="700"/></div>| ≈-0.31 to ∞| C<sup>∞</sup> | No :negative_squared_cross_mark:| No :negative_squared_cross_mark: | Yes :heavy_check_mark: (Approximates half of identity at origin) | No :negative_squared_cross_mark: | No :negative_squared_cross_mark: |
-
 ## Results:
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mish-a-self-regularized-non-monotonic-neural/image-classification-on-cifar-100)](https://paperswithcode.com/sota/image-classification-on-cifar-100?p=mish-a-self-regularized-non-monotonic-neural)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mish-a-self-regularized-non-monotonic-neural/image-classification-on-cifar-10)](https://paperswithcode.com/sota/image-classification-on-cifar-10?p=mish-a-self-regularized-non-monotonic-neural)
 
 *News: [Ajay Arasanipalai](https://github.com/iyaja) recently submitted benchmark for CIFAR-10 training for the [Stanford DAWN Benchmark](https://dawn.cs.stanford.edu/benchmark/#cifar10-train-time) using a [Custom ResNet-9 + Mish](https://github.com/iyaja/cifar-10-faster) which achieved 94.05% accuracy in just 10.7 seconds in 14 epochs on the [HAL Computing Cluster](https://wiki.ncsa.illinois.edu/display/ISL20/HAL+cluster). This is the current fastest training of CIFAR-10 in 4 GPUs and 2nd fastest training of CIFAR-10 overall in the world.*
-
-All results and comparative analysis are present in the [Readme](https://github.com/digantamisra98/Mish/blob/master/Examples%20and%20Benchmarks/Readme.md) file present in the [Examples and Benchmarks Folder](https://github.com/digantamisra98/Mish/tree/master/Examples%20and%20Benchmarks).
 
 ### Summary of Results (Vision Tasks): 
 
@@ -589,11 +425,7 @@ All results and comparative analysis are present in the [Readme](https://github.
 |GELU|90.5063%|5.0612%|**98.754%**|
 |SELU|86.432%|6.89385%|97.8936%|
 
-<div style="text-align:center"><img src ="Observations/se50_1.png"  width="1000"/></div>
-
 It was observed that the stability of descent of Loss for SENet-50 with Mish is much better as compared to other activation functions. It was also observed that Mish was the only activation function which crossed the 91% mark for the Test Top-1 accuracy across both the runs while others reached a maximum of 90.7% with Mish recording the highest at 91.248%. 
-
-Note - The graph represents the Test Top-1 accuracy and loss. Training Top-1 Accuracy and Loss are represented using dashed lines. 
 
 ## Try It! 
 
