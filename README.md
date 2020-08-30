@@ -380,7 +380,7 @@ The P-values were computed for different activation functions in comparison to t
 
 <details>
   <summary><b>Future Work</b>: (Click to view)</summary>
-  <br>
+  
   * Comparison of Convergence Rates.
   * Normalizing constant for Mish to eliminate the use of Batch Norm.
   * Regularizing effect of the first derivative of Mish with repect to Swish. 
