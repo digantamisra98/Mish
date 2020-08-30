@@ -102,12 +102,18 @@
 
 <div style="text-align:center"><img src ="packg.gif"  width="1000"/></div>
 
+<br>
+<br>
+
 <details>
-  <summary><a href="https://dlrl.ca/">MILA/ CIFAR 2020 DLRLSS</a> (Click to view)</summary>
+  <summary><a href="https://dlrl.ca/"><b>MILA/ CIFAR 2020 DLRLSS</b></a> (Click to view)</summary>
   
   <div style="text-align:center"><img src ="poster_landscape-1.png"  width="1000"/></div>
 
 </details>
+
+<br>
+<br>
 
 <details>
   <summary><b>Contents</b>: (Click to expand)</summary>
@@ -137,6 +143,9 @@
   10. [Cite this work](https://github.com/digantamisra98/Mish#cite-this-work)
 
 </details>
+
+<br>
+<br>
 
 ## Mish:
 
