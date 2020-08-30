@@ -147,13 +147,13 @@
 <br>
 <br>
 
-## Mish:
+# Mish:
 
 Minimum of *f(x)* is observed to be ≈-0.30884 at *x*≈-1.1924<br>
 
 Based on mathematical analysis, it is also confirmed that the function has a parametric order of continuity of: C<sup>∞</sup>
 
-#### Loss Landscape:
+## Loss Landscape:
 
 Loss landscape visualizations for a ResNet-20 for CIFAR 10 using ReLU, Mish and Swish (from L-R) for 200 epochs training: 
 
