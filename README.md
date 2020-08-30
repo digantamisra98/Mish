@@ -136,8 +136,6 @@ Based on mathematical analysis, it is also confirmed that the function has a par
 
 Loss landscape visualizations for a ResNet-20 for CIFAR 10 using Mish, Swish and ReLU for 200 epochs training: 
 
-<div style="text-align:center"><img src ="landscapes/d2-transparent.png"  width="1000"/></div>
-<div style="text-align:center"><img src ="landscapes/landskape-relu-mish-july-20-Fixed.jpg"  width="1000"/></div>
 <div style="text-align:center"><img src ="landscapes/relu-mish-comparison-2.jpg"  width="1000"/></div>
 
 <br>
