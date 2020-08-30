@@ -158,6 +158,8 @@ Mish provides much better accuracy, overall lower loss, smoother and well condit
 
 *For Installing DarkNet framework, please refer to [darknet(Alexey AB)](https://github.com/AlexeyAB/darknet)*
 
+*For PyTorch based ImageNet scores, please refer to this [readme](https://github.com/digantamisra98/Mish/tree/master/PyTorch%20Benchmarks)*
+
 |Network|Activation|Top-1 Accuracy|Top-5 Accuracy|cfg|Weights|Hardware|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |ResNet-50|Mish|74.244%|92.406%|[cfg](https://github.com/digantamisra98/Mish/blob/master/cfg/resnet50-mish.cfg)|[weights](https://drive.google.com/file/d/12rZ3F570JJ5p2C_AHRP_dzlrdq5-liaj/view?usp=sharing)|[AWS p3.16x large, 8 Tesla V100](https://aws.amazon.com/ec2/instance-types/p3/)|
@@ -219,6 +221,8 @@ Results on [SpineNet-49](https://arxiv.org/abs/1912.05027):
 ## MS-COCO:
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mish-a-self-regularized-non-monotonic-neural/object-detection-on-coco)](https://paperswithcode.com/sota/object-detection-on-coco?p=mish-a-self-regularized-non-monotonic-neural)
+
+*For PyTorch based MS-COCO scores, please refer to this [readme](https://github.com/digantamisra98/Mish/tree/master/PyTorch%20Benchmarks)*
 
 |Model|Mish|AP50...95|mAP50|CPU - 90 Watt - FP32 (Intel Core i7-6700K, 4GHz, 8 logical cores) OpenCV-DLIE, FPS|VPU-2 Watt- FP16 (Intel MyriadX) OpenCV-DLIE, FPS|GPU-175 Watt- FP32/16 (Nvidia GeForce RTX 2070) DarkNet-cuDNN, FPS|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
