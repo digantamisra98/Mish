@@ -138,9 +138,30 @@
 
 # Mish:
 
-Minimum of *f(x)* is observed to be ≈-0.30884 at *x*≈-1.1924<br>
+<a href="https://www.codecogs.com/eqnedit.php?latex=f(x)&space;=&space;x\tanh&space;(softplus(x))&space;=&space;x\tanh(\ln&space;(1&space;&plus;&space;e^{x}))" target="_blank"><img src="https://latex.codecogs.com/svg.latex?f(x)&space;=&space;x\tanh&space;(softplus(x))&space;=&space;x\tanh(\ln&space;(1&space;&plus;&space;e^{x}))" title="f(x) = x\tanh (softplus(x)) = x\tanh(\ln (1 + e^{x}))" /></a>
 
-Based on mathematical analysis, it is also confirmed that the function has a parametric order of continuity of: C<sup>∞</sup>
+Minimum of *f(x)* is observed to be ≈-0.30884 at *x*≈-1.1924<br>
+Mish has a parametric order of continuity of: C<sup>∞</sup>
+
+Derivative of Mish with respect to Swish and Δ(x) preconditioning:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=f'(x)&space;=&space;(sech^{2}(softplus(x)))(xsigmoid(x))&space;&plus;&space;\frac{f(x)}{x}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?f'(x)&space;=&space;(sech^{2}(softplus(x)))(xsigmoid(x))&space;&plus;&space;\frac{f(x)}{x}" title="f'(x) = (sech^{2}(softplus(x)))(xsigmoid(x)) + \frac{f(x)}{x}" /></a>
+
+Further simplifying:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=f'(x)&space;=&space;\Delta(x)swish(x)&space;&plus;&space;\frac{f(x)}{x}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?f'(x)&space;=&space;\Delta(x)swish(x)&space;&plus;&space;\frac{f(x)}{x}" title="f'(x) = \Delta(x)swish(x) + \frac{f(x)}{x}" /></a>
+
+Alternative derivative form:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=f'(x)&space;=&space;\frac{e^{x}\omega}{\delta^{2}}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?f'(x)&space;=&space;\frac{e^{x}\omega}{\delta^{2}}" title="f'(x) = \frac{e^{x}\omega}{\delta^{2}}" /></a>
+
+where:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\omega&space;=&space;4(x&plus;1)&plus;4e^{2x}&space;&plus;e^{3x}&space;&plus;e^{x}(4x&plus;6)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\omega&space;=&space;4(x&plus;1)&plus;4e^{2x}&space;&plus;e^{3x}&space;&plus;e^{x}(4x&plus;6)" title="\omega = 4(x+1)+4e^{2x} +e^{3x} +e^{x}(4x+6)" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\delta&space;=&space;2e^{x}&space;&plus;e^{2x}&space;&plus;2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\delta&space;=&space;2e^{x}&space;&plus;e^{2x}&space;&plus;2" title="\delta = 2e^{x} +e^{2x} +2" /></a>
+
+We hypothesize the Δ(x) to be exhibiting the properties of a pre-conditioner making the gradient more smoother. Further details are provided in the paper.
 
 ## Loss Landscape:
 
