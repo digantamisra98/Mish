@@ -99,9 +99,12 @@
 
 <div style="text-align:center"><img src ="packg.gif"  width="1000"/></div>
 
-## [MILA/ CIFAR 2020 DLRLSS](https://dlrl.ca/) Poster:
+<details>
+  <summary><a href="https://dlrl.ca/">MILA/ CIFAR 2020 DLRLSS</a> (Click to view)</summary>
+  
+  <div style="text-align:center"><img src ="poster_landscape-1.png"  width="1000"/></div>
 
-<div style="text-align:center"><img src ="poster_landscape-1.png"  width="1000"/></div>
+</details>
 
 ## Contents: 
 
