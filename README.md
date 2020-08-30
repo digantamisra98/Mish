@@ -100,7 +100,7 @@
 
 ## Official Package Based Implementations: 
 
-<div style="text-align:center"><img src ="packg.gif"  width="1000"/></div>
+<div style="text-align:center"><img src ="logo_update.gif"  width="1000"/></div>
 
 <br>
 
