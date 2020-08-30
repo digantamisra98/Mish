@@ -109,31 +109,34 @@
 
 </details>
 
-## Contents: 
+<details>
+  <summary><b>Contents</b>: (Click to expand)</summary>
 
-1. [Mish](https://github.com/digantamisra98/Mish/blob/master/README.md#mish) <br>
-   a. [Loss landscape](https://github.com/digantamisra98/Mish#loss-landscape) 
-2. [ImageNet Scores](https://github.com/digantamisra98/Mish#imagenet-scores)
-3. [MS-COCO](https://github.com/digantamisra98/Mish#ms-coco)
-4. [Variation of Parameter Comparison](https://github.com/digantamisra98/Mish#variation-of-parameter-comparison)<br>
-   a. [MNIST](https://github.com/digantamisra98/Mish#mnist)<br>
-   b. [CIFAR10](https://github.com/digantamisra98/Mish#cifar10)<br>
-5. [Significance Level](https://github.com/digantamisra98/Mish#significance-level) <br>
-   a. [Sample Size = 3](https://github.com/digantamisra98/Mish#sample-size--3)<br>
-   b. [Sample Size = 23](https://github.com/digantamisra98/Mish#sample-size--23)<br>
-   c. [Confidence Interval Profiles](https://github.com/digantamisra98/Mish#confidence-interval-profiles)<br>
-6. [Results](https://github.com/digantamisra98/Mish#results)<br>
-   a. [Summary of Results (Vision Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-vision-tasks)<br>
-   b. [Summary of Results (Language Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-language-tasks)<br>
-   c. [Sample Result](https://github.com/digantamisra98/Mish#sample-result)<br>
-7. [Try It!](https://github.com/digantamisra98/Mish#try-it)<br>
-    a. [Demo Jupyter Notebooks](https://github.com/digantamisra98/Mish#demo-jupyter-notebooks)<br>
-    b. [Torch](https://github.com/digantamisra98/Mish#torch)<br>
-    c. [TensorFlow](https://github.com/digantamisra98/Mish#tensorflow)<br>
-    d. [MXNet](https://github.com/digantamisra98/Mish#mxnet)<br>
-8. [Future Work (Coming Soon)](https://github.com/digantamisra98/Mish#future-work-coming-soon)
-9. [Acknowledgements](https://github.com/digantamisra98/Mish#acknowledgements)
-10. [Cite this work](https://github.com/digantamisra98/Mish#cite-this-work)
+  1. [Mish](https://github.com/digantamisra98/Mish/blob/master/README.md#mish) <br>
+     a. [Loss landscape](https://github.com/digantamisra98/Mish#loss-landscape) 
+  2. [ImageNet Scores](https://github.com/digantamisra98/Mish#imagenet-scores)
+  3. [MS-COCO](https://github.com/digantamisra98/Mish#ms-coco)
+  4. [Variation of Parameter Comparison](https://github.com/digantamisra98/Mish#variation-of-parameter-comparison)<br>
+     a. [MNIST](https://github.com/digantamisra98/Mish#mnist)<br>
+     b. [CIFAR10](https://github.com/digantamisra98/Mish#cifar10)<br>
+  5. [Significance Level](https://github.com/digantamisra98/Mish#significance-level) <br>
+     a. [Sample Size = 3](https://github.com/digantamisra98/Mish#sample-size--3)<br>
+     b. [Sample Size = 23](https://github.com/digantamisra98/Mish#sample-size--23)<br>
+     c. [Confidence Interval Profiles](https://github.com/digantamisra98/Mish#confidence-interval-profiles)<br>
+  6. [Results](https://github.com/digantamisra98/Mish#results)<br>
+     a. [Summary of Results (Vision Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-vision-tasks)<br>
+     b. [Summary of Results (Language Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-language-tasks)<br>
+     c. [Sample Result](https://github.com/digantamisra98/Mish#sample-result)<br>
+  7. [Try It!](https://github.com/digantamisra98/Mish#try-it)<br>
+      a. [Demo Jupyter Notebooks](https://github.com/digantamisra98/Mish#demo-jupyter-notebooks)<br>
+      b. [Torch](https://github.com/digantamisra98/Mish#torch)<br>
+      c. [TensorFlow](https://github.com/digantamisra98/Mish#tensorflow)<br>
+      d. [MXNet](https://github.com/digantamisra98/Mish#mxnet)<br>
+  8. [Future Work (Coming Soon)](https://github.com/digantamisra98/Mish#future-work-coming-soon)
+  9. [Acknowledgements](https://github.com/digantamisra98/Mish#acknowledgements)
+  10. [Cite this work](https://github.com/digantamisra98/Mish#cite-this-work)
+
+</details>
 
 ## Mish:
 
