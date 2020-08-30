@@ -9,13 +9,17 @@
         <img src="http://hits.dwyl.io/digantamisra98/Mish.svg" /></a>
     <a href="https://arxiv.org/abs/1908.08681v3" alt="ArXiv">
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
-   <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-62-lightgrey.svg" /></a>
-  <a href="https://bmvc2020.github.io/index.html" alt="Publication">
-        <img src="https://img.shields.io/badge/BMVC-2020-red.svg" /></a>
-   <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
-        <img src="https://img.shields.io/twitter/url/https/twitter.com/DigantaMisra1.svg?style=social&label=Follow%20%40DigantaMisra1" /></a>
+    <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:j0C1gbodjP4J:scholar.google.com/&output=citation&scisdr=CgX0qGQBEKqu8LHcg3I:AAGBfm0AAAAAX0vZm3I_-xUa3JTfWwMVCyqvGmPNzzC8&scisig=AAGBfm0AAAAAX0vZm3lEPjk2oXxJ9nAAOhivisuW1YLd&scisf=4&ct=citation&cd=-1&hl=en" alt="Cite">
+          <img src="https://img.shields.io/badge/Cite-BibTex-blue.svg" /></a>
+     <a href=" " alt="Citations">
+          <img src="https://img.shields.io/badge/Citations-62-lightgrey.svg" /></a>
+    <a href="https://bmvc2020.github.io/index.html" alt="Publication">
+          <img src="https://img.shields.io/badge/BMVC-2020-red.svg" /></a>
+     <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
+          <img src="https://img.shields.io/twitter/url/https/twitter.com/DigantaMisra1.svg?style=social&label=Follow%20%40DigantaMisra1" /></a>
 </p>
+
+
 
 <h1 align="center">Mish: Self Regularized <br> Non-Monotonic Activation Function</h1>
 <p align="center">BMVC 2020</p>
