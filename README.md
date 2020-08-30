@@ -128,8 +128,8 @@
      a. [Summary of Results (Vision Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-vision-tasks)<br>
      b. [Summary of Results (Language Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-language-tasks)<br>
   7. [Try It!](https://github.com/digantamisra98/Mish#try-it)<br>
-  8. [Future Work (Coming Soon)](https://github.com/digantamisra98/Mish#future-work-coming-soon)
-  9. [Acknowledgements](https://github.com/digantamisra98/Mish#acknowledgements)
+  8. Future Work
+  9. Acknowledgements
   10. [Cite this work](https://github.com/digantamisra98/Mish#cite-this-work)
 
 </details>
