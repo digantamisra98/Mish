@@ -476,24 +476,27 @@ MXNet Implementation of Mish Activation function can be found [here](https://git
 - Memory Efficient Fast implementation of Mish for PyTorch/ CUDA
 - Investigating the loss landscape for Mish.
 
-## Acknowledgements:
+<details>
+  <summary><b>Acknowledgments:</b> (Click to expand)</summary>
+  
+  Thanks to all the people who have helped and supported me massively through this project who include:
+  1. [Sparsha Mishra](https://github.com/SparshaMishra)
+  2. [Alexandra Deis](https://github.com/Lexie88rus)
+  3. [Alexey Bochkovskiy](https://github.com/AlexeyAB)
+  4. [Chien-Yao Wang](https://github.com/WongKinYiu/CrossStagePartialNetworks)
+  5. [Thomas Brandon](https://github.com/thomasbrandon)
+  6. [Less Wright](https://github.com/lessw2020)
+  7. [Manjunath Bhat](https://github.com/thebhatman)
+  8. [Ajay Uppili Arasanipalai](https://github.com/iyaja)
+  9. [Federico Lois](https://github.com/redknightlois)
+  10. [Javier Ideami](https://github.com/javismiles)
+  11. [Ioannis Anifantakis](https://github.com/ioannisa)
+  12. [George Christopoulos](https://github.com/geochri)
+  13. [Miklos Toth](https://hu.linkedin.com/in/miklostoth)
 
-Thanks to all the people who have helped and supported me massively through this project who include:
-1. [Sparsha Mishra](https://github.com/SparshaMishra)
-2. [Alexandra Deis](https://github.com/Lexie88rus)
-3. [Alexey Bochkovskiy](https://github.com/AlexeyAB)
-4. [Chien-Yao Wang](https://github.com/WongKinYiu/CrossStagePartialNetworks)
-5. [Thomas Brandon](https://github.com/thomasbrandon)
-6. [Less Wright](https://github.com/lessw2020)
-7. [Manjunath Bhat](https://github.com/thebhatman)
-8. [Ajay Uppili Arasanipalai](https://github.com/iyaja)
-9. [Federico Lois](https://github.com/redknightlois)
-10. [Javier Ideami](https://github.com/javismiles)
-11. [Ioannis Anifantakis](https://github.com/ioannisa)
-12. [George Christopoulos](https://github.com/geochri)
-13. [Miklos Toth](https://hu.linkedin.com/in/miklostoth)
+  And many more including the [Fast AI community](https://forums.fast.ai/t/meet-mish-new-activation-function-possible-successor-to-relu/53299/647), [Weights and Biases Community](https://www.wandb.com/), [TensorFlow Addons team](https://www.tensorflow.org/addons), [SpaCy/Thinc team](https://explosion.ai/), [Sicara team](https://www.sicara.fr/), [Udacity scholarships team](https://www.udacity.com/scholarships) to name a few. *Apologies if I missed out anyone.*
 
-And many more including the [Fast AI community](https://forums.fast.ai/t/meet-mish-new-activation-function-possible-successor-to-relu/53299/647), [Weights and Biases Community](https://www.wandb.com/), [TensorFlow Addons team](https://www.tensorflow.org/addons), [SpaCy/Thinc team](https://explosion.ai/), [Sicara team](https://www.sicara.fr/), [Udacity scholarships team](https://www.udacity.com/scholarships) to name a few. *Apologies if I missed out anyone.*
+</details>
 
 ## Cite this work:
 
