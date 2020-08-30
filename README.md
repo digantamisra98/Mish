@@ -161,7 +161,7 @@ Loss landscape visualizations for a ResNet-20 for CIFAR 10 using ReLU, Mish and 
 
 <br>
 
-Mish provides much better accuracy, overall lower loss, smoother and well conditioned easy-to-optimize loss landscape as compared to both Swish and ReLU. For all loss landscape visualizations please visit this [readme](https://github.com/digantamisra98/Mish/blob/master/landscapes/Landscape.md). For the non-labelled visualization it's ReLu followed by Mish followed by Swish from left to right. 
+Mish provides much better accuracy, overall lower loss, smoother and well conditioned easy-to-optimize loss landscape as compared to both Swish and ReLU. For all loss landscape visualizations please visit this [readme](https://github.com/digantamisra98/Mish/blob/master/landscapes/Landscape.md). 
 
 ## ImageNet Scores:
 
