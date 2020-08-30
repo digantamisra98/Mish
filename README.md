@@ -177,6 +177,10 @@ Loss landscape visualizations for a ResNet-20 for CIFAR 10 using ReLU, Mish and 
 
 Mish provides much better accuracy, overall lower loss, smoother and well conditioned easy-to-optimize loss landscape as compared to both Swish and ReLU. For all loss landscape visualizations please visit this [readme](https://github.com/digantamisra98/Mish/blob/master/landscapes/Landscape.md). 
 
+We also investigate the output landscape of randomly initialized neural networks as shown below. Mish has a much smoother profile than ReLU. The visualization was obtained using this [code](https://github.com/digantamisra98/Mish/blob/master/output_landscape.py).
+
+<div style="text-align:center"><img src ="landscapes/landscape-1.png"  width="1000"/></div>
+
 ## ImageNet Scores:
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mish-a-self-regularized-non-monotonic-neural/image-classification-on-imagenet)](https://paperswithcode.com/sota/image-classification-on-imagenet?p=mish-a-self-regularized-non-monotonic-neural)
