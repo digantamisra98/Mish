@@ -30,26 +30,26 @@
 <details>
   <summary>Notes: (Click to expand)</summary>
   
-  * A considerably faster version based on CUDA can be found here - [Mish CUDA](https://github.com/thomasbrandon/mish-cuda) (All credits to Thomas Brandon for the same)  <br> 
-  * Memory Efficient Experimental version of Mish can be found [here](https://github.com/rwightman/gen-efficientnet-pytorch/blob/8795d3298d51ea5d993ab85a222dacffa8211f56/geffnet/activations/activations_autofn.py#L41)  <br> 
-  * Faster variants for Mish and H-Mish by [Yashas Samaga](https://github.com/YashasSamaga) can be found here - [ConvolutionBuildingBlocks](https://github.com/YashasSamaga/ConvolutionBuildingBlocks)  <br> 
-  * Alternative (experimental improved) variant of H-Mish developed by [Páll Haraldsson](https://github.com/PallHaraldsson) can be found here - [H-Mish](https://github.com/PallHaraldsson/H-Mish/blob/master/README.md) (Available in Julia)  <br> 
-  * Variance based initialization method for Mish (experimental) by [Federico Andres Lois](https://twitter.com/federicolois) can be found here - [Mish_init](https://gist.github.com/redknightlois/b5d36fd2ae306cb8b3484c1e3bcce253)  <br> 
+  * A considerably faster version based on CUDA can be found here - [Mish CUDA](https://github.com/thomasbrandon/mish-cuda) (All credits to Thomas Brandon for the same) 
+  * Memory Efficient Experimental version of Mish can be found [here](https://github.com/rwightman/gen-efficientnet-pytorch/blob/8795d3298d51ea5d993ab85a222dacffa8211f56/geffnet/activations/activations_autofn.py#L41)  
+  * Faster variants for Mish and H-Mish by [Yashas Samaga](https://github.com/YashasSamaga) can be found here - [ConvolutionBuildingBlocks](https://github.com/YashasSamaga/ConvolutionBuildingBlocks) 
+  * Alternative (experimental improved) variant of H-Mish developed by [Páll Haraldsson](https://github.com/PallHaraldsson) can be found here - [H-Mish](https://github.com/PallHaraldsson/H-Mish/blob/master/README.md) (Available in Julia)   
+  * Variance based initialization method for Mish (experimental) by [Federico Andres Lois](https://twitter.com/federicolois) can be found here - [Mish_init](https://gist.github.com/redknightlois/b5d36fd2ae306cb8b3484c1e3bcce253)
 </details>
 
 <details>
   <summary>Changelogs/ Updates: (Click to expand)</summary>
   
   * [07/17] Mish added to [OpenVino](https://github.com/openvinotoolkit/openvino) - [Open-1187](https://github.com/openvinotoolkit/openvino/pull/1187), [Merged-1125](https://github.com/openvinotoolkit/openvino/pull/1125)
-  
-  * [07/17] Mish added to [BetaML.jl](https://github.com/sylvaticus/BetaML.jl) <br> 
+  * [07/17] Mish added to [BetaML.jl](https://github.com/sylvaticus/BetaML.jl) 
   * [07/17] Loss Landscape exploration progress in collaboration with [Javier Ideami](https://ideami.com/ideami/) and [Ajay Uppili Arasanipalai](https://github.com/iyaja) <br>
-  * [07/17] Poster accepted for presentation at [DLRLSS](https://dlrlsummerschool.ca/) hosted by [MILA](https://mila.quebec/en/), [CIFAR](https://www.cifar.ca/), [Vector Institute](https://vectorinstitute.ai/) and [AMII](https://www.amii.ca/) <br>
-  * [07/20] Mish added to [Google's AutoML](https://github.com/google/automl) - [502](https://github.com/google/automl/commit/28cf011689dacda90fe1ae6da59b92c0d3f2c9d9)  <br>
-  * [07/27] Mish paper accepted to [31st British Machine Vision Conference (BMVC), 2020](https://bmvc2020.github.io/index.html). ArXiv version to be updated soon. <br>
-  * [08/13] New updated PyTorch benchmarks and pretrained models available on [PyTorch Benchmarks](https://github.com/digantamisra98/Mish/tree/master/PyTorch%20Benchmarks). <br>
-  * [08/14] New updated [Arxiv](https://arxiv.org/abs/1908.08681v3) version of the paper is out. <br>
-  * [08/18] Mish added to [Sony Nnabla](https://github.com/sony/nnabla) - [Merged-700](https://github.com/sony/nnabla/pull/700) <br>
+  * [07/17] Poster accepted for presentation at [DLRLSS](https://dlrlsummerschool.ca/) hosted by [MILA](https://mila.quebec/en/), [CIFAR](https://www.cifar.ca/), [Vector Institute](https://vectorinstitute.ai/) and [AMII](https://www.amii.ca/)
+  * [07/20] Mish added to [Google's AutoML](https://github.com/google/automl) - [502](https://github.com/google/automl/commit/28cf011689dacda90fe1ae6da59b92c0d3f2c9d9)
+  * [07/27] Mish paper accepted to [31st British Machine Vision Conference (BMVC), 2020](https://bmvc2020.github.io/index.html). ArXiv version to be updated soon. 
+  * [08/13] New updated PyTorch benchmarks and pretrained models available on [PyTorch Benchmarks](https://github.com/digantamisra98/Mish/tree/master/PyTorch%20Benchmarks). 
+  * [08/14] New updated [Arxiv](https://arxiv.org/abs/1908.08681v3) version of the paper is out. 
+  * [08/18] Mish added to [Sony Nnabla](https://github.com/sony/nnabla) - [Merged-700](https://github.com/sony/nnabla/pull/700)
+  
 </details>
 
 
@@ -103,7 +103,6 @@
 <div style="text-align:center"><img src ="packg.gif"  width="1000"/></div>
 
 <br>
-<br>
 
 <details>
   <summary><a href="https://dlrl.ca/"><b>MILA/ CIFAR 2020 DLRLSS</b></a> (Click to view)</summary>
@@ -112,7 +111,6 @@
 
 </details>
 
-<br>
 <br>
 
 <details>
@@ -130,17 +128,12 @@
      a. [Summary of Results (Vision Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-vision-tasks)<br>
      b. [Summary of Results (Language Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-language-tasks)<br>
   7. [Try It!](https://github.com/digantamisra98/Mish#try-it)<br>
-      a. [Demo Jupyter Notebooks](https://github.com/digantamisra98/Mish#demo-jupyter-notebooks)<br>
-      b. [Torch](https://github.com/digantamisra98/Mish#torch)<br>
-      c. [TensorFlow](https://github.com/digantamisra98/Mish#tensorflow)<br>
-      d. [MXNet](https://github.com/digantamisra98/Mish#mxnet)<br>
   8. [Future Work (Coming Soon)](https://github.com/digantamisra98/Mish#future-work-coming-soon)
   9. [Acknowledgements](https://github.com/digantamisra98/Mish#acknowledgements)
   10. [Cite this work](https://github.com/digantamisra98/Mish#cite-this-work)
 
 </details>
 
-<br>
 <br>
 
 # Mish:
@@ -381,33 +374,21 @@ The P-values were computed for different activation functions in comparison to t
 
 ## Try It! 
 
-### Demo Jupyter Notebooks:
+|Torch|DarkNet|MXNet|Julia|FastAI|TensorFlow|Keras|CUDA|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[Source](https://github.com/digantamisra98/Mish/tree/master/Mish/Torch)|[Source](https://github.com/AlexeyAB/darknet/blob/master/src/activation_kernels.cu#L259)|[Source](https://github.com/digantamisra98/Mish/blob/master/Mish/MXNet/mish.py)|[Source](https://github.com/FluxML/NNlib.jl/blob/2e1fa5f330ba785b0adbaec5107ca85a8e181197/src/activation.jl)|[Source](https://github.com/lessw2020/mish)|[Source](https://www.tensorflow.org/addons/api_docs/python/tfa/activations/mish)|[Source](https://github.com/digantamisra98/Mish/blob/master/Mish/TFKeras/mish.py)|[Source](https://github.com/thomasbrandon/mish-cuda)|
 
-All demo jupyter notebooks are present in the [Examples and Benchmarks Folder](https://github.com/digantamisra98/Mish/tree/master/Examples%20and%20Benchmarks).
+<details>
+  <summary><b>Future Work</b>: (Click to view)</summary>
+  <br>
+  * Comparison of Convergence Rates.
+  * Normalizing constant for Mish to eliminate the use of Batch Norm.
+  * Regularizing effect of the first derivative of Mish with repect to Swish. 
+  * Memory Efficient Fast implementation of Mish for PyTorch/ CUDA
+  * Investigating the loss landscape for Mish.
 
-### For Source Code Implementation: 
+</details>
 
-#### Torch:
-
-Torch Implementation of Mish Activation Function can be found [here](https://github.com/digantamisra98/Mish/tree/master/Mish/Torch)
-
-#### Tensorflow:
-
-TensorFlow - Keras Implementation of Mish Activation function can be found [here](https://github.com/digantamisra98/Mish/blob/master/Mish/TFKeras/mish.py)
-
-TensorFlow native implementation can be found on [TensorFlow Addons](https://www.tensorflow.org/addons/api_docs/python/tfa/activations/mish)
-
-#### MXNet:
-
-MXNet Implementation of Mish Activation function can be found [here](https://github.com/digantamisra98/Mish/blob/master/Mish/MXNet/mish.py)
-
-## Future Work (Coming Soon):
-
-- Comparison of Convergence Rates.
-- Normalizing constant for Mish to eliminate the use of Batch Norm.
-- Regularizing effect of the first derivative of Mish with repect to Swish. 
-- Memory Efficient Fast implementation of Mish for PyTorch/ CUDA
-- Investigating the loss landscape for Mish.
 
 <details>
   <summary><b>Acknowledgments:</b> (Click to expand)</summary>
