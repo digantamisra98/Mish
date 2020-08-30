@@ -24,6 +24,9 @@
 <h1 align="center">Mish: Self Regularized <br> Non-Monotonic Activation Function</h1>
 <p align="center">BMVC 2020</p>
 
+<br>
+<br>
+
 <details>
   <summary>Notes: (Click to expand)</summary>
   
