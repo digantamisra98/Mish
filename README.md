@@ -126,13 +126,9 @@
      a. [MNIST](https://github.com/digantamisra98/Mish#mnist)<br>
      b. [CIFAR10](https://github.com/digantamisra98/Mish#cifar10)<br>
   5. [Significance Level](https://github.com/digantamisra98/Mish#significance-level) <br>
-     a. [Sample Size = 3](https://github.com/digantamisra98/Mish#sample-size--3)<br>
-     b. [Sample Size = 23](https://github.com/digantamisra98/Mish#sample-size--23)<br>
-     c. [Confidence Interval Profiles](https://github.com/digantamisra98/Mish#confidence-interval-profiles)<br>
   6. [Results](https://github.com/digantamisra98/Mish#results)<br>
      a. [Summary of Results (Vision Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-vision-tasks)<br>
      b. [Summary of Results (Language Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-language-tasks)<br>
-     c. [Sample Result](https://github.com/digantamisra98/Mish#sample-result)<br>
   7. [Try It!](https://github.com/digantamisra98/Mish#try-it)<br>
       a. [Demo Jupyter Notebooks](https://github.com/digantamisra98/Mish#demo-jupyter-notebooks)<br>
       b. [Torch](https://github.com/digantamisra98/Mish#torch)<br>
@@ -279,9 +275,7 @@ Gaussian Noise with varying standard deviation was added to the input in case of
 
 The P-values were computed for different activation functions in comparison to that of Mish on terms of Top-1 Testing Accuracy of a Squeeze Net Model on CIFAR-10 for 50 epochs for 23 runs using Adam Optimizer at a Learning Rate of 0.001 and Batch Size of 128. It was observed that Mish beats most of the activation functions at a high significance level in the 23 runs, specifically it beats ReLU at a high significance of P < 0.0001. Mish also had a comparatively lower standard deviation across 23 runs which proves the consistency of performance for Mish.
 
-### Sample Size = 23:
-
-|Activation Function| Mean Accuracy | Mean Loss| Standard Deviation of Accuracy | P-value | Cohen's d Score | 95% CI|
+|Activation Function| Mean Accuracy | Mean Loss| Standard Deviation of Accuracy | P-value | Cohen's d Score | 95% CI| 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Mish|87.48%|4.13%|0.3967|-|-|-|
 |Swish-1|87.32%|4.22%|0.414|P = 0.1973|0.386|-0.3975 to 0.0844|
@@ -319,45 +313,6 @@ The P-values were computed for different activation functions in comparison to t
 |ISRLU (α=1.0)|86.69%|4.231%|0.5788|P < 0.0001|1.572874|-1.0753 to -0.4856|
 
 *Values rounded up which might cause slight deviation in the statistical values reproduced from these tests*
-
-### Confidence Interval Profiles: 
-
-|Activation Function| CI |
-|:---:|:---:|
-|Mish|87.48 ± 0.1716|
-|Swish-1|87.32347 ± 0.179027|
-|E-Swish (β=1.75)|87.49391 ± 0.1776597|
-|GELU|87.37083 ± 0.2040073|
-|ReLU|86.65869 ± 0.2524601|
-|ELU(α=1.0)|86.40565 ± 0.1458006|
-|Leaky ReLU(α=0.3)|86.84826 ± 0.1976138|
-|RReLU| 86.86913 ± 0.1936264|
-|SELU|83.91086 ± 0.2592722|
-|SoftPlus(β = 1)|83.00434 ± 0.6060631|
-|HardShrink(λ = 0.5)|75.03086 ± 0.4252852|
-|Hardtanh|82.77956 ± 0.1941855|
-|LogSigmoid|81.9813 ± 0.7244|
-|PReLU|85.66478 ± 0.968944|
-|ReLU6|86.75391 ± 0.1946326|
-|CELU(α=1.0)|86.22826 ± 0.2202884|
-|Sigmoid|74.81739 ± 2.4934984|
-|Softshrink(λ = 0.5)|82.34913 ± 0.3111762|
-|Tanhshrink|82.34608 ± 0.4086837|
-|Tanh|83.15217 ± 0.2978422|
-|Softsign|82.65782 ± 0.2896004|
-|Aria-2(β = 1, α=1.5)|81.30782 ± 1.0182716|
-|Bent's Identity|85.02608 ± 0.2612082|
-|SQNL|83.43695 ± 0.2024614|
-|ELisH|87.37652 ± 0.2064078|
-|Hard ELisH|85.88869 ± 0.2691689|
-|SReLU|85.04565 ± 0.2519697|
-|ISRU (α=1.0)|83.44652 ± 0.4323568|
-|Flatten T-Swish|86.93043 ± 0.1731766|
-|SineReLU (ε = 0.001)|86.48173 ± 0.3808073|
-|Weighted Tanh (Weight = 1.7145)|80.66043 ± 0.518349|
-|LeCun's Tanh|82.71956 ± 0.2519178|
-|Soft Clipping (α=0.5)|55.20956 ± 4.6841037|
-|ISRLU (α=1.0)|86.69956 ± 0.2502932|
 
 ## Results:
 
@@ -423,28 +378,6 @@ The P-values were computed for different activation functions in comparison to t
 |ReLU|2|3|
 |Leaky ReLU|2|3|
 |GELU|1|2|
-
-#### Sample Result: 
-
-|Configurations|Parameters|
-|:---:|:---:|
-|Model|Squeeze Excite ResNet-50 (SENet-50)|
-|Dataset|CIFAR-10|
-|Batch Size| 128|
-|Epoch|100|
-|Optimizer|Adam|
-|Learning Rate|0.001|
-
-|Activation Function | Testing Top-1 Accuracy|Loss|Testing Top-3 Accuracy|
-|---|---|---|---|
-|Mish|**90.7931%**|**4.75271%**|98.5562%|
-|Swish-1|90.558%|4.76047%|98.6748%|
-|E-Swish (β = 1.75)|90.5063%|5.22954%|98.6946%|
-|ReLU|90.447%|4.93086%|98.6155%|
-|GELU|90.5063%|5.0612%|**98.754%**|
-|SELU|86.432%|6.89385%|97.8936%|
-
-It was observed that the stability of descent of Loss for SENet-50 with Mish is much better as compared to other activation functions. It was also observed that Mish was the only activation function which crossed the 91% mark for the Test Top-1 accuracy across both the runs while others reached a maximum of 90.7% with Mish recording the highest at 91.248%. 
 
 ## Try It! 
 
