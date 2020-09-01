@@ -105,7 +105,7 @@
 <br>
 
 <details>
-  <summary><a href="https://dlrl.ca/"><b>MILA/ CIFAR 2020 DLRLSS</b></a> (Click to view)</summary>
+  <summary><a href="https://dlrl.ca/"><b>MILA/ CIFAR 2020 DLRLSS</b></a> (Click on arrow to view)</summary>
   
   <div style="text-align:center"><img src ="poster_landscape-1.png"  width="1000"/></div>
 
