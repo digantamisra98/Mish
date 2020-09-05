@@ -13,7 +13,7 @@
           <img src="https://img.shields.io/badge/Cite-BibTex-blue.svg" /></a>
      <a href=" " alt="Citations">
           <img src="https://img.shields.io/badge/Citations-62-lightgrey.svg" /></a>
-    <a href="https://bmvc2020.github.io/index.html" alt="Publication">
+    <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0928.html" alt="Publication">
           <img src="https://img.shields.io/badge/BMVC-2020-red.svg" /></a>
      <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
           <img src="https://img.shields.io/twitter/url/https/twitter.com/DigantaMisra1.svg?style=social&label=Follow%20%40DigantaMisra1" /></a>
