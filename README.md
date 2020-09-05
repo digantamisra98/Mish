@@ -9,7 +9,7 @@
         <img src="http://hits.dwyl.io/digantamisra98/Mish.svg" /></a>
     <a href="https://arxiv.org/abs/1908.08681v3" alt="ArXiv">
         <img src="https://img.shields.io/badge/Paper-arXiv-blue.svg" /></a>
-    <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:j0C1gbodjP4J:scholar.google.com/&output=citation&scisdr=CgX0qGQBEKqu8LHcg3I:AAGBfm0AAAAAX0vZm3I_-xUa3JTfWwMVCyqvGmPNzzC8&scisig=AAGBfm0AAAAAX0vZm3lEPjk2oXxJ9nAAOhivisuW1YLd&scisf=4&ct=citation&cd=-1&hl=en" alt="Cite">
+    <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:j0C1gbodjP4J:scholar.google.com/&output=citation&scisdr=CgX0hbDMEOzUo74J6TM:AAGBfm0AAAAAX1QM8TNcu4tND6FEofKsXzM3cs1uCAAW&scisig=AAGBfm0AAAAAX1QM8Y5elaJ1IW-BKOuU1zFTYNp-QaNQ&scisf=4&ct=citation&cd=-1&hl=en" alt="Cite">
           <img src="https://img.shields.io/badge/Cite-BibTex-blue.svg" /></a>
      <a href=" " alt="Citations">
           <img src="https://img.shields.io/badge/Citations-62-lightgrey.svg" /></a>
@@ -22,7 +22,7 @@
 
 
 <h1 align="center">Mish: Self Regularized <br> Non-Monotonic Activation Function</h1>
-<p align="center">BMVC 2020</p>
+<p align="center">BMVC 2020 <a href="https://www.bmvc2020-conference.com/assets/papers/0928.pdf" target="_blank">(Official Paper)</a></p>
 
 <br>
 <br>
@@ -50,6 +50,7 @@
   * [08/14] New updated [Arxiv](https://arxiv.org/abs/1908.08681v3) version of the paper is out. 
   * [08/18] Mish added to [Sony Nnabla](https://github.com/sony/nnabla) - [Merged-700](https://github.com/sony/nnabla/pull/700)
   * [09/02] Mish added to [TensorFlow Swift APIs](https://github.com/tensorflow/swift-apis) - [Merged - 1068](https://github.com/tensorflow/swift-apis/commit/c1d822535c458a925087298289aa63b3535c0196)
+  * [06/09] Official paper and presentation video for BMVC is released at this [link](https://www.bmvc2020-conference.com/conference/papers/paper_0928.html).
   
 </details>
 
