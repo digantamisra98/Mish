@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-62-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-64-green.svg" /></a>
 </p>
 
 *MDPI articles are not maintained in this list*
@@ -56,3 +56,5 @@
 - An Improved Deep Convolutional Neural Network-Based Autonomous Road Inspection Scheme Using Unmanned Aerial Vehicles: [Paper](https://arxiv.org/abs/2008.06189)
 - Deep Volumetric Ambient Occlusion : [Paper](https://arxiv.org/abs/2008.08345) (Accepted at [IEEE VIS SciVis 2020](http://ieeevis.org/year/2020/welcome))
 - DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic: [Paper](https://arxiv.org/abs/2008.11672)
+- Applications of machine learning : [Thesis, University of Victoria](http://dspace.library.uvic.ca/handle/1828/12089)
+- Performance Analysis of Various Activation Functions in Super Resolution Model: [Paper](https://www.koreascience.or.kr/article/CFKO202024664105266.page)
