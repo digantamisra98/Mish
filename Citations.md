@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-64-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-65-green.svg" /></a>
 </p>
 
 *MDPI articles are not maintained in this list*
@@ -58,3 +58,5 @@
 - DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic: [Paper](https://arxiv.org/abs/2008.11672)
 - Applications of machine learning : [Thesis, University of Victoria](http://dspace.library.uvic.ca/handle/1828/12089)
 - Performance Analysis of Various Activation Functions in Super Resolution Model: [Paper](https://www.koreascience.or.kr/article/CFKO202024664105266.page)
+- TANHSOFT - A FAMILY OF ACTIVATION FUNCTIONS COMBINING
+TANH AND SOFTPLUS : [Paper](https://www.google.com/url?sa=t&source=web&rct=j&url=https://arxiv.org/pdf/2009.03863&ved=2ahUKEwizjoWT3tvrAhUMzzgGHYsTC9YQFjACegQIAxAB&usg=AOvVaw0A5RDzB4eQXMphMrKV3b9Q&cshid=1599642893400)
