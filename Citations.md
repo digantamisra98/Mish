@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-66-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-67-green.svg" /></a>
 </p>
 
 *MDPI articles are not maintained in this list*
