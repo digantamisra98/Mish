@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-67-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-68-green.svg" /></a>
 </p>
 
 *MDPI articles are not maintained in this list*
@@ -61,3 +61,5 @@
 - TANHSOFT - A FAMILY OF ACTIVATION FUNCTIONS COMBINING
 TANH AND SOFTPLUS : [Paper](https://www.google.com/url?sa=t&source=web&rct=j&url=https://arxiv.org/pdf/2009.03863&ved=2ahUKEwizjoWT3tvrAhUMzzgGHYsTC9YQFjACegQIAxAB&usg=AOvVaw0A5RDzB4eQXMphMrKV3b9Q&cshid=1599642893400)
 - Activate or Not: Learning Customized Activation: [Paper](https://arxiv.org/pdf/2009.04759.pdf)
+- Knowledge-based Radiation Treatment Planning: A Data-driven Method Survey: [Paper](https://arxiv.org/abs/2009.07388)
+
