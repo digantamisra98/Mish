@@ -1,10 +1,10 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-68-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-70-green.svg" /></a>
 </p>
 
-*MDPI articles are not maintained in this list*
+*MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
 - Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non-Gaussian hydraulic conductivities: [Paper](https://arxiv.org/pdf/1906.11828.pdf) (Submitted to [Wiley Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973))
@@ -62,4 +62,5 @@
 TANH AND SOFTPLUS : [Paper](https://www.google.com/url?sa=t&source=web&rct=j&url=https://arxiv.org/pdf/2009.03863&ved=2ahUKEwizjoWT3tvrAhUMzzgGHYsTC9YQFjACegQIAxAB&usg=AOvVaw0A5RDzB4eQXMphMrKV3b9Q&cshid=1599642893400)
 - Activate or Not: Learning Customized Activation: [Paper](https://arxiv.org/pdf/2009.04759.pdf)
 - Knowledge-based Radiation Treatment Planning: A Data-driven Method Survey: [Paper](https://arxiv.org/abs/2009.07388)
+- A deep learning-based approach for the automated surface inspection of copper clad laminate images: [Paper](https://link.springer.com/article/10.1007/s10489-020-01877-z)
 
