@@ -255,7 +255,7 @@ Results on [SpineNet-49](https://arxiv.org/abs/1912.05027):
 
 ## MS-COCO:
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mish-a-self-regularized-non-monotonic-neural/object-detection-on-coco)](https://paperswithcode.com/sota/object-detection-on-coco?p=mish-a-self-regularized-non-monotonic-neural)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cspnet-a-new-backbone-that-can-enhance/object-detection-on-coco)](https://paperswithcode.com/sota/object-detection-on-coco?p=cspnet-a-new-backbone-that-can-enhance)
 
 *For PyTorch based MS-COCO scores, please refer to this [readme](https://github.com/digantamisra98/Mish/tree/master/PyTorch%20Benchmarks)*
 
