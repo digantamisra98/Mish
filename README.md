@@ -51,7 +51,8 @@
   * [08/18] Mish added to [Sony Nnabla](https://github.com/sony/nnabla) - [Merged-700](https://github.com/sony/nnabla/pull/700)
   * [09/02] Mish added to [TensorFlow Swift APIs](https://github.com/tensorflow/swift-apis) - [Merged - 1068](https://github.com/tensorflow/swift-apis/commit/c1d822535c458a925087298289aa63b3535c0196)
   * [06/09] Official paper and presentation video for BMVC is released at this [link](https://www.bmvc2020-conference.com/conference/papers/paper_0928.html).
-  
+  * [23/09] CSP-p7 + Mish (multi-scale) is currently the SOTA in Object Detection on MS-COCO test-dev while CSP-p7 + Mish (single-scale) is currently the 3rd best model in Object detection on MS-COCO test dev. Further details on [paperswithcode leaderboards](https://paperswithcode.com/sota/object-detection-on-coco).
+   
 </details>
 
 
