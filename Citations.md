@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-73-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-74-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -64,4 +64,5 @@ TANH AND SOFTPLUS : [Paper](https://www.google.com/url?sa=t&source=web&rct=j&url
 - Knowledge-based Radiation Treatment Planning: A Data-driven Method Survey: [Paper](https://arxiv.org/abs/2009.07388)
 - A deep learning-based approach for the automated surface inspection of copper clad laminate images: [Paper](https://link.springer.com/article/10.1007/s10489-020-01877-z)
 - DETECTING ACOUSTIC EVENTS USING CONVOLUTIONAL MACARON NET: [Paper](https://arxiv.org/ftp/arxiv/papers/2009/2009.09632.pdf)
+- MACD R-CNN: An Abnormal Cell Nucleus Detection Method: [Paper](https://ieeexplore.ieee.org/document/9179730?denied=)
 
