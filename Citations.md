@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-75-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-78-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -66,3 +66,7 @@ TANH AND SOFTPLUS : [Paper](https://www.google.com/url?sa=t&source=web&rct=j&url
 - DETECTING ACOUSTIC EVENTS USING CONVOLUTIONAL MACARON NET: [Paper](https://arxiv.org/ftp/arxiv/papers/2009/2009.09632.pdf)
 - MACD R-CNN: An Abnormal Cell Nucleus Detection Method: [Paper](https://ieeexplore.ieee.org/document/9179730?denied=)
 - Triple-GAN with Variable Fractional Order Gradient Descent Method and Mish Activation Function: [Paper](https://ieeexplore.ieee.org/document/9204042)
+- Early Detection of Parkinson Disease using Deep Neural Networks on Gait Dynamics: [Paper](https://ieeexplore.ieee.org/abstract/document/9207380) (Published at [IJCNN](https://wcci2020.org/))
+- Real-time Implementation of RMNv2 Classifier in NXP Bluebox 2.0 and NXP i.MX RT1060: [Paper](https://ieeexplore.ieee.org/document/9209615)
+- Vicomtech at eHealth-KD Challenge 2020: Deep End-to-End Model for Entity and Relation Extraction in Medical Text: [Paper](http://ceur-ws.org/Vol-2664/eHealth-KD_paper3.pdf)
+
