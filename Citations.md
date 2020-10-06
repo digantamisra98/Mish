@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-78-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-80-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -69,4 +69,5 @@ TANH AND SOFTPLUS : [Paper](https://www.google.com/url?sa=t&source=web&rct=j&url
 - Early Detection of Parkinson Disease using Deep Neural Networks on Gait Dynamics: [Paper](https://ieeexplore.ieee.org/abstract/document/9207380) (Published at [IJCNN](https://wcci2020.org/))
 - Real-time Implementation of RMNv2 Classifier in NXP Bluebox 2.0 and NXP i.MX RT1060: [Paper](https://ieeexplore.ieee.org/document/9209615)
 - Vicomtech at eHealth-KD Challenge 2020: Deep End-to-End Model for Entity and Relation Extraction in Medical Text: [Paper](http://ceur-ws.org/Vol-2664/eHealth-KD_paper3.pdf)
-
+- Hyperspectral Image Classification Method Based on 2D–3D CNN and Multibranch Feature Fusion: [Paper](https://ieeexplore.ieee.org/abstract/document/9200676)
+- Detection of vehicles in circulation by artificial vision and convolutional neural networks: [Universidad Complutense de Madrid Master's Thesis](https://eprints.ucm.es/62195/)
