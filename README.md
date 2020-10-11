@@ -103,7 +103,7 @@
 
 ## Official Package Based Implementations: 
 
-<div style="text-align:center"><img src ="pack.gif"  width="1000"/></div>
+<div style="text-align:center"><img src ="libs.gif"  width="1000"/></div>
 
 <br>
 
