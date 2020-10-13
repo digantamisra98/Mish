@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-82-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-84-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -74,3 +74,5 @@ TANH AND SOFTPLUS : [Paper](https://www.google.com/url?sa=t&source=web&rct=j&url
 - DoubleEnsemble: A New Ensemble Method Based on Sample Reweighting and Feature Selection for Financial Data Analysis: [Paper](https://arxiv.org/abs/2010.01265)(Accepted to [
 ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bigke.org/))
 - On the Universality of the Double Descent Peak in Ridgeless Regression: [Paper](https://arxiv.org/abs/2010.01851), [Blog](https://dholzmueller.github.io/2020/10/06/double_descent.html), [Code](https://github.com/dholzmueller/universal_double_descent)
+- Meta Graph Attention on Heterogeneous Graph with Node-Edge Co-evolution: [Paper](https://arxiv.org/abs/2010.04554)
+- R-MnasNet: Reduced MnasNet for Computer Vision: [Paper](https://ieeexplore.ieee.org/abstract/document/9216434)
