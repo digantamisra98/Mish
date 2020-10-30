@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-91-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-92-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -46,7 +46,7 @@
 - Designing a lightweight 1D convolutional neural network with Bayesian optimization for wheel flat detection using carbody accelerations: [Paper](https://www.tandfonline.com/doi/abs/10.1080/23248378.2020.1795942) (Accepted to [International Journal of Rail Transportation](https://www.tandfonline.com/toc/tjrt20/current))
 - Hand Pose Estimation from RGBD Images: [Paper](https://dspace.vsb.cz/bitstream/handle/10084/140604/SIM0242_FEI_N2647_2612T025_2020.pdf?sequence=1)
 - Deep Embeddings of Contextual Assessment Data for Improving Performance Prediction: [Paper](https://www.semanticscholar.org/paper/Deep-Embeddings-of-Contextual-Assessment-Data-for-Clavi%C3%A9-Gal/e5c98454b0708616d60f7d7336fe90fadaeafafc?citingPapersSort=relevance&citingPapersLimit=10&citingPapersOffset=0&year%5B0%5D=&year%5B1%5D=&citedPapersSort=relevance&citedPapersLimit=10&citedPapersOffset=10)
-- KAPLAN: A 3D Point Descriptor for Shape Completion: [Paper](https://arxiv.org/abs/2008.00096)
+- KAPLAN: A 3D Point Descriptor for Shape Completion: [Paper](https://arxiv.org/abs/2008.00096) (ETH Zurich and Microsoft Research)
 - Robust Collaborative Learning of Patch-level and Image-level Annotations for Diabetic Retinopathy Grading from Fundus Image: [Paper](https://www.semanticscholar.org/paper/Robust-Collaborative-Learning-of-Patch-level-and-Yang-Shang/76c342dab14d5fe3a33c975b3703973f2218a583?citingPapersSort=relevance&citingPapersLimit=10&citingPapersOffset=0&year%5B0%5D=&year%5B1%5D=&citedPapersSort=relevance&citedPapersLimit=10&citedPapersOffset=0)
 - Actor-Action Video Classification CSC 249/449 Spring 2020 Challenge Report: [Report](https://arxiv.org/pdf/2008.00141.pdf)
 - Gait Recognition using FMCW Radar and Temporal Convolutional Deep Neural Networks: [Paper](https://ieeexplore.ieee.org/abstract/document/9160199) ([Accepted to 2020 IEEE 7th International Workshop on Metrology for AeroSpace (MetroAeroSpace)](https://ieeexplore.ieee.org/xpl/conhome/9151872/proceeding))
@@ -82,3 +82,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Deep Hash Embedding for Large-Vocab Categorical Feature Representations: [Paper](https://arxiv.org/abs/2010.10784) (Google)
 - Analysis of three dimensional potential problems in non-homogeneous media with deep learning based collocation method: [Paper](https://arxiv.org/abs/2010.12060)
 - Deep learning reveals hidden interactions in complex systems: [Paper](https://arxiv.org/abs/2001.02539)
+- Genetic U-Net: Automatically Designing Lightweight U-shaped CNN Architectures Using the Genetic Algorithm for Retinal Vessel Segmentation: [Paper](https://arxiv.org/abs/2010.15560)
