@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-92-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-93-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -83,3 +83,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Analysis of three dimensional potential problems in non-homogeneous media with deep learning based collocation method: [Paper](https://arxiv.org/abs/2010.12060)
 - Deep learning reveals hidden interactions in complex systems: [Paper](https://arxiv.org/abs/2001.02539)
 - Genetic U-Net: Automatically Designing Lightweight U-shaped CNN Architectures Using the Genetic Algorithm for Retinal Vessel Segmentation: [Paper](https://arxiv.org/abs/2010.15560)
+- Satellite Image Small Target Application Based on Deep Segmented Residual Neural Network: [Paper](https://ieeexplore.ieee.org/abstract/document/9233819/authors)
