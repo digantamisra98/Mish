@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-93-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-94-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -84,3 +84,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Deep learning reveals hidden interactions in complex systems: [Paper](https://arxiv.org/abs/2001.02539)
 - Genetic U-Net: Automatically Designing Lightweight U-shaped CNN Architectures Using the Genetic Algorithm for Retinal Vessel Segmentation: [Paper](https://arxiv.org/abs/2010.15560)
 - Satellite Image Small Target Application Based on Deep Segmented Residual Neural Network: [Paper](https://ieeexplore.ieee.org/abstract/document/9233819/authors)
+- LittleYOLO-SPP: A delicate real-time vehicle detection algorithm: [Paper](https://www.sciencedirect.com/science/article/pii/S0030402620316417)
