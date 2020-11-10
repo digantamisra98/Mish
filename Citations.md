@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-99-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-102-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -90,3 +90,6 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - TweetBLM: A Hate Speech Dataset and Analysis of Black Lives Matter-related Microblogs on Twitter: [Paper](https://openreview.net/pdf/b02131c93f3444306c27743a7f8abc75c37cb4f2.pdf)
 - Creating cloud-free satellite imagery from image time series with deep learning: [Paper](https://dl.acm.org/doi/10.1145/3423336.3429345) ([BIGSPATIAL '20: Proceedings of the 9th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data](https://dl.acm.org/doi/proceedings/10.1145/3423336))
 - Conflicting Bundles: Adapting Architectures Towards the Improved Training of Deep Neural Networks: [Paper](https://arxiv.org/abs/2011.02956) ([WACV 2021](http://wacv2021.thecvf.com/home))
+- Universal Activation Function For Machine Learning: [Paper](https://arxiv.org/abs/2011.03842)
+- Aspect Based Sentiment Analysis with Self-Attention and Gated Convolutional Networks: [Paper](https://ieeexplore.ieee.org/abstract/document/9237640)
+- Deep Learning Methodologies for UWB Ranging Error Compensation: [Master's Thesis](https://webthesis.biblio.polito.it/15875/1/tesi.pdf) (POLITECNICO DI TORINO)
