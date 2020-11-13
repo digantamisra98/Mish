@@ -94,7 +94,7 @@
 
 ## Official Package Based Implementations: 
 
-<div style="text-align:center"><img src ="new_pack.gif"  width="1000"/></div>
+<div style="text-align:center"><img src ="pack1.gif"  width="1000"/></div>
 
 <br>
 
