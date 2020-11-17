@@ -95,7 +95,7 @@
 
 ## Official Package Based Implementations: 
 
-<div style="text-align:center"><img src ="pack2.gif"  width="1000"/></div>
+<div style="text-align:center"><img src ="epack.gif"  width="1000"/></div>
 
 <br>
 
