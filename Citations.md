@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-105-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-106-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -96,3 +96,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - A Deep Convolutional Neural Network Applied to Ship Detection and Classification: [Paper](https://proceedings.science/sobena-2020/papers/a-deep-convolutional-neural-network-applied-to-ship-detection-and-classification) (Accepted to [SOBENA 2020](https://proceedings.science/sobena-2020/home))
 - Multiple Trajectory Prediction with Deep Temporal and Spatial Convolutional Neural Networks: [Paper](http://ras.papercept.net/images/temp/IROS/files/1081.pdf) ([IROS 2020](https://www.iros2020.org/))
 - Deep learning in magnetic resonance prostate segmentation: A review and a new perspective: [Paper](https://arxiv.org/abs/2011.07795)
+- A comparative approach on detecting multi-lingual and multi-oriented text in natural scene images: [Paper](https://link.springer.com/article/10.1007/s10489-020-01972-1) ([Springer Applied Intelligence 2020](https://www.springer.com/journal/10489))
