@@ -53,6 +53,7 @@
   * [06/09] Official paper and presentation video for BMVC is released at this [link](https://www.bmvc2020-conference.com/conference/papers/paper_0928.html).
   * [23/09] CSP-p7 + Mish (multi-scale) is currently the SOTA in Object Detection on MS-COCO test-dev while CSP-p7 + Mish (single-scale) is currently the 3rd best model in Object detection on MS-COCO test dev. Further details on [paperswithcode leaderboards](https://paperswithcode.com/sota/object-detection-on-coco).
   * [11/11] Mish added to [TFLearn](https://github.com/tflearn/tflearn) - [Merged 1159 (Follow up 1141)](https://github.com/tflearn/tflearn/pull/1159)
+  * [17/11] Mish added to [MONAI](https://github.com/Project-MONAI/MONAI) - [Merged 1235](https://github.com/Project-MONAI/MONAI/pull/1235)
    
 </details>
 
@@ -94,7 +95,7 @@
 
 ## Official Package Based Implementations: 
 
-<div style="text-align:center"><img src ="pack1.gif"  width="1000"/></div>
+<div style="text-align:center"><img src ="pack2.gif"  width="1000"/></div>
 
 <br>
 
