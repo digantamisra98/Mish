@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-108-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-109-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -99,3 +99,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - A comparative approach on detecting multi-lingual and multi-oriented text in natural scene images: [Paper](https://link.springer.com/article/10.1007/s10489-020-01972-1) ([Springer Applied Intelligence 2020](https://www.springer.com/journal/10489))
 - CVEGAN: A Perceptually-inspired GAN for Compressed Video Enhancement: [Paper](https://arxiv.org/abs/2011.09190)
 - Spatio-Temporal Forecasting With Gridded Remote Sensing Data Using Feed-Backward Decoding: [Paper](https://dl.acm.org/doi/abs/10.1145/3397536.3422247)
+- Plant leaf disease recognition using image-based machine learning: [Paper](https://zir.nsk.hr/islandora/object/etfos:2716)
