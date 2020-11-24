@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-109-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-110-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -100,3 +100,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - CVEGAN: A Perceptually-inspired GAN for Compressed Video Enhancement: [Paper](https://arxiv.org/abs/2011.09190)
 - Spatio-Temporal Forecasting With Gridded Remote Sensing Data Using Feed-Backward Decoding: [Paper](https://dl.acm.org/doi/abs/10.1145/3397536.3422247)
 - Plant leaf disease recognition using image-based machine learning: [Paper](https://zir.nsk.hr/islandora/object/etfos:2716)
+- A Fine-Grained Analysis of Misinformation in COVID-19 Tweets: [Paper](https://www.cmu.edu/ideas-social-cybersecurity/events/2020papers/raj-and-sumet_paper.pdf)
