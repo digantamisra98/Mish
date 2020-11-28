@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-111-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-114-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -102,3 +102,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Plant leaf disease recognition using image-based machine learning: [Paper](https://zir.nsk.hr/islandora/object/etfos:2716)
 - A Fine-Grained Analysis of Misinformation in COVID-19 Tweets: [Paper](https://www.cmu.edu/ideas-social-cybersecurity/events/2020papers/raj-and-sumet_paper.pdf)
 - Comparisons among different stochastic selection of activation layers for convolutional neural networks for healthcare: [Paper](https://arxiv.org/abs/2011.11834)
+- Object Detection and Tracking Algorithms for Vehicle Counting: A Comparative Analysis: [Paper](https://link.springer.com/article/10.1007/s42421-020-00025-w)
+- ImageNet Pretrained CNNs for JPEG Steganalysis: [Paper](http://www.ws.binghamton.edu/Fridrich/Research/Alaska-2-Revised.pdf)
