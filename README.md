@@ -249,7 +249,8 @@ Results on [SpineNet-49](https://arxiv.org/abs/1912.05027):
 
 ## MS-COCO:
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cspnet-a-new-backbone-that-can-enhance/object-detection-on-coco)](https://paperswithcode.com/sota/object-detection-on-coco?p=cspnet-a-new-backbone-that-can-enhance)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaled-yolov4-scaling-cross-stage-partial/real-time-object-detection-on-coco)](https://paperswithcode.com/sota/real-time-object-detection-on-coco?p=scaled-yolov4-scaling-cross-stage-partial)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaled-yolov4-scaling-cross-stage-partial/object-detection-on-coco)](https://paperswithcode.com/sota/object-detection-on-coco?p=scaled-yolov4-scaling-cross-stage-partial)
 
 *For PyTorch based MS-COCO scores, please refer to this [readme](https://github.com/digantamisra98/Mish/tree/master/PyTorch%20Benchmarks)*
 
