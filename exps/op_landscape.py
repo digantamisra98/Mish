@@ -10,7 +10,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 class swish(nn.Module):
     def __init__(self):
-        super(swish, selfl).__init__()
+        super(swish, self).__init__()
 
     def forward(self, input):
         return input * torch.sigmoid(input)
