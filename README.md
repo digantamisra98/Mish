@@ -12,7 +12,7 @@
     <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:j0C1gbodjP4J:scholar.google.com/&output=citation&scisdr=CgX0hbDMEOzUo74J6TM:AAGBfm0AAAAAX1QM8TNcu4tND6FEofKsXzM3cs1uCAAW&scisig=AAGBfm0AAAAAX1QM8Y5elaJ1IW-BKOuU1zFTYNp-QaNQ&scisf=4&ct=citation&cd=-1&hl=en" alt="Cite">
           <img src="https://img.shields.io/badge/Cite-BibTex-blue.svg" /></a>
      <a href=" " alt="Citations">
-          <img src="https://img.shields.io/badge/Citations-118-lightgrey.svg" /></a>
+          <img src="https://img.shields.io/badge/Citations-119-lightgrey.svg" /></a>
     <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0928.html" alt="Publication">
           <img src="https://img.shields.io/badge/BMVC-2020-red.svg" /></a>
      <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
@@ -54,6 +54,7 @@
   * [11/11] Mish added to [TFLearn](https://github.com/tflearn/tflearn) - [Merged 1159 (Follow up 1141)](https://github.com/tflearn/tflearn/pull/1159)
   * [17/11] Mish added to [MONAI](https://github.com/Project-MONAI/MONAI) - [Merged 1235](https://github.com/Project-MONAI/MONAI/pull/1235)
   * [20/11] Mish added to [plaidml](https://github.com/plaidml/plaidml) - [Merged 1566](https://github.com/plaidml/plaidml/pull/1566)
+  * [10/12] Mish added to [Simd](http://ermig1979.github.io/Simd/) and [Synet](https://github.com/ermig1979/Synet) - [Docs](http://ermig1979.github.io/Simd/help/group__synet__activation.html#ga0dc8979a94ceaaf82dee82c4761e4afc)
    
 </details>
 
@@ -109,7 +110,7 @@
 
 ## Official Package Based Implementations: 
 
-<div style="text-align:center"><img src ="plack.gif"  width="1000"/></div>
+<div style="text-align:center"><img src ="simd_pack.gif"  width="1000"/></div>
 
 <br>
 
