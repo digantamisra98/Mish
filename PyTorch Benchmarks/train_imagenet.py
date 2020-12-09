@@ -62,18 +62,17 @@ def parse_args():
     parser.add_argument("--prefix", type=str, required=True, metavar='PFX',
                         help='prefix for logging & checkpoint saving')
     parser.add_argument('--evaluate', dest='evaluate', action='store_true', help='evaluation only')
-    # parser.add_argument('--att-type', type=str, choices=['BAM', 'CBAM', 'PCAM'], default=None)
-    # parser.add_argument('--conv', required=False, type=bool)
-    # parser.add_argument('--settings', nargs="+", required=True, type=list)
-    # parser.add_argument('--name', required=True, type=str)
-    # parser.add_argument('--san', required=False, type=bool)
     parser.add_argument('--dryrun', required=False, type=bool)
+    parser.add_argument("--entity", type=str, required=True, metavar='PFX',
+                        help='Name of the WandB Entity')
+    parser.add_argument("--project", type=str, required=True, metavar='PFX',
+                        help='Name of the WandB project')
     args = parser.parse_args()
     return args
 
 
 def init_wandb(entity, project, model):
-    wandb.init(entity=entity, project=project, allow_val_change=True)
+    wandb.init(entity=entity, project=project)
     wandb.config.update(args)
     wandb.watch(model)
 
@@ -192,7 +191,7 @@ def main():
 
     train_loader = get_dataloader(args.data, True, args.batch_size, args.workers)
 
-    init_wandb("landskape", "SAN-ImageNet", model)
+    init_wandb(args.entity, args.project, model)
     wandb.config.update({"Parameters": params, "FLOPs": macs})
     print(f"Parameters: {params}, FLOPs: {macs}")
     print(args)
