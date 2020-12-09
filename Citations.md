@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-117-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-119-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -108,3 +108,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - MR-based camera-less eye tracking using deep neural networks: [Paper](https://www.biorxiv.org/content/10.1101/2020.11.30.401323v1.full.pdf)
 - Separating and denoising seismic signals with dual-path recurrent neural network architecture: [Paper](https://www.essoar.org/doi/10.1002/essoar.10504944.1)
 - MACD R-CNN: An Abnormal Cell Nucleus Detection Method: [Paper](https://ieeexplore.ieee.org/abstract/document/9179730)
+- ECG Segmentation using a Neural Network as the Basis for Detection of Cardiac Pathologies: [Paper](https://www.cinc.org/2020/Program/accepted/356_CinCFinalPDF.pdf)
