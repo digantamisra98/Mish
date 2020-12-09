@@ -1,4 +1,0 @@
-ptflops
-torch
-torchvision
-wandb
