@@ -4,7 +4,7 @@ import torch.nn.functional as F
 
 from collections import OrderedDict
 import numpy as np
-import wandb​
+import wandb
 from PIL import Image
 from sklearn.preprocessing import MinMaxScaler
 
@@ -47,7 +47,7 @@ def convert_to_PIL(img, width, height):
 
 def main():
 
-    wandb.init(project='Mish', name = args.name, group = args.group)
+    wandb.init(project='Mish')
     model1 = build_model(nn.ReLU())
     model2 = build_model(swish())
     model3 = build_model(mish())
@@ -70,9 +70,9 @@ def main():
     #image_swish = convert_to_PIL(np_img_swish, 100, 100)
     #image_mish = convert_to_PIL(np_img_mish, 100, 100)
 
-    wandb.log({"Output landscapes": [wandb.Image(np_img_relu, caption="ReLU")], 
-                            [wandb.Image(np_img_swish, caption="Swish")], 
-                                [wandb.Image(np_img_mish, caption="Mish")]})
+    wandb.log({"Output landscapes": [wandb.Image(np_img_relu, caption="ReLU"), 
+                                     wandb.Image(np_img_swish, caption="Swish"), 
+                                     wandb.Image(np_img_mish, caption="Mish")]})
 
     return
     
