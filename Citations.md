@@ -107,3 +107,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Multi-channel optical neuromorphic processor for frequency-multiplexed signals: [Paper](https://iopscience.iop.org/article/10.1088/2515-7647/abcb72/meta)
 - MR-based camera-less eye tracking using deep neural networks: [Paper](https://www.biorxiv.org/content/10.1101/2020.11.30.401323v1.full.pdf)
 - Separating and denoising seismic signals with dual-path recurrent neural network architecture: [Paper](https://www.essoar.org/doi/10.1002/essoar.10504944.1)
+- MACD R-CNN: An Abnormal Cell Nucleus Detection Method: [Paper](https://ieeexplore.ieee.org/abstract/document/9179730)
