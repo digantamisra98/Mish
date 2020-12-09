@@ -22,19 +22,11 @@ from torch.autograd import Variable
 import numpy as np
 import math
 import wandb
-import argparse
-
-
-parser = argparse.ArgumentParser()
-parser.add_argument("version", type = int, help="Input 20, 32, 44 or 56 for ResNet depth")
-parser.add_argument("name", type = str, help="Name of the run")
-parser.add_argument("group", type = str, help="Name of the group")
-args = parser.parse_args()
 
 
 def main():
-    global best_prec1, evaluate, args
-    wandb.init(project='Mish Sweep', name = args.name, group = args.group)
+    global best_prec1, evaluate
+    wandb.init(project='Mish')
     
     if args.version == 20:
         model = resnet20(act = wandb.config.act)
