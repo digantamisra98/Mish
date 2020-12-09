@@ -20,7 +20,6 @@
 </p>
 
 
-
 <h1 align="center">Mish: Self Regularized <br> Non-Monotonic Activation Function</h1>
 <p align="center">BMVC 2020 <a href="https://www.bmvc2020-conference.com/assets/papers/0928.pdf" target="_blank">(Official Paper)</a></p>
 
@@ -93,6 +92,20 @@
   <a href="https://youtu.be/whOdg-yrgdI" alt="YouTube">
         <img src="podcast_logo/yt1.png" width="100"/></a>
 </p>
+
+
+- (12/2020): Talk on *From Smooth Activations to Robustness to Catastrophic Forgetting* at [Weights & Biases Salon](https://www.youtube.com/playlist?list=PLD80i8An1OEH3ejAj8R8dy74JeSzY8kGt) is out now. Watch on:
+<p float="center">
+  &emsp;
+  &emsp;
+  <a href="https://www.youtube.com/watch?v=1U-7TWysqIg" alt="YouTube">
+        <img src="podcast_logo/yt1.png" width="100"/></a>
+  <br>
+  <br>
+  <a href="https://www.youtube.com/watch?v=1U-7TWysqIg"><img src="podcast_logo/wandb.jpg" width="450" alt="Video Thumbnail."></a>
+  <a href="https://docs.google.com/presentation/d/e/2PACX-1vSzef6CPMt028oX-7NMRpg6UCvoVvsTkfpbTguF9H2iyzoQu98GMw6XZ6NCF4L7_yi9249WitMGzOX4/pub?start=false&loop=false&delayms=3000"><img src="podcast_logo/Salon.png" width="450" alt="Slides Thumbnail."></a>
+</p>
+
 
 ## Official Package Based Implementations: 
 
