@@ -52,14 +52,14 @@ def main():
     model2 = build_model(swish())
     model3 = build_model(mish())
 
-    x = np.linspace(0.0, 10.0, num=100)
-    y = np.linspace(0.0, 10.0, num=100)
+    x = np.linspace(0.0, 10.0, num=400)
+    y = np.linspace(0.0, 10.0, num=400)
 
-    grid = [torch.tensor([xi, yi]) for xi in x for yi in y]
+    grid = [torch.tensor([xi, yi], dtype=torch.float) for xi in x for yi in y]
 
-    np_img_relu = np.array([model1(point).detach().numpy() for point in grid]).reshape(100, 100)
-    np_img_swish = np.array([model2(point).detach().numpy() for point in grid]).reshape(100, 100)
-    np_img_mish = np.array([model3(point).detach().numpy() for point in grid]).reshape(100, 100)
+    np_img_relu = np.array([model1(point).detach().numpy() for point in grid]).reshape(400, 400)
+    np_img_swish = np.array([model2(point).detach().numpy() for point in grid]).reshape(400, 400)
+    np_img_mish = np.array([model3(point).detach().numpy() for point in grid]).reshape(400, 400)
 
     scaler = MinMaxScaler(feature_range=(0, 255))
     np_img_relu = scaler.fit_transform(np_img_relu)
