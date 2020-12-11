@@ -91,11 +91,7 @@ def main():
 
         # train for one epoch
         train(train_loader, model, criterion, optimizer, epoch)
-
-        if args.config == 0:
-            adjust_learning_rate(optimizer, epoch)
-        else:
-            lr_scheduler.step()
+        lr_scheduler.step()
 
         # evaluate on validation set
         prec1 = validate(val_loader, model, criterion, epoch)
