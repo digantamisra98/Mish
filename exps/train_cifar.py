@@ -28,13 +28,13 @@ def main():
     global best_prec1, evaluate
     wandb.init(project='Mish')
     
-    if args.version == 20:
+    if wandb.config.version == 20:
         model = resnet20(act = wandb.config.act)
-    elif args.version == 32:
+    elif wandb.config.version == 32:
         model = resnet32(act = wandb.config.act)
-    elif args.version == 44:
+    elif wandb.config.version == 44:
         model = resnet44(act = wandb.config.act)
-    elif args.version == 56:
+    elif wandb.config.version == 56:
         model = resnet56(act = wandb.config.act)
     wandb.watch(model)
     model = model.cuda()

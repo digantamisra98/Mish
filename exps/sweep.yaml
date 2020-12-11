@@ -10,3 +10,5 @@ parameters:
     values: [32, 64, 128, 256]
   act:
     values: ["relu", "mish", "swish"]
+  version:
+    values: [20]
