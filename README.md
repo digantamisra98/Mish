@@ -112,7 +112,7 @@
 
 ## Official Package Based Implementations: 
 
-<div style="text-align:center"><img src ="simd_pack.gif"  width="1000"/></div>
+<div style="text-align:center"><img src ="spapack.gif"  width="1000"/></div>
 
 <br>
 
