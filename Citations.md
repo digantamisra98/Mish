@@ -4,6 +4,8 @@
         <img src="https://img.shields.io/badge/Citations-120-green.svg" /></a>
 </p>
 
+## This page is not being actively maintained anymore. 
+
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
 
 - Attention! A Lightweight 2D Hand Pose Estimation Approach: [Paper](https://arxiv.org/abs/2001.08047), [Code](https://nsantavas.github.io/) (Submitted to [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97))
