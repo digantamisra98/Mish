@@ -35,6 +35,7 @@
   * Alternative (experimental improved) variant of H-Mish developed by [Páll Haraldsson](https://github.com/PallHaraldsson) can be found here - [H-Mish](https://github.com/PallHaraldsson/H-Mish/blob/master/README.md) (Available in Julia)   
   * Variance based initialization method for Mish (experimental) by [Federico Andres Lois](https://twitter.com/federicolois) can be found here - [Mish_init](https://gist.github.com/redknightlois/b5d36fd2ae306cb8b3484c1e3bcce253)
 </details>
+  * Citation data is no longer maintained.
 
 <details>
   <summary>Changelogs/ Updates: (Click to expand)</summary>
@@ -113,7 +114,7 @@
 
 ## Official Package Based Implementations: 
 
-<div style="text-align:center"><img src ="opack.gif"  width="1000"/></div>
+<div style="text-align:center"><img src ="gpack.gif"  width="1000"/></div>
 
 <br>
 
