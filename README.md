@@ -12,7 +12,7 @@
     <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:j0C1gbodjP4J:scholar.google.com/&output=citation&scisdr=CgX0hbDMEOzUo74J6TM:AAGBfm0AAAAAX1QM8TNcu4tND6FEofKsXzM3cs1uCAAW&scisig=AAGBfm0AAAAAX1QM8Y5elaJ1IW-BKOuU1zFTYNp-QaNQ&scisf=4&ct=citation&cd=-1&hl=en" alt="Cite">
           <img src="https://img.shields.io/badge/Cite-BibTex-blue.svg" /></a>
      <a href=" " alt="Citations">
-          <img src="https://img.shields.io/badge/Citations-120-lightgrey.svg" /></a>
+          <img src="https://img.shields.io/badge/Citations-148-lightgrey.svg" /></a>
     <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0928.html" alt="Publication">
           <img src="https://img.shields.io/badge/BMVC-2020-red.svg" /></a>
      <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
@@ -34,7 +34,6 @@
   * Faster variants for Mish and H-Mish by [Yashas Samaga](https://github.com/YashasSamaga) can be found here - [ConvolutionBuildingBlocks](https://github.com/YashasSamaga/ConvolutionBuildingBlocks) 
   * Alternative (experimental improved) variant of H-Mish developed by [Páll Haraldsson](https://github.com/PallHaraldsson) can be found here - [H-Mish](https://github.com/PallHaraldsson/H-Mish/blob/master/README.md) (Available in Julia)   
   * Variance based initialization method for Mish (experimental) by [Federico Andres Lois](https://twitter.com/federicolois) can be found here - [Mish_init](https://gist.github.com/redknightlois/b5d36fd2ae306cb8b3484c1e3bcce253)
-  * Citation data is no longer maintained.
 </details>
 
 
