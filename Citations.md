@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-129-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-139-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -119,3 +119,13 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - State-of-the-Art Review of Machine Learning Applications in Constitutive Modeling of Soils: [Paper](https://link.springer.com/article/10.1007/s11831-020-09524-z)
 - P-Swish: Activation Function with Learnable Parameters Based on Swish Activation Function in Deep Learning: [Paper](https://scholar.google.com/scholar?start=105&hl=en&as_sdt=0,5&sciodt=0,5&cites=18342068069250449551,3945903564945223693&scipsc=)
 - A Deep Learning Approach for Diabetic Retinopathy detection using Transfer Learning: [Paper](https://ieeexplore.ieee.org/abstract/document/9298201/)
+- Automatic Detection and Image Recognition of Precision Agriculture for Citrus Diseases: [Paper](https://ieeexplore.ieee.org/abstract/document/9301932/)
+- SOC Estimation of Li-ion Batteries with Learning Rate-Optimized Deep Fully Convolutional Network: [Paper](https://ieeexplore.ieee.org/abstract/document/9276459/)
+- 3D-CNN for Facial Emotion Recognition in Videos: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-64559-5_23)
+- Class Attention Network for Semantic Segmentation of Remote Sensing Images: [Paper](https://ieeexplore.ieee.org/abstract/document/9306448/)
+- NLCA-Net v2 for Stereo Matching in ECCV'20 Robust Vision Challenge1: [Paper](https://www.researchgate.net/profile/Zhibo_Rao/publication/348002212_NLCA-Net_v2_for_Stereo_Matching_in_ECCV'20_Robust_Vision_Challenge/links/5fec8008a6fdccdcb8172c5c/NLCA-Net-v2-for-Stereo-Matching-in-ECCV20-Robust-Vision-Challenge.pdf)
+- Image Quality Recovery for Image Recognition with Deep Learning: [Paper](https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/KO50002002-20205406-0003.pdf?file_id=153424)
+- A State Representation Dueling Network for Deep Reinforcement Learning: [Paper](https://ieeexplore.ieee.org/abstract/document/9288200/)
+- Recent Advances of Generic Object Detection with Deep Learning: A Review: [Paper](https://link.springer.com/chapter/10.1007/978-981-33-4601-7_19)
+- EVALUATION OF DEEP LEARNING BASED MULTIPLE OBJECT TRACKERS: [Paper](http://etd.lib.metu.edu.tr/upload/12625742/index.pdf)
+- Improvement of U-Net architecture for image binarization with activation functions replacement: [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11605/116050Y/Improvement-of-U-Net-architecture-for-image-binarization-with-activation/10.1117/12.2587027.short)
