@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-148-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-149-green.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -134,3 +134,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - BIT.UA at BioASQ 8: Lightweight Neural Document Ranking with Zero-shot Snippet Retrieval: [Paper](http://ceur-ws.org/Vol-2696/paper_161.pdf)
 - Urban Intelligence and Applications: [Book](https://link.springer.com/book/10.1007%2F978-981-33-4601-7)
 - Advances in Visual Computing: [Book](https://link.springer.com/book/10.1007%2F978-3-030-64559-5)
+- Unsupervised feature selection via transformed auto-encoder: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121000113)
