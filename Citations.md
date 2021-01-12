@@ -1,10 +1,8 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-120-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-129-green.svg" /></a>
 </p>
-
-## This page is not being actively maintained anymore. 
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
 
@@ -112,3 +110,12 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - MACD R-CNN: An Abnormal Cell Nucleus Detection Method: [Paper](https://ieeexplore.ieee.org/abstract/document/9179730)
 - ECG Segmentation using a Neural Network as the Basis for Detection of Cardiac Pathologies: [Paper](https://www.cinc.org/2020/Program/accepted/356_CinCFinalPDF.pdf)
 - 3D-CNN for Facial Emotion Recognition in Videos: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-64559-5_23)
+- Neural style transfer method based on Laplacian to suppress artifacts: [Paper](http://www.jsjkx.com/CN/10.11896/jsjkx.200100090)
+- Detection of vehicles in circulation using artificial vision and convolutional neural networks: [Paper](https://eprints.ucm.es/62195/)
+- Recognition of plant leaf disease using image-based machine learning: [Paper](https://zir.nsk.hr/islandora/object/etfos:2716)
+- Real-time smoking detection algorithm based on deep learning: [Paper](http://fcst.ceaj.org/CN/article/downloadArticleFile.do?attachType=PDF&id=2426)
+- Style transfer with variational autoencoders is a promising approach to RNA-Seq data harmonization and analysis: [Paper](https://academic.oup.com/bioinformatics/article-abstract/36/20/5076/5872520)
+- Assessment of Subjective Creativity Skill Using EEG Induced Capsule Network: [Paper](https://ieeexplore.ieee.org/abstract/document/9308494/)
+- State-of-the-Art Review of Machine Learning Applications in Constitutive Modeling of Soils: [Paper](https://link.springer.com/article/10.1007/s11831-020-09524-z)
+- P-Swish: Activation Function with Learnable Parameters Based on Swish Activation Function in Deep Learning: [Paper](https://scholar.google.com/scholar?start=105&hl=en&as_sdt=0,5&sciodt=0,5&cites=18342068069250449551,3945903564945223693&scipsc=)
+- A Deep Learning Approach for Diabetic Retinopathy detection using Transfer Learning: [Paper](https://ieeexplore.ieee.org/abstract/document/9298201/)
