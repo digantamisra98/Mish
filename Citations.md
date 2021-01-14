@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-151-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-152-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-115-blue.svg" /></a>
 </p>
@@ -137,3 +137,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Urban Intelligence and Applications: [Book](https://link.springer.com/book/10.1007%2F978-981-33-4601-7)
 - Advances in Visual Computing: [Book](https://link.springer.com/book/10.1007%2F978-3-030-64559-5)
 - Unsupervised feature selection via transformed auto-encoder: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121000113)
+- YOLOFKP: Dense Face Detection Based On YOLOv3 Key Point Network: [Paper](https://dl.acm.org/doi/10.1145/3436369.3437416)
