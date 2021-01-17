@@ -25,6 +25,6 @@
 
 ### Mask RCNN:
 
-|Backbone|Detectors|BBox_AP|BBox_AP<sub>50</sub>|BBox_AP<sub>75</sub>|BBox_AP<sub>S</sub>|BBox_AP<sub>M</sub>|BBox_AP<sub>L</sub>|Segm_AP|Segm_AP<sub>50</sub>|Segm_AP<sub>75</sub>|Segm_AP<sub>S</sub>|Segm_AP<sub>M</sub>|Segm_AP<sub>L</sub>|Weights|
+|Backbone|Detectors|BBox_AP|BBox_AP<sub>50</sub>|BBox_AP<sub>75</sub>|BBox_AP<sub>S</sub>|BBox_AP<sub>M</sub>|BBox_AP<sub>L</sub>|Segm_AP|Segm_AP<sub>50</sub>|Segm_AP<sub>75</sub>|Segm_AP<sub>S</sub>|Segm_AP<sub>M</sub>|Segm_AP<sub>L</sub>|Weights|Logs|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|ResNet-50 + Mish|Mask RCNN|**38.1**|**58.8**|**41.4**|**22.1**|**41.7**|**49.3**|**34.5**|**55.4**|**36.6**|**18.6**|**37.7**|**46.6**|[Google Drive]()|
+|ResNet-50 + Mish|Mask RCNN|**38.1**|**58.8**|**41.4**|**22.1**|**41.7**|**49.3**|**34.5**|**55.4**|**36.6**|**18.6**|**37.7**|**46.6**|[Google Drive](https://drive.google.com/file/d/1-Bo9obGNDv5k3egba2tnyERb1dpra65J/view?usp=sharing)|[Raw](https://raw.githubusercontent.com/digantamisra98/Mish/master/PyTorch%20Benchmarks/logs/mrcnn_mish50.log)|
