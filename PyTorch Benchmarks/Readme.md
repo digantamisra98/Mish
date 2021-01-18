@@ -9,6 +9,8 @@
 
 ## ImageNet Scores:
 
+*Please follow the instructions in [this repository](https://github.com/LandskapeAI/imagenet) to download and setup the ImageNet dataset.*
+
 |Network|Activation|Top-1 Accuracy|Top-5 Accuracy|Weights|
 |:---:|:---:|:---:|:---:|:---:|
 |ResNet-18|Mish|71.2%|89.9%|[weights](https://drive.google.com/file/d/1abh59CTIMI1IWbMCv00lwEhTsz_nL9he/view?usp=sharing)|
