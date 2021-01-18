@@ -163,14 +163,6 @@ def ResidualNet(network_type, depth, num_classes):
 
     if depth == 50:
         model = ResNet(Bottleneck, [3, 4, 6, 3], network_type, num_classes)
-    # elif depth == 34:
-    #     model = ResNet(BasicBlock, [3, 4, 6, 3], network_type, num_classes, att_type)
-    #
-    # elif depth == 50:
-    #     model = ResNet(Bottleneck, [3, 4, 6, 3], network_type, num_classes, tea, global_attns, use_conv)
-    #
-    # elif depth == 101:
-    #     model = ResNet(Bottleneck, [3, 4, 23, 3], network_type, num_classes, tea, global_attns, use_conv)
 
     return model
 
