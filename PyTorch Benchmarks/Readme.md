@@ -1,5 +1,12 @@
 # PyTorch Benchmarks:
 
+<p align="left">
+    <a href="https://wandb.ai/diganta/Mish" alt="Dashboard">
+        <img src="https://img.shields.io/badge/WandB-Dashboard-gold.svg" /></a>
+</p>
+
+*Note: All detectors and segmentation models except YOLO models were trained using [MMDetection](https://github.com/open-mmlab/mmdetection). To reproduce the training, please follow the instructions in [this repository](https://github.com/digantamisra98/Reproducibilty-Challenge-ECANET) and make appropriate changes.*
+
 ## ImageNet Scores:
 
 |Network|Activation|Top-1 Accuracy|Top-5 Accuracy|Weights|
@@ -24,6 +31,12 @@
 | **YOLOv4**<sub>pacsp-x-mish</sub> | 736 | **48.5%** | **67.4%** | **52.7%** | **30.9%** | **54.0%** | **62.0%** | [cfg](https://github.com/WongKinYiu/PyTorch_YOLOv4/blob/master/cfg/yolov4-pacsp-x-mish.cfg) | [weights](https://drive.google.com/file/d/1GsLaQLfl54Qt2C07mya00S0_FTpcXBdy/view?usp=sharing) |
 
 ### Mask RCNN:
+
+<p align="left">
+    <img width="1000" src="figures/mrcnn50.png">
+    </br>
+    <em>Bounding Box and Segmentation Maps of ResNet-50+Mish-Mask-RCNN using samples from the test set of MS-COCO 2017 dataset. More visualizations available on the WandB dashboard.</em>
+</p>
 
 |Backbone|Detectors|BBox_AP|BBox_AP<sub>50</sub>|BBox_AP<sub>75</sub>|BBox_AP<sub>S</sub>|BBox_AP<sub>M</sub>|BBox_AP<sub>L</sub>|Segm_AP|Segm_AP<sub>50</sub>|Segm_AP<sub>75</sub>|Segm_AP<sub>S</sub>|Segm_AP<sub>M</sub>|Segm_AP<sub>L</sub>|Weights|Logs|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
