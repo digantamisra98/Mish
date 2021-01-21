@@ -49,3 +49,7 @@ python train_imagenet.py --project='Mish'
 |ResNet-50 + Mish|Mask RCNN|**38.1**|**58.8**|**41.4**|**22.1**|**41.7**|**49.3**|**34.5**|**55.4**|**36.6**|**18.6**|**37.7**|**46.6**|[Google Drive](https://drive.google.com/file/d/1-Bo9obGNDv5k3egba2tnyERb1dpra65J/view?usp=sharing)|[Raw](https://raw.githubusercontent.com/digantamisra98/Mish/master/PyTorch%20Benchmarks/logs/mrcnn_mish50.log)|
 
 ### Faster RCNN:
+
+|Backbone|Detectors|BBox_AP|BBox_AP<sub>50</sub>|BBox_AP<sub>75</sub>|BBox_AP<sub>S</sub>|BBox_AP<sub>M</sub>|BBox_AP<sub>L</sub>|Weights|Logs|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|ResNet-50 + Mish|Mask RCNN|**37.7**|**58.3**|**40.9**|**22.0**|**41.4**|**48.6**|[Google Drive]()|[Raw]()|
