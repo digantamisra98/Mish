@@ -51,7 +51,7 @@ python train_imagenet.py --project='Mish'
 ### Faster RCNN:
 
 <p align="left">
-    <img width="1000" src="figures/mrcnn50.png">
+    <img width="1000" src="figures/frcnn50.png">
     </br>
     <em>Bounding Box and Segmentation Maps of ResNet-50+Mish-Mask-RCNN using samples from the test set of MS-COCO 2017 dataset. More visualizations available on the WandB dashboard.</em>
 </p>
