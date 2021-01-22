@@ -51,9 +51,18 @@ python train_imagenet.py --project='Mish'
 ### Faster RCNN:
 
 <p align="left">
+    <a href="https://wandb.ai/diganta/mmdetection-tools?workspace=user-diganta" alt="Logs Dashboard">
+        <img src="https://img.shields.io/badge/Logs-Dashboard-gold.svg" /></a>
+</p>
+
+*Note: The above dashboard links is for the per epoch logs and is not the same dashboard pasted at the start of this page.*
+
+*To enable WandB Logger Hook during MMDetection based training, simply go to ```mmdetection/configs/_base_/default_runtime.py``` and in the `hooks` key of the `log_config` dictionary, add the following line ```dict(type='WandbLoggerHook')```*
+
+<p align="left">
     <img width="1000" src="figures/frcnn50.png">
     </br>
-    <em>Bounding Box and Segmentation Maps of ResNet-50+Mish-Mask-RCNN using samples from the test set of MS-COCO 2017 dataset. More visualizations available on the WandB dashboard.</em>
+    <em>Bounding Box of ResNet-50+Mish-Faster-RCNN using samples from the test set of MS-COCO 2017 dataset. More visualizations available on the WandB dashboard.</em>
 </p>
 
 |Backbone|BBox_AP|BBox_AP<sub>50</sub>|BBox_AP<sub>75</sub>|BBox_AP<sub>S</sub>|BBox_AP<sub>M</sub>|BBox_AP<sub>L</sub>|Weights|Logs|
