@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-156-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-161-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-123-blue.svg" /></a>
 </p>
@@ -140,3 +140,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - YOLOFKP: Dense Face Detection Based On YOLOv3 Key Point Network: [Paper](https://dl.acm.org/doi/10.1145/3436369.3437416)
 - Tomato detection based on modified YOLOv3 framework: [Paper](https://www.nature.com/articles/s41598-021-81216-5)
 - Application of Convolutional Neural Network for Pedestrian Detection in Autonomous Vehicle Systems: [Paper](https://informatika.stei.itb.ac.id/~rinaldi.munir/TA/Makalah_TA_Renjira.pdf)
+- Fast aircraft detection method in optical remote sensing images based on deep learning: [Paper](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-15/issue-1/014502/Fast-aircraft-detection-method-in-optical-remote-sensing-images-based/10.1117/1.JRS.15.014502.short?SSO=1)
+- YOLObile: Real-Time Object Detection on Mobile Devices via Compression-Compilation Co-Design: [Paper](https://arxiv.org/abs/2009.05697)
