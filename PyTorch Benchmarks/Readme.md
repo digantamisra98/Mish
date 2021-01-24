@@ -39,7 +39,7 @@ python train_imagenet.py --project='Mish'
 ### Mask RCNN:
 
 <p align="left">
-    <img width="1000" src="figures/mrcnn50.png">
+    <img width="1000" src="figures/mrcnn.png">
     </br>
     <em>Bounding Box and Segmentation Maps of ResNet-50+Mish-Mask-RCNN using samples from the test set of MS-COCO 2017 dataset. More visualizations available on the WandB dashboard.</em>
 </p>
@@ -60,7 +60,7 @@ python train_imagenet.py --project='Mish'
 *To enable WandB Logger Hook during MMDetection based training, simply go to ```mmdetection/configs/_base_/default_runtime.py``` and in the `hooks` key of the `log_config` dictionary, add the following line ```dict(type='WandbLoggerHook')```*
 
 <p align="left">
-    <img width="1000" src="figures/frcnn50.png">
+    <img width="1000" src="figures/frcnn.png">
     </br>
     <em>Bounding Box of ResNet-50+Mish-Faster-RCNN using samples from the test set of MS-COCO 2017 dataset. More visualizations available on the WandB dashboard.</em>
 </p>
