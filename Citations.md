@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-162-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-163-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-123-blue.svg" /></a>
 </p>
@@ -142,4 +142,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Application of Convolutional Neural Network for Pedestrian Detection in Autonomous Vehicle Systems: [Paper](https://informatika.stei.itb.ac.id/~rinaldi.munir/TA/Makalah_TA_Renjira.pdf)
 - Fast aircraft detection method in optical remote sensing images based on deep learning: [Paper](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-15/issue-1/014502/Fast-aircraft-detection-method-in-optical-remote-sensing-images-based/10.1117/1.JRS.15.014502.short?SSO=1)
 - YOLObile: Real-Time Object Detection on Mobile Devices via Compression-Compilation Co-Design: [Paper](https://arxiv.org/abs/2009.05697)
-- Filling the gap between GRACE-and GRACE-FO-derived terrestrial water storage anomalies with Bayesian convolutional neural networks: [Paper](https://www.researchgate.net/publication/348668960_Filling_the_gap_between_GRACE-and_GRACE-FO-derived_terrestrial_water_storage_anomalies_with_Bayesian_convolutional_neural_networks)
+- Filling the gap between GRACE-and GRACE-FO-derived terrestrial water storage anomalies with Bayesian convolutional neural networks: [Paper](https://arxiv.org/abs/2101.09361)
+- Parametric Rectified Power Sigmoid Units: Learning Nonlinear Neural Transfer Analytical Forms: [Paper](https://arxiv.org/abs/2101.09948)
