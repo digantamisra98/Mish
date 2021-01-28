@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-163-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-165-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-123-blue.svg" /></a>
 </p>
@@ -144,3 +144,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - YOLObile: Real-Time Object Detection on Mobile Devices via Compression-Compilation Co-Design: [Paper](https://arxiv.org/abs/2009.05697)
 - Filling the gap between GRACE-and GRACE-FO-derived terrestrial water storage anomalies with Bayesian convolutional neural networks: [Paper](https://arxiv.org/abs/2101.09361)
 - Parametric Rectified Power Sigmoid Units: Learning Nonlinear Neural Transfer Analytical Forms: [Paper](https://arxiv.org/abs/2101.09948)
+- A Dual-branch Network for Infrared and Visible Image Fusion: [Paper](https://arxiv.org/abs/2101.09643)
+- Temporal Convolutional Neural Networks for Radar Micro-Doppler Based Gait Recognition: [Paper](https://pubmed.ncbi.nlm.nih.gov/33430474/)
