@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-165-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-168-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-123-blue.svg" /></a>
 </p>
@@ -146,3 +146,6 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Parametric Rectified Power Sigmoid Units: Learning Nonlinear Neural Transfer Analytical Forms: [Paper](https://arxiv.org/abs/2101.09948)
 - A Dual-branch Network for Infrared and Visible Image Fusion: [Paper](https://arxiv.org/abs/2101.09643)
 - Temporal Convolutional Neural Networks for Radar Micro-Doppler Based Gait Recognition: [Paper](https://pubmed.ncbi.nlm.nih.gov/33430474/)
+- MSCAN: Multi-scale Channel Attention for Fundus Retinal Vessel Segmentation: [Paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9332494)
+- Activation Functions in Artificial Neural Networks: A Systematic Overview: [Paper](https://arxiv.org/abs/2101.09957)
+- Intelligent Detection Method for Welding Seam Defects of Automobile Wheel Hub Based on YOLO: [Paper](https://link.springer.com/chapter/10.1007/978-981-33-6318-2_86)
