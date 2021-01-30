@@ -188,6 +188,10 @@ We hypothesize the Δ(x) to be exhibiting the properties of a pre-conditioner ma
 
 ## Loss Landscape:
 
+<div style="text-align:center"><img src ="llmish.gif"  width="500" height="300"/></div>
+
+To visit the interactive Loss Landscape visualizer, click [here](https://losslandscape.com/explorer?model=mish).
+
 Loss landscape visualizations for a ResNet-20 for CIFAR 10 using ReLU, Mish and Swish (from L-R) for 200 epochs training: 
 
 <div style="text-align:center"><img src ="landscapes/d8v1.png"  width="1000"/></div>
