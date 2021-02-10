@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-174-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-175-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-134-blue.svg" /></a>
 </p>
@@ -152,3 +152,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - COMPUTER VISION IN RECOGNIZING ALLERGIC DISEASES: OBJECT DETECTION AND CLASSIFICATION: [Paper](https://www.elibrary.ru/item.asp?id=44591801&pf=1)
 - DDGNet-YOLO: A Target Detection Network For Dangerous Driving Gestures: [Paper](https://ieeexplore.ieee.org/abstract/document/9327205)
 - Using Chou’s 5-Step Rule to Predict DNA-Protein Binding with Multi-scale Complementary Feature: [Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.0c00864)
+- Discovering conservation laws from trajectories via machine learning: [Paper](https://arxiv.org/abs/2102.04008)
