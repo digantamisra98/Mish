@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-175-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-177-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-134-blue.svg" /></a>
 </p>
@@ -153,3 +153,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - DDGNet-YOLO: A Target Detection Network For Dangerous Driving Gestures: [Paper](https://ieeexplore.ieee.org/abstract/document/9327205)
 - Using Chou’s 5-Step Rule to Predict DNA-Protein Binding with Multi-scale Complementary Feature: [Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.0c00864)
 - Discovering conservation laws from trajectories via machine learning: [Paper](https://arxiv.org/abs/2102.04008)
+- Real-time railroad track components inspection based on the improved YOLOv4 framework: [Paper](https://www.sciencedirect.com/science/article/pii/S0926580521000479?casa_token=XgBqgZNSjn0AAAAA:W4kCmERM1efyuMfznMRXorOKtZb6y-PRNCHIdErUvWVWk7_wo_CfYTLltsRNiujEiq5PauPr)
