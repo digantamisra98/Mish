@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-181-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-183-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-138-blue.svg" /></a>
 </p>
@@ -158,5 +158,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Steel Surface Defect Detection Using Transfer Learning and Image Segmentation: [Paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9345151)
 - Low Curvature Activations Reduce Overfitting in Adversarial Training: [Paper](https://arxiv.org/abs/2102.07861)
 - Recurrent Rational Networks: [Paper](https://arxiv.org/abs/2102.09407)
-- 
-- 
+- Optimizing nonlinear activation function for convolutional neural networks: [Paper](https://link.springer.com/article/10.1007/s11760-021-01863-z)
+- iMAP: integration of multiple single-cell datasets by adversarial paired transfer networks: [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02280-8)
