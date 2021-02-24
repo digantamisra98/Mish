@@ -1,9 +1,9 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-183-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-186-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-138-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-143-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -160,3 +160,6 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Recurrent Rational Networks: [Paper](https://arxiv.org/abs/2102.09407)
 - Optimizing nonlinear activation function for convolutional neural networks: [Paper](https://link.springer.com/article/10.1007/s11760-021-01863-z)
 - iMAP: integration of multiple single-cell datasets by adversarial paired transfer networks: [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02280-8)
+- CoS: Emphasized smooth non-monotonic activation function composed of sigmoids for deep learning: [Paper](http://ki-it.com/xml/27726/27726.pdf)
+- An improved efficient model for structure-aware lane detection of unmanned vehicles: [Paper](https://journals.sagepub.com/doi/abs/10.1177/0954407021993673)
+- Super-Resolution of Remote Sensing Images based on a Deep Plug-and-Play Framework: [Paper](https://ieeexplore.ieee.org/abstract/document/9324647)
