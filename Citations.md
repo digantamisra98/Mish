@@ -163,3 +163,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - CoS: Emphasized smooth non-monotonic activation function composed of sigmoids for deep learning: [Paper](http://ki-it.com/xml/27726/27726.pdf)
 - An improved efficient model for structure-aware lane detection of unmanned vehicles: [Paper](https://journals.sagepub.com/doi/abs/10.1177/0954407021993673)
 - Super-Resolution of Remote Sensing Images based on a Deep Plug-and-Play Framework: [Paper](https://ieeexplore.ieee.org/abstract/document/9324647)
+- Graph Convolutional Networks Skeleton-based Action Recognition for Continuous Data Stream: A Sliding Window Approach: [Paper](https://www.scitepress.org/Papers/2021/102349/102349.pdf)
