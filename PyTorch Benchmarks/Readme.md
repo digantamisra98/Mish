@@ -7,6 +7,8 @@
 
 *Note: All detectors and segmentation models except YOLO models were trained using [MMDetection](https://github.com/open-mmlab/mmdetection). To reproduce the training, please follow the instructions in [this repository](https://github.com/digantamisra98/Reproducibilty-Challenge-ECANET) and make appropriate changes.*
 
+*To enable WandB Logger Hook during MMDetection based training, simply go to ```mmdetection/configs/_base_/default_runtime.py``` and in the `hooks` key of the `log_config` dictionary, add the following line ```dict(type='WandbLoggerHook')```*
+
 ## ImageNet Scores:
 
 *Please follow the instructions in [this repository](https://github.com/LandskapeAI/imagenet) to download and setup the ImageNet dataset.*
@@ -51,15 +53,6 @@ python train_imagenet.py --project='Mish'
 ### Faster RCNN:
 
 <p align="left">
-    <a href="https://wandb.ai/diganta/mmdetection-tools?workspace=user-diganta" alt="Logs Dashboard">
-        <img src="https://img.shields.io/badge/Logs-Dashboard-gold.svg" /></a>
-</p>
-
-*Note: The above dashboard links is for the per epoch logs and is not the same dashboard pasted at the start of this page.*
-
-*To enable WandB Logger Hook during MMDetection based training, simply go to ```mmdetection/configs/_base_/default_runtime.py``` and in the `hooks` key of the `log_config` dictionary, add the following line ```dict(type='WandbLoggerHook')```*
-
-<p align="left">
     <img width="1000" src="figures/frcnn50.png">
     </br>
     <em>Bounding Box of ResNet-50+Mish-Faster-RCNN using samples from the test set of MS-COCO 2017 dataset. More visualizations available on the WandB dashboard.</em>
@@ -68,3 +61,9 @@ python train_imagenet.py --project='Mish'
 |Backbone|BBox_AP|BBox_AP<sub>50</sub>|BBox_AP<sub>75</sub>|BBox_AP<sub>S</sub>|BBox_AP<sub>M</sub>|BBox_AP<sub>L</sub>|Weights|Logs|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |ResNet-50 + Mish|**37.7**|**58.3**|**40.9**|**22.0**|**41.4**|**48.6**|[Google Drive](https://drive.google.com/file/d/1eloq9rOAZSvfAIqxMf1izAo5TMyDFWcF/view?usp=sharing)|[Raw](https://raw.githubusercontent.com/digantamisra98/Mish/master/PyTorch%20Benchmarks/logs/frcnn_mish50.log)|
+
+### Dynamic RCNN:
+
+|Backbone|BBox_AP|BBox_AP<sub>50</sub>|BBox_AP<sub>75</sub>|BBox_AP<sub>S</sub>|BBox_AP<sub>M</sub>|BBox_AP<sub>L</sub>|Weights|Logs|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|ResNet-50 + Mish|**35.2**|**53.2**|**38.6**|**19.0**|**37.9**|**47.1**|[Google Drive](https://drive.google.com/file/d/19VNofqJevaxt3k0dx23oRBBDGwW88QBX/view?usp=sharing)|[Raw](https://raw.githubusercontent.com/digantamisra98/Mish/master/PyTorch%20Benchmarks/logs/drcnn_mish.log)|
