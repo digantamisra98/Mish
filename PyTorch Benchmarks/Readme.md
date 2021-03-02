@@ -67,3 +67,9 @@ python train_imagenet.py --project='Mish'
 |Backbone|BBox_AP|BBox_AP<sub>50</sub>|BBox_AP<sub>75</sub>|BBox_AP<sub>S</sub>|BBox_AP<sub>M</sub>|BBox_AP<sub>L</sub>|Weights|Logs|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |ResNet-50 + Mish|**35.2**|**53.2**|**38.6**|**19.0**|**37.9**|**47.1**|[Google Drive](https://drive.google.com/file/d/19VNofqJevaxt3k0dx23oRBBDGwW88QBX/view?usp=sharing)|[Raw](https://raw.githubusercontent.com/digantamisra98/Mish/master/PyTorch%20Benchmarks/logs/drcnn_mish.log)|
+
+### PISA:
+
+|Backbone|Base Detector|BBox_AP|BBox_AP<sub>50</sub>|BBox_AP<sub>75</sub>|BBox_AP<sub>S</sub>|BBox_AP<sub>M</sub>|BBox_AP<sub>L</sub>|Weights|Logs|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|ResNet-50 + Mish|Faster RCNN|**34.8**|**53.6**|**38.3**|**19.7**|**37.7**|**45.4**|[Google Drive](https://drive.google.com/file/d/1IptrJsWzHclJyFBvezLgjx6HZ6SSKRLI/view?usp=sharing)|[Raw](https://raw.githubusercontent.com/digantamisra98/Mish/master/PyTorch%20Benchmarks/logs/pisa_mish50_frcnn.log)|
