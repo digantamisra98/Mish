@@ -118,7 +118,7 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Style transfer with variational autoencoders is a promising approach to RNA-Seq data harmonization and analysis: [Paper](https://academic.oup.com/bioinformatics/article-abstract/36/20/5076/5872520)
 - Assessment of Subjective Creativity Skill Using EEG Induced Capsule Network: [Paper](https://ieeexplore.ieee.org/abstract/document/9308494/)
 - State-of-the-Art Review of Machine Learning Applications in Constitutive Modeling of Soils: [Paper](https://link.springer.com/article/10.1007/s11831-020-09524-z)
-- P-Swish: Activation Function with Learnable Parameters Based on Swish Activation Function in Deep Learning: [Paper](https://scholar.google.com/scholar?start=105&hl=en&as_sdt=0,5&sciodt=0,5&cites=18342068069250449551,3945903564945223693&scipsc=)
+- P-Swish: Activation Function with Learnable Parameters Based on Swish Activation Function in Deep Learning: [Paper](https://ieeexplore.ieee.org/abstract/document/9301059)
 - A Deep Learning Approach for Diabetic Retinopathy detection using Transfer Learning: [Paper](https://ieeexplore.ieee.org/abstract/document/9298201/)
 - Automatic Detection and Image Recognition of Precision Agriculture for Citrus Diseases: [Paper](https://ieeexplore.ieee.org/abstract/document/9301932/)
 - SOC Estimation of Li-ion Batteries with Learning Rate-Optimized Deep Fully Convolutional Network: [Paper](https://ieeexplore.ieee.org/abstract/document/9276459/)
