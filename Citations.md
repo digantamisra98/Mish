@@ -1,9 +1,9 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-198-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-197-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-148-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-150-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -75,7 +75,7 @@ TANH AND SOFTPLUS : [Paper](https://www.google.com/url?sa=t&source=web&rct=j&url
 - Detection of vehicles in circulation by artificial vision and convolutional neural networks: [Universidad Complutense de Madrid Master's Thesis](https://eprints.ucm.es/62195/)
 - DoubleEnsemble: A New Ensemble Method Based on Sample Reweighting and Feature Selection for Financial Data Analysis: [Paper](https://arxiv.org/abs/2010.01265)(Accepted to [
 ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bigke.org/))
-- On the Universality of the Double Descent Peak in Ridgeless Regression: [Paper](https://arxiv.org/abs/2010.01851), [Blog](https://dholzmueller.github.io/2020/10/06/double_descent.html), [Code](https://github.com/dholzmueller/universal_double_descent)
+- On the Universality of the Double Descent Peak in Ridgeless Regression: [Paper](https://arxiv.org/abs/2010.01851), [Blog](https://dholzmueller.github.io/2020/10/06/double_descent.html), [Code](https://github.com/dholzmueller/universal_double_descent), (Accepted at ICLR 2021) 
 - Meta Graph Attention on Heterogeneous Graph with Node-Edge Co-evolution: [Paper](https://arxiv.org/abs/2010.04554)
 - R-MnasNet: Reduced MnasNet for Computer Vision: [Paper](https://ieeexplore.ieee.org/abstract/document/9216434)
 - Smooth activations and reproducibility in deep networks: [Paper](https://arxiv.org/pdf/2010.09931.pdf) (Under review at [ICLR 2021](https://iclr.cc/)) (Google)
@@ -89,7 +89,7 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - LittleYOLO-SPP: A delicate real-time vehicle detection algorithm: [Paper](https://www.sciencedirect.com/science/article/pii/S0030402620316417)
 - DeepWay: a Deep Learning Estimator for Unmanned Ground Vehicle Global Path Planning: [Paper](https://arxiv.org/pdf/2010.16322.pdf)
 - Exploring Multimodal Features and Fusion Strategies for Analyzing Disaster Tweets: [Paper](https://openreview.net/pdf/eaab7ed59e0991d4b95c69dd6c1509091d6e6a28.pdf)
-- TweetBLM: A Hate Speech Dataset and Analysis of Black Lives Matter-related Microblogs on Twitter: [Paper](https://openreview.net/pdf/b02131c93f3444306c27743a7f8abc75c37cb4f2.pdf)
+- TweetBLM: A Hate Speech Dataset and Analysis of Black Lives Matter-related Microblogs on Twitter: [Paper](https://openreview.net/pdf?id=XG2YfqOQFwO)
 - Creating cloud-free satellite imagery from image time series with deep learning: [Paper](https://dl.acm.org/doi/10.1145/3423336.3429345) ([BIGSPATIAL '20: Proceedings of the 9th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data](https://dl.acm.org/doi/proceedings/10.1145/3423336))
 - Conflicting Bundles: Adapting Architectures Towards the Improved Training of Deep Neural Networks: [Paper](https://arxiv.org/abs/2011.02956) ([WACV 2021](http://wacv2021.thecvf.com/home))
 - Universal Activation Function For Machine Learning: [Paper](https://arxiv.org/abs/2011.03842)
@@ -109,7 +109,6 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Multi-channel optical neuromorphic processor for frequency-multiplexed signals: [Paper](https://iopscience.iop.org/article/10.1088/2515-7647/abcb72/meta)
 - MR-based camera-less eye tracking using deep neural networks: [Paper](https://www.biorxiv.org/content/10.1101/2020.11.30.401323v1.full.pdf)
 - Separating and denoising seismic signals with dual-path recurrent neural network architecture: [Paper](https://www.essoar.org/doi/10.1002/essoar.10504944.1)
-- MACD R-CNN: An Abnormal Cell Nucleus Detection Method: [Paper](https://ieeexplore.ieee.org/abstract/document/9179730)
 - ECG Segmentation using a Neural Network as the Basis for Detection of Cardiac Pathologies: [Paper](https://www.cinc.org/2020/Program/accepted/356_CinCFinalPDF.pdf)
 - 3D-CNN for Facial Emotion Recognition in Videos: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-64559-5_23)
 - Neural style transfer method based on Laplacian to suppress artifacts: [Paper](http://www.jsjkx.com/CN/10.11896/jsjkx.200100090)
