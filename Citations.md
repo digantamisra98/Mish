@@ -123,7 +123,7 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Automatic Detection and Image Recognition of Precision Agriculture for Citrus Diseases: [Paper](https://ieeexplore.ieee.org/abstract/document/9301932/)
 - SOC Estimation of Li-ion Batteries with Learning Rate-Optimized Deep Fully Convolutional Network: [Paper](https://ieeexplore.ieee.org/abstract/document/9276459/)
 - Class Attention Network for Semantic Segmentation of Remote Sensing Images: [Paper](https://ieeexplore.ieee.org/abstract/document/9306448/)
-- NLCA-Net v2 for Stereo Matching in ECCV'20 Robust Vision Challenge1: [Paper](https://www.researchgate.net/profile/Zhibo_Rao/publication/348002212_NLCA-Net_v2_for_Stereo_Matching_in_ECCV'20_Robust_Vision_Challenge/links/5fec8008a6fdccdcb8172c5c/NLCA-Net-v2-for-Stereo-Matching-in-ECCV20-Robust-Vision-Challenge.pdf)
+- NLCA-Net v2 for Stereo Matching in ECCV'20 Robust Vision Challenge: [Paper](https://www.researchgate.net/profile/Zhibo_Rao/publication/348002212_NLCA-Net_v2_for_Stereo_Matching_in_ECCV'20_Robust_Vision_Challenge/links/5fec8008a6fdccdcb8172c5c/NLCA-Net-v2-for-Stereo-Matching-in-ECCV20-Robust-Vision-Challenge.pdf)
 - Image Quality Recovery for Image Recognition with Deep Learning: [Paper](https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/KO50002002-20205406-0003.pdf?file_id=153424)
 - A State Representation Dueling Network for Deep Reinforcement Learning: [Paper](https://ieeexplore.ieee.org/abstract/document/9288200/)
 - Recent Advances of Generic Object Detection with Deep Learning: A Review: [Paper](https://link.springer.com/chapter/10.1007/978-981-33-4601-7_19)
