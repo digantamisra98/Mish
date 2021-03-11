@@ -166,3 +166,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - MaskHunter: real-time object detection of face masks during the COVID-19 pandemic: [Paper](https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2020.1119)
 - Monitoring social distancing under various low light conditions with deep learning and a single motionless time of flight camera: [Paper](https://pubmed.ncbi.nlm.nih.gov/33630951/)
 - A Self-gated Activation Function SINSIG Based on the Sine Trigonometric for Neural Network Models: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-70866-5_15)
+- Activation function dependence of the storage capacity of treelike neural networks: [Letter](https://pehlevan.seas.harvard.edu/files/pehlevan/files/zavatone-veth_pehlevan_pre_2021.pdf), (Published in [Physical Review](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.L020301)) (Havard University)
