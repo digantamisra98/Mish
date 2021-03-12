@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-199-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-200-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-151-blue.svg" /></a>
 </p>
@@ -168,3 +168,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - A Self-gated Activation Function SINSIG Based on the Sine Trigonometric for Neural Network Models: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-70866-5_15)
 - Beneficial Effect of Combined Replay for Continual Learning: [Paper](https://www.scitepress.org/Papers/2021/102512/102512.pdf)
 - Evaluation of Task fMRI Decoding With Deep Learning on a Small Sample Dataset: [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7928289/)
+- Auto-tuning of Deep Neural Networks by Conflicting Layer Removal: [Paper](https://arxiv.org/abs/2103.04331)
