@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-201-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-202-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-155-blue.svg" /></a>
 </p>
@@ -170,3 +170,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Evaluation of Task fMRI Decoding With Deep Learning on a Small Sample Dataset: [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7928289/)
 - Auto-tuning of Deep Neural Networks by Conflicting Layer Removal: [Paper](https://arxiv.org/abs/2103.04331)
 - Unsupervised Anomaly Detection by GAN Using Class Label for Watching System: [Paper](https://www.sice.or.jp/org/i-sys/is48/paper/SICE-IS_2021_paper_28.pdf)
+- Auto-Detection of Tibial Plateau Angle in Canine Radiographs Using a Deep Learning Approach: [Paper](https://arxiv.org/pdf/2102.12544.pdf)
