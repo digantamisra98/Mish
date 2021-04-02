@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-212-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-214-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-167-blue.svg" /></a>
 </p>
@@ -176,3 +176,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Compressed MobileNet V3:A Light Weight Variant for Resource-Constrained Platforms: [Paper](https://ieeexplore.ieee.org/document/9376113/;jsessionid=YSBlJMZExs8Hh9rg1k251lLoIY60DabJ8wg4it1Zd7CiDnBzHuRl!-2095092916)
 - Bridge Target Detection in Remote Sensing Image Based on Improved YOLOv4 Algorithm: [Paper](https://dl.acm.org/doi/10.1145/3445815.3445839)
 - Deep learning piston aberration control of fiber laser phased array by spiral phase modulation: [Paper](https://arxiv.org/pdf/2103.17173.pdf)
+- Neural Network Nonlinear Equalizer in Long-Distance Coherent Optical Transmission Systems: [Paper](https://www.semanticscholar.org/paper/Neural-Network-Nonlinear-Equalizer-in-Long-Distance-Kamiyama-Kobayashi/16909e01cab9e967fc5065393dac0c3d8934d852)
+- Comparison of different convolutional neural network activation functions and methods for building ensembles: [Paper](https://arxiv.org/pdf/2103.15898.pdf)
