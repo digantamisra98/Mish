@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-215-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-216-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-167-blue.svg" /></a>
 </p>
@@ -179,3 +179,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Neural Network Nonlinear Equalizer in Long-Distance Coherent Optical Transmission Systems: [Paper](https://www.semanticscholar.org/paper/Neural-Network-Nonlinear-Equalizer-in-Long-Distance-Kamiyama-Kobayashi/16909e01cab9e967fc5065393dac0c3d8934d852)
 - Comparison of different convolutional neural network activation functions and methods for building ensembles: [Paper](https://arxiv.org/pdf/2103.15898.pdf)
 - Deep ensembles based on Stochastic Activation Selection for Polyp Segmentation: [Paper](https://arxiv.org/abs/2104.00850)
+- Real-time detection of uneaten feed pellets in underwater images for aquaculture using an improved YOLO-V4 network: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0168169921001538)
