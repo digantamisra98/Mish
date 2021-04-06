@@ -1,9 +1,9 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-216-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-219-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-167-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-172-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -180,3 +180,6 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Comparison of different convolutional neural network activation functions and methods for building ensembles: [Paper](https://arxiv.org/pdf/2103.15898.pdf)
 - Deep ensembles based on Stochastic Activation Selection for Polyp Segmentation: [Paper](https://arxiv.org/abs/2104.00850)
 - Real-time detection of uneaten feed pellets in underwater images for aquaculture using an improved YOLO-V4 network: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0168169921001538)
+- Evolving Synthetic Data Generating Programs for Text Recognition Tasks - Evolving a Diverse Population of SyntheticData Generators using Genetic Programming with Novelty Search for Robust Text Recognition Models: [Paper](https://run.unl.pt/handle/10362/114827)
+- GuavaNet: A deep neural network architecture for automatic sensory evaluation to predict degree of acceptability for Guava by a consumer: [Paper](https://scholarworks.rit.edu/theses/10703/)
+- Identifying the Mating Posture of Cattle Using Deep Learning-Based Object Detection with Networks of Various Settings: [Paper](https://link.springer.com/article/10.1007/s42835-021-00701-z)
