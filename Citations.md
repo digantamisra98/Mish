@@ -3,7 +3,7 @@
    <a href=" " alt="Citations">
         <img src="https://img.shields.io/badge/Citations-220-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-174-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-178-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
