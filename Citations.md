@@ -1,9 +1,9 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-224-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-225-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-181-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-182-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -188,3 +188,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - 2D object detection and semantic segmentation in the Carla simulator: [Thesis](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1536051&dswid=645)
 - Relating Adversarially Robust Generalization to Flat Minima: [Paper](https://arxiv.org/pdf/2104.04448.pdf) (MPII and University of Tubigen)
 - Research on Optimization Method of Multi-scale Fish Target Fast Detection Network: [Paper](https://arxiv.org/abs/2104.05050)
+- Quadratic GCN for Graph Classification: [Paper](https://arxiv.org/pdf/2104.06750.pdf)
