@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-227-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-228-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-185-blue.svg" /></a>
 </p>
@@ -191,3 +191,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Quadratic GCN for Graph Classification: [Paper](https://arxiv.org/pdf/2104.06750.pdf)
 - Image Super-Resolution Using Hybrid Attention Mechanism: [Paper](https://dl.acm.org/doi/abs/10.1145/3447450.3447460)
 - SC-GlowTTS: an Efficient Zero-Shot Multi-Speaker Text-To-Speech Model: [Paper](https://arxiv.org/abs/2104.05557)
+- A Competitive Method to VIPriors Object Detection Challenge: [Paper](https://arxiv.org/pdf/2104.09059.pdf)
