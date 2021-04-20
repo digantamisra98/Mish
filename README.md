@@ -58,6 +58,7 @@
   * [10/12] Mish added to [Simd](http://ermig1979.github.io/Simd/) and [Synet](https://github.com/ermig1979/Synet) - [Docs](http://ermig1979.github.io/Simd/help/group__synet__activation.html#ga0dc8979a94ceaaf82dee82c4761e4afc)
   * [14/12] Mish added to [OneFlow](https://github.com/Oneflow-Inc/oneflow) - [Merged 3972](https://github.com/Oneflow-Inc/oneflow/pull/3972)
   * [24/12] Mish added to [GPT-Neo](https://github.com/EleutherAI/gpt-neo)
+  * [21/04] Mish added to [TensorFlow JS](https://github.com/tensorflow/tfjs/pull/4950)
    
 </details>
 
