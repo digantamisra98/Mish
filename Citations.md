@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-228-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-229-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-185-blue.svg" /></a>
 </p>
@@ -192,3 +192,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Image Super-Resolution Using Hybrid Attention Mechanism: [Paper](https://dl.acm.org/doi/abs/10.1145/3447450.3447460)
 - SC-GlowTTS: an Efficient Zero-Shot Multi-Speaker Text-To-Speech Model: [Paper](https://arxiv.org/abs/2104.05557)
 - A Competitive Method to VIPriors Object Detection Challenge: [Paper](https://arxiv.org/pdf/2104.09059.pdf)
+- Audio-to-score singing transcription based on a CRNN-HSMM hybrid model: [Book, Cambridge Press](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/audiotoscore-singing-transcription-based-on-a-crnnhsmm-hybrid-model/0AE8AEECB24DC3D9B689459E11DDA03F)
