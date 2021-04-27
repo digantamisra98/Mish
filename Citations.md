@@ -1,9 +1,9 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-231-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-234-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-188-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-191-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -195,3 +195,6 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Audio-to-score singing transcription based on a CRNN-HSMM hybrid model: [Book, Cambridge Press](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/audiotoscore-singing-transcription-based-on-a-crnnhsmm-hybrid-model/0AE8AEECB24DC3D9B689459E11DDA03F)
 - PP-YOLOv2: A Practical Object Detector: [Paper](https://arxiv.org/pdf/2104.10419.pdf)
 - Classifying Melanoma Images with Ensembles of Deep Convolutional Neural Networks: [Thesis](https://dione.lib.unipi.gr/xmlui/bitstream/handle/unipi/13321/thesis.pdf;jsessionid=9DDB4A7CF627A1D58EC195AB33DDB58B?sequence=1)
+- Characterization of Pulmonary Nodules in Computed Tomography Images Based on Pseudo-Labeling using Radiology Reports: [Paper](https://ieeexplore.ieee.org/abstract/document/9402853)
+- Restoration and Reconstruction of 3D cryo-EM Images: [Thesis(ETH Zurich/ BITS Pilani)](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/480083/BITS_Pilani___Report__Thesis__Agarwal.pdf?sequence=1&isAllowed=y)
+- The Role of Activation Function in CNN: [Paper](https://conferences.computer.org/ictapub/pdfs/ITCA2020-6EIiKprXTS23UiQ2usLpR0/114100a429/114100a429.pdf)
