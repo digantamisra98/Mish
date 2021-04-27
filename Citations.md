@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-230-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-231-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-188-blue.svg" /></a>
 </p>
@@ -194,3 +194,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - A Competitive Method to VIPriors Object Detection Challenge: [Paper](https://arxiv.org/pdf/2104.09059.pdf)
 - Audio-to-score singing transcription based on a CRNN-HSMM hybrid model: [Book, Cambridge Press](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/audiotoscore-singing-transcription-based-on-a-crnnhsmm-hybrid-model/0AE8AEECB24DC3D9B689459E11DDA03F)
 - PP-YOLOv2: A Practical Object Detector: [Paper](https://arxiv.org/pdf/2104.10419.pdf)
+- Classifying Melanoma Images with Ensembles of Deep Convolutional Neural Networks: [Thesis](https://dione.lib.unipi.gr/xmlui/bitstream/handle/unipi/13321/thesis.pdf;jsessionid=9DDB4A7CF627A1D58EC195AB33DDB58B?sequence=1)
