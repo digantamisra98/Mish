@@ -1,9 +1,9 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-235-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-236-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-192-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-193-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -199,3 +199,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Restoration and Reconstruction of 3D cryo-EM Images: [Thesis(ETH Zurich/ BITS Pilani)](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/480083/BITS_Pilani___Report__Thesis__Agarwal.pdf?sequence=1&isAllowed=y)
 - The Role of Activation Function in CNN: [Paper](https://conferences.computer.org/ictapub/pdfs/ITCA2020-6EIiKprXTS23UiQ2usLpR0/114100a429/114100a429.pdf)
 - A Survey of Modern Deep Learning based Object Detection Models: [Paper](https://arxiv.org/pdf/2104.11892.pdf)
+- Image Reconstruction from Neuromorphic Event Cameras using LaplacianPrediction and Poisson Integration with Spiking and Artificial Neural Networks: [Paper](https://tub-rip.github.io/eventvision2021/papers/2021CVPRW_Image_Reconstruction_from_Neuromorphic_Event_Cameras_using_Laplacian-Prediction.pdf) (CVPRW 2021)
