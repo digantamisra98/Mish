@@ -201,3 +201,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - A Survey of Modern Deep Learning based Object Detection Models: [Paper](https://arxiv.org/pdf/2104.11892.pdf)
 - Image Reconstruction from Neuromorphic Event Cameras using LaplacianPrediction and Poisson Integration with Spiking and Artificial Neural Networks: [Paper](https://tub-rip.github.io/eventvision2021/papers/2021CVPRW_Image_Reconstruction_from_Neuromorphic_Event_Cameras_using_Laplacian-Prediction.pdf) (CVPRW 2021)
 - SOTA Attention Mechanism and Activation Functions on XLNet: [Stanford CS224N Project by Haozheng Du, Dept of CS, Stanford University](https://web.stanford.edu/class/cs224n/reports/final_reports/report008.pdf), [Summary](https://web.stanford.edu/class/cs224n/reports/final_summaries/summary008.html)
+- SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models: [Paper](https://arxiv.org/abs/2104.14951)
