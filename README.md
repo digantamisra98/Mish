@@ -442,8 +442,6 @@ The P-values were computed for different activation functions in comparison to t
   * Comparison of Convergence Rates.
   * Normalizing constant for Mish to eliminate the use of Batch Norm.
   * Regularizing effect of the first derivative of Mish with repect to Swish. 
-  * Memory Efficient Fast implementation of Mish for PyTorch/ CUDA
-  * Investigating the loss landscape for Mish.
 
 </details>
 
