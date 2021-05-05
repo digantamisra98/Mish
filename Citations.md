@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-238-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-239-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-194-blue.svg" /></a>
 </p>
@@ -203,3 +203,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - SOTA Attention Mechanism and Activation Functions on XLNet: [Stanford CS224N Project by Haozheng Du, Dept of CS, Stanford University](https://web.stanford.edu/class/cs224n/reports/final_reports/report008.pdf), [Summary](https://web.stanford.edu/class/cs224n/reports/final_summaries/summary008.html)
 - SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models: [Paper](https://arxiv.org/abs/2104.14951)
 - Towards Robust Representation Learning and Beyond: [PhD Thesis, Johns Hopkins University](https://cihangxie.github.io/data/phd_thesis.pdf)
+- Obstacle detection of rail transit based on deep learning: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0263224121002529?via%3Dihub)
