@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-239-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-240-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-195-blue.svg" /></a>
 </p>
@@ -204,3 +204,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models: [Paper](https://arxiv.org/abs/2104.14951)
 - Towards Robust Representation Learning and Beyond: [PhD Thesis, Johns Hopkins University](https://cihangxie.github.io/data/phd_thesis.pdf)
 - Obstacle detection of rail transit based on deep learning: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0263224121002529?via%3Dihub)
+- Detection of concealed cracks from ground penetrating radar images based on deep learning algorithm: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950061820339532?via%3Dihub)
