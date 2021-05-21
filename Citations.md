@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-240-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-248-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-206-blue.svg" /></a>
 </p>
@@ -143,7 +143,7 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - YOLObile: Real-Time Object Detection on Mobile Devices via Compression-Compilation Co-Design: [Paper](https://arxiv.org/abs/2009.05697)
 - Filling the gap between GRACE-and GRACE-FO-derived terrestrial water storage anomalies with Bayesian convolutional neural networks: [Paper](https://arxiv.org/abs/2101.09361)
 - Parametric Rectified Power Sigmoid Units: Learning Nonlinear Neural Transfer Analytical Forms: [Paper](https://arxiv.org/abs/2101.09948)
-- A Dual-branch Network for Infrared and Visible Image Fusion: [Paper](https://arxiv.org/abs/2101.09643)
+- A Dual-branch Network for Infrared and Visible Image Fusion: [Paper](https://arxiv.org/abs/2101.09643) (ICPR)
 - Temporal Convolutional Neural Networks for Radar Micro-Doppler Based Gait Recognition: [Paper](https://pubmed.ncbi.nlm.nih.gov/33430474/)
 - MSCAN: Multi-scale Channel Attention for Fundus Retinal Vessel Segmentation: [Paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9332494)
 - Activation Functions in Artificial Neural Networks: A Systematic Overview: [Paper](https://arxiv.org/abs/2101.09957)
@@ -205,3 +205,11 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Towards Robust Representation Learning and Beyond: [PhD Thesis, Johns Hopkins University](https://cihangxie.github.io/data/phd_thesis.pdf)
 - Obstacle detection of rail transit based on deep learning: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0263224121002529?via%3Dihub)
 - Detection of concealed cracks from ground penetrating radar images based on deep learning algorithm: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950061820339532?via%3Dihub)
+- Content-Augmented Feature Pyramid Network with Light Linear Transformers: [Paper](https://arxiv.org/abs/2105.09464)
+- Deployment of Compressed MobileNet V3 on iMX RT 1060: [Paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9422512)
+- Adaptive Hash Attention and Lower Triangular Network for Hyperspectral Image Classification: [Paper](https://ieeexplore.ieee.org/abstract/document/9424715)
+- A Novel Attention-Based Gated Recurrent Unit and its Efficacy in Speech Emotion Recognition: [Paper](https://ieeexplore.ieee.org/abstract/document/9414489) (ICASSP)
+- BetaML: The Beta Machine Learning Toolkit, a self-contained repository of Machine Learning algorithms in Julia: [Paper](https://joss.theoj.org/papers/10.21105/joss.02849.pdf)
+- Robot visual measurement and grasping strategy for roughcastings: [Paper](https://journals.sagepub.com/doi/full/10.1177/1729881421999937)
+- Singing Melody Extraction from Polyphonic Music based on Spectral Correlation Modeling: [Paper](https://ieeexplore.ieee.org/abstract/document/9414190) (ICASSP)
+- Channel-Wise Mix-Fusion Deep Neural Networks for Zero-Shot Learning: [Paper](https://ieeexplore.ieee.org/abstract/document/9413569) (ICASSP)
