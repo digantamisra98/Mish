@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-248-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-250-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-204-blue.svg" /></a>
 </p>
@@ -213,3 +213,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Robot visual measurement and grasping strategy for roughcastings: [Paper](https://journals.sagepub.com/doi/full/10.1177/1729881421999937)
 - Singing Melody Extraction from Polyphonic Music based on Spectral Correlation Modeling: [Paper](https://ieeexplore.ieee.org/abstract/document/9414190) (ICASSP)
 - Channel-Wise Mix-Fusion Deep Neural Networks for Zero-Shot Learning: [Paper](https://ieeexplore.ieee.org/abstract/document/9413569) (ICASSP)
+- Hardware Implementation of Tanh Exponential Activation Function using FPGA: [Paper](https://ieeexplore.ieee.org/document/9429506)
+- Slim MobileNet: An Enhanced Deep Convolutional Neural Network: [Paper](https://ieeexplore.ieee.org/document/9429519)
