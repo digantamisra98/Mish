@@ -10,7 +10,7 @@
     <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:j0C1gbodjP4J:scholar.google.com/&output=citation&scisdr=CgX0hbDMEOzUo74J6TM:AAGBfm0AAAAAX1QM8TNcu4tND6FEofKsXzM3cs1uCAAW&scisig=AAGBfm0AAAAAX1QM8Y5elaJ1IW-BKOuU1zFTYNp-QaNQ&scisf=4&ct=citation&cd=-1&hl=en" alt="Cite">
           <img src="https://img.shields.io/badge/Cite-BibTex-blue.svg" /></a>
      <a href=" " alt="Citations">
-          <img src="https://img.shields.io/badge/Citations-250-lightgrey.svg" /></a>
+          <img src="https://img.shields.io/badge/Citations-253-lightgrey.svg" /></a>
     <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0928.html" alt="Publication">
           <img src="https://img.shields.io/badge/BMVC-2020-red.svg" /></a>
      <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
@@ -57,6 +57,8 @@
   * [14/12] Mish added to [OneFlow](https://github.com/Oneflow-Inc/oneflow) - [Merged 3972](https://github.com/Oneflow-Inc/oneflow/pull/3972)
   * [24/12] Mish added to [GPT-Neo](https://github.com/EleutherAI/gpt-neo)
   * [21/04] Mish added to [TensorFlow JS](https://github.com/tensorflow/tfjs/pull/4950)
+  * [02/05] Mish added to [Axon](https://github.com/elixir-nx/axon/commit/e2b5a46eb4d62d163256637692c43195d112a72b)
+  * [26/05] 🔥 Mish is added to [PyTorch](https://github.com/pytorch/pytorch/pull/58648). Will be added in PyTorch 1.9. 🔥
    
 </details>
 
