@@ -1,9 +1,9 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-250-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-253-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-204-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-209-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -215,3 +215,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Channel-Wise Mix-Fusion Deep Neural Networks for Zero-Shot Learning: [Paper](https://ieeexplore.ieee.org/abstract/document/9413569) (ICASSP)
 - Hardware Implementation of Tanh Exponential Activation Function using FPGA: [Paper](https://ieeexplore.ieee.org/document/9429506)
 - Slim MobileNet: An Enhanced Deep Convolutional Neural Network: [Paper](https://ieeexplore.ieee.org/document/9429519)
+- Application of Machine Learning Algorithms for Post Processing of Reference Sensors: [Thesis](https://gupea.ub.gu.se/handle/2077/68188)
+- RCNX: Residual Capsule Next: [Thesis](https://scholarworks.iupui.edu/handle/1805/25952)
