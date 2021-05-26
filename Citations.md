@@ -62,7 +62,7 @@
 - Performance Analysis of Various Activation Functions in Super Resolution Model: [Paper](https://www.koreascience.or.kr/article/CFKO202024664105266.page)
 - TANHSOFT - A FAMILY OF ACTIVATION FUNCTIONS COMBINING
 TANH AND SOFTPLUS : [Paper](https://www.google.com/url?sa=t&source=web&rct=j&url=https://arxiv.org/pdf/2009.03863&ved=2ahUKEwizjoWT3tvrAhUMzzgGHYsTC9YQFjACegQIAxAB&usg=AOvVaw0A5RDzB4eQXMphMrKV3b9Q&cshid=1599642893400)
-- Activate or Not: Learning Customized Activation: [Paper](https://arxiv.org/pdf/2009.04759.pdf)
+- Activate or Not: Learning Customized Activation: [Paper](https://arxiv.org/pdf/2009.04759.pdf) (CVPR 2021)
 - Knowledge-based Radiation Treatment Planning: A Data-driven Method Survey: [Paper](https://arxiv.org/abs/2009.07388)
 - A deep learning-based approach for the automated surface inspection of copper clad laminate images: [Paper](https://link.springer.com/article/10.1007/s10489-020-01877-z)
 - DETECTING ACOUSTIC EVENTS USING CONVOLUTIONAL MACARON NET: [Paper](https://arxiv.org/ftp/arxiv/papers/2009/2009.09632.pdf)
