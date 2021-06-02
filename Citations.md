@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-253-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-254-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-210-blue.svg" /></a>
 </p>
@@ -218,3 +218,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Application of Machine Learning Algorithms for Post Processing of Reference Sensors: [Thesis](https://gupea.ub.gu.se/handle/2077/68188)
 - RCNX: Residual Capsule Next: [Thesis](https://scholarworks.iupui.edu/handle/1805/25952)
 - Using Interpretable Deep Learning to Model Cancer Dependencies: [Paper](https://watermark.silverchair.com/btab137.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtswggLXBgkqhkiG9w0BBwagggLIMIICxAIBADCCAr0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMo7UsWsdZbPh5_5q3AgEQgIICjuQv1vZy32NwIaoeQUGION_ayt6skWzI9DNHrOZBoe3JNUJQNwa7MLvBcJGFLpcIOq7OAFnJ67TGB68HwWwYs9QE53sTqsk2T4euxcvEKF77Nh5kGS78ekV9-LFyuVyVQKnxlEqy1FriAI-Gi4uTk6Dpq3yiUTnr2S_4-lfVWrRuACXIKgnrBfh0XsP_AAK4Lgr4yCF5N__olBRh1VXSgop_5ixJeiOndvTsyP7zk1VtqycbRIzrOo12ssygapqggnHEJJaFJV2PMZLUsjHKcohAhm52Yq9rniWLTu6j4ZyGKOvH4mZt_XOQmjI_nrGgO_DHO6ODoXJPPgJM3rPlhPnKkxg6Jx9NTEV5kJ4aLl5bzqI0n3lLTCm6u0odidcYtm_4-ZVoWQFuhJM5J4oZeI_HOzJ7Kiise2jB6GmiBZ7J8DYUdV8K45LhJs-_99VglAiXuu9fCw8T-ckoGAhONEt0cEVt0amX_Gbu776f3G6od83_xtJdnqm-JNJ3kOp3ZR6Ll98ClCjdzqK4CT4h0QXaBUxv-Pv0UohCIZjns5HgCJm7nzhxvIQcKq-J60Zf3glCaBr-_V1g6UxRr0qdp6OXvKlwfQ6cGTNVAFjRL_6qDkFE1yD1iYMOxYVDcmGKWHm35e1FIFs0kB337lQtwz0-UBMGKKP05m-A2orxPjWG239DvS7wVJU1SAGiz_zuCSXuzKhcdiR_lxxPmvg74EA3g6XSSYApphT_ppoEZde4PJznwk9AwHK3LHl4pghpQD37DTqzuoKcM9_kHMjBQgxnI212W6IR-02elvQ4DxixK3uOgXoyrd8bA02XApL1v42U5WDt18ewuoqhRr1OCqjvOzhc3D9efOldNNLcXw)
+- Inversion of Integral Models: a Neural Network Approach: [Paper](https://arxiv.org/abs/2105.15044)
