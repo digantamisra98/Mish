@@ -60,6 +60,7 @@
   * [02/05] Mish added to [Axon](https://github.com/elixir-nx/axon/commit/e2b5a46eb4d62d163256637692c43195d112a72b)
   * [26/05] 🔥 Mish is added to [PyTorch](https://github.com/pytorch/pytorch/pull/58648). Will be added in PyTorch 1.9. 🔥
   * [27/05] Mish is added to [PyTorch YOLO v3](https://github.com/eriklindernoren/PyTorch-YOLOv3/commit/1c03ebe433ef8e085f99a7c147ac291ed224e578)
+  * [09/06] 🔥 Mish is added to [MXNet](https://github.com/apache/incubator-mxnet/pull/20320). 
    
 </details>
 
