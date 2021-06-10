@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-259-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-260-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-212-blue.svg" /></a>
 </p>
@@ -222,3 +222,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Prediction of BLEVE blast loading using CFD and artificial neural network: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957582021001324?via%3Dihub)
 - Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation: [Paper (Accepted to ICML 2021)](https://arxiv.org/abs/2106.03153)
 - DFILN: Deep Feature-interactive Learning Network for Object Detection: [Paper](https://dl.acm.org/doi/10.1145/3447587.3447593)
+- The role of activation function in image classification: [Paper](https://www.semanticscholar.org/paper/The-role-of-activation-function-in-image-Sun/4e66bf079b6180b0bdbbd7f18fabbfda8aaf8b25)
