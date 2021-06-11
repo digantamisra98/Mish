@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-260-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-261-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-212-blue.svg" /></a>
 </p>
@@ -223,3 +223,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation: [Paper (Accepted to ICML 2021)](https://arxiv.org/abs/2106.03153)
 - DFILN: Deep Feature-interactive Learning Network for Object Detection: [Paper](https://dl.acm.org/doi/10.1145/3447587.3447593)
 - The role of activation function in image classification: [Paper](https://www.semanticscholar.org/paper/The-role-of-activation-function-in-image-Sun/4e66bf079b6180b0bdbbd7f18fabbfda8aaf8b25)
+- An improved set of electron-THFA cross sections refined through a neural network-based analysis of swarm data: [Paper](https://arxiv.org/abs/2101.07972)
