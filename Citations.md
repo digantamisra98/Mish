@@ -224,3 +224,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - DFILN: Deep Feature-interactive Learning Network for Object Detection: [Paper](https://dl.acm.org/doi/10.1145/3447587.3447593)
 - The role of activation function in image classification: [Paper](https://www.semanticscholar.org/paper/The-role-of-activation-function-in-image-Sun/4e66bf079b6180b0bdbbd7f18fabbfda8aaf8b25)
 - An improved set of electron-THFA cross sections refined through a neural network-based analysis of swarm data: [Paper](https://arxiv.org/abs/2101.07972)
+- Benchmarking Neural Networks on Heterogeneous Hardware: [Thesis](http://www.tara.tcd.ie/handle/2262/96391)
