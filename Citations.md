@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-262-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-264-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-218-blue.svg" /></a>
 </p>
@@ -225,3 +225,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - The role of activation function in image classification: [Paper](https://www.semanticscholar.org/paper/The-role-of-activation-function-in-image-Sun/4e66bf079b6180b0bdbbd7f18fabbfda8aaf8b25)
 - An improved set of electron-THFA cross sections refined through a neural network-based analysis of swarm data: [Paper](https://arxiv.org/abs/2101.07972)
 - Benchmarking Neural Networks on Heterogeneous Hardware: [Thesis](http://www.tara.tcd.ie/handle/2262/96391)
+- Curating Glioma Tumors for Classification Methods in Machine Learning: [Thesis](https://www.doria.fi/bitstream/handle/10024/181154/sjoberg_joel.pdf?isAllowed=y&sequence=5)
+- Distance-Based Neural Combinatorial Optimization for Context-based Route Planning: [Paper](https://ieeexplore.ieee.org/document/9448741)
