@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-264-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-265-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-218-blue.svg" /></a>
 </p>
@@ -227,3 +227,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Benchmarking Neural Networks on Heterogeneous Hardware: [Thesis](http://www.tara.tcd.ie/handle/2262/96391)
 - Curating Glioma Tumors for Classification Methods in Machine Learning: [Thesis](https://www.doria.fi/bitstream/handle/10024/181154/sjoberg_joel.pdf?isAllowed=y&sequence=5)
 - Distance-Based Neural Combinatorial Optimization for Context-based Route Planning: [Paper](https://ieeexplore.ieee.org/document/9448741)
+- Unraveling hidden interactions in complex systems with deep learning: [Nature Scientific Reports](https://www.nature.com/articles/s41598-021-91878-w)
