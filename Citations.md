@@ -1,9 +1,9 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-265-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-268-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-218-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-221-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -228,3 +228,6 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Curating Glioma Tumors for Classification Methods in Machine Learning: [Thesis](https://www.doria.fi/bitstream/handle/10024/181154/sjoberg_joel.pdf?isAllowed=y&sequence=5)
 - Distance-Based Neural Combinatorial Optimization for Context-based Route Planning: [Paper](https://ieeexplore.ieee.org/document/9448741)
 - Unraveling hidden interactions in complex systems with deep learning: [Nature Scientific Reports](https://www.nature.com/articles/s41598-021-91878-w)
+- Orthogonal-Padé Activation Functions: Trainable Activation functions for smooth and faster convergence in deep networks: [Paper](https://arxiv.org/abs/2106.09693)
+- Graph Convolutional Networks Skeleton-based Action Recognition for Continuous Data Stream: A Sliding Window Approach: [Paper](https://www.researchgate.net/profile/Mickael-Delamare/publication/349350672_Graph_Convolutional_Networks_Skeleton-based_Action_Recognition_for_Continuous_Data_Stream_A_Sliding_Window_Approach/links/604224c64585154e8c781847/Graph-Convolutional-Networks-Skeleton-based-Action-Recognition-for-Continuous-Data-Stream-A-Sliding-Window-Approach.pdf)
+- A Survey of Convolutional Neural Networks: Analysis, Applications, and Prospects: [Paper](https://ieeexplore.ieee.org/abstract/document/9451544)
