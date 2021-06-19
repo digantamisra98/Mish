@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-269-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-270-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-221-blue.svg" /></a>
 </p>
@@ -232,3 +232,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Graph Convolutional Networks Skeleton-based Action Recognition for Continuous Data Stream: A Sliding Window Approach: [Paper](https://www.researchgate.net/profile/Mickael-Delamare/publication/349350672_Graph_Convolutional_Networks_Skeleton-based_Action_Recognition_for_Continuous_Data_Stream_A_Sliding_Window_Approach/links/604224c64585154e8c781847/Graph-Convolutional-Networks-Skeleton-based-Action-Recognition-for-Continuous-Data-Stream-A-Sliding-Window-Approach.pdf)
 - A Survey of Convolutional Neural Networks: Analysis, Applications, and Prospects: [Paper](https://ieeexplore.ieee.org/abstract/document/9451544)
 - Improving the Performance of Deep Neural Networks Using Two Proposed Activation Functions: [Paper](https://ieeexplore.ieee.org/document/9446115?denied=)
+- Image Reconstruction From Neuromorphic Event Cameras Using Laplacian-Prediction and Poisson Integration With Spiking and Artificial Neural Networks: [Paper (CVPRW)](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/html/Duwek_Image_Reconstruction_From_Neuromorphic_Event_Cameras_Using_Laplacian-Prediction_and_Poisson_CVPRW_2021_paper.html)
