@@ -4,7 +4,9 @@ mish(x) = x * tanh(softplus(x)) = x * tanh(ln(1 + exp(x)))
 '''
 
 # import pytorch
+import torch
 from torch import nn
+import torch.nn.functional as F
 
 # import activation functions
 import Mish.Torch.functional as Func
@@ -23,7 +25,8 @@ class Mish(nn.Module):
         >>> m = Mish()
         >>> input = torch.randn(2)
         >>> output = m(input)
-
+        
+    Reference: https://pytorch.org/docs/stable/generated/torch.nn.Mish.html
     '''
     def __init__(self):
         '''
@@ -35,4 +38,7 @@ class Mish(nn.Module):
         '''
         Forward pass of the function.
         '''
-        return Func.mish(input)
+        if torch.__version__ >= '1.9':
+            return F.mish(input)
+        else:
+            return Func.mish(input)
