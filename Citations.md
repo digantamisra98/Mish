@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-270-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-275-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-226-blue.svg" /></a>
 </p>
@@ -233,3 +233,8 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - A Survey of Convolutional Neural Networks: Analysis, Applications, and Prospects: [Paper](https://ieeexplore.ieee.org/abstract/document/9451544)
 - Improving the Performance of Deep Neural Networks Using Two Proposed Activation Functions: [Paper](https://ieeexplore.ieee.org/document/9446115?denied=)
 - Image Reconstruction From Neuromorphic Event Cameras Using Laplacian-Prediction and Poisson Integration With Spiking and Artificial Neural Networks: [Paper (CVPRW)](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/html/Duwek_Image_Reconstruction_From_Neuromorphic_Event_Cameras_Using_Laplacian-Prediction_and_Poisson_CVPRW_2021_paper.html)
+- Tumor detection using deep learning method in automated breast ultrasound: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809421002743?via%3Dihub)
+- A review on modern defect detection models using DCNNs – Deep convolutional neural networks: [Paper](https://www.sciencedirect.com/science/article/pii/S2090123221000643?via%3Dihub)
+- YOLOFig detection model development using deep learning: [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12293)
+- HBONext: An Efficient Dnn for Light Edge Embedded Devices: [Thesis](https://scholarworks.iupui.edu/handle/1805/25963)
+- Unsupervised 3D Human Pose Estimation: [Thesis](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1536685&dswid=4656)
