@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-275-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-276-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-226-blue.svg" /></a>
 </p>
@@ -238,3 +238,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - YOLOFig detection model development using deep learning: [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12293)
 - HBONext: An Efficient Dnn for Light Edge Embedded Devices: [Thesis](https://scholarworks.iupui.edu/handle/1805/25963)
 - Unsupervised 3D Human Pose Estimation: [Thesis](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1536685&dswid=4656)
+- Towards Accurate 3D Human Motion Prediction From Incomplete Observations: [Paper (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Cui_Towards_Accurate_3D_Human_Motion_Prediction_From_Incomplete_Observations_CVPR_2021_paper.html)
