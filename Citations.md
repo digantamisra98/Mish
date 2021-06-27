@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-276-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-278-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-226-blue.svg" /></a>
 </p>
@@ -239,3 +239,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - HBONext: An Efficient Dnn for Light Edge Embedded Devices: [Thesis](https://scholarworks.iupui.edu/handle/1805/25963)
 - Unsupervised 3D Human Pose Estimation: [Thesis](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1536685&dswid=4656)
 - Towards Accurate 3D Human Motion Prediction From Incomplete Observations: [Paper (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Cui_Towards_Accurate_3D_Human_Motion_Prediction_From_Incomplete_Observations_CVPR_2021_paper.html)
+- Phase Selective Convolution: [Paper (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021W/EVW/papers/Lin_Phase_Selective_Convolution_CVPRW_2021_paper.pdf)
+- Deep Learning and Optimization: [Book Chapter](https://link.springer.com/chapter/10.1007/978-3-030-75178-4_2)
