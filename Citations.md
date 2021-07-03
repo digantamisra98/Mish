@@ -1,9 +1,9 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-278-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-283-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-235-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-236-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -241,3 +241,8 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Towards Accurate 3D Human Motion Prediction From Incomplete Observations: [Paper (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Cui_Towards_Accurate_3D_Human_Motion_Prediction_From_Incomplete_Observations_CVPR_2021_paper.html)
 - Phase Selective Convolution: [Paper (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021W/EVW/papers/Lin_Phase_Selective_Convolution_CVPRW_2021_paper.pdf)
 - Deep Learning and Optimization: [Book Chapter](https://link.springer.com/chapter/10.1007/978-3-030-75178-4_2)
+- Image orientation detection by ensembles of Stochastic CNNs: [Paper](https://www.sciencedirect.com/science/article/pii/S2666827021000451)
+- Gradient Descent Effects on Differential Neural Architecture Search: A Survey: [Paper](https://ieeexplore.ieee.org/abstract/document/9461192)
+- Structured Representation Learning using Structural Autoencoders and Hybridization: [Paper](https://arxiv.org/abs/2006.07796)
+- Normalized unitary synaptic signaling of the hippocampus and entorhinal cortex: [Paper](https://assets.researchsquare.com/files/rs-585433/v1/94cafe8f-68be-4868-ba20-0631454a3d7f.pdf?c=1622815314)
+- Deep Learning Methods for Human Behavior Recognition: [Paper](https://ieeexplore.ieee.org/abstract/document/9290640)
