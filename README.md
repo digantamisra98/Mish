@@ -434,9 +434,9 @@ The P-values were computed for different activation functions in comparison to t
 
 ## Try It! 
 
-|Torch|DarkNet|MXNet|Julia|FastAI|TensorFlow|Keras|CUDA|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[Source](https://github.com/digantamisra98/Mish/tree/master/Mish/Torch)|[Source](https://github.com/AlexeyAB/darknet/blob/master/src/activation_kernels.cu#L259)|[Source](https://github.com/digantamisra98/Mish/blob/master/Mish/MXNet/mish.py)|[Source](https://github.com/FluxML/NNlib.jl/blob/2e1fa5f330ba785b0adbaec5107ca85a8e181197/src/activation.jl)|[Source](https://github.com/lessw2020/mish)|[Source](https://www.tensorflow.org/addons/api_docs/python/tfa/activations/mish)|[Source](https://github.com/digantamisra98/Mish/blob/master/Mish/TFKeras/mish.py)|[Source](https://github.com/thomasbrandon/mish-cuda)|
+|Torch|DarkNet|Julia|FastAI|TensorFlow|Keras|CUDA|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[Source](https://github.com/digantamisra98/Mish/tree/master/Mish/Torch)|[Source](https://github.com/AlexeyAB/darknet/blob/master/src/activation_kernels.cu#L259)|[Source](https://github.com/FluxML/NNlib.jl/blob/2e1fa5f330ba785b0adbaec5107ca85a8e181197/src/activation.jl)|[Source](https://github.com/lessw2020/mish)|[Source](https://www.tensorflow.org/addons/api_docs/python/tfa/activations/mish)|[Source](https://github.com/digantamisra98/Mish/blob/master/Mish/TFKeras/mish.py)|[Source](https://github.com/thomasbrandon/mish-cuda)|
 
 <details>
   <summary><b>Future Work</b>: (Click to view)</summary>
