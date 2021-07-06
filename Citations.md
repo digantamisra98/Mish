@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-285-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-286-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-239-blue.svg" /></a>
 </p>
@@ -248,3 +248,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Deep Learning Methods for Human Behavior Recognition: [Paper](https://ieeexplore.ieee.org/abstract/document/9290640)
 - Learnable Reconstruction Methods from RGB Images to Hyperspectral Imaging: A Survey: [Paper](https://arxiv.org/abs/2106.15944)
 - How Does Heterogeneous Label Noise Impact Generalization in Neural Nets?: [Paper](https://arxiv.org/abs/2106.15475)
+- An Efficient One-Stage Detector for Real-Time Surgical Tools Detection in Robot-Assisted Surgery: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-80432-9_2)
