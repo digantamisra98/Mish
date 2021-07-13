@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-287-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-289-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-243-blue.svg" /></a>
 </p>
@@ -250,3 +250,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - How Does Heterogeneous Label Noise Impact Generalization in Neural Nets?: [Paper](https://arxiv.org/abs/2106.15475)
 - An Efficient One-Stage Detector for Real-Time Surgical Tools Detection in Robot-Assisted Surgery: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-80432-9_2)
 - Histogram of Cell Types: Deep Learning for Automated Bone Marrow Cytology: [Paper](https://arxiv.org/abs/2107.02293)
+- Disentangling Transfer and Interference in Multi-Domain Learning: [Paper](https://arxiv.org/abs/2107.05445)
+- CSL-YOLO: A New Lightweight Object Detection System for Edge Computing: [Paper](https://arxiv.org/abs/2107.04829)
