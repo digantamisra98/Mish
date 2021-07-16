@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-289-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-295-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-244-blue.svg" /></a>
 </p>
@@ -252,3 +252,9 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Histogram of Cell Types: Deep Learning for Automated Bone Marrow Cytology: [Paper](https://arxiv.org/abs/2107.02293)
 - Disentangling Transfer and Interference in Multi-Domain Learning: [Paper](https://arxiv.org/abs/2107.05445)
 - CSL-YOLO: A New Lightweight Object Detection System for Edge Computing: [Paper](https://arxiv.org/abs/2107.04829)
+- Soft-Clipping Swish: A Novel Activation Function for Deep Learning: [Paper](https://ieeexplore.ieee.org/abstract/document/9465622)
+- Analysis of Features of Different Activation Functions: [Paper](https://ieeexplore.ieee.org/abstract/document/9463306/)
+- Improved architecture for traffic sign recognition using a self-regularized activation function: SigmaH: [Paper](https://link.springer.com/article/10.1007/s00371-021-02211-5)
+- A Convolutional Neural Network based Model with Improved Activation Function and Optimizer for Effective Intrusion Detection and Classification: [Paper](https://ieeexplore.ieee.org/abstract/document/9404584/)
+- Improved real-time segmentation of Intravascular Ultrasound images using coordinate-aware fully convolutional networks: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S089561112100104X)
+- Dose prediction for radiation therapy using feature‐based losses and One Cycle Learning: [Paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.14774)
