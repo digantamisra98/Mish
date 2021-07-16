@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-295-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-296-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-244-blue.svg" /></a>
 </p>
@@ -258,3 +258,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - A Convolutional Neural Network based Model with Improved Activation Function and Optimizer for Effective Intrusion Detection and Classification: [Paper](https://ieeexplore.ieee.org/abstract/document/9404584/)
 - Improved real-time segmentation of Intravascular Ultrasound images using coordinate-aware fully convolutional networks: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S089561112100104X)
 - Dose prediction for radiation therapy using feature‐based losses and One Cycle Learning: [Paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.14774)
+- Deep neural network joint multi-scale attention for remote sensing image colorization: [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11878/2599849/Deep-neural-network-joint-multi-scale-attention-for-remote-sensing/10.1117/12.2599849.short?SSO=1)
