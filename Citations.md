@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-297-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-299-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-249-blue.svg" /></a>
 </p>
@@ -260,3 +260,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Dose prediction for radiation therapy using feature‐based losses and One Cycle Learning: [Paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.14774)
 - Deep neural network joint multi-scale attention for remote sensing image colorization: [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11878/2599849/Deep-neural-network-joint-multi-scale-attention-for-remote-sensing/10.1117/12.2599849.short?SSO=1)
 - A High-Performance Adaptive Quantization Approach for Edge CNN Applications: [Paper](https://arxiv.org/abs/2107.08382)
+- A Novel Deep Learning Based Method for COVID-19 Detection from CT Image: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S174680942100584X?via%3Dihub)
+- Histogram of Cell Types: Deep Learning for Automated Bone Marrow Cytology: [Paper](https://arxiv.org/abs/2107.02293)
