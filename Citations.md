@@ -1,9 +1,9 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-299-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-301-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-251-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-255-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -262,3 +262,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - A High-Performance Adaptive Quantization Approach for Edge CNN Applications: [Paper](https://arxiv.org/abs/2107.08382)
 - A Novel Deep Learning Based Method for COVID-19 Detection from CT Image: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S174680942100584X?via%3Dihub)
 - Histogram of Cell Types: Deep Learning for Automated Bone Marrow Cytology: [Paper](https://arxiv.org/abs/2107.02293)
+- Graph Convolutional Networks Skeleton-based Action Recognition for Continuous Data Stream: A Sliding Window Approach: [Paper](https://www.researchgate.net/profile/Mickael-Delamare/publication/349350672_Graph_Convolutional_Networks_Skeleton-based_Action_Recognition_for_Continuous_Data_Stream_A_Sliding_Window_Approach/links/604224c64585154e8c781847/Graph-Convolutional-Networks-Skeleton-based-Action-Recognition-for-Continuous-Data-Stream-A-Sliding-Window-Approach.pdf)
+- Normalized unitary synaptic signaling of the hippocampus and entorhinal cortex: [Paper](https://assets.researchsquare.com/files/rs-585433/v1/94cafe8f-68be-4868-ba20-0631454a3d7f.pdf?c=1622815314)
