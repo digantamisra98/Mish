@@ -1,9 +1,9 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-303-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-306-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-260-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-266-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -266,3 +266,6 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Normalized unitary synaptic signaling of the hippocampus and entorhinal cortex: [Paper](https://assets.researchsquare.com/files/rs-585433/v1/94cafe8f-68be-4868-ba20-0631454a3d7f.pdf?c=1622815314)
 - Multitask-Based Joint Learning Approach To Robust ASR For Radio Communication Speech: [Paper](https://arxiv.org/abs/2107.10701)
 - Sisyphus: A Cautionary Tale of Using Low-Degree Polynomial Activations in Privacy-Preserving Deep Learning: [Paper](https://arxiv.org/abs/2107.12342)
+- Effective and Efficient Convolutional Architectures for Visual Recognition: [Thesis](https://www.proquest.com/openview/281eb552509c0d67b5e5b6edfba70a0a/1?pq-origsite=gscholar&cbl=2026366&diss=y)
+- Tackling automatic audience experience measurement in online environments: Addressing automatic audience experience measurement online: [Thesis](https://eprints.ucm.es/id/eprint/67157/)
+- REAL-TIME YOLOV4 FPGA DESIGN WITH CATAPULT HIGH-LEVEL SYNTHESIS: [Thesis](http://essay.utwente.nl/86465/)
