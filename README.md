@@ -15,7 +15,7 @@
           <img src="https://img.shields.io/badge/BMVC-2020-red.svg" /></a>
      <a href="https://twitter.com/DigantaMisra1" alt="Twitter">
           <img src="https://img.shields.io/twitter/url/https/twitter.com/DigantaMisra1.svg?style=social&label=Follow%20%40DigantaMisra1" /></a>
-     <a href="https://console.paperspace.com/github/digantamisra98/Mish/blob/master/exps/Mish_CIFAR.ipynb">
+     <a href="https://console.paperspace.com/digantamisra98/Mish/blob/master/Layers_Acc.ipynb">
           <img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Run on Gradient"/>
           </a>
 </p>
