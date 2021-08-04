@@ -65,6 +65,7 @@
   * [27/05] Mish is added to [PyTorch YOLO v3](https://github.com/eriklindernoren/PyTorch-YOLOv3/commit/1c03ebe433ef8e085f99a7c147ac291ed224e578)
   * [09/06] 🔥 Mish is added to [MXNet](https://github.com/apache/incubator-mxnet/pull/20320). 
   * [03/07] Mish is added to [TorchSharp](https://github.com/xamarin/TorchSharp/commit/2b1068eada7a9ca1b5a67db3772807636683a46c).
+  * [05/08] Mish is added to [KotlinDL](https://github.com/JetBrains/KotlinDL/pull/173).
    
 </details>
 
