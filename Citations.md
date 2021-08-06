@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-308-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-309-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-271-blue.svg" /></a>
 </p>
@@ -271,3 +271,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - REAL-TIME YOLOV4 FPGA DESIGN WITH CATAPULT HIGH-LEVEL SYNTHESIS: [Thesis](http://essay.utwente.nl/86465/)
 - Deep Learning against COVID-19: Respiratory Insufficiency Detection in Brazilian Portuguese Speech: [Paper](https://aclanthology.org/2021.findings-acl.55.pdf)
 - Connections between Numerical Algorithms for PDEs and Neural Networks: [Paper](https://arxiv.org/pdf/2107.14742.pdf)
+- Generative image transformer (GIT): unsupervised continuous image generative and transformable model for [<sup>123</sup>I]FP-CIT SPECT images: [Paper](https://link.springer.com/article/10.1007%2Fs12149-021-01661-0)
