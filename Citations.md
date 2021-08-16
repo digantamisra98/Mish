@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-311-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-312-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-279-blue.svg" /></a>
 </p>
@@ -274,3 +274,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Generative image transformer (GIT): unsupervised continuous image generative and transformable model for [<sup>123</sup>I]FP-CIT SPECT images: [Paper](https://link.springer.com/article/10.1007%2Fs12149-021-01661-0)
 - Investigation of the Influence of Transport Processes on Chemical Reactions in Bubbly Flows Using Space-Resolved In Situ Analytics and Simultaneous Characterization of Bubble Dynamics in Real-Time: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-72361-3_9)
 - Hardware Implementation of Fixed-Point Convolutional Neural Network For Classification: [Paper](https://ieeexplore.ieee.org/abstract/document/9498072)
+- Emulating ultrafast dissipative quantum dynamics with deep neural networks: [Paper](https://arxiv.org/abs/2108.06261)
