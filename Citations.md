@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-314-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-316-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-283-blue.svg" /></a>
 </p>
@@ -277,3 +277,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Emulating ultrafast dissipative quantum dynamics with deep neural networks: [Paper](https://arxiv.org/abs/2108.06261)
 - Learning to Embed Categorical Features without Embedding Tables for Recommendation: [Paper (KDD 2021)](https://dl.acm.org/doi/abs/10.1145/3447548.3467304)
 - Lightweight Detection Network of Trunk Contents: [Paper](https://ieeexplore.ieee.org/abstract/document/9498239)
+- RAPPPID: Towards Generalisable Protein Interaction Prediction with AWD-LSTM Twin Networks: [Paper](https://www.biorxiv.org/content/10.1101/2021.08.13.456309v1)
+- PnP-3D: A Plug-and-Play for 3D Point Clouds: [Paper](https://arxiv.org/abs/2108.07378)
