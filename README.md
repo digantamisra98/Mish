@@ -117,6 +117,8 @@
 
 - (12/2020) [Weights & Biases](https://www.wandb.com/) integration is now added 🔥. [Get started](https://github.com/digantamisra98/Mish/tree/master/exps).
 
+- (08/2021) Comprehensive hardware based computation performance benchmark for Mish has been conducted by [Benjamin Warner](https://benjaminwarner.dev/). [Blogpost](https://benjaminwarner.dev/2021/07/19/benchmarking-pytorch-native-mish).
+
 
 ## Official Package Based Implementations: 
 
