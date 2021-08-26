@@ -2,8 +2,7 @@ import torch
 from torch import nn as nn
 from torch.nn import functional as F
 
-
-__all__ = ['swish_auto', 'SwishAuto', 'mish_auto', 'MishAuto']
+__all__ = ["swish_auto", "SwishAuto", "mish_auto", "MishAuto"]
 
 
 class SwishAutoFn(torch.autograd.Function):
@@ -11,6 +10,7 @@ class SwishAutoFn(torch.autograd.Function):
     Memory efficient variant from:
      https://medium.com/the-artificial-impostor/more-memory-efficient-swish-activation-function-e07c22c12a76
     """
+
     @staticmethod
     def forward(ctx, x):
         result = x.mul(torch.sigmoid(x))

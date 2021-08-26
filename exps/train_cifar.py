@@ -1,93 +1,112 @@
 best_prec1 = 0
 evaluate = True
 
-from resnet import *
-from ranger import Ranger 
-import time
-import torch
-import torch.nn.functional as F
-import torch.nn.init as init
+import math
 import os
 import shutil
 import time
-import torch.nn as nn
-import torch.nn.parallel
+
+import numpy as np
+import torch
 import torch.backends.cudnn as cudnn
+import torch.nn as nn
+import torch.nn.functional as F
+import torch.nn.init as init
+import torch.nn.parallel
 import torch.optim
 import torch.utils.data
-import torchvision.transforms as transforms
-import torchvision.datasets as datasets
 import torchvision
-from torch.autograd import Variable
-import numpy as np
-import math
+import torchvision.datasets as datasets
+import torchvision.transforms as transforms
 import wandb
+from ranger import Ranger
+from resnet import *
+from torch.autograd import Variable
 
 
 def main():
     global best_prec1, evaluate
-    wandb.init(project='Mish')
-    
+    wandb.init(project="Mish")
+
     if wandb.config.version == 20:
-        model = resnet20(act = wandb.config.act)
+        model = resnet20(act=wandb.config.act)
     elif wandb.config.version == 32:
-        model = resnet32(act = wandb.config.act)
+        model = resnet32(act=wandb.config.act)
     elif wandb.config.version == 44:
-        model = resnet44(act = wandb.config.act)
+        model = resnet44(act=wandb.config.act)
     elif wandb.config.version == 56:
-        model = resnet56(act = wandb.config.act)
+        model = resnet56(act=wandb.config.act)
     wandb.watch(model)
     model = model.cuda()
 
-    print('Number of model parameters: {}'.format(
-        sum([p.data.nelement() for p in model.parameters()])))
+    print(
+        "Number of model parameters: {}".format(
+            sum([p.data.nelement() for p in model.parameters()])
+        )
+    )
 
-    normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406],
-                                     std=[0.229, 0.224, 0.225])
+    normalize = transforms.Normalize(
+        mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]
+    )
 
     train_loader = torch.utils.data.DataLoader(
-        datasets.CIFAR10(root='./data', train=True, transform=transforms.Compose([
-            transforms.RandomHorizontalFlip(),
-            transforms.RandomCrop(32, 4),
-            transforms.ToTensor(),
-            normalize,
-        ]), download=True),
-        batch_size= wandb.config.batch_size, shuffle=True,
-        num_workers=4, pin_memory=True)
+        datasets.CIFAR10(
+            root="./data",
+            train=True,
+            transform=transforms.Compose(
+                [
+                    transforms.RandomHorizontalFlip(),
+                    transforms.RandomCrop(32, 4),
+                    transforms.ToTensor(),
+                    normalize,
+                ]
+            ),
+            download=True,
+        ),
+        batch_size=wandb.config.batch_size,
+        shuffle=True,
+        num_workers=4,
+        pin_memory=True,
+    )
 
     val_loader = torch.utils.data.DataLoader(
-        datasets.CIFAR10(root='./data', train=False, transform=transforms.Compose([
-            transforms.ToTensor(),
-            normalize,
-        ])),
-        batch_size=wandb.config.batch_size, shuffle=False,
-        num_workers=4, pin_memory=True)
+        datasets.CIFAR10(
+            root="./data",
+            train=False,
+            transform=transforms.Compose(
+                [
+                    transforms.ToTensor(),
+                    normalize,
+                ]
+            ),
+        ),
+        batch_size=wandb.config.batch_size,
+        shuffle=False,
+        num_workers=4,
+        pin_memory=True,
+    )
 
     # define loss function (criterion) and pptimizer
     criterion = nn.CrossEntropyLoss()
     criterion = criterion.cuda()
 
-
-
     if wandb.config.optimizer == "sgd":
-        optimizer = torch.optim.SGD(model.parameters(), 0.1,
-                                    momentum=0.9,
-                                    weight_decay=5e-4)
+        optimizer = torch.optim.SGD(
+            model.parameters(), 0.1, momentum=0.9, weight_decay=5e-4
+        )
     elif wandb.config.optimizer == "adam":
         optimizer = torch.optim.Adam(model.parameters())
     else:
         optimizer = Ranger(model.parameters())
-    lr_scheduler = torch.optim.lr_scheduler.MultiStepLR(optimizer,
-                                                    milestones=[100, 150], last_epoch=0 - 1)
+    lr_scheduler = torch.optim.lr_scheduler.MultiStepLR(
+        optimizer, milestones=[100, 150], last_epoch=0 - 1
+    )
     max_epoch = 200
 
-    
-
-
     for epoch in range(0, max_epoch):
-        
-        print('current lr {:.5e}'.format(optimizer.param_groups[0]['lr']))
-        wandb.log({'lr': optimizer.param_groups[0]['lr']})
+
+        print("current lr {:.5e}".format(optimizer.param_groups[0]["lr"]))
+        wandb.log({"lr": optimizer.param_groups[0]["lr"]})
 
         # train for one epoch
         train(train_loader, model, criterion, optimizer, epoch)
@@ -101,24 +120,31 @@ def main():
         best_prec1 = max(prec1, best_prec1)
 
         if epoch > 0 and epoch % 20 == 0:
-            save_checkpoint({
-                'epoch': epoch + 1,
-                'state_dict': model.state_dict(),
-                'best_prec1': best_prec1,
-            }, is_best, filename=os.path.join('./', 'vanilla_checkpoint.th'))
+            save_checkpoint(
+                {
+                    "epoch": epoch + 1,
+                    "state_dict": model.state_dict(),
+                    "best_prec1": best_prec1,
+                },
+                is_best,
+                filename=os.path.join("./", "vanilla_checkpoint.th"),
+            )
 
-        save_checkpoint({
-            'state_dict': model.state_dict(),
-            'best_prec1': best_prec1,
-        }, is_best, filename=os.path.join('./', 'vanilla_model.th'))
+        save_checkpoint(
+            {
+                "state_dict": model.state_dict(),
+                "best_prec1": best_prec1,
+            },
+            is_best,
+            filename=os.path.join("./", "vanilla_model.th"),
+        )
 
     wandb.run.finish()
 
 
-
 def train(train_loader, model, criterion, optimizer, epoch):
     """
-        Run one train epoch
+    Run one train epoch
     """
     batch_time = AverageMeter()
     data_time = AverageMeter()
@@ -158,13 +184,21 @@ def train(train_loader, model, criterion, optimizer, epoch):
         end = time.time()
 
         if i % 20 == 0:
-            print('Epoch: [{0}][{1}/{2}]\t'
-                  'Time {batch_time.val:.3f} ({batch_time.avg:.3f})\t'
-                  'Data {data_time.val:.3f} ({data_time.avg:.3f})\t'
-                  'Loss {loss.val:.4f} ({loss.avg:.4f})\t'
-                  'Prec@1 {top1.val:.3f} ({top1.avg:.3f})'.format(
-                      epoch, i, len(train_loader), batch_time=batch_time,
-                      data_time=data_time, loss=losses, top1=top1))
+            print(
+                "Epoch: [{0}][{1}/{2}]\t"
+                "Time {batch_time.val:.3f} ({batch_time.avg:.3f})\t"
+                "Data {data_time.val:.3f} ({data_time.avg:.3f})\t"
+                "Loss {loss.val:.4f} ({loss.avg:.4f})\t"
+                "Prec@1 {top1.val:.3f} ({top1.avg:.3f})".format(
+                    epoch,
+                    i,
+                    len(train_loader),
+                    batch_time=batch_time,
+                    data_time=data_time,
+                    loss=losses,
+                    top1=top1,
+                )
+            )
 
 
 def validate(val_loader, model, criterion, epoch):
@@ -202,27 +236,31 @@ def validate(val_loader, model, criterion, epoch):
         end = time.time()
 
         if i % 20 == 0:
-            print('Test: [{0}/{1}]\t'
-                  'Time {batch_time.val:.3f} ({batch_time.avg:.3f})\t'
-                  'Loss {loss.val:.4f} ({loss.avg:.4f})\t'
-                  'Prec@1 {top1.val:.3f} ({top1.avg:.3f})'.format(
-                      i, len(val_loader), batch_time=batch_time, loss=losses,
-                      top1=top1))
+            print(
+                "Test: [{0}/{1}]\t"
+                "Time {batch_time.val:.3f} ({batch_time.avg:.3f})\t"
+                "Loss {loss.val:.4f} ({loss.avg:.4f})\t"
+                "Prec@1 {top1.val:.3f} ({top1.avg:.3f})".format(
+                    i, len(val_loader), batch_time=batch_time, loss=losses, top1=top1
+                )
+            )
 
-    print(' * Prec@1 {top1.avg:.3f}'
-          .format(top1=top1))
+    print(" * Prec@1 {top1.avg:.3f}".format(top1=top1))
 
-    wandb.log({
-    'epoch': epoch,
-    'Top-1 accuracy': top1.avg,
-    'loss': losses.avg,
-    })
+    wandb.log(
+        {
+            "epoch": epoch,
+            "Top-1 accuracy": top1.avg,
+            "loss": losses.avg,
+        }
+    )
 
     return top1.avg
 
 
 class AverageMeter(object):
     """Computes and stores the average and current value"""
+
     def __init__(self):
         self.reset()
 
@@ -239,7 +277,7 @@ class AverageMeter(object):
         self.avg = self.sum / self.count
 
 
-def save_checkpoint(state, is_best, filename='checkpoint.pth.tar'):
+def save_checkpoint(state, is_best, filename="checkpoint.pth.tar"):
     """
     Save the training model
     """
@@ -262,6 +300,6 @@ def accuracy(output, target, topk=(1,)):
     return res
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
 
     main()

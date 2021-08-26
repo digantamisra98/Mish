@@ -1,18 +1,19 @@
-'''
+"""
 Applies the mish function element-wise:
 mish(x) = x * tanh(softplus(x)) = x * tanh(ln(1 + exp(x)))
-'''
+"""
 
 # import pytorch
 import torch
-from torch import nn
 import torch.nn.functional as F
+from torch import nn
 
 # import activation functions
 import Mish.Torch.functional as Func
 
+
 class Mish(nn.Module):
-    '''
+    """
     Applies the mish function element-wise:
     mish(x) = x * tanh(softplus(x)) = x * tanh(ln(1 + exp(x)))
 
@@ -25,20 +26,21 @@ class Mish(nn.Module):
         >>> m = Mish()
         >>> input = torch.randn(2)
         >>> output = m(input)
-        
+
     Reference: https://pytorch.org/docs/stable/generated/torch.nn.Mish.html
-    '''
+    """
+
     def __init__(self):
-        '''
+        """
         Init method.
-        '''
+        """
         super().__init__()
 
     def forward(self, input):
-        '''
+        """
         Forward pass of the function.
-        '''
-        if torch.__version__ >= '1.9':
+        """
+        if torch.__version__ >= "1.9":
             return F.mish(input)
         else:
             return Func.mish(input)
