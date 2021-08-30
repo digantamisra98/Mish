@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-318-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-319-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-291-blue.svg" /></a>
 </p>
@@ -281,3 +281,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - PnP-3D: A Plug-and-Play for 3D Point Clouds: [Paper](https://arxiv.org/abs/2108.07378)
 - SERF: Towards better training of deep neural networks using log-Softplus ERror activation Function: [Paper](https://arxiv.org/abs/2108.09598)
 - A Comparison of Deep Saliency Map Generators on Multispectral Data in Object Detection: [Paper](https://arxiv.org/abs/2108.11767)
+- TE-YOLOF: Tiny and efficient YOLOF for blood cell detection: [Paper](https://arxiv.org/abs/2108.12313)
