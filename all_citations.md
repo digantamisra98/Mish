@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-319-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-321-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-292-blue.svg" /></a>
 </p>
@@ -282,3 +282,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - SERF: Towards better training of deep neural networks using log-Softplus ERror activation Function: [Paper](https://arxiv.org/abs/2108.09598)
 - A Comparison of Deep Saliency Map Generators on Multispectral Data in Object Detection: [Paper](https://arxiv.org/abs/2108.11767)
 - TE-YOLOF: Tiny and efficient YOLOF for blood cell detection: [Paper](https://arxiv.org/abs/2108.12313)
+- Growing Cosine Unit: A Novel Oscillatory Activation Function That Can Speedup Training and Reduce Parameters in Convolutional Neural Networks: [Paper](https://arxiv.org/abs/2108.12943)
+- PSGU: Parametric self-circulation gating unit for deep neural networks: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320321001942#!)
