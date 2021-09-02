@@ -122,7 +122,10 @@
 
 ## Official Package Based Implementations: 
 
-<div style="text-align:center"><img src ="gpack.gif"  width="1000"/></div>
+<details>
+  <summary>Click to expand</summary>
+
+</details>
 
 <br>
 
