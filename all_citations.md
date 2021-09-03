@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-321-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-322-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-292-blue.svg" /></a>
 </p>
@@ -284,3 +284,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - TE-YOLOF: Tiny and efficient YOLOF for blood cell detection: [Paper](https://arxiv.org/abs/2108.12313)
 - Growing Cosine Unit: A Novel Oscillatory Activation Function That Can Speedup Training and Reduce Parameters in Convolutional Neural Networks: [Paper](https://arxiv.org/abs/2108.12943)
 - PSGU: Parametric self-circulation gating unit for deep neural networks: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320321001942#!)
+- Efficient-ROD: Efficient Radar Object Detection based on Densely Connected Residual Network: [Paper](https://dl.acm.org/doi/10.1145/3460426.3463657)
