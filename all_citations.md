@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-322-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-325-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-299-blue.svg" /></a>
 </p>
@@ -285,3 +285,6 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Growing Cosine Unit: A Novel Oscillatory Activation Function That Can Speedup Training and Reduce Parameters in Convolutional Neural Networks: [Paper](https://arxiv.org/abs/2108.12943)
 - PSGU: Parametric self-circulation gating unit for deep neural networks: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320321001942#!)
 - Efficient-ROD: Efficient Radar Object Detection based on Densely Connected Residual Network: [Paper](https://dl.acm.org/doi/10.1145/3460426.3463657)
+- Video Instance segmentation Challenge 2021 with YoloV4<sup>+1</sup>Tr: [Paper](https://youtube-vos.org/assets/challenge/2021/reports/VIS_10_Rossetti.pdf)
+- SiCoDeF² Net: Siamese Convolution Deconvolution Feature Fusion Network for One-Shot Classification: [Paper](https://ieeexplore.ieee.org/abstract/document/9521872)
+- Text-line-up: Don’t Worry About the Caret: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-86334-0_14)
