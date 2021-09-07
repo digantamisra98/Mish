@@ -119,20 +119,6 @@
 
 - (08/2021) Comprehensive hardware based computation performance benchmark for Mish has been conducted by [Benjamin Warner](https://benjaminwarner.dev/). [Blogpost](https://benjaminwarner.dev/2021/07/19/benchmarking-pytorch-native-mish).
 
-
-## Official Package Based Implementations: 
-
-<details>
-  <summary>Click to expand (Coming soon)</summary>
-  
-  |||||||||||
-  |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-  |![https://pytorch.org/assets/images/pytorch-logo.png](https://pytorch.org/docs/stable/generated/torch.nn.Mish.html)||||||||||
-  |||||||||||
-  |||||||||||
-
-</details>
-
 <br>
 
 <details>
