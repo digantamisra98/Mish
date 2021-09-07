@@ -124,6 +124,12 @@
 
 <details>
   <summary>Click to expand (Coming soon)</summary>
+  
+  |||||||||||
+  |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+  |![https://pytorch.org/assets/images/pytorch-logo.png](https://pytorch.org/docs/stable/generated/torch.nn.Mish.html)||||||||||
+  |||||||||||
+  |||||||||||
 
 </details>
 
