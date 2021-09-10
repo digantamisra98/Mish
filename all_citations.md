@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-326-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-327-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-299-blue.svg" /></a>
 </p>
@@ -289,3 +289,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - SiCoDeF² Net: Siamese Convolution Deconvolution Feature Fusion Network for One-Shot Classification: [Paper](https://ieeexplore.ieee.org/abstract/document/9521872)
 - Text-line-up: Don’t Worry About the Caret: [Paper](https://link.springer.com/chapter/10.1007/978-3-030-86334-0_14)
 - ISyNet: Convolutional Neural Networks design for AI accelerator: [Paper](https://arxiv.org/pdf/2109.01932.pdf)
+- ErfAct: Non-monotonic smooth trainable Activation Functions: [Paper](https://arxiv.org/abs/2109.04386)
