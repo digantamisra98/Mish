@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-331-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-332-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-310-blue.svg" /></a>
 </p>
@@ -293,3 +293,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Stationary Density Estimation of Itô Diffusions Using Deep Learning: [Paper](https://arxiv.org/abs/2109.03992)
 - Research on process design support for rough machining of dies by machine learning using voxel models: [Paper](https://www.jstage.jst.go.jp/article/pscjspe/2021S/0/2021S_101/_article/-char/ja/)
 - Application of Machine Learning Algorithms for Post Processing of Reference Sensors: [Paper](https://gupea.ub.gu.se/handle/2077/68188)
+- More than meets the eye: use of computer vision algorithms to identify stone tool material through the analysis of cut mark micro-morphology: [Paper](https://link.springer.com/article/10.1007%2Fs12520-021-01424-y)
