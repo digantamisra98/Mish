@@ -1,0 +1,5 @@
+wandb
+torchvision
+
+## Specific versions
+torch > 1.9
