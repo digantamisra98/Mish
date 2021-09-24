@@ -294,4 +294,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Research on process design support for rough machining of dies by machine learning using voxel models: [Paper](https://www.jstage.jst.go.jp/article/pscjspe/2021S/0/2021S_101/_article/-char/ja/)
 - Application of Machine Learning Algorithms for Post Processing of Reference Sensors: [Paper](https://gupea.ub.gu.se/handle/2077/68188)
 - More than meets the eye: use of computer vision algorithms to identify stone tool material through the analysis of cut mark micro-morphology: [Paper](https://link.springer.com/article/10.1007%2Fs12520-021-01424-y)
-- Universal activation function for machine learning: [Paper](https://www.nature.com/articles/s41598-021-96723-8)
+- An Image-Based Benchmark Dataset and a Novel Object Detector for Water Surface Object Detection: [Paper](https://www.semanticscholar.org/paper/An-Image-Based-Benchmark-Dataset-and-a-Novel-Object-Zhou-Sun/612507d262c22b60662b38be558009950dd5f2a7)
