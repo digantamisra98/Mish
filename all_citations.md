@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-333-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-335-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-315-blue.svg" /></a>
 </p>
@@ -295,3 +295,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Application of Machine Learning Algorithms for Post Processing of Reference Sensors: [Paper](https://gupea.ub.gu.se/handle/2077/68188)
 - More than meets the eye: use of computer vision algorithms to identify stone tool material through the analysis of cut mark micro-morphology: [Paper](https://link.springer.com/article/10.1007%2Fs12520-021-01424-y)
 - An Image-Based Benchmark Dataset and a Novel Object Detector for Water Surface Object Detection: [Paper](https://www.semanticscholar.org/paper/An-Image-Based-Benchmark-Dataset-and-a-Novel-Object-Zhou-Sun/612507d262c22b60662b38be558009950dd5f2a7)
+- Reduced-Lead ECG Classifier Model Trained with DivideMix and Model Ensemble: [Paper](https://arxiv.org/pdf/2109.12063.pdf)
+- Water meter pointer reading recognition method based on target-key point detection: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0955598621001199?via%3Dihub)
