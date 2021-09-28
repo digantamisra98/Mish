@@ -1,9 +1,9 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-335-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-344-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-315-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-321-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -297,3 +297,12 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - An Image-Based Benchmark Dataset and a Novel Object Detector for Water Surface Object Detection: [Paper](https://www.semanticscholar.org/paper/An-Image-Based-Benchmark-Dataset-and-a-Novel-Object-Zhou-Sun/612507d262c22b60662b38be558009950dd5f2a7)
 - Reduced-Lead ECG Classifier Model Trained with DivideMix and Model Ensemble: [Paper](https://arxiv.org/pdf/2109.12063.pdf)
 - Water meter pointer reading recognition method based on target-key point detection: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0955598621001199?via%3Dihub)
+- SAU: Smooth activation function using convolution with approximate identities: [Paper](https://arxiv.org/abs/2109.13210)
+- Supersymmetry Cross Section Predictions with Bayesian Neural Networks: [Thesis](https://www.duo.uio.no/handle/10852/88000)
+- BigyaPAn: Deep Analysis of Old Paper Advertisement: [Paper](https://ieeexplore.ieee.org/abstract/document/9533299)
+- Enriching the E2E dataset: [Paper](https://aclanthology.org/2021.inlg-1.18/)
+- Comparative assessment of modeling deep learning networks for modeling ground-level ozone concentrations of pandemic lock-down period: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0304380021002349)
+- DiffAct: A Unifying Framework for Activation Functions: [Paper](https://ieeexplore.ieee.org/abstract/document/9534391)
+- Convolutional Neural Networks for Fast Radio Burst Classification: [Report](https://abramschon.github.io/writing/papers/Classifying_Fast_Radio_Bursts.pdf)
+- PCXRNet: Condense attention block and Multiconvolution spatial attention block for Pneumonia Chest X-Ray detection: [Paper](https://www.techrxiv.org/articles/preprint/PCXRNet_Condense_attention_block_and_Multiconvolution_spatial_attention_block_for_Pneumonia_Chest_X-Ray_detection/14904837/files/28702761.pdf)
+- Telemedicine-Based Diabetic Care Powered With Artificial Intelligence: [Paper](https://www.igi-global.com/chapter/telemedicine-based-diabetic-care-powered-with-artificial-intelligence/288824)
