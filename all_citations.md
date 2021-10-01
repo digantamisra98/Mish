@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-344-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-346-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-322-blue.svg" /></a>
 </p>
@@ -306,3 +306,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Convolutional Neural Networks for Fast Radio Burst Classification: [Report](https://abramschon.github.io/writing/papers/Classifying_Fast_Radio_Bursts.pdf)
 - PCXRNet: Condense attention block and Multiconvolution spatial attention block for Pneumonia Chest X-Ray detection: [Paper](https://www.techrxiv.org/articles/preprint/PCXRNet_Condense_attention_block_and_Multiconvolution_spatial_attention_block_for_Pneumonia_Chest_X-Ray_detection/14904837/files/28702761.pdf)
 - Telemedicine-Based Diabetic Care Powered With Artificial Intelligence: [Paper](https://www.igi-global.com/chapter/telemedicine-based-diabetic-care-powered-with-artificial-intelligence/288824)
+- Generative Probabilistic Image Colorization: [Paper](https://arxiv.org/abs/2109.14518)
+- A Comprehensive Survey and Performance Analysis of Activation Functions in Deep Learning: [Paper](https://arxiv.org/pdf/2109.14545.pdf)
