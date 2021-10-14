@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-348-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-349-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-337-blue.svg" /></a>
 </p>
@@ -310,3 +310,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - A Comprehensive Survey and Performance Analysis of Activation Functions in Deep Learning: [Paper](https://arxiv.org/pdf/2109.14545.pdf)
 - Distribution mismatch correction for improved robustness in deep neural networks [Paper](https://arxiv.org/abs/2110.01955)
 - Learning Atomic Multipoles: Prediction of the Electrostatic Potential with Equivariant Graph Neural Networks: [Paper](https://arxiv.org/pdf/2110.05417.pdf)
+- A phase-error prediction method for coherent beam combining via convolutional neural network: [Paper](https://www.sciencedirect.com/science/article/pii/S003040262101411X?via%3Dihub)
