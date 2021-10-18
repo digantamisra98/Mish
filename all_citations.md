@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-353-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-354-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-341-blue.svg" /></a>
 </p>
@@ -315,3 +315,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Deep Human Dynamics Prior: [Paper (ACM MM 2021)](https://dl.acm.org/doi/10.1145/3474085.3475581)
 - BAM: Bilateral Activation Mechanism for Image Fusion: [Paper (ACM MM 2021)](https://dl.acm.org/doi/10.1145/3474085.3475571)
 - Exploring the power of lightweight YOLOv4: [Paper (ICCV-W 2021)](https://openaccess.thecvf.com/content/ICCV2021W/LPCV/papers/Wang_Exploring_the_Power_of_Lightweight_YOLOv4_ICCVW_2021_paper.pdf)
+- Combining neural networks for modulation recognition: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1051200421003031#!)
