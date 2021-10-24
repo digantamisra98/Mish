@@ -316,3 +316,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - BAM: Bilateral Activation Mechanism for Image Fusion: [Paper (ACM MM 2021)](https://dl.acm.org/doi/10.1145/3474085.3475571)
 - Exploring the power of lightweight YOLOv4: [Paper (ICCV-W 2021)](https://openaccess.thecvf.com/content/ICCV2021W/LPCV/papers/Wang_Exploring_the_Power_of_Lightweight_YOLOv4_ICCVW_2021_paper.pdf)
 - Combining neural networks for modulation recognition: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1051200421003031#!)
+- A Data-Centric Optimization Framework for Machine Learning: [Paper](https://arxiv.org/pdf/2110.10802.pdf)
+- NOD: Taking a Closer Look at Detection under Extreme Low-Light Conditions with Night Object Detection Dataset: [Paper (BMVC 2021)](https://arxiv.org/pdf/2110.10364.pdf)
