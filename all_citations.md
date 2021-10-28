@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-356-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-362-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-354-blue.svg" /></a>
 </p>
@@ -318,3 +318,9 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Combining neural networks for modulation recognition: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1051200421003031#!)
 - A Data-Centric Optimization Framework for Machine Learning: [Paper](https://arxiv.org/pdf/2110.10802.pdf)
 - NOD: Taking a Closer Look at Detection under Extreme Low-Light Conditions with Night Object Detection Dataset: [Paper (BMVC 2021)](https://arxiv.org/pdf/2110.10364.pdf)
+- Logical Activation Functions: Logit-space equivalents of Boolean Operators: [Paper](https://arxiv.org/abs/2110.11940#)
+- GCCN: Global Context Convolutional Network: [Paper](https://arxiv.org/abs/2110.11664)
+- Signature-Graph Networks: [Paper](https://arxiv.org/abs/2110.11551)
+- Structure by Architecture: Disentangled Representations without Regularization: [Paper](https://arxiv.org/abs/2006.07796)
+- Gradient Descent Effects on Differential Neural Architecture Search: A Survey: [Paper](https://ieeexplore.ieee.org/abstract/document/9461192)
+- Face Recognition Method of Mask Occlusion: [Paper](https://ieeexplore.ieee.org/abstract/document/9556172)
