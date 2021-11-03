@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href=" " alt="Citations">
-        <img src="https://img.shields.io/badge/Citations-362-green.svg" /></a>
+        <img src="https://img.shields.io/badge/Citations-364-green.svg" /></a>
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
         <img src="https://img.shields.io/badge/Google Scholar-365-blue.svg" /></a>
 </p>
@@ -324,3 +324,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Structure by Architecture: Disentangled Representations without Regularization: [Paper](https://arxiv.org/abs/2006.07796)
 - Gradient Descent Effects on Differential Neural Architecture Search: A Survey: [Paper](https://ieeexplore.ieee.org/abstract/document/9461192)
 - Face Recognition Method of Mask Occlusion: [Paper](https://ieeexplore.ieee.org/abstract/document/9556172)
+- LogAvgExp Provides a Principled and Performant Global Pooling Operator: [Paper](https://arxiv.org/abs/2111.01742)
+- Deep Learning-Based Object Tracking via Compressed Domain Residual Frames: [Paper](https://www.frontiersin.org/articles/10.3389/frsip.2021.765006/full)
