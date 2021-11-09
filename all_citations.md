@@ -327,3 +327,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Learned Image Compression for Machine Perception: [Paper](https://arxiv.org/abs/2111.02249)
 - More Birds in the Hand -Medical Image Segmentation using a Multi-Model Ensemble Framework: [Paper](https://www.semanticscholar.org/paper/More-Birds-in-the-Hand-Medical-Image-Segmentation-a-Chen-Kuo/9bd3b37f2028073fa6448f5f4944a09d253900c4)
 - Biologically Inspired Oscillating Activation Functions Can Bridge the Performance Gap between Biological and Artificial Neurons: [Paper](https://arxiv.org/abs/2111.04020)
+- SMU: smooth activation function for deep networks using smoothing maximum technique: [Paper](https://arxiv.org/abs/2111.04682)
