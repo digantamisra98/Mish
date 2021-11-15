@@ -330,3 +330,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - SMU: smooth activation function for deep networks using smoothing maximum technique: [Paper](https://arxiv.org/abs/2111.04682)
 - Tea Chrysanthemum Detection under Unstructured Environments Using the TC-YOLO Model: [Paper](https://arxiv.org/abs/2111.02724)
 - Magnetic resonance-based eye tracking using deep neural networks: [Paper](https://www.nature.com/articles/s41593-021-00947-w)
+- AWGAN: A Powerful Batch Correction Model for scRNA-seq Data: [Paper](https://www.biorxiv.org/content/10.1101/2021.11.08.467781v3)
+- Spending Your Winning Lottery Better After Drawing It: [Paper](https://arxiv.org/abs/2101.03255)
