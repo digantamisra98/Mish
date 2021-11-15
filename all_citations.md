@@ -332,3 +332,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Magnetic resonance-based eye tracking using deep neural networks: [Paper](https://www.nature.com/articles/s41593-021-00947-w)
 - AWGAN: A Powerful Batch Correction Model for scRNA-seq Data: [Paper](https://www.biorxiv.org/content/10.1101/2021.11.08.467781v3)
 - Spending Your Winning Lottery Better After Drawing It: [Paper](https://arxiv.org/abs/2101.03255)
+- Just-in-time software defect prediction using deep temporal convolutional networks: [Paper](https://link.springer.com/article/10.1007/s00521-021-06659-3)
