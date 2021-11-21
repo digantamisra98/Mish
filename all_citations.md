@@ -335,3 +335,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Just-in-time software defect prediction using deep temporal convolutional networks: [Paper](https://link.springer.com/article/10.1007/s00521-021-06659-3)
 - Automatic defect detection from X-ray Scans for Aluminum Conductor Composite Core Wire Based on Classification Neutral Network: [Paper](https://www.sciencedirect.com/science/article/pii/S0963869521001481?via%3Dihub)
 - Pixel-level tunnel crack segmentation using a weakly supervised annotation approach: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0166361521001524?via%3Dihub)
+- CSITime: Privacy-preserving human activity recognition using WiFi channel state information: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608021004391)
+- Data-driven artificial and spiking neural networks for inverse kinematics in neurorobotics: [Paper](https://www.sciencedirect.com/science/article/pii/S2666389921002580)
