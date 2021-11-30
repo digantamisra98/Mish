@@ -337,3 +337,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Pixel-level tunnel crack segmentation using a weakly supervised annotation approach: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0166361521001524?via%3Dihub)
 - CSITime: Privacy-preserving human activity recognition using WiFi channel state information: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608021004391)
 - Data-driven artificial and spiking neural networks for inverse kinematics in neurorobotics: [Paper](https://www.sciencedirect.com/science/article/pii/S2666389921002580)
+- Rethinking Generic Camera Models for Deep Single Image Camera Calibration to Recover Rotation and Fisheye Distortion: [Paper](https://arxiv.org/abs/2111.12927)
