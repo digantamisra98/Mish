@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-420-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-423-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
