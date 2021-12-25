@@ -347,3 +347,6 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - ViT-YOLO:Transformer-Based YOLO for Object Detection: [Paper (ICCV 2021 Workshop)](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/papers/Zhang_ViT-YOLOTransformer-Based_YOLO_for_Object_Detection_ICCVW_2021_paper.pdf)
 - Deep Neural Network Model based on One-Stage Detector for Identifying Fundus Lesions: [Paper](https://ieeexplore.ieee.org/abstract/document/9534354?casa_token=8qPEeHYzK68AAAAA:NJXUJAleMgV0r1aKIuxfrSSNjYC-OrItZfuHKzRqtcIuH4c3cx-2MjXUg1dh_asPnVXcqvhHUq3a6Q)
 - Automated ceramic plate defect detection using ScaledYOLOv4-large: [Paper](https://ieeexplore.ieee.org/abstract/document/9515185?casa_token=IWAzOT4LsG8AAAAA:0sKXKFhaEDsfhdxvFnWCeHao5_OW2F4mIXZiF1SHxvlAQztOChh3zVpFbz0VZjVHD5GDFCEh9r7w4g)
+- Deeper Learning with CoLU Activation: [Paper](https://arxiv.org/abs/2112.12078)
+- Measuring Complexity of Learning Schemes Using Hessian-Schatten Total-Variation: [Paper](https://arxiv.org/abs/2112.06209)
+- A Deep Learning Driven Algorithmic Pipeline for Autonomous Navigation in Row-Based Crops: [Paper](https://arxiv.org/abs/2112.03816)
