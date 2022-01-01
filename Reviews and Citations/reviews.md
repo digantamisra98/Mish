@@ -29,18 +29,18 @@ This paper proposed a novel activation function called Mish. Experiments on imag
 2. [ Paper Strengths ] Please summarise the strengths of the paper. (Eg: novelty, insight, theoretical strength, state of the art performance, thorough evaluation). Please provide a clear explanation of why they are valuable.
 This paper proposed a novel activation function that can be adopted in various network architectures to acquire performance gains.
 3. [ Paper Weaknesses ] Please summarize the weaknesses of the paper. (E.g., Lack of novelty, technical errors, insufficient evaluation, etc). You should clearly justify your criticisms with precise and factual comments (E.g., with an explanation of technical errors, citation to prior work if novelty is an issue). Please note: It is not appropriate to ask for comparison with unpublished arXiv papers, and papers published after the BMVC deadline. Please be polite and constructive.
-  1. The insight of the proposed activation function is not enough.
-  2. In table 1, the mean loss and standard deviation of accuracy of Mish are NOT the lowest, they are mistakenly marked bold in the table and described in the text.
-  3. The computational complexity of Mish is much higher than RELU, however, the performance improvement is marginal (e.g. Table 4)
+  a. The insight of the proposed activation function is not enough.
+  b. In table 1, the mean loss and standard deviation of accuracy of Mish are NOT the lowest, they are mistakenly marked bold in the table and described in the text.
+  c. The computational complexity of Mish is much higher than RELU, however, the performance improvement is marginal (e.g. Table 4)
 
 5. [ Justification of Rating ] Please explain how the different strengths and weakness were weighed together to produce the overall rating. Please provide details of questions or ambiguities to be addressed in the rebuttal that might change your rating.
-  1. The high computational complexity and the marginal performance gain may hinder the application of the proposed activation function in the community.
-  2. The insight is not enough.
-  3. Some basic mistakes exist in Table 1.
+  a. The high computational complexity and the marginal performance gain may hinder the application of the proposed activation function in the community.
+  b. The insight is not enough.
+  c. Some basic mistakes exist in Table 1.
 6. [ Suggestions to Authors ] Any further comments to the authors and suggestions for improving the manuscript (e.g. typos). These are not relevant for your rating.
-  1. give more theoretical insight
-  2. For ImageNet classification, these original mainstream network architectures should be used as baselines to better justify the contribution of the proposed activation function.
-  3. The contribution of data augmentation to performance gain is not quite relative to this work and should be shortened or omitted in the text.
+  a. give more theoretical insight
+  b. For ImageNet classification, these original mainstream network architectures should be used as baselines to better justify the contribution of the proposed activation function.
+  c. The contribution of data augmentation to performance gain is not quite relative to this work and should be shortened or omitted in the text.
 
 ### Reviewer 3:
 
