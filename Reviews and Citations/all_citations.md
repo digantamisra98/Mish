@@ -350,3 +350,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Deeper Learning with CoLU Activation: [Paper](https://arxiv.org/abs/2112.12078)
 - Measuring Complexity of Learning Schemes Using Hessian-Schatten Total-Variation: [Paper](https://arxiv.org/abs/2112.06209)
 - A Deep Learning Driven Algorithmic Pipeline for Autonomous Navigation in Row-Based Crops: [Paper](https://arxiv.org/abs/2112.03816)
+- A Unified and Constructive Framework for the Universality of Neural Networks: [Paper](https://arxiv.org/abs/2112.14877)
