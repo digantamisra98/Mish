@@ -351,3 +351,7 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Measuring Complexity of Learning Schemes Using Hessian-Schatten Total-Variation: [Paper](https://arxiv.org/abs/2112.06209)
 - A Deep Learning Driven Algorithmic Pipeline for Autonomous Navigation in Row-Based Crops: [Paper](https://arxiv.org/abs/2112.03816)
 - A Unified and Constructive Framework for the Universality of Neural Networks: [Paper](https://arxiv.org/abs/2112.14877)
+- Tackling Multipath and Biased Training Data for IMU-Assisted BLE Proximity Detection: [Paper](https://arxiv.org/abs/2201.03817)
+- A Deep Separable Convolutional Neural Network for Multiscale Image-Based Smoke Detection: [Paper](https://link.springer.com/article/10.1007/s10694-021-01199-7)
+- A fast accurate fine-grain object detection model based on YOLOv4 deep neural network: [Paper](https://link.springer.com/article/10.1007/s00521-021-06651-x)
+- Radar-absorbing materials damage detection through microwave images using one-stage object detectors: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0963869522000032)
