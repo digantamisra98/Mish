@@ -1,7 +1,7 @@
 # Citations: 
 <p align="left">
    <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-450-blue.svg" /></a>
+        <img src="https://img.shields.io/badge/Google Scholar-449-blue.svg" /></a>
 </p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
@@ -355,3 +355,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - A Deep Separable Convolutional Neural Network for Multiscale Image-Based Smoke Detection: [Paper](https://link.springer.com/article/10.1007/s10694-021-01199-7)
 - A fast accurate fine-grain object detection model based on YOLOv4 deep neural network: [Paper](https://link.springer.com/article/10.1007/s00521-021-06651-x)
 - Radar-absorbing materials damage detection through microwave images using one-stage object detectors: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0963869522000032)
+- AESPA: Accuracy Preserving Low-degree Polynomial Activation for Fast Private Inference: [Paper](https://arxiv.org/abs/2201.06699)
+- Data-Driven Deep Learning Based Hybrid Beamforming for Aerial Massive MIMO-OFDM Systems with Implicit CSI: [Paper](https://arxiv.org/abs/2201.06778)
