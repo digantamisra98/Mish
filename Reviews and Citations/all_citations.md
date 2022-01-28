@@ -357,3 +357,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Radar-absorbing materials damage detection through microwave images using one-stage object detectors: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0963869522000032)
 - AESPA: Accuracy Preserving Low-degree Polynomial Activation for Fast Private Inference: [Paper](https://arxiv.org/abs/2201.06699)
 - Data-Driven Deep Learning Based Hybrid Beamforming for Aerial Massive MIMO-OFDM Systems with Implicit CSI: [Paper](https://arxiv.org/abs/2201.06778)
+- Team Yao at Factify 2022: Utilizing Pre-trained Models and Co-attention Networks for Multi-Modal Fact Verification: [Paper](https://arxiv.org/abs/2201.11664)
