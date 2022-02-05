@@ -1,8 +1,4 @@
 # Citations: 
-<p align="left">
-   <a href="https://scholar.google.com/citations?user=LwiJwNYAAAAJ&hl=en" alt="Google Scholar Citations">
-        <img src="https://img.shields.io/badge/Google Scholar-509-blue.svg" /></a>
-</p>
 
 *MDPI and Hindawi (excluding exceptions) articles are not maintained in this list*
 
@@ -360,3 +356,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Team Yao at Factify 2022: Utilizing Pre-trained Models and Co-attention Networks for Multi-Modal Fact Verification: [Paper](https://arxiv.org/abs/2201.11664)
 - Möbius Convolutions for Spherical CNNs: [Paper](https://arxiv.org/pdf/2201.12212.pdf)
 - Melody Extraction from Polyphonic Music by Deep Learning Approaches: A Review: [Paper](https://arxiv.org/abs/2202.01078)
+- Concept Bottleneck Model with Additional Unsupervised Concepts: [Paper](https://arxiv.org/abs/2202.01459)
