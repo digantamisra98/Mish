@@ -357,3 +357,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Möbius Convolutions for Spherical CNNs: [Paper](https://arxiv.org/pdf/2201.12212.pdf)
 - Melody Extraction from Polyphonic Music by Deep Learning Approaches: A Review: [Paper](https://arxiv.org/abs/2202.01078)
 - Concept Bottleneck Model with Additional Unsupervised Concepts: [Paper](https://arxiv.org/abs/2202.01459)
+- Real World Large Scale Recommendation Systems Reproducibility and Smooth Activations: [Paper](https://arxiv.org/abs/2202.06499)
+- Graph-adaptive Rectified Linear Unit for Graph Neural Networks: [Paper](https://arxiv.org/abs/2202.06281)[(WWW 2022)](https://www2022.thewebconf.org/)
