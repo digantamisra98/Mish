@@ -359,3 +359,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Concept Bottleneck Model with Additional Unsupervised Concepts: [Paper](https://arxiv.org/abs/2202.01459)
 - Real World Large Scale Recommendation Systems Reproducibility and Smooth Activations: [Paper](https://arxiv.org/abs/2202.06499)
 - Graph-adaptive Rectified Linear Unit for Graph Neural Networks: [Paper](https://arxiv.org/abs/2202.06281)[(WWW 2022)](https://www2022.thewebconf.org/)
+- Practical Self-Driving Cars: Survey of the State-of-the-Art: [Paper](https://pdfs.semanticscholar.org/d019/6b265b475882f97aed8876947ff2f5e9b5ae.pdf?_ga=2.63309487.1606242331.1645496915-866195359.1638946966)
