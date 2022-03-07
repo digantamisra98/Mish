@@ -364,3 +364,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - ciscNet -- A Single-Branch Cell Instance Segmentation and Classification Network: [Paper](https://arxiv.org/abs/2202.13960)
 - Continuous Human Action Recognition for Human-Machine Interaction: A Review: [Paper](https://arxiv.org/abs/2202.13096)
 - Differentially private training of residual networks with scale normalisation: [Paper](https://www.researchgate.net/publication/358951484_Differentially_private_training_of_residual_networks_with_scale_normalisation)
+- Thermodynamics-informed graph neural networks: [Paper](https://arxiv.org/abs/2203.01874)
