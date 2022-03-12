@@ -365,3 +365,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Continuous Human Action Recognition for Human-Machine Interaction: A Review: [Paper](https://arxiv.org/abs/2202.13096)
 - Differentially private training of residual networks with scale normalisation: [Paper](https://www.researchgate.net/publication/358951484_Differentially_private_training_of_residual_networks_with_scale_normalisation)
 - Thermodynamics-informed graph neural networks: [Paper](https://arxiv.org/abs/2203.01874)
+- DuMLP-Pin: A Dual-MLP-dot-product Permutation-invariant Network for Set Feature Extraction: [Paper](https://arxiv.org/abs/2203.04007)
+- Quantification of Occlusion Handling Capability of a 3D Human Pose Estimation Framework: [Paper](https://arxiv.org/abs/2203.04113)
