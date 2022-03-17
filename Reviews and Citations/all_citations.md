@@ -368,3 +368,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - DuMLP-Pin: A Dual-MLP-dot-product Permutation-invariant Network for Set Feature Extraction: [Paper](https://arxiv.org/abs/2203.04007)
 - Quantification of Occlusion Handling Capability of a 3D Human Pose Estimation Framework: [Paper](https://arxiv.org/abs/2203.04113)
 - Can I see an Example? Active Learning the Long Tail of Attributes and Relations: [Paper](https://arxiv.org/abs/2203.06215)
+- Graphical Residual Flows: [Paper](https://openreview.net/forum?id=BNhf2nNdD-c)
