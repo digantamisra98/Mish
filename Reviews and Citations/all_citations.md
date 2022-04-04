@@ -369,3 +369,7 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Quantification of Occlusion Handling Capability of a 3D Human Pose Estimation Framework: [Paper](https://arxiv.org/abs/2203.04113)
 - Can I see an Example? Active Learning the Long Tail of Attributes and Relations: [Paper](https://arxiv.org/abs/2203.06215)
 - Graphical Residual Flows: [Paper](https://openreview.net/forum?id=BNhf2nNdD-c)
+- Spectral imaging with deep learning: [Paper](https://www.nature.com/articles/s41377-022-00743-6)
+- Deep learning-based fusion hole state recognition and width extraction for thin plate TIG welding: [Paper](https://link.springer.com/article/10.1007/s40194-022-01287-4)
+- PEGG-Net: Background Agnostic Pixel-Wise Efficient Grasp Generation Under Closed-Loop Conditions: [Paper](https://arxiv.org/abs/2203.16301)
+- LANDMark: an ensemble approach to the supervised selection of biomarkers in high-throughput sequencing data: [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04631-z)
