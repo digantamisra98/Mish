@@ -373,3 +373,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Deep learning-based fusion hole state recognition and width extraction for thin plate TIG welding: [Paper](https://link.springer.com/article/10.1007/s40194-022-01287-4)
 - PEGG-Net: Background Agnostic Pixel-Wise Efficient Grasp Generation Under Closed-Loop Conditions: [Paper](https://arxiv.org/abs/2203.16301)
 - LANDMark: an ensemble approach to the supervised selection of biomarkers in high-throughput sequencing data: [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04631-z)
+- Spatial Transformer Network on Skeleton-based Gait Recognition: [Paper](https://arxiv.org/abs/2204.03873)
