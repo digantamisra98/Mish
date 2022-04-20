@@ -375,3 +375,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - LANDMark: an ensemble approach to the supervised selection of biomarkers in high-throughput sequencing data: [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04631-z)
 - Spatial Transformer Network on Skeleton-based Gait Recognition: [Paper](https://arxiv.org/abs/2204.03873)
 - Audio Deep Fake Detection System with Neural Stitching for ADD 2022: [Paper](https://arxiv.org/abs/2204.08720)
+- DiSCERN - Deep Single Cell Expression ReconstructioN for improved cell clustering and cell subtype and state detection: [Paper](https://www.biorxiv.org/content/10.1101/2022.03.09.483600v3.full)
