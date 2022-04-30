@@ -378,3 +378,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - DiSCERN - Deep Single Cell Expression ReconstructioN for improved cell clustering and cell subtype and state detection: [Paper](https://www.biorxiv.org/content/10.1101/2022.03.09.483600v3.full)
 - Comparison Analysis of Traditional Machine Learning and Deep Learning Techniques for Data and Image Classification: [Paper](https://arxiv.org/abs/2204.05983)
 - Parallel Synthesis for Autoregressive Speech Generation: [Paper](https://arxiv.org/abs/2204.11806)
+- Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks: [Paper](https://arxiv.org/abs/2204.12589)
