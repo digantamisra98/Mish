@@ -380,3 +380,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Parallel Synthesis for Autoregressive Speech Generation: [Paper](https://arxiv.org/abs/2204.11806)
 - Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks: [Paper](https://arxiv.org/abs/2204.12589)
 - Multimodal Indoor Localisation for Measuring Mobility in Parkinson's Disease using Transformers: [Paper](https://arxiv.org/abs/2205.06142)
+- blob loss: instance imbalance aware loss functions for semantic segmentation: [Paper](https://arxiv.org/abs/2205.08209)
