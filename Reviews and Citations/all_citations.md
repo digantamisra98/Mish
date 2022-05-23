@@ -381,3 +381,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks: [Paper](https://arxiv.org/abs/2204.12589)
 - Multimodal Indoor Localisation for Measuring Mobility in Parkinson's Disease using Transformers: [Paper](https://arxiv.org/abs/2205.06142)
 - blob loss: instance imbalance aware loss functions for semantic segmentation: [Paper](https://arxiv.org/abs/2205.08209)
+- Automatic worm detection to solve overlapping problems using a convolutional neural network: [Paper](https://pubmed.ncbi.nlm.nih.gov/35595864/)
+- Planning with Diffusion for Flexible Behavior Synthesis: [Paper (ICML 2022)](https://arxiv.org/abs/2205.09991), [Project Page](https://diffusion-planning.github.io/)
