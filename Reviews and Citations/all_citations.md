@@ -383,3 +383,7 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - blob loss: instance imbalance aware loss functions for semantic segmentation: [Paper](https://arxiv.org/abs/2205.08209)
 - Automatic worm detection to solve overlapping problems using a convolutional neural network: [Paper](https://pubmed.ncbi.nlm.nih.gov/35595864/)
 - Planning with Diffusion for Flexible Behavior Synthesis: [Paper (ICML 2022)](https://arxiv.org/abs/2205.09991), [Project Page](https://diffusion-planning.github.io/)
+- Videomics of the Upper Aero-Digestive Tract Cancer: Deep Learning Applied to White Light and Narrow Band Imaging for Automatic Segmentation of Endoscopic Images: [Paper](https://www.frontiersin.org/articles/10.3389/fonc.2022.900451/full)
+- LAPLACE HYPOPINN: PHYSICS-INFORMED NEURAL NETWORK FOR HYPOCENTER LOCALIZATION AND ITS PREDICTIVE UNCERTAINTY: [Paper](https://arxiv.org/pdf/2205.14439.pdf)
+- Regularized by Physics: Graph Neural Network Parametrized Potentials for the Description of Intermolecular Interactions: [Paper](https://arxiv.org/pdf/2206.00355.pdf)
+- Deepfake Caricatures: Amplifying attention to artifacts increases deepfake detection by humans and machines: [Paper](https://arxiv.org/pdf/2206.00535.pdf)
