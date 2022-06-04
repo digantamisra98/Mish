@@ -387,3 +387,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - LAPLACE HYPOPINN: PHYSICS-INFORMED NEURAL NETWORK FOR HYPOCENTER LOCALIZATION AND ITS PREDICTIVE UNCERTAINTY: [Paper](https://arxiv.org/pdf/2205.14439.pdf)
 - Regularized by Physics: Graph Neural Network Parametrized Potentials for the Description of Intermolecular Interactions: [Paper](https://arxiv.org/pdf/2206.00355.pdf)
 - Deepfake Caricatures: Amplifying attention to artifacts increases deepfake detection by humans and machines: [Paper](https://arxiv.org/pdf/2206.00535.pdf)
+- NOVEL SINGLE TREE DETECTION BY TRANSFORMERS USING UAV-BASED MULTISPECTRAL IMAGERY: [Paper](https://pdfs.semanticscholar.org/2966/f529ffdce9e8f8fa5389faed7b19fbccde4b.pdf?_ga=2.266860878.1950808677.1654291671-866195359.1638946966)
