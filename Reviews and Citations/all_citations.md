@@ -388,3 +388,7 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Regularized by Physics: Graph Neural Network Parametrized Potentials for the Description of Intermolecular Interactions: [Paper](https://arxiv.org/pdf/2206.00355.pdf)
 - Deepfake Caricatures: Amplifying attention to artifacts increases deepfake detection by humans and machines: [Paper](https://arxiv.org/pdf/2206.00535.pdf)
 - NOVEL SINGLE TREE DETECTION BY TRANSFORMERS USING UAV-BASED MULTISPECTRAL IMAGERY: [Paper](https://pdfs.semanticscholar.org/2966/f529ffdce9e8f8fa5389faed7b19fbccde4b.pdf?_ga=2.266860878.1950808677.1654291671-866195359.1638946966)
+- Neuro CROSS exchange: Learning to CROSS exchange to solve realistic vehicle routing problems: [Paper](https://arxiv.org/abs/2206.02771)
+- Search Space Adaptation for Differentiable Neural Architecture Search in Image Classification: [Paper](https://arxiv.org/abs/2206.02098)
+- Slim-neck by GSConv: A better design paradigm of detector architectures for autonomous vehicles: [Paper](https://arxiv.org/abs/2206.02424)
+- Automatic Clipping: Differentially Private Deep Learning Made Easier and Stronger: [Paper](https://arxiv.org/abs/2206.07136)
