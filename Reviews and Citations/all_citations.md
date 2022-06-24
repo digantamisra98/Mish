@@ -392,3 +392,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Search Space Adaptation for Differentiable Neural Architecture Search in Image Classification: [Paper](https://arxiv.org/abs/2206.02098)
 - Slim-neck by GSConv: A better design paradigm of detector architectures for autonomous vehicles: [Paper](https://arxiv.org/abs/2206.02424)
 - Automatic Clipping: Differentially Private Deep Learning Made Easier and Stronger: [Paper](https://arxiv.org/abs/2206.07136)
+- Supervised learning of random quantum circuits via scalable neural networks: [Paper](https://arxiv.org/abs/2206.10348)
