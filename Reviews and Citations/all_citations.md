@@ -393,3 +393,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Slim-neck by GSConv: A better design paradigm of detector architectures for autonomous vehicles: [Paper](https://arxiv.org/abs/2206.02424)
 - Automatic Clipping: Differentially Private Deep Learning Made Easier and Stronger: [Paper](https://arxiv.org/abs/2206.07136)
 - Supervised learning of random quantum circuits via scalable neural networks: [Paper](https://arxiv.org/abs/2206.10348)
+- PEA: Improving the Performance of ReLU Networks for Free by Using Progressive Ensemble Activations: [Paper (CVPRW-2022)](https://openaccess.thecvf.com/content/CVPR2022W/ECV/html/Utasi_PEA_Improving_the_Performance_of_ReLU_Networks_for_Free_by_CVPRW_2022_paper.html)
