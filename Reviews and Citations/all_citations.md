@@ -397,3 +397,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Real-world knowledge extraction via disentangled variational autoencoders for photon diagnostics: [Paper](https://arxiv.org/abs/2206.11559)
 - Training Your Sparse Neural Network Better with Any Mask: [Paper (ICML 2022)](Training Your Sparse Neural Network Better with Any Mask
 )
+- DiSCERN - Deep Single Cell Expression ReconstructioN for improved cell clustering and cell subtype and state detection:[Paper](https://www.biorxiv.org/content/10.1101/2022.03.09.483600v5)
