@@ -398,3 +398,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Training Your Sparse Neural Network Better with Any Mask: [Paper (ICML 2022)](Training Your Sparse Neural Network Better with Any Mask
 )
 - DiSCERN - Deep Single Cell Expression ReconstructioN for improved cell clustering and cell subtype and state detection:[Paper](https://www.biorxiv.org/content/10.1101/2022.03.09.483600v5)
+- Classification of Alzheimer's Disease Using the Convolutional Neural Network (CNN) with Transfer Learning and Weighted Loss: [Paper](https://arxiv.org/abs/2207.01584)
