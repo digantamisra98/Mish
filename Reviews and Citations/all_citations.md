@@ -399,3 +399,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 )
 - DiSCERN - Deep Single Cell Expression ReconstructioN for improved cell clustering and cell subtype and state detection:[Paper](https://www.biorxiv.org/content/10.1101/2022.03.09.483600v5)
 - Classification of Alzheimer's Disease Using the Convolutional Neural Network (CNN) with Transfer Learning and Weighted Loss: [Paper](https://arxiv.org/abs/2207.01584)
+- Denoising single images by feature ensemble revisited: [Paper](https://arxiv.org/abs/2207.05176)
+- A Non-Factoid Question-Answering Taxonomy: [Paper (SIGIR 2022)](https://dl.acm.org/doi/10.1145/3477495.3531926)
