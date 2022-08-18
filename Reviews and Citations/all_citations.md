@@ -401,3 +401,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Classification of Alzheimer's Disease Using the Convolutional Neural Network (CNN) with Transfer Learning and Weighted Loss: [Paper](https://arxiv.org/abs/2207.01584)
 - Denoising single images by feature ensemble revisited: [Paper](https://arxiv.org/abs/2207.05176)
 - A Non-Factoid Question-Answering Taxonomy: [Paper (SIGIR 2022)](https://dl.acm.org/doi/10.1145/3477495.3531926)
+- Deep 360∘ Optical Flow Estimation Based on Multi-Projection Fusion: [Paper (ECCV 2022)](https://arxiv.org/abs/2208.00776)
