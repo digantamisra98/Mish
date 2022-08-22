@@ -402,3 +402,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Denoising single images by feature ensemble revisited: [Paper](https://arxiv.org/abs/2207.05176)
 - A Non-Factoid Question-Answering Taxonomy: [Paper (SIGIR 2022)](https://dl.acm.org/doi/10.1145/3477495.3531926)
 - Deep 360∘ Optical Flow Estimation Based on Multi-Projection Fusion: [Paper (ECCV 2022)](https://arxiv.org/abs/2208.00776)
+- COPE: End-to-end trainable Constant Runtime Object Pose Estimation: [Paper](https://arxiv.org/abs/2208.08807)
+- Using deep learning to predict outcomes of legal appeals better than human experts: A study with data from Brazilian federal courts: [Paper](https://pdfs.semanticscholar.org/b18b/9d36b4bddf3111ecfa294457d27181941c3d.pdf?_ga=2.50331110.1170776399.1661151224-559525371.1657688928)
