@@ -406,3 +406,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Using deep learning to predict outcomes of legal appeals better than human experts: A study with data from Brazilian federal courts: [Paper](https://pdfs.semanticscholar.org/b18b/9d36b4bddf3111ecfa294457d27181941c3d.pdf?_ga=2.50331110.1170776399.1661151224-559525371.1657688928)
 - A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective: [Paper](https://arxiv.org/abs/2208.09913)
 - Semantic Preserving Adversarial Attack Generation with Autoencoder and Genetic Algorithm: [Paper](https://arxiv.org/abs/2208.12230)
+- Learning Heterogeneous Interaction Strengths by Trajectory Prediction with Graph Neural Network: [Paper](https://arxiv.org/abs/2208.13179)
