@@ -407,3 +407,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective: [Paper](https://arxiv.org/abs/2208.09913)
 - Semantic Preserving Adversarial Attack Generation with Autoencoder and Genetic Algorithm: [Paper](https://arxiv.org/abs/2208.12230)
 - Learning Heterogeneous Interaction Strengths by Trajectory Prediction with Graph Neural Network: [Paper](https://arxiv.org/abs/2208.13179)
+- YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications: [Paper](https://arxiv.org/abs/2209.02976)
+- How important are activation functions in regression and classification? A survey, performance comparison, and future directions: [Paper](https://arxiv.org/abs/2209.02681)
