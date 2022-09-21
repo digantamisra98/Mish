@@ -409,3 +409,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Learning Heterogeneous Interaction Strengths by Trajectory Prediction with Graph Neural Network: [Paper](https://arxiv.org/abs/2208.13179)
 - YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications: [Paper](https://arxiv.org/abs/2209.02976)
 - How important are activation functions in regression and classification? A survey, performance comparison, and future directions: [Paper](https://arxiv.org/abs/2209.02681)
+- Site-Net: Using global self-attention and real-space supercells to capture long-range interactions in crystal structures: [Paper](https://arxiv.org/abs/2209.08190)
+- APTx: better activation function than MISH, SWISH, and ReLU's variants used in deep learning: [Paper](https://arxiv.org/abs/2209.06119)
