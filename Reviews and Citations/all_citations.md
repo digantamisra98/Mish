@@ -411,3 +411,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - How important are activation functions in regression and classification? A survey, performance comparison, and future directions: [Paper](https://arxiv.org/abs/2209.02681)
 - Site-Net: Using global self-attention and real-space supercells to capture long-range interactions in crystal structures: [Paper](https://arxiv.org/abs/2209.08190)
 - APTx: better activation function than MISH, SWISH, and ReLU's variants used in deep learning: [Paper](https://arxiv.org/abs/2209.06119)
+- Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training: [Paper (ICDD 2022)](https://arxiv.org/abs/2209.10778)
