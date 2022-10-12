@@ -415,3 +415,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - CDFF: a fast and highly accurate method for recognizing traffic signs: [Paper](https://www.researchgate.net/publication/363665793_CDFF_a_fast_and_highly_accurate_method_for_recognizing_traffic_signs)
 - MARS: A Motif-based Autoregressive Model for Retrosynthesis Prediction: [Paper](https://arxiv.org/abs/2209.13178)
 - Kernel Normalized Convolutional Networks for Privacy-Preserving Machine Learning: [Paper](https://arxiv.org/abs/2210.00053)
+- DrawMon: A Distributed System for Detection of Atypical Sketch Content in Concurrent Pictionary Games: [Paper](https://dl.acm.org/doi/10.1145/3503161.3547747)
