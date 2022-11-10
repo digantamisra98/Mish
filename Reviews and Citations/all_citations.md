@@ -419,3 +419,4 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Stochastic Adaptive Activation Function: [Paper (NeurIPS 2022)](https://arxiv.org/abs/2210.11672)
 - Emerging Threats in Deep Learning-Based Autonomous Driving: A Comprehensive Survey: [Paper](https://arxiv.org/abs/2210.11237)
 - On the Beneficial Effects of Reinjections for Continual Learning: [Paper](https://link.springer.com/article/10.1007/s42979-022-01392-7)
+- Astronomia ex machina: a history, primer, and outlook on neural networks in astronomy: [Paper](https://arxiv.org/abs/2211.03796)
