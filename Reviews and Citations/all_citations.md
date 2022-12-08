@@ -422,3 +422,8 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Astronomia ex machina: a history, primer, and outlook on neural networks in astronomy: [Paper](https://arxiv.org/abs/2211.03796)
 - Revisiting the Activation Function for Federated Image Classification: [Paper (NeurIPS FL Workshop 2022)](https://openreview.net/forum?id=KGvSg8D5-fY)
 - Is Conditional Generative Modeling all you need for Decision-Making?: [Paper](https://arxiv.org/abs/2211.15657)
+- PCW-Net: Pyramid Combination and Warping Cost Volume for Stereo Matching: [Paper (ECCV 2022)](https://dl.acm.org/doi/abs/10.1007/978-3-031-19824-3_17)
+- Light-YOLOv5: A Lightweight Algorithm for Improved YOLOv5 in Complex Fire Scenarios: [Paper](https://arxiv.org/abs/2208.13422)
+- Machine-leaning enhanced search for a vectorlike singlet B quark decaying to a singlet scalar or pseudoscalar: [Paper](https://arxiv.org/abs/2212.02442)
+- An advanced YOLOv3 method for small object detection: [Paper](https://arxiv.org/abs/2212.02809)
+- Accurate detection and identification of insects from camera trap images with deep learning: [Paper](https://www.biorxiv.org/content/biorxiv/early/2022/10/27/2022.10.25.513484.full.pdf)
