@@ -428,3 +428,5 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - An advanced YOLOv3 method for small object detection: [Paper](https://arxiv.org/abs/2212.02809)
 - Accurate detection and identification of insects from camera trap images with deep learning: [Paper](https://www.biorxiv.org/content/biorxiv/early/2022/10/27/2022.10.25.513484.full.pdf)
 - MEDIAR: Harmony of Data-Centric and Model-Centric for Multi-Modality Microscopy: [Paper (NeurIPS CellSeg Challenge 2022)](https://arxiv.org/abs/2212.03465v1)
+- Machine-leaning enhanced search for a vectorlike singlet B quark decaying to a singlet scalar
+or pseudoscalar: [Paper](https://arxiv.org/abs/2212.02442)
