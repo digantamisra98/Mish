@@ -431,3 +431,7 @@ ICDM 2020: 20th IEEE International Conference on Data Mining](http://icdm2020.bi
 - Machine-leaning enhanced search for a vectorlike singlet B quark decaying to a singlet scalar
 or pseudoscalar: [Paper](https://arxiv.org/abs/2212.02442)
 - Reinforcement Learning in System Identification: [Paper (NeurIPS Reinforcement Learning Workshop 2022)](https://arxiv.org/abs/2212.07123)
+- Structural State Translation: Condition Transfer between Civil Structures Using Domain-Generalization for Structural Health Monitoring: [Paper](https://arxiv.org/abs/2212.14048)
+- Look Around! A Neighbor Relation Graph Learning Framework for Real Estate Appraisal: [Paper](https://arxiv.org/abs/2212.12190)
+- Detecting Severity of Diabetic Retinopathy from Fundus Images using Ensembled Transformers: [Paper](https://arxiv.org/abs/2301.00973)
+- PnP-3D: A Plug-and-Play for 3D Point Clouds: [Paper](https://arxiv.org/abs/2108.07378)
