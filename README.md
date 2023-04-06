@@ -1,7 +1,4 @@
-<p align="center">
-  <img width="300" src="Observations/logo_transparent.png">
-</p>
-
+<h1 align="center">Mish: Self Regularized <br> Non-Monotonic Activation Function</h1>
 <p align="center">
     <a href="LICENSE" alt="License">
         <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" /></a>
@@ -19,9 +16,6 @@
           <img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Run on Gradient"/>
           </a>
 </p>
-
-
-<h1 align="center">Mish: Self Regularized <br> Non-Monotonic Activation Function</h1>
 <p align="center">BMVC 2020 <a href="https://www.bmvc2020-conference.com/assets/papers/0928.pdf" target="_blank">(Official Paper)</a></p>
 
 <br>
