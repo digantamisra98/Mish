@@ -183,7 +183,7 @@ def ResidualNet(network_type, depth, num_classes):
     return model
 
 
-#%%
+# %%
 # model = ResidualNet("ImageNet", 18, 1000, True)
 # print(model)
 # x = torch.rand(1, 3, 224, 224)

@@ -56,7 +56,6 @@ def convert_to_PIL(img, width, height):
 
 
 def main():
-
     wandb.init(project="Mish")
     model1 = build_model(nn.ReLU())
     model2 = build_model(swish())

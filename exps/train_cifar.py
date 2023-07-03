@@ -104,7 +104,6 @@ def main():
     max_epoch = 200
 
     for epoch in range(0, max_epoch):
-
         print("current lr {:.5e}".format(optimizer.param_groups[0]["lr"]))
         wandb.log({"lr": optimizer.param_groups[0]["lr"]})
 
@@ -156,7 +155,6 @@ def train(train_loader, model, criterion, optimizer, epoch):
 
     end = time.time()
     for i, (input, target) in enumerate(train_loader):
-
         # measure data loading time
         data_time.update(time.time() - end)
 
@@ -214,7 +212,6 @@ def validate(val_loader, model, criterion, epoch):
 
     end = time.time()
     for i, (input, target) in enumerate(val_loader):
-
         input = input.cuda()
         target = target.cuda()
 
@@ -301,5 +298,4 @@ def accuracy(output, target, topk=(1,)):
 
 
 if __name__ == "__main__":
-
     main()
