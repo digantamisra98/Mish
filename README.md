@@ -10,8 +10,6 @@
           <img src="https://img.shields.io/badge/Google Scholar-1529-lightgrey.svg" /></a>
     <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0928.html" alt="Publication">
           <img src="https://img.shields.io/badge/BMVC-2020-red.svg" /></a>
-     <a href="https://twitter.com/__z__9" alt="Twitter">
-          <img src="https://img.shields.io/twitter/url/https/twitter.com/__z__9.svg?style=social&label=Follow%20%40__z__9" /></a>
      <a href="https://console.paperspace.com/github/digantamisra98/Mish/blob/master/Layers_Acc.ipynb">
           <img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Run on Gradient"/>
           </a>
