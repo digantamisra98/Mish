@@ -137,9 +137,8 @@
      a. [Summary of Results (Vision Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-vision-tasks)<br>
      b. [Summary of Results (Language Tasks)](https://github.com/digantamisra98/Mish#summary-of-results-language-tasks)<br>
   7. [Try It!](https://github.com/digantamisra98/Mish#try-it)<br>
-  8. Future Work
-  9. Acknowledgements
-  10. [Cite this work](https://github.com/digantamisra98/Mish#cite-this-work)
+  8. Acknowledgements
+  9. [Cite this work](https://github.com/digantamisra98/Mish#cite-this-work)
 
 </details>
 
@@ -430,15 +429,6 @@ The P-values were computed for different activation functions in comparison to t
 |Torch|DarkNet|Julia|FastAI|TensorFlow|Keras|CUDA|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[Source](https://github.com/digantamisra98/Mish/tree/master/Mish/Torch)|[Source](https://github.com/AlexeyAB/darknet/blob/master/src/activation_kernels.cu#L259)|[Source](https://github.com/FluxML/NNlib.jl/blob/2e1fa5f330ba785b0adbaec5107ca85a8e181197/src/activation.jl)|[Source](https://github.com/lessw2020/mish)|[Source](https://www.tensorflow.org/addons/api_docs/python/tfa/activations/mish)|[Source](https://github.com/digantamisra98/Mish/blob/master/Mish/TFKeras/mish.py)|[Source](https://github.com/thomasbrandon/mish-cuda)|
-
-<details>
-  <summary><b>Future Work</b>: (Click to view)</summary>
-  
-  * Comparison of Convergence Rates.
-  * Normalizing constant for Mish to eliminate the use of Batch Norm.
-  * Regularizing effect of the first derivative of Mish with repect to Swish. 
-
-</details>
 
 
 <details>
