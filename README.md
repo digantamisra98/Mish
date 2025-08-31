@@ -7,7 +7,7 @@
     <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:j0C1gbodjP4J:scholar.google.com/&output=citation&scisdr=CgX0hbDMEOzUo74J6TM:AAGBfm0AAAAAX1QM8TNcu4tND6FEofKsXzM3cs1uCAAW&scisig=AAGBfm0AAAAAX1QM8Y5elaJ1IW-BKOuU1zFTYNp-QaNQ&scisf=4&ct=citation&cd=-1&hl=en" alt="Cite">
           <img src="https://img.shields.io/badge/Cite-BibTex-blue.svg" /></a>
      <a href=" " alt="Citations">
-          <img src="https://img.shields.io/badge/Google Scholar-2526-lightgrey.svg" /></a>
+          <img src="https://img.shields.io/badge/Google Scholar-2530-lightgrey.svg" /></a>
     <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0928.html" alt="Publication">
           <img src="https://img.shields.io/badge/BMVC-2020-red.svg" /></a>
      <a href="https://console.paperspace.com/github/digantamisra98/Mish/blob/master/Layers_Acc.ipynb">
